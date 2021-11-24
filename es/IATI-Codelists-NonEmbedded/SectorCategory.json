@@ -1,11 +1,11 @@
 {
     "metadata": {
-        "name": null
+        "name": "DAC 3 Digit Sector"
     },
     "codelist-items": {
         "111": {
             "name": "Educaci\u00f3n, nivel no especificado",
-            "description": null
+            "description": "The codes in this category are to be used only when level of education is unspecified or unknown (e.g. training of primary school teachers should be coded under 11220)."
         },
         "112": {
             "name": "Educaci\u00f3n b\u00e1sica"
@@ -33,25 +33,25 @@
         },
         "151": {
             "name": "Gobierno y sociedad civil, general",
-            "description": null
+            "description": "N.B. Use code 51010 for general budget support."
         },
         "152": {
             "name": "Prevenci\u00f3n y resoluci\u00f3n de conflictos, paz y seguridad",
-            "description": null
+            "description": "N.B. Further notes on ODA eligibility (and exclusions) of conflict, peace and security related activities are given in paragraphs 76-81 of the Directives."
         },
         "160": {
             "name": "Otros servicios e infraestructuras sociales"
         },
         "210": {
             "name": "Transporte y almacenamiento",
-            "description": null
+            "description": "Note: Manufacturing of transport equipment should be included under code 32172."
         },
         "220": {
             "name": "Comunicaciones"
         },
         "230": {
             "name": "Generaci\u00f3n y suministro de energ\u00eda",
-            "description": null
+            "description": "Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation."
         },
         "231": {
             "name": "Pol\u00edtica energ\u00e9tica"
@@ -103,50 +103,50 @@
         },
         "410": {
             "name": "Protecci\u00f3n general medio ambiente",
-            "description": null
+            "description": "Covers activities concerned with conservation, protection or amelioration of the physical environment without sector allocation."
         },
         "430": {
             "name": "Otras acciones multisectoriales"
         },
         "510": {
             "name": "Apoyo presupuestario general",
-            "description": null
+            "description": "Budget support in the form of sector-wide approaches (SWAps) should be included in the respective sectors."
         },
         "520": {
             "name": "Ayuda alimentaria para el desarrollo"
         },
         "530": {
             "name": "Otras ayudas en forma de suministro de bienes",
-            "description": null
+            "description": "Non-food commodity assistance (when benefiting sector not specified)."
         },
         "600": {
             "name": "Actividades relacionadas con la deuda"
         },
         "720": {
             "name": "Ayuda de emergencia",
-            "description": null
+            "description": "An emergency is a situation which results from man made crises and/or natural disasters."
         },
         "730": {
             "name": "Ayuda a la reconstrucci\u00f3n y a la rehabilitaci\u00f3n",
-            "description": null
+            "description": "This relates to activities during and in the aftermath of an emergency situation.  Longer-term activities to improve the level of infrastructure or social services should be reported under the relevant economic and social sector codes. See also guideline on distinguishing humanitarian from sector-allocable aid."
         },
         "740": {
             "name": "Prevenci\u00f3n de desastres",
-            "description": null
+            "description": "See code 43060 for disaster risk reduction."
         },
         "910": {
             "name": "Costes administrativos donantes"
         },
         "920": {
             "name": "APOYO A ORGANIZACIONES NO GUBERNAMENTALES (ONG)",
-            "description": null
+            "description": "In the donor country."
         },
         "930": {
             "name": "Ayuda a refugiados en el pa\u00eds donante"
         },
         "998": {
             "name": "Sin especificaci\u00f3n / no clasificados",
-            "description": null
+            "description": "Contributions to general development of the recipient should be included under programme assistance (51010)."
         }
     }
 }
