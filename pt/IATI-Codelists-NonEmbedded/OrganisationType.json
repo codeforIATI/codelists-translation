@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "name": null
+        "name": "Organisation Type"
     },
     "codelist-items": {
         "10": {
@@ -8,7 +8,7 @@
         },
         "11": {
             "name": "Governo local",
-            "description": null
+            "description": "Any local (sub national) government organisation in either donor or recipient country."
         },
         "15": {
             "name": "Outro, setor p\u00fablico"
@@ -24,7 +24,7 @@
         },
         "24": {
             "name": "ONG sediada em pa\u00eds parceiro",
-            "description": null
+            "description": "Local and National NGO / CSO based in aid/assistance recipient country"
         },
         "30": {
             "name": "Parceria p\u00fablico-privada"
@@ -40,15 +40,15 @@
         },
         "71": {
             "name": "Setor privado no pa\u00eds provedor",
-            "description": null
+            "description": "Is in provider / donor country."
         },
         "72": {
             "name": "Setor privado no pa\u00eds destinat\u00e1rio da ajuda",
-            "description": null
+            "description": "Is in aid recipient country."
         },
         "73": {
             "name": "Setor privado num pa\u00eds terceiro",
-            "description": null
+            "description": "Is not in either a donor or aid recipient country."
         },
         "80": {
             "name": "Institui\u00e7\u00e3o acad\u00e9mica, de forma\u00e7\u00e3o ou de investiga\u00e7\u00e3o"
