@@ -4,94 +4,124 @@
     },
     "codelist-items": {
         "A01": {
-            "name": "\u00c9valuation de l'incidence avant et apr\u00e8s le projet"
+            "name": "\u00c9valuation de l'incidence avant et apr\u00e8s le projet",
+            "description": null
         },
         "A02": {
-            "name": "Objectifs/raison d'\u00eatre de l'activit\u00e9"
+            "name": "Objectifs/raison d'\u00eatre de l'activit\u00e9",
+            "description": null
         },
         "A03": {
-            "name": "B\u00e9n\u00e9ficiaires finaux vis\u00e9s"
+            "name": "B\u00e9n\u00e9ficiaires finaux vis\u00e9s",
+            "description": null
         },
         "A04": {
-            "name": "Conditions"
+            "name": "Conditions",
+            "description": null
         },
         "A05": {
-            "name": "Budget"
+            "name": "Budget",
+            "description": null
         },
         "A06": {
-            "name": "Renseignements sommaires sur le contrat"
+            "name": "Renseignements sommaires sur le contrat",
+            "description": null
         },
         "A07": {
-            "name": "Examen du rendement du projet et \u00e9valuation"
+            "name": "Examen du rendement du projet et \u00e9valuation",
+            "description": null
         },
         "A08": {
-            "name": "R\u00e9sultats et extrants"
+            "name": "R\u00e9sultats et extrants",
+            "description": null
         },
         "A09": {
-            "name": "Protocole d'entente (s'il y a entente entre toutes les parties)"
+            "name": "Protocole d'entente (s'il y a entente entre toutes les parties)",
+            "description": null
         },
         "A10": {
-            "name": "Appel d\u2019offres"
+            "name": "Appel d\u2019offres",
+            "description": null
         },
         "A11": {
-            "name": "Contrat"
+            "name": "Contrat",
+            "description": null
         },
         "A12": {
-            "name": "Page Web sur l'activit\u00e9"
+            "name": "Page Web sur l'activit\u00e9",
+            "description": null
         },
         "B01": {
-            "name": "Rapport annuel"
+            "name": "Rapport annuel",
+            "description": null
         },
         "B02": {
-            "name": "Strat\u00e9gie organisationnelle"
+            "name": "Strat\u00e9gie organisationnelle",
+            "description": null
         },
         "B03": {
-            "name": "Strat\u00e9gie-pays"
+            "name": "Strat\u00e9gie-pays",
+            "description": null
         },
         "B04": {
-            "name": "Politique sur la r\u00e9partition de l'aide"
+            "name": "Politique sur la r\u00e9partition de l'aide",
+            "description": null
         },
         "B05": {
-            "name": "Politique et proc\u00e9dure d'approvisionnement"
+            "name": "Politique et proc\u00e9dure d'approvisionnement",
+            "description": null
         },
         "B06": {
-            "name": "Rapport de v\u00e9rification de l'organisation"
+            "name": "Rapport de v\u00e9rification de l'organisation",
+            "description": null
         },
         "B07": {
-            "name": "Rapport de v\u00e9rification du pays"
+            "name": "Rapport de v\u00e9rification du pays",
+            "description": null
         },
         "B08": {
-            "name": "Politique sur les exclusions"
+            "name": "Politique sur les exclusions",
+            "description": null
         },
         "B09": {
-            "name": "Rapport d'\u00e9valuation de l'organisation"
+            "name": "Rapport d'\u00e9valuation de l'organisation",
+            "description": null
         },
         "B10": {
-            "name": "Rapport d'\u00e9valuation nationale"
+            "name": "Rapport d'\u00e9valuation nationale",
+            "description": null
         },
         "B11": {
-            "name": "Strat\u00e9gie sectorielle"
+            "name": "Strat\u00e9gie sectorielle",
+            "description": null
         },
         "B12": {
-            "name": "Strat\u00e9gie th\u00e9matique"
+            "name": "Strat\u00e9gie th\u00e9matique",
+            "description": null
         },
         "B13": {
-            "name": "Protocole d'entente national"
+            "name": "Protocole d'entente national",
+            "description": null
         },
         "B14": {
-            "name": "Politique sur les \u00e9valuations"
+            "name": "Politique sur les \u00e9valuations",
+            "description": null
         },
         "B15": {
-            "name": "Modalit\u00e9s g\u00e9n\u00e9rales"
+            "name": "Modalit\u00e9s g\u00e9n\u00e9rales",
+            "description": null
         },
         "B16": {
-            "name": "Page Web sur l'organisation"
+            "name": "Page Web sur l'organisation",
+            "description": null
         },
         "B17": {
-            "name": "Page Web sur le pays/la r\u00e9gion"
+            "name": "Page Web sur le pays/la r\u00e9gion",
+            "description": null
         },
         "B18": {
-            "name": "Page Web sur le secteur"
+            "name": "Page Web sur le secteur",
+            "description": null
         }
     }
 }
