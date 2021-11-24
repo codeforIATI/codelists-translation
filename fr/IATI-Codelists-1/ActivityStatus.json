@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "name": null,
-        "description": null
+        "name": "Activity Status",
+        "description": "Lifecycle status of the activity from pipeline to completion"
     },
     "codelist-items": {
         "1": {
