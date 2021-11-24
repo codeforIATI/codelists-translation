@@ -7,6 +7,10 @@ nsmap = {"xml": "http://www.w3.org/XML/1998/namespace"}
 
 class GenerateJSON():
 
+    def escape_string(self, string):
+        return source_string.encode('utf-8').replace(r'\\', r'\\\\')
+
+
     def get_lang_xpath(self):
         if self.lang == 'en':
             return 'not(@xml:lang)'
@@ -17,6 +21,7 @@ class GenerateJSON():
         out = {}
         lang_xpath = self.get_lang_xpath()
         for child in code.getchildren():
+            if child.tag == 'category': continue
             narrative = child.xpath('narrative[{}]'.format(lang_xpath), namespaces=nsmap)
             if len(narrative) > 0:
                 out[child.tag] = narrative[0].text
