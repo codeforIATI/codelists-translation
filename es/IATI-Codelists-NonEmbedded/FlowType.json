@@ -1,48 +1,48 @@
 {
     "metadata": {
-        "name": null,
-        "description": null
+        "name": "Flow Type",
+        "description": "DAC/CRS distinction between ODA (official development assistance) and other types of resource flow."
     },
     "codelist-items": {
         "10": {
             "name": "Asistencia oficial para el desarrollo",
-            "description": null
+            "description": "Official Development Assistance"
         },
         "20": {
             "name": "Otras corrientes oficiales",
-            "description": null
+            "description": "Other Official Flows"
         },
         "21": {
             "name": "Otras corrientes oficiales de cr\u00e9ditos no destinados a la exportaci\u00f3n",
-            "description": null
+            "description": "Other Official Flows, excl. export credits"
         },
         "22": {
             "name": "Cr\u00e9ditos a la exportaci\u00f3n con respaldo oficial",
-            "description": null
+            "description": "Officially supported export credits. Covers both official direct export credits and private export credits under official guarantee or insurance"
         },
         "30": {
             "name": "Financiaci\u00f3n privada para el desarrollo",
-            "description": null
+            "description": "Financing by civil society organisations (NGOs, philantropic foundations, etc.)"
         },
         "35": {
             "name": "Mercado privado",
-            "description": null
+            "description": "Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries"
         },
         "36": {
             "name": "Inversi\u00f3n extranjera directa privada",
-            "description": null
+            "description": "Private Foreign Direct Investment"
         },
         "37": {
             "name": "Otros flujos privados con arreglo a las condiciones de mercado",
-            "description": null
+            "description": "Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries"
         },
         "40": {
             "name": "No flujo",
-            "description": null
+            "description": "e.g. GNI, ODA%GNI, Population etc"
         },
         "50": {
             "name": "Otros flujos",
-            "description": null
+            "description": "e.g. non-ODA component of peacebuilding operations"
         }
     }
 }
