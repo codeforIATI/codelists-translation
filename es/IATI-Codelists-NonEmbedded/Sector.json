@@ -1,493 +1,493 @@
 {
     "metadata": {
-        "name": null
+        "name": "DAC 5 Digit Sector"
     },
     "codelist-items": {
         "11110": {
             "name": "Pol\u00edtica educativa y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Education sector policy, planning and programmes; aid to education ministries, administration and management systems; institution capacity building and advice; school management and governance; curriculum and materials development; unspecified education activities."
         },
         "11120": {
             "name": "Servicios e instalaciones educativos y formaci\u00f3n",
-            "description": null
+            "description": "Educational buildings, equipment, materials; subsidiary services to education (boarding facilities, staff housing); language training; colloquia, seminars, lectures, etc."
         },
         "11130": {
             "name": "Formaci\u00f3n de profesores",
-            "description": null
+            "description": "Teacher education (where the level of education is unspecified); in-service and pre-service training; materials development."
         },
         "11182": {
             "name": "Investigaci\u00f3n educativa",
-            "description": null
+            "description": "Research and studies on education effectiveness, relevance and quality; systematic evaluation and monitoring."
         },
         "11220": {
             "name": "Educaci\u00f3n primaria",
-            "description": null
+            "description": "Formal and non-formal primary education for children; all elementary and first cycle systematic instruction; provision of learning materials."
         },
         "11230": {
             "name": "Capacitaci\u00f3n b\u00e1sica de j\u00f3venes y adultos",
-            "description": null
+            "description": "Formal and non-formal education for basic life skills for adults (adults education); literacy and numeracy training. Excludes health education (12261) and activities related to prevention of noncommunicable diseases. (123xx)."
         },
         "11231": {
             "name": "Competencias b\u00e1sicas para la vida dirigidas a j\u00f3venes",
-            "description": null
+            "description": "Formal and non-formal education for basic life skills for young people."
         },
         "11232": {
             "name": "Equivalente a la educaci\u00f3n primaria para adultos",
-            "description": null
+            "description": "Formal primary education for adults."
         },
         "11240": {
             "name": "Educaci\u00f3n primera infancia",
-            "description": null
+            "description": "Formal and non-formal pre-school education."
         },
         "11250": {
             "name": "Alimentaci\u00f3n escolar",
-            "description": null
+            "description": "Provision of meals or snacks at school; other uses of food for the achievement of educational outcomes including 'take-home' food rations provided as economic incentives to families (or foster families, or other child care institutions) in return for a child's regular attendance at school; food provided to adults or youth who attend literacy or vocational training programmes; food for pre-school activities with an educational component. These activities may help reduce children's hunger during the school day if provision of food/meals contains bioavailable nutrients to address specific nutrition needs and have nutrition expected outcomes in school children, or if the rationale mainstream nutrition or expected outcome is nutrition-linked."
         },
         "11260": {
             "name": "Educaci\u00f3n secundaria baja",
-            "description": null
+            "description": "Second cycle systematic instruction at junior level."
         },
         "11320": {
             "name": "Educaci\u00f3n secundaria alta (modificada, incluye datos de 11322)",
-            "description": null
+            "description": "Second cycle systematic instruction at senior levels."
         },
         "11321": {
             "name": "Educaci\u00f3n secundaria baja",
-            "description": null
+            "description": "Second cycle systematic instruction at junior level."
         },
         "11322": {
             "name": "Educaci\u00f3n secundaria alta",
-            "description": null
+            "description": "Second cycle systematic instruction at senior level."
         },
         "11330": {
             "name": "Formaci\u00f3n profesional",
-            "description": null
+            "description": "Elementary vocational training and secondary level technical education; on-the job training; apprenticeships; including informal vocational training."
         },
         "11420": {
             "name": "Educaci\u00f3n universitaria",
-            "description": null
+            "description": "Degree and diploma programmes at universities, colleges and polytechnics; scholarships."
         },
         "11430": {
             "name": "Formaci\u00f3n superior t\u00e9cnica y de direcci\u00f3n",
-            "description": null
+            "description": "Professional-level vocational training programmes and in-service training."
         },
         "12110": {
             "name": "Pol\u00edtica sanitaria y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Health sector policy, planning and programmes; aid to health ministries, public health administration; institution capacity building and advice; medical insurance programmes; including health system strengthening and health governance; unspecified health activities."
         },
         "12181": {
             "name": "Ense\u00f1anza/formaci\u00f3n m\u00e9dicas",
-            "description": null
+            "description": "Medical education and training for tertiary level services."
         },
         "12182": {
             "name": "Investigaci\u00f3n m\u00e9dica",
-            "description": null
+            "description": "General medical research (excluding basic health research and research for prevention and control of NCDs (12382))."
         },
         "12191": {
             "name": "Servicios m\u00e9dicos",
-            "description": null
+            "description": "Laboratories, specialised clinics and hospitals (including equipment and supplies); ambulances; dental services; medical rehabilitation. Excludes noncommunicable diseases (123xx)."
         },
         "12196": {
-            "name": null,
-            "description": null
+            "name": "Health statistics and data",
+            "description": "Collection, production, management and dissemination of statistics and data related to health. Includes health surveys, establishment of health databases, data collection on epidemics, etc."
         },
         "12220": {
             "name": "Atenci\u00f3n sanitaria b\u00e1sica",
-            "description": null
+            "description": "Basic and primary health care programmes; paramedical and nursing care programmes; supply of drugs, medicines and vaccines related to basic health care; activities aimed at achieving universal health coverage."
         },
         "12230": {
             "name": "Infraestructura sanitaria b\u00e1sica",
-            "description": null
+            "description": "District-level hospitals, clinics and dispensaries and related medical equipment; excluding specialised hospitals and clinics (12191)."
         },
         "12240": {
             "name": "Nutrici\u00f3n b\u00e1sica",
-            "description": null
+            "description": "Micronutrient deficiency identification and supplementation; Infant and young child feeding promotion including exclusive breastfeeding; Non-emergency management of acute malnutrition and other targeted feeding programs (including complementary feeding); Staple food fortification including salt iodization; Nutritional status monitoring and national nutrition surveillance; Research, capacity building, policy development, monitoring and evaluation in support of these interventions.  Use code 11250 for school feeding and 43072 for household food security."
         },
         "12250": {
             "name": "Control enfermedades infecciosas",
-            "description": null
+            "description": "Immunisation; prevention and control of infectious and parasite diseases, except malaria (12262), tuberculosis (12263), COVID-19 (12264), HIV/AIDS and other STDs (13040). It includes diarrheal diseases, vector-borne diseases (e.g. river blindness and guinea worm),\u00a0viral diseases, mycosis, helminthiasis, zoonosis, diseases by other bacteria and viruses, pediculosis, etc."
         },
         "12261": {
             "name": "Educaci\u00f3n sanitaria",
-            "description": null
+            "description": "Information, education and training of the population for improving health knowledge and practices; public health and awareness campaigns; promotion of improved personal hygiene practices, including use of sanitation facilities and handwashing with soap."
         },
         "12262": {
             "name": "Control de la malaria",
-            "description": null
+            "description": "Prevention and control of malaria."
         },
         "12263": {
             "name": "Control de la tuberculosis",
-            "description": null
+            "description": "Immunisation, prevention and control of tuberculosis."
         },
         "12264": {
             "name": "Lucha contra la COVID-19",
-            "description": null
+            "description": "All activities related to COVID-19 control e.g. information, education and communication; testing; prevention; immunisation, treatment, care."
         },
         "12281": {
             "name": "Formaci\u00f3n personal sanitario",
-            "description": null
+            "description": "Training of health staff for basic health care services."
         },
         "12310": {
             "name": "Lucha contra enfermedades no transmisibles, general",
-            "description": null
+            "description": "Programmes for the prevention and control of NCDs which cannot be broken down into the codes below."
         },
         "12320": {
             "name": "Lucha contra el tabaquismo",
-            "description": null
+            "description": "Population/individual measures and interventions to reduce all forms of tobacco use in any form. Includes activities related to the implementation of the WHO Framework Convention on Tobacco Control, including specific high-impact demand reduction measures for effective tobacco control."
         },
         "12330": {
             "name": "Lucha contra el consumo nocivo de alcohol y drogas",
-            "description": null
+            "description": "Prevention and reduction of harmful use of alcohol and psychoactive drugs; development, implementation, monitoring and evaluation of prevention and treatment strategies, programmes and interventions; early identification and management of health conditions caused by use of alcohol and drugs [excluding narcotics traffic control (16063)]."
         },
         "12340": {
             "name": "Fomento de la salud y el bienestar mentales",
-            "description": null
+            "description": "Promotion of programmes and interventions which support mental health and well-being resiliency; prevention, care and support to individuals vulnerable to suicide. Excluding treatment of addiction to tobacco, alcohol and drugs (included in codes 12320 and 12330)."
         },
         "12350": {
             "name": "Otro tipo de prevenciones y tratamientos de enfermedades no transmisibles",
-            "description": null
+            "description": "Population/individual measures to reduce exposure to unhealthy diets and physical inactivity and to strengthen capacity for prevention, early detection, treatment and sustained management of NCDs including: Cardiovascular disease control: Prevention, screening and treatment of cardiovascular diseases (including hypertension, hyperlipidaemia, ischaemic heart diseases, stroke, rheumatic heart disease, congenital heart disease, heart failure, etc.). Diabetes control: Prevention, screening, diagnosis, treatment and management of complications from all types of diabetes. Exposure to physical inactivity: Promotion of physical activity through supportive built environment (urban design, transport), sports, health care, schools and community programmes and mass media campaign. Exposure to unhealthy diet: Programmes and interventions that promote healthy diet through reduced consumption of salt, sugar and fats and increased consumption of fruits and vegetables e.g. food reformulation, nutrient labelling, food taxes, marketing restriction on unhealthy foods, nutrition education and counselling, and settings-based interventions (schools, workplaces, villages, communities). Cancer control: Prevention (including immunisation, HPV and HBV), early diagnosis (including pathology), screening, treatment (e.g. radiotherapy, chemotherapy, surgery) and palliative care for all types of cancers. Implementation, maintenance and improvement of cancer registries are also included. Chronic respiratory diseases: Prevention, early diagnosis and treatment of chronic respiratory diseases, including asthma. Excludes: Tobacco use control (12320), Control of harmful use of alcohol and drugs (12330), research for the prevention and control of NCDs (12382)."
         },
         "12382": {
             "name": "Investigaci\u00f3n para la prevenci\u00f3n de y lucha contra enfermedades no transmisibles",
-            "description": null
+            "description": "Research to enhance understanding of NCDs, their risk factors, epidemiology, social determinants and economic impact; translational and implementation research to enhance operationalisation of cost-effective strategies to prevent and control NCDs; surveillance and monitoring of NCD mortality, morbidity, risk factor exposures, and national capacity to prevent and control NCDs."
         },
         "13010": {
             "name": "Pol\u00edtica sobre poblaci\u00f3n y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Population/development policies; demographic research/analysis; reproductive health research; unspecified population activities. (Use purpose code 15190 for data on migration and refugees. Use code 13096 for census work, vital registration and migration data collection.)"
         },
         "13020": {
             "name": "Atenci\u00f3n salud reproductiva",
-            "description": null
+            "description": "Promotion of reproductive health; prenatal and postnatal care including delivery; prevention and treatment of infertility; prevention and management of consequences of abortion; safe motherhood activities."
         },
         "13030": {
             "name": "Planificaci\u00f3n familiar",
-            "description": null
+            "description": "Family planning services including counselling; information, education and communication (IEC) activities; delivery of contraceptives; capacity building and training."
         },
         "13040": {
             "name": "Lucha contra ets (enfermedades de transmisi\u00f3n sexual), incluye sida",
-            "description": null
+            "description": "All activities related to sexually transmitted diseases and HIV/AIDS control e.g. information, education and communication; testing; prevention; treatment, care."
         },
         "13081": {
             "name": "Formaci\u00f3n de personal para poblaci\u00f3n y salud reproductiva",
-            "description": null
+            "description": "Education and training of health staff for population and reproductive health care services."
         },
         "13096": {
             "name": "Estad\u00edsticas y datos demogr\u00e1ficos",
-            "description": null
+            "description": "Collection, production, management and dissemination of statistics and data related to Population and Reproductive Health. Includes census work, vital registration, migration data collection, demographic data, etc."
         },
         "14010": {
             "name": "Pol\u00edtica de recursos h\u00eddricos y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Water sector policy and governance, including legislation, regulation, planning and management as well as transboundary management of water; institutional capacity development; activities supporting the Integrated Water Resource Management approach (IWRM:  see box below)."
         },
         "14015": {
             "name": "Protecci\u00f3n recursos h\u00eddricos",
-            "description": null
+            "description": "Collection and usage of quantitative and qualitative data on water resources; creation and sharing of water knowledge; conservation and rehabilitation of inland surface waters (rivers, lakes etc.), ground water and coastal waters; prevention of water contamination."
         },
         "14020": {
             "name": "Abastecimiento de agua y saneamiento-sistemas de envergadura",
-            "description": null
+            "description": "Programmes where components according to 14021 and 14022 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply [14021], sanitation [14022], and hygiene [12261]."
         },
         "14021": {
             "name": "Abastecimiento de agua-sistemas de envergadura",
-            "description": null
+            "description": "Potable water treatment plants; intake works; storage; water supply pumping stations; large scale transmission / conveyance and distribution systems."
         },
         "14022": {
             "name": "Saneamiento-sistemas de envergadura",
-            "description": null
+            "description": "Large scale sewerage including trunk sewers and sewage pumping stations; domestic and industrial waste water treatment plants."
         },
         "14030": {
             "name": "Abastecimiento b\u00e1sico de agua potable y saneamiento b\u00e1sico",
-            "description": null
+            "description": "Programmes where components according to 14031 and 14032 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply [14031], sanitation [14032], and hygiene [12261]."
         },
         "14031": {
             "name": "Abastecimiento b\u00e1sico de agua potable",
-            "description": null
+            "description": "Rural water supply schemes using handpumps, spring catchments, gravity-fed systems, rainwater collection and fog harvesting, storage tanks, small distribution systems typically with shared connections/points of use. Urban schemes using handpumps and local neighbourhood networks including those with shared connections."
         },
         "14032": {
             "name": "Saneamiento b\u00e1sico",
-            "description": null
+            "description": "Latrines, on-site disposal and alternative sanitation systems, including the promotion of household and community investments in the construction of these facilities. (Use code 12261 for activities promoting improved personal hygiene practices.)"
         },
         "14040": {
             "name": "Desarrollo de cuencas fluviales",
-            "description": null
+            "description": "Infrastructure-focused integrated river basin projects and related institutional activities; river flow control; dams and reservoirs [excluding dams primarily for irrigation (31140) and hydropower (23220) and activities related to river transport (21040)]."
         },
         "14050": {
             "name": "Eliminaci\u00f3n/tratamiento residuos s\u00f3lidos",
-            "description": null
+            "description": "Municipal and industrial solid waste management, including hazardous and toxic waste; collection, disposal and treatment; landfill areas; composting and reuse."
         },
         "14081": {
             "name": "Educaci\u00f3n y formaci\u00f3n en abastecimiento de agua y saneamiento",
-            "description": null
+            "description": "Education and training for sector professionals and service providers."
         },
         "15110": {
             "name": "Pol\u00edtica de administraci\u00f3n y gesti\u00f3n del sector p\u00fablico",
-            "description": null
+            "description": "Institution-building assistance to strengthen core public sector management systems and capacities. This includes general public policy management, co-ordination, planning and reform; human resource management; organisational development; civil service reform; e-government; development planning, monitoring and evaluation; support to ministries involved in aid co-ordination; other ministries and government departments when sector cannot be specified. (Use specific sector codes for development of systems and capacities in sector ministries. For macro-economic policy use code 15142. For public procurement use code 15125.)"
         },
         "15111": {
             "name": "Gesti\u00f3n financiera sector p\u00fablico",
-            "description": null
+            "description": "Fiscal policy and planning; support to ministries of finance; strengthening financial and managerial accountability; public expenditure management; improving financial management systems; budget drafting; inter-governmental fiscal relations, public audit, public debt. (Use code 15114 for domestic revenue mobilisation and code 33120 for customs)."
         },
         "15112": {
             "name": "Descentralizaci\u00f3n y apoyo a gobiernos regionales y locales",
-            "description": null
+            "description": "Decentralisation processes (including political, administrative and fiscal dimensions); intergovernmental relations and federalism; strengthening departments of regional and local government, regional and local authorities and their national associations. (Use specific sector codes for decentralisation of sector management and services.)"
         },
         "15113": {
             "name": "Organizaciones e instituciones anti-corrupci\u00f3n",
-            "description": null
+            "description": "Specialised organisations, institutions and frameworks for the prevention of and combat against corruption, bribery, money-laundering and other aspects of organised crime, with or without law enforcement powers, e.g. anti-corruption commissions and monitoring bodies, special investigation services, institutions and initiatives of integrity and ethics oversight, specialised NGOs, other civil society and citizens' organisations directly concerned with corruption."
         },
         "15114": {
             "name": "Movilizaci\u00f3n de los ingresos nacionales",
-            "description": null
+            "description": "Support to domestic revenue mobilisation/tax policy, analysis and administration as well as non-tax public revenue, which includes work with ministries of finance, line ministries, revenue authorities or other local, regional or national public bodies. (Use code 16010 for social security and other social protection.)"
         },
         "15116": {
             "name": "Recaudaci\u00f3n de impuestos",
-            "description": null
+            "description": "Operation of the inland revenue authority."
         },
         "15117": {
             "name": "Planificaci\u00f3n presupuestaria",
-            "description": null
+            "description": "Operation of the budget office and planning as part of the budget process."
         },
         "15118": {
             "name": "Auditor\u00eda nacional",
-            "description": null
+            "description": "Operation of the accounting and audit services."
         },
         "15119": {
             "name": "Administraci\u00f3n de la deuda y la asistencia",
-            "description": null
+            "description": "Management of public debt and foreign aid received (in the partner country). For reporting on debt reorganisation, use codes 600xx."
         },
         "15120": {
             "name": "Administraci\u00f3n financiera del sector p\u00fablico",
-            "description": null
+            "description": "Strengthening financial and managerial accountability; public expenditure management; improving financial management systems; tax assessment procedures; budget drafting; field auditing; measures against waste, fraud and corruption."
         },
         "15121": {
             "name": "Asuntos exteriores",
-            "description": null
+            "description": "Administration of external affairs and services."
         },
         "15122": {
             "name": "Misiones diplom\u00e1ticas",
-            "description": null
+            "description": "Operation of diplomatic and consular missions stationed abroad or at offices of international organisations."
         },
         "15123": {
             "name": "Administraci\u00f3n de la asistencia exterior de los pa\u00edses en desarrollo",
-            "description": null
+            "description": "Support to administration of developing countries' foreign aid (including triangular and south-south cooperation)."
         },
         "15124": {
             "name": "Servicios generales de personal",
-            "description": null
+            "description": "Administration and operation of the civil service including policies, procedures and regulations."
         },
         "15125": {
             "name": "Contrataci\u00f3n p\u00fablica",
-            "description": null
+            "description": "Support to public procurement, including to create and evaluate legal frameworks; advice in establishing strategic orientation of public procurement policies and reforms; advice in designing public procurement systems and processes; support to public procurement institutions (including electronic procurement) as well as structures or initiatives to assess public procurement systems; and development of professional capacity of public procurement bodies and staff."
         },
         "15126": {
             "name": "Otros servicios p\u00fablicos generales",
-            "description": null
+            "description": "Maintenance and storage of government records and archives, operation of government-owned or occupied buildings, central motor vehicle pools, government-operated printing offices, centralised computer and data processing services, etc."
         },
         "15127": {
             "name": "Seguimiento y evaluaci\u00f3n nacional",
-            "description": null
+            "description": "Operation or support of institutions providing national monitoring and evaluation."
         },
         "15128": {
             "name": "Financiaci\u00f3n del gobierno local",
-            "description": null
+            "description": "Financial transfers to local government; support to institutions managing such transfers. (Use specific sector codes for sector-related transfers.)"
         },
         "15129": {
             "name": "Otras transferencias centrales a instituciones",
-            "description": null
+            "description": "Transfers to non sector-specific autonomous bodies or state-owned enterprises outside of local government finance; support to institutions managing such transfers. (Use specific sector codes for sector-related transfers.)"
         },
         "15130": {
             "name": "Desarrollo legal y judicial",
-            "description": null
+            "description": "Support to institutions, systems and procedures of the justice sector, both formal and informal; support to ministries of justice, the interior and home affairs; judges and courts; legal drafting services; bar and lawyers associations; professional legal education; maintenance of law and order and public safety; border management; law enforcement agencies, police, prisons and their supervision; ombudsmen; alternative dispute resolution, arbitration and mediation; legal aid and counsel; traditional, indigenous and paralegal practices that fall outside the formal legal system. Measures that support the improvement of legal frameworks, constitutions, laws and regulations; legislative and constitutional drafting and review; legal reform; integration of formal and informal systems of law. Public legal education; dissemination of information on entitlements and remedies for injustice; awareness campaigns. (Use codes 152xx for activities that are primarily aimed at supporting security system reform or undertaken in connection with post-conflict and peace building activities. Use code 15190 for capacity building in border management related to migration.)"
         },
         "15131": {
             "name": "Pol\u00edticas, planificaci\u00f3n y administraci\u00f3n de la justicia, la ley y el orden",
-            "description": null
+            "description": "Judicial law and order sectors; policy development within ministries of justice or equivalents."
         },
         "15132": {
             "name": "Polic\u00eda",
-            "description": null
+            "description": "Police affairs and services."
         },
         "15133": {
             "name": "Servicios de lucha contra incendios y de rescate",
-            "description": null
+            "description": "Fire-prevention and fire-fighting affairs and services."
         },
         "15134": {
             "name": "Asuntos judiciales",
-            "description": null
+            "description": "Civil and criminal law courts and the judicial system, including enforcement of fines and legal settlements imposed by the courts and operation of parole and probation systems."
         },
         "15135": {
             "name": "\u00d3mbudsman",
-            "description": null
+            "description": "Independent service representing the interests of the public by investigating and addressing complaints of unfair treatment or maladministration."
         },
         "15136": {
             "name": "Inmigraci\u00f3n",
-            "description": null
+            "description": "Immigration affairs and services, including alien registration, issuing work and travel documents to immigrants."
         },
         "15137": {
             "name": "Prisiones"
         },
         "15140": {
             "name": "Administraci\u00f3n p\u00fablica",
-            "description": null
+            "description": "Systems of government including parliament, local government, decentralisation; civil service and civil service reform. Including general services by government (or commissioned by government) not elsewhere specified e.g. police, fire protection; cartography, meteorology, legal metrology, aerial surveys and remote sensing; administrative buildings."
         },
         "15142": {
             "name": "Pol\u00edticas macroecon\u00f3micas",
-            "description": null
+            "description": "Support to macroeconomic stability, debt sustainability and structural reforms. Includes technical assistance for strategic formulation of policies, laws and regulation; capacity building to enhance public sector development; policy-based funding. For fiscal policy and domestic revenue mobilisation use codes 15111 and 15114."
         },
         "15143": {
             "name": "Servicios meteorol\u00f3gicos",
-            "description": null
+            "description": "Operation or support of institutions dealing with weather forecasting."
         },
         "15144": {
             "name": "Desarrollo de normas nacionales",
-            "description": null
+            "description": "Operation or support of institutions dealing with national standards development. (Use code 16062 for statistical capacity-building.)"
         },
         "15150": {
             "name": "La participaci\u00f3n democratica y la sociedad civil",
-            "description": null
+            "description": "Support to the exercise of democracy and diverse forms of participation of citizens beyond elections (15151); direct democracy instruments such as referenda and citizens' initiatives; support to organisations to represent and advocate for their members, to monitor, engage and hold governments to account, and to help citizens learn to act in the public sphere; curricula and teaching for civic education at various levels. (This purpose code is restricted to activities targeting governance issues. When assistance to civil society is for non-governance purposes use other appropriate purpose codes.)"
         },
         "15151": {
             "name": "Procesos electorales",
-            "description": null
+            "description": "Electoral management bodies and processes, election observation, voters' education. (Use code 15230 when in the context of an international peacekeeping operation.)"
         },
         "15152": {
             "name": "Legislaturas y partidos pol\u00edticos",
-            "description": null
+            "description": "Assistance to strengthen key functions of legislatures/ parliaments including subnational assemblies and councils (representation; oversight; legislation), such as improving the capacity of legislative bodies, improving legislatures' committees and administrative procedures,; research and information management systems; providing training programmes for legislators and support personnel. Assistance to political parties and strengthening of party systems."
         },
         "15153": {
             "name": "Medios de comunicaci\u00f3n y el libre flujo de informaci\u00f3n",
-            "description": null
+            "description": "Activities that support free and uncensored flow of information on public issues; activities that increase the editorial and technical skills and the integrity of the print and broadcast media, e.g. training of journalists. (Use codes 22010-22040 for provision of equipment and capital assistance to media.)"
         },
         "15154": {
             "name": "Oficina ejecutiva",
-            "description": null
+            "description": "Administration, operation or support of executive office. Includes office of the chief executive at all levels of government (monarch, governor-general, president, prime minister, governor, mayor, etc.)."
         },
         "15155": {
             "name": "Pol\u00edticas tributarias y apoyo a la administraci\u00f3n"
         },
         "15156": {
             "name": "Movilizaci\u00f3n de otros ingresos no tributarios",
-            "description": null
+            "description": "Non-tax public revenue, which includes line ministries, revenue authorities or other local, regional or national public bodies."
         },
         "15160": {
             "name": "Derechos humanos",
-            "description": null
+            "description": "Measures to support specialised official human rights institutions and mechanisms at universal, regional, national and local levels in their statutory roles to promote and protect civil and political, economic, social and cultural rights as defined in international conventions and covenants; translation of international human rights commitments into national legislation; reporting and follow-up; human rights dialogue. Human rights defenders and human rights NGOs; human rights advocacy, activism, mobilisation; awareness raising and public human rights education. Human rights programming targeting specific groups, e.g. children, persons with disabilities, migrants, ethnic, religious, linguistic and sexual minorities, indigenous people and those suffering from caste discrimination, victims of trafficking, victims of torture. (Use code 15230 when in the context of a peacekeeping operation and code 15180 for ending violence against women and girls. Use code 15190 for human rights programming for refugees or migrants, including when they are victims of trafficking.Use code 16070 for Fundamental Principles and Rights at Work, i.e. Child Labour, Forced Labour, Non-discrimination in employment and occupation, Freedom of Association and Collective Bargaining.)"
         },
         "15161": {
             "name": "Elecciones",
-            "description": null
+            "description": "Electoral assistance and monitoring, voters' education [other than in connection with UN peace building (15230)]."
         },
         "15162": {
             "name": "Derechos humanos",
-            "description": null
+            "description": "Monitoring of human rights performance; support for national and regional human rights bodies; protection of ethnic, religious and cultural minorities [other than in connection with un peace building (15230)]."
         },
         "15163": {
             "name": "Libre circulaci\u00f3n de la informaci\u00f3n",
-            "description": null
+            "description": "Uncensored flow of information on public issues, including activities that increase the professionalism, skills and integrity of the print and broadcast media (e.g. training of journalists)."
         },
         "15164": {
             "name": "Instituciones y organizaciones de defensa de la igualdad de las mujeres",
-            "description": null
+            "description": "Support for institutions and organisations (governmental and non-governmental) working for gender equality and women's empowerment."
         },
         "15170": {
             "name": "Organizaciones y movimientos, e instituciones gubernamentales, en defensa de los derechos de las mujeres",
-            "description": null
+            "description": "Support for feminist, women-led and women's rights organisations and movements, and institutions (governmental and non-govermental) at all levels to enhance their effectiveness, influence and substainability (activities and core-funding). These organisations exist to bring about transformative change for gender equality and/or the rights of women and girls in developing countries. Their activities include agenda-setting, advocacy, policy dialogue, capacity development, awareness raising and prevention, service provision, conflict-prevention and peacebuilding, research, organising, and alliance and network building"
         },
         "15180": {
             "name": "Eliminaci\u00f3n de la violencia contra las mujeres y las ni\u00f1as",
-            "description": null
+            "description": "Support to programmes designed to prevent and eliminate all forms of violence against women and girls/gender-based violence. This encompasses a broad range of forms of physical, sexual and psychological violence including but not limited to: intimate partner violence (domestic violence); sexual violence; female genital mutilation/cutting (FGM/C); child, early and forced marriage; acid throwing; honour killings; and trafficking of women and girls. Prevention activities may include efforts to empower women and girls; change attitudes, norms and behaviour; adopt and enact legal reforms; and strengthen implementation of laws and policies on ending violence against women and girls, including through strengthening institutional capacity. Interventions to respond to violence against women and girls/gender-based violence may include expanding access to services including legal assistance, psychosocial counselling and health care; training personnel to respond more effectively to the needs of survivors; and ensuring investigation, prosecution and punishment of perpetrators of violence."
         },
         "15185": {
             "name": "Administraci\u00f3n local",
-            "description": null
+            "description": "Decentralisation processes (including political, administrative and fiscal dimensions); intergovernmental relations and federalism; strengthening local authorities."
         },
         "15190": {
             "name": "Facilitaci\u00f3n de la migraci\u00f3n y la movilidad de forma ordenada, segura, regular y responsable",
-            "description": null
+            "description": "Assistance to developing countries that facilitates the orderly, safe, regular and responsible migration and mobility of people. This includes:\u2022 Capacity building in migration and mobility policy, analysis, planning and management. This includes support to facilitate safe and regular migration and address irregular migration, engagement with diaspora and programmes enhancing the development impact of remittances and/or their use for developmental projects in developing countries.\u2022 Measures to improve migrant labour recruitment systems in developing countries.\u2022 Capacity building for strategy and policy development as well as legal and judicial development (including border management) in developing countries. This includes support to address and reduce vulnerabilities in migration, and strengthen the transnational response to smuggling of migrants and preventing and combating trafficking in human beings.\u2022 Support to effective strategies to ensure international protection and the right to asylum.\u2022 Support to effective strategies to ensure access to justice and assistance for displaced persons.\u2022 Assistance to migrants for their safe, dignified, informed and voluntary return to their country of origin (covers only returns from another developing country; assistance to forced returns is excluded from ODA).\u2022 Assistance to migrants for their sustainable reintegration in their country of origin (use code 93010 for pre-departure assistance provided in donor countries in the context of voluntary returns). Activities that pursue first and foremost providers' interest are excluded from ODA. Activities addressing the root causes of forced displacement and irregular migration should not be coded here, but under their relevant sector of intervention. In addition, use code 15136 for support to countries' authorities for immigration affairs and services (optional), code 24050 for programmes aiming at reducing the sending costs of remittances, code 72010 for humanitarian aspects of assistance to refugees and internally displaced persons (IDPs) such as delivery of emergency services and humanitarian protection. Use code 93010 when expenditure is for the temporary sustenance of refugees in the donor country, including for their voluntary return and for their reintegration when support is provided in a donor country in connection with the return from that donor country (i.e. pre-departure assistance), or voluntary resettlement in a third developed country."
         },
         "15196": {
-            "name": null,
-            "description": null
+            "name": "Government and civil society statistics and data",
+            "description": "Collection, production, management and dissemination of statistics and data related to Government & Civil Society. Includes macroeconomic statistics, government finance, fiscal and public sector statistics, support to development of administrative data infrastructure, civil society surveys."
         },
         "15210": {
             "name": "Gesti\u00f3n y reforma de los sistemas de seguridad",
-            "description": null
+            "description": "Technical co-operation provided to parliament, government ministries, law enforcement agencies and the judiciary to assist review and reform of the security system to improve democratic governance and civilian control; technical co-operation provided to government to improve civilian oversight and democratic control of budgeting, management, accountability and auditing of security expenditure, including military budgets, as part of a public expenditure management programme; assistance to civil society to enhance its competence and capacity to scrutinise the security system so that it is managed in accordance with democratic norms and principles of accountability, transparency and good governance. [Other than in the context of an international peacekeeping operation (15230)]."
         },
         "15220": {
             "name": "Construcci\u00f3n de la Paz y prevencion y soluci\u00f3n de conflictos",
-            "description": null
+            "description": "Support for civilian activities related to peace building, conflict prevention and resolution, including capacity building, monitoring, dialogue and information exchange. Bilateral participation in international civilian peace missions such as those conducted by the UN Department of Political Affairs (UNDPA) or the European Union (European Security and Defence Policy), and contributions to civilian peace funds or commissions (e.g. Peacebuilding Commission, Peacebuilding thematic window of the MDG achievement fund etc.). The contributions can take the form of financing or provision of equipment or civilian or military personnel (e.g. for training civilians).(Use code 15230 for bilateral participation in international peacekeeping operations)."
         },
         "15230": {
             "name": "Participaci\u00f3n en operaciones internacionales de mantenimiento de la paz",
-            "description": null
+            "description": "Bilateral participation in peacekeeping operations mandated or authorised by the United Nations (UN) through Security Council resolutions, and conducted by international organisations, e.g. UN, NATO, the European Union (Security and Defence Policy security-related operations), or regional groupings of developing countries. Direct contributions to the UN Department for Peacekeeping Operations (UNDPKO) budget are excluded from bilateral ODA (they are reportable in part as multilateral ODA, see Annex 9). The activities that can be reported as bilateral ODA under this code are limited to: human rights and election monitoring; reintegration of demobilised soldiers; rehabilitation of basic national infrastructure; monitoring or retraining of civil administrators and police forces; security sector reform and other rule of law-related activities; training in customs and border control procedures; advice or training in fiscal or macroeconomic stabilisation policy; repatriation and demobilisation of armed factions, and disposal of their weapons; explosive mine removal. The enforcement aspects of international peacekeeping operations are not reportable as ODA. ODA-eligible bilateral participation in peacekeeping operations can take the form of financing or provision of equipment or military or civilian personnel (e.g. police officers). The reportable cost is calculated as the excess over what the personnel and equipment would have cost to maintain had they not been assigned to take part in a peace operation. Costs for military contingents participating in UNDPKO peacekeeping operations are not reportable as ODA. International peacekeeping operations may include humanitarian-type activities (contributions to the form of equipment or personnel), as described in codes 7xxxx. These should be included under code 15230 if they are an integrated part of the activities above, otherwise they should be reported as humanitarian aid. NB: When using this code, indicate the name of the operation in the short description of the activity reported."
         },
         "15240": {
             "name": "Reintegraci\u00f3n y control de armas peque\u00f1as y armas ligeras (APAL)",
-            "description": null
+            "description": "Reintegration of demobilised military personnel into the economy; conversion of production facilities from military to civilian outputs; technical co-operation to control, prevent and/or reduce the proliferation of small arms and light weapons (SALW) \u2013 see para. 80 of the Directives for definition of SALW activities covered. [Other than in the context of an international peacekeeping operation (15230) or child soldiers (15261)]."
         },
         "15250": {
             "name": "Remoci\u00f3n de minas terrestres y restos explosivos de guerra",
-            "description": null
+            "description": "All activities related to land mines and explosive remnants of war which have benefits to developing countries as their main objective, including removal of land mines and explosive remnants of war, and stockpile destruction for developmental purposes [other than in the context of an international peacekeeping operation (15230)]; risk education and awareness raising; rehabilitation, reintegration and assistance to victims, and research and development on demining and clearance. Only activities for civilian purposes are ODA-eligible."
         },
         "15261": {
             "name": "Ni\u00f1os soldados (prevenci\u00f3n y desmovilizaci\u00f3n)",
-            "description": null
+            "description": "Technical co-operation provided to government \u2013 and assistance to civil society organisations \u2013 to support and apply legislation designed to prevent the recruitment of child soldiers, and to demobilise, disarm, reintegrate, repatriate and resettle (DDR) child soldiers."
         },
         "16010": {
             "name": "Servicios Sociales",
-            "description": null
+            "description": "Social protection or social security strategies, legislation and administration; institution capacity building and advice; social security and other social schemes; support programmes, cash benefits, pensions and special programmes for older persons, orphans, persons with disabilities, children, mothers with newborns, those living in poverty, without jobs and other vulnerable groups; social dimensions of structural adjustment."
         },
         "16011": {
             "name": "Pol\u00edticas, planificaci\u00f3n y administraci\u00f3n en materia de protecci\u00f3n y servicios sociales",
-            "description": null
+            "description": "Administration of overall social protection policies, plans, programmes and budgets including legislation, standards and statistics on social protection."
         },
         "16012": {
             "name": "Seguridad social (excepto pensiones)",
-            "description": null
+            "description": "Social protection shemes in the form of cash or in-kind benefits to people unable to work due to sickness or injury."
         },
         "16013": {
             "name": "Pensiones generales",
-            "description": null
+            "description": "Social protection schemes in the form of cash or in-kind benefits, including pensions, against the risks linked to old age."
         },
         "16014": {
             "name": "Pensiones de la administraci\u00f3n p\u00fablica",
-            "description": null
+            "description": "Pension schemes for government personnel."
         },
         "16015": {
             "name": "Servicios sociales (incluido el desarrollo de la juventud y servicios dirigidos a mujeres y ni\u00f1os)",
-            "description": null
+            "description": "Social protection schemes in the form of cash or in-kind benefits to households with dependent children, including parental leave benefits."
         },
         "16020": {
             "name": "Creaci\u00f3n de empleo",
-            "description": null
+            "description": "Employment policy and planning; institution capacity building and advice; employment creation and income generation programmes; including activities specifically designed for the needs of vulnerable groups."
         },
         "16030": {
             "name": "Pol\u00edtica de vivienda y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Housing sector policy, planning and programmes;  excluding low-cost housing and slum clearance (16040)."
         },
         "16040": {
             "name": "Viviendas de bajo coste",
-            "description": null
+            "description": "Including slum clearance."
         },
         "16050": {
             "name": "Ayuda multisectorial para servicios sociales b\u00e1sicos",
-            "description": null
+            "description": "Basic social services are defined to include basic education, basic health, basic nutrition, population/reproductive health and basic drinking water supply and basic sanitation."
         },
         "16061": {
             "name": "Cultura y ocio",
-            "description": null
+            "description": "Including libraries and museums."
         },
         "16062": {
             "name": "Capacitaci\u00f3n estad\u00edstica",
-            "description": null
+            "description": "All statistical activities, such as data collection, processing, dissemination and analysis; support to development and management of official statistics including demographic, social, economic, environmental and multi-sectoral statistics; statistical quality frameworks; development of human and technological resources for statistics, investments in data innovation. Activities related to data and statistics in the sectors 120, 130 or 150 should preferably be coded under the voluntary purpose codes 12196, 13096 and 15196. Activities with the sole purpose of monitoring development co-operation activities, including if performed by third parties, should be coded under 91010 (Administrative costs)."
         },
         "16063": {
             "name": "Control estupefacientes",
-            "description": null
+            "description": "In-country and customs controls including training of the police; educational programmes and awareness campaigns to restrict narcotics traffic and in-country distribution. ODA recording of narcotics control expenditures is limited to activities that focus on economic development and welfare including alternative development programmes and crop substitution (see 31165 and 43050). Activities by the donor country to interdict drug supplies destroy crops or train or finance military personnel in anti-narcotics activities are not reportable."
         },
         "16064": {
             "name": "Mitigaci\u00f3n social del VIH/sida",
-            "description": null
+            "description": "Special programmes to address the consequences of HIV/AIDS, e.g. social, legal and economic assistance to people living with HIV/AIDS including food security and employment; support to vulnerable groups and children orphaned by HIV/AIDS; human rights of HIV/AIDS affected people."
         },
         "16065": {
             "name": "Actividades recreativas y deporte"
@@ -497,117 +497,117 @@
         },
         "16070": {
             "name": "Derechos laborales",
-            "description": null
+            "description": "Advocacy for international labour standards, labour law, fundamental principles and rights at work (child labour, forced labour, non-discrimination in the workplace, freedom of association and collective bargaining); formalisation of informal work, occupational safety and health."
         },
         "16080": {
             "name": "Di\u00e1logo social",
-            "description": null
+            "description": "Capacity building and advice in support of social dialogue; support to social dialogue institutions, bodies and mechanisms; capacity building of workers' and employers' organisations."
         },
         "21010": {
             "name": "Pol\u00edtica transporte y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Transport sector policy, planning and programmes; aid to transport ministries; institution capacity building and advice; unspecified transport; activities that combine road, rail, water and/or air transport. Includes prevention of road accidents. Whenever possible, report transport of goods under the sector of the good being transported."
         },
         "21011": {
             "name": "Pol\u00edticas, planificaci\u00f3n y administraci\u00f3n del transporte",
-            "description": null
+            "description": "Administration of affairs and services concerning transport systems."
         },
         "21012": {
             "name": "Servicios de transporte p\u00fablico",
-            "description": null
+            "description": "Administration of affairs and services concerning public transport."
         },
         "21013": {
             "name": "Regulaci\u00f3n del transporte",
-            "description": null
+            "description": "Supervision and regulation of users, operations, construction and maintenance of transport systems (registration, licensing, inspection of equipment, operator skills and training; safety standards, franchises, tariffs, levels of service, etc.)."
         },
         "21020": {
             "name": "Transporte por carretera",
-            "description": null
+            "description": "Road infrastructure, road vehicles; passenger road transport, motor passenger cars."
         },
         "21021": {
             "name": "Construcci\u00f3n de carreteras secundarias",
-            "description": null
+            "description": "Construction or operation of feeder road transport systems and facilities."
         },
         "21022": {
             "name": "Mantenimiento de carreteras secundarias",
-            "description": null
+            "description": "Maintenance of feeder road transport systems and facilities."
         },
         "21023": {
             "name": "Construcci\u00f3n de carreteras nacionales",
-            "description": null
+            "description": "Construction or operation of national road transport systems and facilities."
         },
         "21024": {
             "name": "Mantenimiento de carreteras nacionales",
-            "description": null
+            "description": "Maintenance of national road transport systems and facilities."
         },
         "21030": {
             "name": "Transporte por ferrocarril",
-            "description": null
+            "description": "Rail infrastructure, rail equipment, locomotives, other rolling stock; including light rail (tram) and underground systems."
         },
         "21040": {
             "name": "Transporte mar\u00edtimo y fluvial",
-            "description": null
+            "description": "Harbours and docks, harbour guidance systems, ships and boats; river and other inland water transport, inland barges and vessels."
         },
         "21050": {
             "name": "Transporte a\u00e9reo",
-            "description": null
+            "description": "Airports, airport guidance systems, aeroplanes, aeroplane maintenance equipment."
         },
         "21061": {
             "name": "Almacenamiento",
-            "description": null
+            "description": "Whether or not related to transportation. Whenever possible, report storage projects under the sector of the resource being stored."
         },
         "21081": {
             "name": "Ense\u00f1anza y formaci\u00f3n en materia de transporte y almacenamiento"
         },
         "22010": {
             "name": "Pol\u00edtica de comunicaciones y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Communications sector policy, planning and programmes; institution capacity building and advice; including postal services development; unspecified communications activities."
         },
         "22011": {
             "name": "Pol\u00edticas, planificaci\u00f3n y administraci\u00f3n de las comunicaciones"
         },
         "22012": {
             "name": "Servicios postales",
-            "description": null
+            "description": "Development and operation of postal services."
         },
         "22013": {
             "name": "Servicios de informaci\u00f3n",
-            "description": null
+            "description": "Provision of information services."
         },
         "22020": {
             "name": "Telecomunicaciones",
-            "description": null
+            "description": "Telephone networks, telecommunication satellites, earth stations."
         },
         "22030": {
             "name": "Radio, televisi\u00f3n, prensa",
-            "description": null
+            "description": "Radio and TV links, equipment; newspapers; printing and publishing."
         },
         "22040": {
             "name": "Tecnolog\u00eda de la informaci\u00f3n y de las comunicaciones (TIC)",
-            "description": null
+            "description": "Computer hardware and software; internet access; IT training. When sector cannot be specified."
         },
         "23010": {
             "name": "Pol\u00edtica energ\u00e9tica y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation."
         },
         "23020": {
             "name": "Producci\u00f3n energ\u00e9tica - fuentes no renovables",
-            "description": null
+            "description": "Thermal power plants including when heat source cannot be determined; combined gas-coal power plants."
         },
         "23030": {
             "name": "Producci\u00f3n energ\u00e9tica - fuentes renovables",
-            "description": null
+            "description": "Including policy, planning, development programmes, surveys and incentives. Fuelwood/ charcoal production should be included under forestry (31261)."
         },
         "23040": {
             "name": "Transmisi\u00f3n/distribuci\u00f3n de energia electrica",
-            "description": null
+            "description": "Distribution from power source to end user; transmission lines."
         },
         "23050": {
             "name": "Distribuci\u00f3n gas",
-            "description": null
+            "description": "Delivery for use by ultimate consumer."
         },
         "23061": {
             "name": "Centrales t\u00e9rmicas de petr\u00f3leo",
-            "description": null
+            "description": "Including diesel power plants."
         },
         "23062": {
             "name": "Centrales t\u00e9rmicas de gas"
@@ -617,337 +617,337 @@
         },
         "23064": {
             "name": "Centrales nucleares",
-            "description": null
+            "description": "Including nuclear safety."
         },
         "23065": {
             "name": "Centrales hidroel\u00e9ctricas",
-            "description": null
+            "description": "Including power-generating river barges."
         },
         "23066": {
             "name": "Energ\u00eda geot\u00e9rmica"
         },
         "23067": {
             "name": "Energ\u00eda solar",
-            "description": null
+            "description": "Including photo-voltaic cells, solar thermal applications and solar heating."
         },
         "23068": {
             "name": "Energ\u00eda e\u00f3lica",
-            "description": null
+            "description": "Wind energy for water lifting and electric power generation."
         },
         "23069": {
             "name": "Energ\u00eda maremotriz",
-            "description": null
+            "description": "Including ocean thermal energy conversion, tidal and wave power."
         },
         "23070": {
             "name": "Biomasa",
-            "description": null
+            "description": "Densification technologies and use of biomass for direct power generation including biogas, gas obtained from sugar cane and other plant residues, anaerobic digesters."
         },
         "23081": {
             "name": "Educaci\u00f3n, formaci\u00f3n temas energ\u00e9ticos",
-            "description": null
+            "description": "Applies to all energy sub-sectors; all levels of training."
         },
         "23082": {
             "name": "Investigaci\u00f3n energ\u00e9tica",
-            "description": null
+            "description": "Including general inventories, surveys."
         },
         "23110": {
             "name": "Gesti\u00f3n administrativa y pol\u00edticas de la energ\u00eda",
-            "description": null
+            "description": "Energy sector policy, planning; aid to energy ministries and other governmental or nongovernmental institutions for activities related to the SDG7; institution capacity building and advice; tariffs, market building, unspecified energy activities; energy activities for which a more specific code cannot be assigned."
         },
         "23111": {
             "name": "Pol\u00edticas, planificaci\u00f3n y administraci\u00f3n del sector energ\u00e9tico"
         },
         "23112": {
             "name": "Regulaci\u00f3n de la energ\u00eda",
-            "description": null
+            "description": "Regulation of the energy sector, including wholesale and retail electricity provision."
         },
         "23181": {
             "name": "Educaci\u00f3n y capacitaci\u00f3n en energ\u00eda",
-            "description": null
+            "description": "All levels of training not included elsewhere."
         },
         "23182": {
             "name": "Investigaci\u00f3n sobre la energ\u00eda",
-            "description": null
+            "description": "Including general inventories, surveys."
         },
         "23183": {
             "name": "Conservaci\u00f3n de la energ\u00eda y eficiencia desde el punto de vista de la demanda",
-            "description": null
+            "description": "Support for energy demand reduction, e.g. building and industry upgrades, smart grids, metering and tariffs. For clean cooking appliances use code 32174."
         },
         "23210": {
             "name": "Generaci\u00f3n de energ\u00eda, fuentes renovables: m\u00faltiples tecnolog\u00edas",
-            "description": null
+            "description": "Renewable energy generation programmes that cannot be attributed to one single technology (codes 23220 through 23280 below). Fuelwood/charcoal production should be included under forestry 31261."
         },
         "23220": {
             "name": "Centrales hidroel\u00e9ctricas",
-            "description": null
+            "description": "Including energy generating river barges."
         },
         "23230": {
             "name": "Energ\u00eda solar para redes centralizadas",
-            "description": null
+            "description": "Including photo-voltaic cells, concentrated solar power systems connected to the main grid and net-metered decentralised solutions."
         },
         "23231": {
             "name": "Energ\u00eda solar para redes aisladas y sistemas aut\u00f3nomos",
-            "description": null
+            "description": "Solar power generation for isolated mini-grids, solar home systems (including integrated wiring and related appliances), solar lanterns distribution and commercialisation. This code refers to the power generation component only."
         },
         "23232": {
             "name": "Energ\u00eda solar: aplicaciones t\u00e9rmicas",
-            "description": null
+            "description": "Solar solutions for indoor space and water heating (except for solar cook stoves 32174)."
         },
         "23240": {
             "name": "Energ\u00eda e\u00f3lica",
-            "description": null
+            "description": "Wind energy for water lifting and electric power generation."
         },
         "23250": {
             "name": "Energ\u00eda maremotriz",
-            "description": null
+            "description": "Including ocean thermal energy conversion, tidal and wave power."
         },
         "23260": {
             "name": "Energ\u00eda geot\u00e9rmica",
-            "description": null
+            "description": "Use of geothermal energy for generating electric power or directly as heat for agriculture, etc."
         },
         "23270": {
             "name": "Centrales de biocombustibles",
-            "description": null
+            "description": "Use of solids and liquids produced from biomass for direct power generation. Also includes biogases from anaerobic fermentation (e.g. landfill gas, sewage sludge gas, fermentation of energy crops and manure) and thermal processes (also known as syngas); waste-fired power plants making use of biodegradable municipal waste (household waste and waste from companies and public services that resembles household waste, collected at installations specifically designed for their disposal with recovery of combustible liquids, gases or heat). See code 23360 for non-renewable waste-fired power plants."
         },
         "23310": {
             "name": "Generaci\u00f3n de energ\u00eda, fuentes no renovables, sin especificar",
-            "description": null
+            "description": "Thermal power plants including when energy source cannot be determined; combined gas-coal power plants."
         },
         "23320": {
             "name": "Centrales t\u00e9rmicas de carb\u00f3n",
-            "description": null
+            "description": "Thermal electric power plants that use coal as the energy source."
         },
         "23330": {
             "name": "Centrales t\u00e9rmicas de petr\u00f3leo",
-            "description": null
+            "description": "Thermal electric power plants that use fuel oil or diesel fuel as the energy source."
         },
         "23340": {
             "name": "Centrales el\u00e9ctricas de gas natural",
-            "description": null
+            "description": "Electric power plants that are fuelled by natural gas; related feed-in infrastructure (LNG terminals, gasifiers, pipelines to feed the plant)."
         },
         "23350": {
             "name": "Centrales el\u00e9ctricas de combustible f\u00f3sil con captura y almacenamiento de carbono",
-            "description": null
+            "description": "Fossil fuel electric power plants employing technologies to capture carbon dioxide emissions. CCS not related to power plants should be included under 41020. CCS activities are not reportable as ODA."
         },
         "23360": {
             "name": "Centrales el\u00e9ctricas de residuos no renovables",
-            "description": null
+            "description": "Electric power plants that use non-biodegradable industrial and municipal waste as the energy source."
         },
         "23410": {
             "name": "Centrales el\u00e9ctricas de energ\u00eda h\u00edbrida",
-            "description": null
+            "description": "Electric power plants that make use of both non-renewable and renewable energy sources."
         },
         "23510": {
             "name": "Centrales el\u00e9ctricas de energ\u00eda nuclear y seguridad nuclear",
-            "description": null
+            "description": "See note regarding ODA eligibility of nuclear energy."
         },
         "23610": {
             "name": "Centrales de producci\u00f3n de calor",
-            "description": null
+            "description": "Power plants which are designed to produce heat only."
         },
         "23620": {
             "name": "Calefacci\u00f3n y refrigeraci\u00f3n urbanas",
-            "description": null
+            "description": "Distribution of heat generated in a centralised location, or delivery of chilled water, for residential and commercial heating or cooling purposes."
         },
         "23630": {
             "name": "Transmisi\u00f3n y distribuci\u00f3n de energ\u00eda el\u00e9ctrica (redes centralizadas)",
-            "description": null
+            "description": "Grid distribution from power source to end user; transmission lines. Also includes storage of energy to generate power (e.g. pumped hydro, batteries) and the extension of grid access, often to rural areas."
         },
         "23631": {
             "name": "Transmisi\u00f3n y distribuci\u00f3n de energ\u00eda el\u00e9ctrica (minirredes aisladas)",
-            "description": null
+            "description": "Includes village grids and other electricity distribution technologies to end users that are not connected to the main national grid. Also includes related electricity storage. This code refers to the network infrastructure only regardless of the power generation technologies."
         },
         "23640": {
             "name": "Distribuci\u00f3n de gas al por menor",
-            "description": null
+            "description": "Includes urban infrastructure for the delivery of urban gas and LPG cylinder production, distribution and refill. Excludes gas distribution for purposes of electricity generation (23340) and pipelines (32262)."
         },
         "23641": {
             "name": "Distribuci\u00f3n de combustibles f\u00f3siles l\u00edquidos o s\u00f3lidos al por menor"
         },
         "23642": {
             "name": "Infraestructuras para la movilidad el\u00e9ctrica",
-            "description": null
+            "description": "Includes electricity or hydrogen recharging stations for private and public transport systems and related infrastructure (except for rail transport 21030)."
         },
         "24010": {
             "name": "Pol\u00edtica financiera y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Finance sector policy, planning and programmes; institution capacity building and advice; financial markets and systems."
         },
         "24020": {
             "name": "Instituciones monetarias",
-            "description": null
+            "description": "Central banks."
         },
         "24030": {
             "name": "Intermediarios financieros del sector formal",
-            "description": null
+            "description": "All formal sector financial intermediaries; credit lines; insurance, leasing, venture capital, etc. (except when focused on only one sector)."
         },
         "24040": {
             "name": "Intermediarios financieros semi-formales, informales",
-            "description": null
+            "description": "Micro credit, savings and credit co-operatives etc."
         },
         "24050": {
             "name": "Ense\u00f1anza/formaci\u00f3n en banca y servicios financieros",
-            "description": null
+            "description": "Includes programmes aiming at reducing the sending costs of remittances."
         },
         "24081": {
             "name": "Educaci\u00f3n o capacitaci\u00f3n en servicios bancarios y financieros"
         },
         "25010": {
             "name": "Servicio e instituciones de apoyo a la empresa",
-            "description": null
+            "description": "Public sector policies and institution support to the business environment and investment climate, including business regulations, property rights, non-discrimination, investment promotion, competition policy, enterprises law, private-public partnerships."
         },
         "25020": {
             "name": "Privatizaciones",
-            "description": null
+            "description": "When sector cannot be specified. Including general state enterprise restructuring or demonopolisation programmes; planning, programming, advice."
         },
         "25030": {
             "name": "Servicios de desarrollo empresarial",
-            "description": null
+            "description": "Public and private provision of business development services, e.g. incubators, business strategies, commercial linkages programmes and matchmaking services. Includes support to private organisations representing businesses, e.g. business associations; chambers of commerce; producer associations; providers of know-how and other business development services. For financial services use CRS codes 24030 or 24040. For SME development and for support to companies in the industrial sector use codes 32130 through 32172. For support to companies in the agricultural sector use code 31120."
         },
         "25040": {
             "name": "Conducta empresarial responsable",
-            "description": null
+            "description": "Support to policy reform, implementation and enforcement of responsible business conduct (RBC) principles and standards as well as facilitation of responsible business practices by companies. Includes establishing and enforcing a legal and regulatory framework to protect stakeholder rights and the environment, rewarding best performers; exemplifying RBC in government economic activities, such as state-owned enterprises' operations or public procurement; support to the implementation of the OECD Guidelines for MNEs, including disclosure, human rights, employment and industrial relations, environment, combating bribery, consumer interests, science and technology, competition and taxation."
         },
         "31110": {
             "name": "Pol\u00edtica agraria y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Agricultural sector policy, planning and programmes; aid to agricultural ministries;  institution capacity building and advice; unspecified agriculture."
         },
         "31120": {
             "name": "Desarrollo agrario",
-            "description": null
+            "description": "Integrated projects; farm development."
         },
         "31130": {
             "name": "Tierras cultivables",
-            "description": null
+            "description": "Including soil degradation control; soil improvement; drainage of water logged areas; soil desalination; agricultural land surveys; land reclamation; erosion control, desertification control."
         },
         "31140": {
             "name": "Recursos h\u00eddricos para uso agr\u00edcola",
-            "description": null
+            "description": "Irrigation, reservoirs, hydraulic structures, ground water exploitation for agricultural use."
         },
         "31150": {
             "name": "Insumos agr\u00edcolas",
-            "description": null
+            "description": "Supply of seeds, fertilizers, agricultural machinery/equipment."
         },
         "31161": {
             "name": "Producci\u00f3n alimentos agr\u00edcolas",
-            "description": null
+            "description": "Including grains (wheat, rice, barley, maize, rye, oats, millet, sorghum); horticulture; vegetables; fruit and berries; other annual and perennial crops. [Use code 32161 for agro-industries.]"
         },
         "31162": {
             "name": "Cultivos industriales/para la exportaci\u00f3n",
-            "description": null
+            "description": "Including sugar; coffee, cocoa, tea; oil seeds, nuts, kernels; fibre crops; tobacco; rubber. [Use code 32161 for agro-industries.]"
         },
         "31163": {
             "name": "Ganader\u00eda",
-            "description": null
+            "description": "Animal husbandry; animal feed aid."
         },
         "31164": {
             "name": "Reforma agraria",
-            "description": null
+            "description": "Including agricultural sector adjustment."
         },
         "31165": {
             "name": "Desarrollo agrario alternativo",
-            "description": null
+            "description": "Projects to reduce illicit drug cultivation through other agricultural marketing and production opportunities (see code 43050 for non-agricultural alternative development)."
         },
         "31166": {
             "name": "Extensi\u00f3n agraria",
-            "description": null
+            "description": "Non-formal training in agriculture."
         },
         "31181": {
             "name": "Ense\u00f1anza/formaci\u00f3n agraria"
         },
         "31182": {
             "name": "Investigaci\u00f3n agraria",
-            "description": null
+            "description": "Plant breeding, physiology, genetic resources, ecology, taxonomy, disease control, agricultural bio-technology; including livestock research (animal health, breeding and genetics, nutrition, physiology)."
         },
         "31191": {
             "name": "Servicios agr\u00edcolas",
-            "description": null
+            "description": "Marketing policies & organisation; storage and transportation, creation of strategic reserves."
         },
         "31192": {
             "name": "Protecci\u00f3n plantas y poscosecha y lucha contra plagas",
-            "description": null
+            "description": "Including integrated plant protection, biological plant protection activities, supply and management of agrochemicals, supply of pesticides, plant protection policy and legislation."
         },
         "31193": {
             "name": "Servicios financieros agr\u00edcolas",
-            "description": null
+            "description": "Financial intermediaries for the agricultural sector including credit schemes; crop insurance."
         },
         "31194": {
             "name": "Cooperativas agr\u00edcolas",
-            "description": null
+            "description": "Including farmers' organisations."
         },
         "31195": {
             "name": "Servicios ganaderos o veterinarios",
-            "description": null
+            "description": "Animal health and management, genetic resources, feed resources."
         },
         "31210": {
             "name": "Pol\u00edtica forestal y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Forestry sector policy, planning and programmes; institution capacity building and advice; forest surveys; unspecified forestry and agro-forestry activities."
         },
         "31220": {
             "name": "Desarrollo forestal",
-            "description": null
+            "description": "Afforestation for industrial and rural consumption; exploitation and utilisation; erosion control, desertification control; integrated forestry projects."
         },
         "31261": {
             "name": "Producci\u00f3n de carb\u00f3n vegetal / le\u00f1a",
-            "description": null
+            "description": "Sustainable forestry development whose primary purpose is production of fuelwood and charcoal. Further transformation of biomass in biofuels is coded under 32173."
         },
         "31281": {
             "name": "Educaci\u00f3n, formaci\u00f3n forestal"
         },
         "31282": {
             "name": "Investigaci\u00f3n silvicultura",
-            "description": null
+            "description": "Including artificial regeneration, genetic improvement, production methods, fertilizer, harvesting."
         },
         "31291": {
             "name": "Servicios forestales"
         },
         "31310": {
             "name": "Pol\u00edtica pesquera y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Fishing sector policy, planning and programmes; institution capacity building and advice; ocean and coastal fishing; marine and freshwater fish surveys and prospecting; fishing boats/equipment; unspecified fishing activities."
         },
         "31320": {
             "name": "Desarrollo pesquero",
-            "description": null
+            "description": "Exploitation and utilisation of fisheries; fish stock protection; aquaculture; integrated fishery projects."
         },
         "31381": {
             "name": "Educaci\u00f3n, formaci\u00f3n pesquera"
         },
         "31382": {
             "name": "Investigaci\u00f3n pesquera",
-            "description": null
+            "description": "Pilot fish culture; marine/freshwater biological research."
         },
         "31391": {
             "name": "Servicios pesqueros",
-            "description": null
+            "description": "Fishing harbours; fish markets; fishery transport and cold storage."
         },
         "32110": {
             "name": "Pol\u00edtica industrial y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Industrial sector policy, planning and programmes; institution capacity building and advice; unspecified industrial activities; manufacturing of goods not specified below."
         },
         "32120": {
             "name": "Desarrollo industrial"
         },
         "32130": {
             "name": "Desarrollo de peque\u00f1as y medianas empresas (pymes)",
-            "description": null
+            "description": "Direct support to improve the productive capacity and business management of micro, small and medium-sized enterprises in the industrial sector, including accounting, auditing, advisory services, technological transfer and skill upgrading. For business policy and institutional support use code 25010. For business development services through business intermediary organisations (e.g. business associations; chambers of commerce; producer associations; incubators; providers of know-how and other business development services) use CRS code 250xx. For farm and agricultural development use code 31120."
         },
         "32140": {
             "name": "Industria artesanal"
         },
         "32161": {
             "name": "Agro-industrias",
-            "description": null
+            "description": "Staple food processing, dairy products, slaughter houses and equipment, meat and fish processing and preserving, oils/fats, sugar refineries, beverages/tobacco, animal feeds production."
         },
         "32162": {
             "name": "Industrias forestales",
-            "description": null
+            "description": "Wood production, pulp/paper production."
         },
         "32163": {
             "name": "Textiles, cuero y sustitutos",
-            "description": null
+            "description": "Including knitting factories."
         },
         "32164": {
             "name": "Productos qu\u00edmicos",
-            "description": null
+            "description": "Industrial and non-industrial production facilities; includes pesticides production."
         },
         "32165": {
             "name": "Plantas de producci\u00f3n de fertilizantes"
@@ -957,323 +957,323 @@
         },
         "32167": {
             "name": "Fabricaci\u00f3n productos energ\u00e9ticos (combustibles f\u00f3siles)",
-            "description": null
+            "description": "Including gas liquefaction; petroleum refineries, wholesale distribution of fossil fuels. (Use 23640 for retail distribution of gas and 23641 for retail distribution of liquid or solid fossil fuels.)"
         },
         "32168": {
             "name": "Producci\u00f3n farmac\u00e9utica",
-            "description": null
+            "description": "Medical equipment/supplies; drugs, medicines, vaccines; hygienic products."
         },
         "32169": {
             "name": "Industrias metal\u00fargicas b\u00e1sicas",
-            "description": null
+            "description": "Iron and steel, structural metal production."
         },
         "32170": {
             "name": "Industrias metales no-ferrosos"
         },
         "32171": {
             "name": "Construcci\u00f3n mec\u00e1nica y el\u00e9ctrica",
-            "description": null
+            "description": "Manufacturing of electrical and non-electrical machinery, engines/turbines."
         },
         "32172": {
             "name": "Material de transporte",
-            "description": null
+            "description": "Shipbuilding, fishing boats building; railroad equipment; motor vehicles and motor passenger cars; aircraft; navigation/guidance systems."
         },
         "32173": {
             "name": "Producci\u00f3n de biocombustibles modernos",
-            "description": null
+            "description": "Includes biogas, liquid biofuels and pellets for domestic and non-domestic use. Excludes raw fuelwood and charcoal (31261)."
         },
         "32174": {
             "name": "Fabricaci\u00f3n de equipos de cocina no contaminantes",
-            "description": null
+            "description": "Includes manufacturing and distribution of efficient biomass cooking stoves, gasifiers, liquid biofuels stoves, solar stoves, gas and biogas stoves, electric stoves."
         },
         "32182": {
             "name": "Investigaci\u00f3n y desarrollo tecnol\u00f3gico",
-            "description": null
+            "description": "Including industrial standards; quality management; metrology; testing; accreditation; certification."
         },
         "32210": {
             "name": "Politica de las industrias extractivas y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Mineral and mining sector policy, planning and programmes;  mining legislation, mining cadastre, mineral resources inventory, information systems, institution capacity building and advice;  unspecified mineral resources exploitation."
         },
         "32220": {
             "name": "Prospecciones y an\u00e1lisis minerales",
-            "description": null
+            "description": "Geology, geophysics, geochemistry;  excluding hydrogeology (14010) and environmental geology (41010), mineral extraction and processing, infrastructure, technology, economics, safety and environment management."
         },
         "32261": {
             "name": "Carb\u00f3n",
-            "description": null
+            "description": "Including lignite and peat."
         },
         "32262": {
             "name": "Petr\u00f3leo y gas (exploraci\u00f3n y producci\u00f3n)",
-            "description": null
+            "description": "Petroleum, natural gas, condensates, liquefied petroleum gas (LPG), liquefied natural gas (LNG); including drilling and production, oil and gas pipelines."
         },
         "32263": {
             "name": "Metales ferrosos",
-            "description": null
+            "description": "Iron and ferro-alloy metals."
         },
         "32264": {
             "name": "Metales no ferrosos",
-            "description": null
+            "description": "Aluminium, copper, lead, nickel, tin, zinc."
         },
         "32265": {
             "name": "Metales o materiales preciosos",
-            "description": null
+            "description": "Gold, silver, platinum, diamonds, gemstones."
         },
         "32266": {
             "name": "Minerales industriales",
-            "description": null
+            "description": "Baryte, limestone, feldspar, kaolin, sand, gypsym, gravel, ornamental stones."
         },
         "32267": {
             "name": "Fertilizantes minerales",
-            "description": null
+            "description": "Phosphates, potash."
         },
         "32268": {
             "name": "Recursos minerales fondos marinos",
-            "description": null
+            "description": "Polymetallic nodules, phosphorites, marine placer deposits."
         },
         "32310": {
             "name": "Pol\u00edtica construcci\u00f3n y gestion administrativa",
-            "description": null
+            "description": "Construction sector policy and planning; excluding construction activities within specific sectors (e.g., hospital or school construction)."
         },
         "33110": {
             "name": "Pol\u00edtica comercial y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Trade policy and planning; support to ministries and departments responsible for trade policy; trade-related legislation and regulatory reforms; policy analysis and implementation of multilateral trade agreements e.g. technical barriers to trade and sanitary and phytosanitary measures (TBT/SPS) except at regional level (see 33130); mainstreaming trade in national development strategies (e.g. poverty reduction strategy papers); wholesale/retail trade; unspecified trade and trade promotion activities."
         },
         "33120": {
             "name": "Fomento del comercio",
-            "description": null
+            "description": "Simplification and harmonisation of international import and export procedures (e.g. customs valuation, licensing procedures, transport formalities, payments, insurance); support to customs departments  and other border agencies, including in particular implementation of the provisions of the WTO Trade Facilitation Agreement; tariff reforms."
         },
         "33130": {
             "name": "Acuerdos comerciales regionales",
-            "description": null
+            "description": "Support to regional trade arrangements [e.g. Southern African Development Community (SADC), Association of Southeast Asian Nations (ASEAN), Free Trade Area of the Americas (FTAA), African Caribbean Pacific/European Union (ACP/EU)], including work on technical barriers to trade and sanitary and phytosanitary measures (TBT/SPS) at regional level; elaboration of rules of origin and introduction of special and differential treatment in RTAs."
         },
         "33140": {
             "name": "Negociaciones comerciales multilaterales",
-            "description": null
+            "description": "Support developing countries' effective participation in multilateral trade negotiations, including training of negotiators, assessing impacts of negotiations; accession to the World Trade Organisation (WTO) and other multilateral trade-related organisations."
         },
         "33150": {
             "name": "Ajustes vinculados al comercio",
-            "description": null
+            "description": "Contributions to the government budget to assist the implementation of recipients' own trade reforms and adjustments to trade policy measures by other countries; assistance to manage shortfalls in the balance of payments due to changes in the world trading environment."
         },
         "33181": {
             "name": "Educaci\u00f3n / formaci\u00f3n comercial",
-            "description": null
+            "description": "Human resources development in trade not included under any of the above codes. Includes university programmes in trade."
         },
         "33210": {
             "name": "Pol\u00edtica tur\u00edstica y gesti\u00f3n administrativa"
         },
         "41010": {
             "name": "Pol\u00edtica medioambiental y gesti\u00f3n administrativa",
-            "description": null
+            "description": "Environmental policy, laws, regulations and economic instruments; administrational institutions and practices; environmental and land use planning and decision-making procedures; seminars, meetings; miscellaneous conservation and protection measures not specified below."
         },
         "41020": {
             "name": "Protecci\u00f3n biosfera",
-            "description": null
+            "description": "Air pollution control, ozone layer preservation; marine pollution control."
         },
         "41030": {
             "name": "Biodiversidad",
-            "description": null
+            "description": "Including natural reserves and actions in the surrounding areas; other measures to protect endangered or vulnerable species and their habitats (e.g. wetlands preservation)."
         },
         "41040": {
             "name": "Protecci\u00f3n del patrimonio",
-            "description": null
+            "description": "Applies to unique cultural landscape; including sites/objects of historical, archeological, aesthetic, scientific or educational value."
         },
         "41050": {
             "name": "Control / prevenci\u00f3n de inundaciones",
-            "description": null
+            "description": "Floods from rivers or the sea; including sea water intrusion control and sea level rise related activities."
         },
         "41081": {
             "name": "Educaci\u00f3n / formaci\u00f3n medioambiental"
         },
         "41082": {
             "name": "Investigaci\u00f3n medioambiental",
-            "description": null
+            "description": "Including establishment of databases, inventories/accounts of physical and natural resources; environmental profiles and impact studies if not sector specific."
         },
         "43010": {
             "name": "Ayuda multisectorial"
         },
         "43030": {
             "name": "Desarrollo y gesti\u00f3n urbanos",
-            "description": null
+            "description": "Integrated urban development projects; local development and urban management; urban infrastructure and services; municipal finances; urban environmental management; urban development and planning; urban renewal and urban housing; land information systems."
         },
         "43031": {
             "name": "Pol\u00edticas y administraci\u00f3n de terrenos urbanos",
-            "description": null
+            "description": "Urban development and planning; urban management, land information systems."
         },
         "43032": {
             "name": "Desarrollo urbano",
-            "description": null
+            "description": "Integrated urban development projects; local development; urban infrastructure and services; municipal finances; urban environment systems; urban renewal and urban housing."
         },
         "43040": {
             "name": "Desarrollo rural",
-            "description": null
+            "description": "Integrated rural development projects;  e.g. regional development planning;  promotion of decentralised and multi-sectoral competence for planning, co-ordination and management;  implementation of regional development and measures (including natural reserve management);  land management;  land use planning; land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas;  geographical information systems."
         },
         "43041": {
             "name": "Pol\u00edticas y administraci\u00f3n de terrenos rurales",
-            "description": null
+            "description": "Regional development planning; promotion of decentralised and multi-sectoral competence for planning, co-ordination and management; land management; land use planning; geographical information systems."
         },
         "43042": {
             "name": "Desarrollo rural",
-            "description": null
+            "description": "Integrated rural development projects; implementation of regional development and measures (including natural reserve management); land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas."
         },
         "43050": {
             "name": "Desarrollo de alternativas no agr\u00edcolas",
-            "description": null
+            "description": "Projects to reduce illicit drug cultivation through, for example, non-agricultural income opportunities, social and physical infrastructure (see code 31165 for agricultural alternative development)."
         },
         "43060": {
             "name": "Reducci\u00f3n del riesgo de desastres",
-            "description": null
+            "description": "Disaster risk reduction activities if not sector specific. Comprises risk assessments, structural prevention measures (e.g. flood prevention infrastructure), preparedness measures (e.g. early warning systems) normative prevention measures (e.g. building codes, land-use planning), and risk transfer systems (e.g. insurance schemes, risk funds). Also includes building local and national capacities and supporting the establishment of efficient and sustainable national structures able to promote disaster risk reduction."
         },
         "43071": {
             "name": "Gesti\u00f3n administrativa y pol\u00edticas de la seguridad alimentaria",
-            "description": null
+            "description": "Food security policy, programmes and activities; institution capacity strengthening; policies, programmes for the reduction of food loss/waste; food security information systems, data collection, statistics, analysis, tools, methods; coordination and governance mechanisms; other unspecified food security activities."
         },
         "43072": {
             "name": "Programas de seguridad alimentaria familiar",
-            "description": null
+            "description": "Short or longer term household food security programmes and activities that improve the access of households to nutritionally adequate diets (excluding any cash transfers within broader social welfare programmes that do not have a specific food security, food acquisition or nutrition focus which should be reported under code 16010)."
         },
         "43073": {
             "name": "Inocuidad y calidad alimentarias",
-            "description": null
+            "description": "Food safety and quality policies, programmes and activities, including food inspection and certification; strengthening food safety/quality capacities and development of standards along the value chain; monitoring/surveillance and laboratory capacities; and delivery of information, communication, education."
         },
         "43081": {
             "name": "Educaci\u00f3n o capacitaci\u00f3n multisectorial",
-            "description": null
+            "description": "Including scholarships."
         },
         "43082": {
             "name": "Instituciones cient\u00edficas y de investigaci\u00f3n",
-            "description": null
+            "description": "When sector cannot be identified."
         },
         "51010": {
             "name": "Apoyo presupuestario general",
-            "description": null
+            "description": "Unearmarked contributions to the government budget; support for the implementation of macroeconomic reforms (structural adjustment programmes, poverty reduction strategies); general programme assistance (when not allocable by sector)."
         },
         "52010": {
             "name": "Ayuda alimentaria",
-            "description": null
+            "description": "Supply of edible human food under national or international programmes including transport costs, cash payments made for food supplies; project food assistance aid and food assistance aid for market sales when benefiting sector not specified. Excludes food security policy and administrative management (43071), household food security programmes (43072) and emergency food assistance aid (72040). Report as multilateral: i) food assistance aid by EU financed out of its budget and allocated pro rata to EU member countries; and ii) core contributions to the World Food Programme."
         },
         "53030": {
             "name": "Apoyo importaci\u00f3n (bienes de equipo)",
-            "description": null
+            "description": "Capital goods and services; lines of credit."
         },
         "53040": {
             "name": "Apoyo importaci\u00f3n (productos)",
-            "description": null
+            "description": "Commodities, general goods and services, oil imports."
         },
         "60010": {
             "name": "Actividades relacionadas con la deuda",
-            "description": null
+            "description": "Actions falling outside the code headings below."
         },
         "60020": {
             "name": "Condonaci\u00f3n de deuda"
         },
         "60030": {
             "name": "Alivio de la deuda multilateral",
-            "description": null
+            "description": "Grants or credits to cover debt owed to multilateral financial institutions; including contributions to Heavily Indebted Poor Countries (HIPC) Trust Fund."
         },
         "60040": {
             "name": "Reestructuraci\u00f3n y refinanciaci\u00f3n"
         },
         "60061": {
             "name": "Canje de deuda por desarrollo",
-            "description": null
+            "description": "Allocation of debt claims to use for development (e.g., debt for education, debt for environment)."
         },
         "60062": {
             "name": "Otros tipos de canje de deuda",
-            "description": null
+            "description": "Where the debt swap benefits an external agent i.e. is not specifically for development purposes."
         },
         "60063": {
             "name": "Recompra deuda",
-            "description": null
+            "description": "Purchase of debt for the purpose of cancellation."
         },
         "72010": {
             "name": "Ayuda y servicios materiales de emergencia",
-            "description": null
+            "description": "Shelter, water, sanitation, education, health services including supply of medicines and malnutrition management, including medical nutrition management; supply of other nonfood relief items (including cash and voucher delivery modalities) for the benefit of crisisaffected people, including refugees and internally displaced people in developing countries, Includes assistance delivered by or coordinated by international civil protection units in the immediate aftermath of a disaster (in-kind assistance, deployment of specially-equipped teams, logistics and transportation, or assessment and coordination by experts sent to the field). Also includes measures to promote and protect the safety, well-being, dignity and integrity of crisis-affected people including refugees and internally displaced persons in developing countries. (Activities designed to protect the security of persons or properties through the use or display of force are not reportable as ODA.)"
         },
         "72011": {
             "name": "Servicios de atenci\u00f3n sanitaria b\u00e1sica en emergencias",
-            "description": null
+            "description": "Provision of health services (basic health services, mental health, sexual and reproductive health), medical nutritional intervention (therapeutic feeding and medical interventions for treating malnutrition) and supply of medicines for the benefit of affected people. Excludes supplemental feeding (72040)."
         },
         "72012": {
             "name": "Educaci\u00f3n en emergencias",
-            "description": null
+            "description": "Support for education facilities (including restoring pre-existing essential infrastructure and school facilities), teaching, training and learning materials (including digital technologies, as appropriate) and immediate access to quality basic and primary education (including formal and non-formal education), and secondary education (including vocational training and secondary level technical education) in emergencies for the benefit of affected children and youth, particularly targeting girls and women and refugees, life skills for youth and adults, and vocational training for youth and adults"
         },
         "72040": {
             "name": "Ayuda alimentaria de emergencia",
-            "description": null
+            "description": "Provision and distribution of food; cash and vouchers for the purchase of food; non-medical nutritional interventions for the benefit of crisis-affected people, including refugees and internally displaced people in developing countries in emergency situations. Includes logistical costs. Excludes non-emergency food assistance (52010), food security policy and administrative management (43071), household food programmes (43072) and medical nutrition interventions (therapeutic feeding) (72010 and 72011)."
         },
         "72050": {
             "name": "Coordinaci\u00f3n de los servicios de protecci\u00f3n de la ayuda",
-            "description": null
+            "description": "Measures to co-ordinate the assessment and safe delivery of humanitarian aid, including logistic, transport and communication systems; direct financial or technical support to national governments of affected countries to manage a disaster situation; activities to build an evidence base for humanitarian financing and operations, sharing this information and developing standards and guidelines for more effective response; funding for identifying and sharing innovative and scalable solutions to deliver effective humanitarian assistance."
         },
         "73010": {
             "name": "Ayuda a la reconstrucci\u00f3n y a la rehabilitaci\u00f3n",
-            "description": null
+            "description": "Social and economic rehabilitation in the aftermath of emergencies to facilitate recovery and resilience building and enable populations to restore their livelihoods in the wake of an emergency situation (e.g. trauma counselling and treatment, employment programmes). Includes infrastructure necessary for the delivery of humanitarian aid; restoring pre-existing essential infrastructure and facilities (e.g. water and sanitation, shelter, health care services, education); rehabilitation of basic agricultural inputs and livestock. Excludes longer-term reconstruction ('build back better') which is reportable against relevant sectors."
         },
         "74010": {
             "name": "Prevenci\u00f3n de desastres",
-            "description": null
+            "description": "Disaster risk reduction activities (e.g. developing knowledge, natural risks cartography, legal norms for construction); early warning systems; emergency contingency stocks and contingency planning including preparations for forced displacement."
         },
         "74020": {
             "name": "Preparaci\u00f3n de respuesta multirriesgos",
-            "description": null
+            "description": "Building the responsiveness, capability and capacity of international, regional and national humanitarian actors to disasters. Support to the institutional capacities of national and local government, specialised humanitarian bodies, and civil society organisations to anticipate, respond and recover from the impact of potential, imminent and current hazardous events and emergency situations that pose humanitarian threats and could call for a humanitarian response. This includes risk analysis and assessment, mitigation, preparedness, such as stockpiling of emergency items and training and capacity building aimed to increase the speed and effectiveness of lifesaving assistance delivered in the occurrence of crisis."
         },
         "91010": {
             "name": "Costes administrativos (no asignable por sectores)"
         },
         "92010": {
             "name": "Apoyo a las ONG nacionales",
-            "description": null
+            "description": "In the donor country."
         },
         "92020": {
             "name": "Apoyo a las ONG internacionales"
         },
         "92030": {
             "name": "Apoyo a las ONG locales y regionales",
-            "description": null
+            "description": "In the recipient country or region."
         },
         "93010": {
             "name": "Ayuda a refugiados en el pa\u00eds donante (no asignable por sectores)",
-            "description": null
+            "description": "Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months, when costs cannot be disaggregated. See section II.6 and Annex 17."
         },
         "93011": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: alimentaci\u00f3n y alojamiento",
-            "description": null
+            "description": "Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months \u2013 food and shelter: - Food and other essential temporary sustenance provisions such as clothing. - Temporary accommodation facilities (e.g. reception centres, containers, tent camps). In respect of buildings, only the costs of maintenance and upkeep may be reported as ODA. The cost of renting temporary accommodation facilities is eligible. (All construction costs are excluded)."
         },
         "93012": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: capacitaci\u00f3n",
-            "description": null
+            "description": "Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months \u2013 training: - Early childhood education, primary and secondary education for children (this includes school costs but excludes vocational training), as part of temporary sustenance. - Language training and other ad-hoc basic training for refugees e.g. basic life skills for youth and adults (literacy and numeracy training)."
         },
         "93013": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: salud",
-            "description": null
+            "description": "Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: basic health care and psycho-social support for persons with specific needs e.g. unaccompanied minors, persons with disabilities, survivors of violence and torture."
         },
         "93014": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: otro tipo de sustento temporal",
-            "description": null
+            "description": "Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: temporary sustenance other than food and shelter (code 93011), training (93012) and health (93013), i.e.  cash 'pocket money' to cover subsistence costs and assistance in the asylum procedure: translation of documents, legal and administrative counselling, interpretation services."
         },
         "93015": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: repatriaci\u00f3n voluntaria",
-            "description": null
+            "description": "Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: voluntary repatriation of refugees to a developing country during first twelve months."
         },
         "93016": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: transporte",
-            "description": null
+            "description": "Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: transport to the host country in the case of resettlement programmes and transport within the host country."
         },
         "93017": {
             "name": "Refugiados y solicitantes de asilo en pa\u00edses donantes: salvamento mar\u00edtimo",
-            "description": null
+            "description": "Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: rescue of refugees at sea when it is the main purpose of the operation. Only the additional costs related to the operation may be counted."
         },
         "93018": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: costos administrativos",
-            "description": null
+            "description": "Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: administrative costs. Only overhead costs attached to the direct provision of temporary sustenance to refugees are eligible. This includes costs of personnel assigned to provide eligible services to refugees, but does not include costs of personnel who are not involved in the direct execution of these services, e.g. management, human resources, information technology."
         },
         "99810": {
             "name": "Sectores no especificados",
-            "description": null
+            "description": "Contributions to general development of the recipient should be included under programme assistance (51010)."
         },
         "99820": {
             "name": "Sensibilizaci\u00f3n sobre los problemas relacionados con el desarrollo (no asignable por sectores)",
-            "description": null
+            "description": "Spending in donor country for heightened awareness/interest in development co-operation (brochures, lectures, special research projects, etc.)."
         }
     }
 }
