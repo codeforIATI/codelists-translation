@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "name": "Activity Date Type",
+        "description": "Types of date for activities"
+    },
+    "codelist-items": {
+        "start-actual": {
+            "name": "The actual start date, such as date of first disbursement"
+        },
+        "end-actual": {
+            "name": "The actual end date, such as date of last disbursement"
+        },
+        "start-planned": {
+            "name": "The planned start date as recorded in project documentation. Can be date of signature of activity agreement or approval by relevant body"
+        },
+        "end-planned": {
+            "name": "The planned end date as recorded in project documentation"
+        }
+    }
+}

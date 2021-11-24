@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "name": "P\u00e9riode de remboursement du pr\u00eat",
+        "description": "SNPC Remboursement du pr\u00eat nombre de paiements"
+    },
+    "codelist-items": {
+        "1": {
+            "name": "Annuel",
+            "description": "Le pr\u00eat a 1 remboursement par an"
+        },
+        "2": {
+            "name": "Semi-annuel",
+            "description": "Le pr\u00eat a 2 remboursements par an"
+        },
+        "4": {
+            "name": "Trimestriel",
+            "description": "Le pr\u00eat a 4 remboursements par an"
+        },
+        "12": {
+            "name": "Mensuel",
+            "description": "Le pr\u00eat a 12 remboursements par an"
+        }
+    }
+}

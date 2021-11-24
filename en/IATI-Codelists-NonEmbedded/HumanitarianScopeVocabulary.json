@@ -1,0 +1,18 @@
+{
+    "metadata": {
+        "name": "Humanitarian Scope Vocabulary",
+        "description": "The Humanitarian Scope Vocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for humanitarian events and actions.",
+        "category": "Non-Core"
+    },
+    "codelist-items": {
+        "1-2": {
+            "name": "Glide"
+        },
+        "2-1": {
+            "name": "Humanitarian Plan"
+        },
+        "99": {
+            "name": "Reporting Organisation"
+        }
+    }
+}

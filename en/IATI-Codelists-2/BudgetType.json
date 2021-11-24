@@ -1,0 +1,16 @@
+{
+    "metadata": {
+        "name": "Budget Type",
+        "category": "Core"
+    },
+    "codelist-items": {
+        "1": {
+            "name": "Original",
+            "description": "The original budget allocated to the activity"
+        },
+        "2": {
+            "name": "Revised",
+            "description": "The updated budget for an activity"
+        }
+    }
+}

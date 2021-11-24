@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "name": "Type de lieu (cat\u00e9gorie)",
+        "description": "Cette cat\u00e9gorie correspond au \"Feature Class\" du National Geospatial Agency am\u00e9ricain"
+    },
+    "codelist-items": {
+        "A": {},
+        "H": {},
+        "L": {},
+        "P": {},
+        "R": {},
+        "S": {},
+        "T": {},
+        "U": {},
+        "V": {}
+    }
+}

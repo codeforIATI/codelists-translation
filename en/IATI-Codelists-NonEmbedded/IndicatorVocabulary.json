@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "name": "Indicator Vocabulary",
+        "description": "The Indicator Vocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for indicators, for example to specify results.",
+        "category": "Non-Core"
+    },
+    "codelist-items": {
+        "1": {
+            "name": "WHO Registry"
+        },
+        "2": {
+            "name": "Sphere Handbook"
+        },
+        "3": {
+            "name": "US Foreign Assistance Framework"
+        },
+        "4": {
+            "name": "World Bank World Development Indicators"
+        },
+        "5": {
+            "name": "UN Millennium Development Goals Indicators"
+        },
+        "6": {
+            "name": "UNOCHA Humanitarian Response Indicators"
+        },
+        "7": {
+            "name": "HIV/AIDS Indicator Registry"
+        },
+        "8": {
+            "name": "Harmonized Indicators for Private Sector (HIPSO)"
+        },
+        "9": {
+            "name": "UN Sustainable Development Goals (SDG) Indicators"
+        },
+        "99": {
+            "name": "Reporting Organisation"
+        }
+    }
+}

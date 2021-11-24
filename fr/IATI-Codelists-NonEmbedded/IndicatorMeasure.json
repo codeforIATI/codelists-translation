@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Mesure d'indicateur",
+        "description": "Vise \u00e0 indiquer comment un indicateur est mesur\u00e9. Couvre les valeurs qualitatives et quantitatives."
+    },
+    "codelist-items": {
+        "1": {
+            "name": "Unit\u00e9",
+            "description": "L'indicateur est mesur\u00e9 \u00e0 l'aide d'unit\u00e9s."
+        },
+        "2": {
+            "name": "Pourcentage",
+            "description": "L'indicateur est mesur\u00e9 en pourcentage."
+        },
+        "3": {
+            "name": "Nominal",
+            "description": "L'indicateur est mesur\u00e9 selon une \u00e9chelle nominale quantitative."
+        },
+        "4": {
+            "name": "Ordinal",
+            "description": "L'indicateur est mesur\u00e9e selon une \u00e9chelle ordinale quantitative."
+        },
+        "5": {
+            "name": "Qualitatif",
+            "description": "L'indicateur est qualitatif."
+        }
+    }
+}

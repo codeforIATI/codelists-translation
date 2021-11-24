@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "name": "Budget Status",
+        "description": "Code to denote if the described budget is binding.",
+        "category": "Core"
+    },
+    "codelist-items": {
+        "1": {
+            "name": "Indicative",
+            "description": "A non-binding estimate for the described budget."
+        },
+        "2": {
+            "name": "Committed",
+            "description": "A binding agreement for the described budget."
+        }
+    }
+}

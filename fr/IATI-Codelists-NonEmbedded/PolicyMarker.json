@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "name": "Marqueur d'objectifs politiques",
+        "description": "La liste de codes Marqueur d'objectifs politiques est d\u00e9riv\u00e9e des marqueurs d'objectifs politiques d\u00e9clar\u00e9s par le WP-STAT. Les codes eux-m\u00eames sont cr\u00e9\u00e9s par l'IITA."
+    },
+    "codelist-items": {
+        "1": {
+            "name": "Egalit\u00e9 des genres"
+        },
+        "2": {
+            "name": "Aide \u00e0 l'environnement"
+        },
+        "3": {
+            "name": "D\u00e9veloppement participatif/Bonne gouvernance"
+        },
+        "4": {
+            "name": "D\u00e9veloppement du commerce"
+        },
+        "5": {
+            "name": "Aide ax\u00e9e sur les objectifs de la Convention des Nations Unies sur la diversit\u00e9 biologique"
+        },
+        "6": {
+            "name": "Aide ax\u00e9e sur les objectifs de la Convention-cadre des Nations Unies sur les changements climatiques - Att\u00e9nuation"
+        },
+        "7": {
+            "name": "Aide ax\u00e9e sur les objectifs de la Convention-cadre des Nations Unies sur les changements climatiques - Adaptation"
+        },
+        "8": {
+            "name": "Aide ax\u00e9e sur les objectifs de la Convention des Nations Unies sur la lutte contre la d\u00e9sertification"
+        },
+        "9": {
+            "name": "Sant\u00e9 g\u00e9n\u00e9sique, maternelle, n\u00e9onatale et infantile"
+        },
+        "10": {},
+        "11": {},
+        "12": {}
+    }
+}

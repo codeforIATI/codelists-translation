@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "name": "Activity Status",
+        "description": "Lifecycle status of the activity from pipeline to completion"
+    },
+    "codelist-items": {
+        "1": {
+            "name": "Pipeline/identification"
+        },
+        "2": {
+            "name": "Implementation"
+        },
+        "3": {
+            "name": "Finalisation"
+        },
+        "4": {
+            "name": "Closed"
+        },
+        "5": {
+            "name": "Cancelled"
+        },
+        "6": {
+            "name": "Suspended"
+        }
+    }
+}

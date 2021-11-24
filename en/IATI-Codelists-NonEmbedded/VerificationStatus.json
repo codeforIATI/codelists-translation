@@ -1,0 +1,16 @@
+{
+    "metadata": {
+        "name": "Verification Status",
+        "category": "Non-Core"
+    },
+    "codelist-items": {
+        "0": {
+            "name": "Not verified",
+            "description": "The data published for the activity has not been verified"
+        },
+        "1": {
+            "name": "Verified",
+            "description": "The data published for the activity has been verified. "
+        }
+    }
+}

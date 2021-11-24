@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "name": "R\u00e9gion"
+    },
+    "codelist-items": {
+        "88": {
+            "name": "Etats ex-Yougoslavie non sp\u00e9cifi\u00e9"
+        },
+        "89": {
+            "name": "Europe, r\u00e9gional"
+        },
+        "189": {
+            "name": "Nord du Sahara, r\u00e9gional"
+        },
+        "289": {
+            "name": "Sud du Sahara, r\u00e9gional"
+        },
+        "298": {
+            "name": "Afrique, r\u00e9gional"
+        },
+        "380": {
+            "name": "Indes occ., r\u00e9gional"
+        },
+        "389": {
+            "name": "Cara\u00efbes et Am\u00e9rique centrale, r\u00e9gional"
+        },
+        "489": {
+            "name": "Am\u00e9rique du Sud, r\u00e9gional"
+        },
+        "498": {
+            "name": "Am\u00e9rique, r\u00e9gional"
+        },
+        "589": {
+            "name": "Moyen-Orient, r\u00e9gional"
+        },
+        "619": {
+            "name": "Asie centrale, r\u00e9gional"
+        },
+        "679": {
+            "name": "Asie du Sud, r\u00e9gional"
+        },
+        "689": {
+            "name": "Asie du Sud & C., r\u00e9gional"
+        },
+        "789": {
+            "name": "Extr\u00eame-Orient, r\u00e9gional"
+        },
+        "798": {
+            "name": "Asie, r\u00e9gional"
+        },
+        "889": {
+            "name": "Oc\u00e9anie, r\u00e9gional"
+        },
+        "998": {
+            "name": "Pays en d\u00e9veloppement, non sp\u00e9cifi\u00e9"
+        },
+        "1027": {
+            "name": "Afrique de l'est, r\u00e9gional"
+        },
+        "1028": {
+            "name": "Afrique centrale, r\u00e9gional"
+        },
+        "1029": {
+            "name": "Afrique australe, r\u00e9gional"
+        },
+        "1030": {
+            "name": "Afrique occidentale, r\u00e9gional"
+        },
+        "1031": {
+            "name": "Cara\u00efbes, r\u00e9gional"
+        },
+        "1032": {
+            "name": "Am\u00e9rique centrale, r\u00e9gional"
+        },
+        "1033": {
+            "name": "M\u00e9lan\u00e9sie, r\u00e9gional"
+        },
+        "1034": {
+            "name": "Micron\u00e9sie, r\u00e9gional"
+        },
+        "1035": {
+            "name": "Polyn\u00e9sie, r\u00e9gional"
+        }
+    }
+}

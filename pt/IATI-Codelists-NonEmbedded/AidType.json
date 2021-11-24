@@ -1,0 +1,68 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "A01": {
+            "name": "Apoio or\u00e7amental geral"
+        },
+        "A02": {
+            "name": "Apoio or\u00e7amental setorial"
+        },
+        "B01": {
+            "name": "Apoio essencial a ONG, outras entidades privadas, PPP e institui\u00e7\u00f5es de investiga\u00e7\u00e3o"
+        },
+        "B02": {
+            "name": "Contribui\u00e7\u00f5es essenciais para institui\u00e7\u00f5es multilaterais"
+        },
+        "B03": {
+            "name": "Contribui\u00e7\u00f5es para programas e fundos de finalidade espec\u00edfica geridos por parceiros de implementa\u00e7\u00e3o"
+        },
+        "B031": {
+            "name": "Contribui\u00e7\u00f5es para mecanismos de financiamento multidoador/multientidade"
+        },
+        "B032": {
+            "name": "Contribui\u00e7\u00f5es para mecanismos de financiamento multidoador/entidade \u00fanica"
+        },
+        "B033": {
+            "name": "Contribui\u00e7\u00f5es para mecanismos de financiamento com doador \u00fanico e contribui\u00e7\u00f5es destinadas a uma janela de financiamento ou localiza\u00e7\u00e3o geogr\u00e1fica espec\u00edfica"
+        },
+        "B04": {
+            "name": "Fundos comuns/financiamento agrupado"
+        },
+        "C01": {
+            "name": "Interven\u00e7\u00f5es de tipo projeto"
+        },
+        "D01": {
+            "name": "Pessoal do pa\u00eds doador"
+        },
+        "D02": {
+            "name": "Outra assist\u00eancia t\u00e9cnica"
+        },
+        "E01": {
+            "name": "Bolsas de estudo/forma\u00e7\u00e3o no pa\u00eds doador"
+        },
+        "E02": {
+            "name": "Custos estudantis estimados"
+        },
+        "F01": {
+            "name": "Al\u00edvio de d\u00edvida"
+        },
+        "G01": {
+            "name": "Custos administrativos n\u00e3o inclu\u00eddos noutros lugares"
+        },
+        "H01": {
+            "name": "Conscientiza\u00e7\u00e3o sobre desenvolvimento"
+        },
+        "H02": {
+            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores"
+        },
+        "H03": {
+            "name": "Requerentes de asilo aceitos em \u00faltima inst\u00e2ncia"
+        },
+        "H04": {
+            "name": "Requerentes de asilo rejeitados em \u00faltima inst\u00e2ncia"
+        },
+        "H05": {
+            "name": "Refugiados reconhecidos"
+        }
+    }
+}

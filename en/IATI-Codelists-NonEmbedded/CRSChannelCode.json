@@ -1,0 +1,1290 @@
+{
+    "metadata": {
+        "name": "CRS Channel Code",
+        "category": "Replicated"
+    },
+    "codelist-items": {
+        "10000": {
+            "name": "Public Sector Institutions"
+        },
+        "11000": {
+            "name": "Donor Government"
+        },
+        "11001": {
+            "name": "Central Government"
+        },
+        "11002": {
+            "name": "Local Government"
+        },
+        "11003": {
+            "name": "Public corporations"
+        },
+        "11004": {
+            "name": "Other public entities in donor country"
+        },
+        "12000": {
+            "name": "Recipient Government"
+        },
+        "12001": {
+            "name": "Central Government"
+        },
+        "12002": {
+            "name": "Local Government"
+        },
+        "12003": {
+            "name": "Public corporations"
+        },
+        "12004": {
+            "name": "Other public entities in recipient country"
+        },
+        "13000": {
+            "name": "Third Country Government (Delegated co-operation)"
+        },
+        "20000": {
+            "name": "Non-Governmental Organisation (NGO) and Civil Society"
+        },
+        "21000": {
+            "name": "International NGO"
+        },
+        "21001": {
+            "name": "Association of Geoscientists for International Development"
+        },
+        "21002": {
+            "name": "Agency for International Trade Information and Co-operation"
+        },
+        "21003": {
+            "name": "Latin American Council for Social Sciences"
+        },
+        "21004": {
+            "name": "Council for the Development of Economic and Social Research in Africa"
+        },
+        "21005": {
+            "name": "Consumer Unity and Trust Society International"
+        },
+        "21006": {
+            "name": "Development Gateway Foundation"
+        },
+        "21007": {
+            "name": "Environmental Liaison Centre International"
+        },
+        "21008": {
+            "name": "Eurostep"
+        },
+        "21009": {
+            "name": "Forum for Agricultural Research in Africa"
+        },
+        "21010": {
+            "name": "Forum for African Women Educationalists"
+        },
+        "21011": {
+            "name": "Global Campaign for Education"
+        },
+        "21013": {
+            "name": "Health Action International"
+        },
+        "21014": {
+            "name": "Human Rights Information and Documentation Systems"
+        },
+        "21015": {
+            "name": "International Catholic Rural Association"
+        },
+        "21016": {
+            "name": "International Committee of the Red Cross"
+        },
+        "21017": {
+            "name": "International Centre for Trade and Sustainable Development"
+        },
+        "21018": {
+            "name": "International Federation of Red Cross and Red Crescent Societies"
+        },
+        "21019": {
+            "name": "International Federation of Settlements and Neighbourhood Centres"
+        },
+        "21020": {
+            "name": "International HIV/AIDS Alliance"
+        },
+        "21021": {
+            "name": "International Institute for Environment and Development"
+        },
+        "21022": {
+            "name": "International Network for Alternative Financial Institutions"
+        },
+        "21023": {
+            "name": "International Planned Parenthood Federation"
+        },
+        "21024": {
+            "name": "Inter Press Service, International Association"
+        },
+        "21025": {
+            "name": "International Seismological Centre"
+        },
+        "21026": {
+            "name": "International Service for Human Rights"
+        },
+        "21027": {
+            "name": "ITF Enhancing Human Security"
+        },
+        "21028": {
+            "name": "International University Exchange Fund - IUEF Stip. in Africa and Latin America"
+        },
+        "21029": {
+            "name": "Doctors Without Borders"
+        },
+        "21030": {
+            "name": "Pan African Institute for Development"
+        },
+        "21031": {
+            "name": "PANOS Institute"
+        },
+        "21032": {
+            "name": "Population Services International"
+        },
+        "21033": {
+            "name": "Transparency International"
+        },
+        "21034": {
+            "name": "International Union Against Tuberculosis and Lung Disease"
+        },
+        "21035": {
+            "name": "World Organisation Against Torture"
+        },
+        "21036": {
+            "name": "World University Service"
+        },
+        "21037": {
+            "name": "Women's World Banking"
+        },
+        "21038": {
+            "name": "International Alert"
+        },
+        "21039": {
+            "name": "International Institute for Sustainable Development"
+        },
+        "21040": {
+            "name": "International Women's Tribune Centre"
+        },
+        "21041": {
+            "name": "Society for International Development"
+        },
+        "21042": {
+            "name": "International Peacebuilding Alliance"
+        },
+        "21043": {
+            "name": "European Parliamentarians for Africa"
+        },
+        "21044": {
+            "name": "International Council for the Control of Iodine Deficiency Disorders"
+        },
+        "21045": {
+            "name": "African Medical and Research Foundation"
+        },
+        "21046": {
+            "name": "Agency for Cooperation and Research in Development"
+        },
+        "21047": {
+            "name": "AgriCord"
+        },
+        "21048": {
+            "name": "Association of African Universities"
+        },
+        "21049": {
+            "name": "European Centre for Development Policy Management"
+        },
+        "21050": {
+            "name": "Geneva Call"
+        },
+        "21051": {
+            "name": "Institut Sup\u00e9rieur Panafricaine d\u2019Economie Coop\u00e9rative"
+        },
+        "21053": {
+            "name": "IPAS-Protecting Women\u2019s Health, Advancing Women\u2019s Reproductive Rights"
+        },
+        "21054": {
+            "name": "Life and Peace Institute"
+        },
+        "21055": {
+            "name": "Regional AIDS Training Network"
+        },
+        "21056": {
+            "name": "Renewable Energy and Energy Efficiency Partnership"
+        },
+        "21057": {
+            "name": "International Centre for Transitional Justice"
+        },
+        "21058": {
+            "name": "International Crisis Group"
+        },
+        "21059": {
+            "name": "Africa Solidarity Fund"
+        },
+        "21060": {
+            "name": "Association for the Prevention of Torture"
+        },
+        "21061": {
+            "name": "International Rehabilitation Council for Torture Victims"
+        },
+        "21062": {
+            "name": "The Nature Conservancy"
+        },
+        "21063": {
+            "name": "Conservation International"
+        },
+        "21064": {
+            "name": "Clinton Health Access Initiative, Inc."
+        },
+        "21501": {
+            "name": "OXFAM International"
+        },
+        "21502": {
+            "name": "World Vision"
+        },
+        "21503": {
+            "name": "Family Health International 360"
+        },
+        "21504": {
+            "name": "International Relief and Development"
+        },
+        "21505": {
+            "name": "Save the Children"
+        },
+        "21506": {
+            "name": "International Rescue Committee"
+        },
+        "21507": {
+            "name": "Pact World"
+        },
+        "22000": {
+            "name": "Donor country-based NGO"
+        },
+        "22501": {
+            "name": "OXFAM - provider country office"
+        },
+        "22502": {
+            "name": "Save the Children - donor country office"
+        },
+        "23000": {
+            "name": "Developing country-based NGO"
+        },
+        "23501": {
+            "name": "National Red Cross and Red Crescent Societies"
+        },
+        "30000": {
+            "name": "Public-Private Partnerships (PPP) and Networks"
+        },
+        "30001": {
+            "name": "Global Alliance for Improved Nutrition"
+        },
+        "30003": {
+            "name": "Global e-Schools and Communities Initiative"
+        },
+        "30004": {
+            "name": "Global Water Partnership"
+        },
+        "30005": {
+            "name": "International AIDS Vaccine Initiative"
+        },
+        "30006": {
+            "name": "International Partnership on Microbicides"
+        },
+        "30007": {
+            "name": "Global Alliance for ICT and Development"
+        },
+        "30008": {
+            "name": "Cities Alliance"
+        },
+        "30009": {
+            "name": "Small Arms Survey"
+        },
+        "30010": {
+            "name": "International drug purchase facility"
+        },
+        "30011": {
+            "name": "International Union for the Conservation of Nature"
+        },
+        "30012": {
+            "name": "Global Climate Partnership Fund"
+        },
+        "30013": {
+            "name": "Microfinance Enhancement Facility"
+        },
+        "30014": {
+            "name": "Regional Micro, Small and Medium Enterprise Investment Fund for Sub-Saharan Africa"
+        },
+        "30015": {
+            "name": "Global Energy Efficiency and Renewable Energy Fund"
+        },
+        "30016": {
+            "name": "European Fund for Southeast Europe"
+        },
+        "30017": {
+            "name": "SANAD Fund for Micro, Small and Medium Enterprises"
+        },
+        "30018": {
+            "name": "African Finance Corporation"
+        },
+        "30019": {
+            "name": "Currency Exchange Fund N.V."
+        },
+        "30020": {
+            "name": "Global Energy Efficiency and Renewable Energy Fund"
+        },
+        "31000": {
+            "name": "Public-Private Partnerships (PPP)"
+        },
+        "31001": {
+            "name": "Global Development Network"
+        },
+        "31002": {
+            "name": "Global Knowledge Partnership"
+        },
+        "31003": {
+            "name": "International Land Coalition"
+        },
+        "31004": {
+            "name": "Extractive Industries Transparency Initiative International Secretariat"
+        },
+        "31005": {
+            "name": "Parliamentary Network on the World Bank"
+        },
+        "31006": {
+            "name": "Coalition for Epidemic Preparedness Innovations"
+        },
+        "32000": {
+            "name": "Networks"
+        },
+        "40000": {
+            "name": "Multilateral Organisations"
+        },
+        "41000": {
+            "name": "United Nations (UN) agency, fund or commission"
+        },
+        "41100": {
+            "name": "UN entities (core contributions reportable in full)"
+        },
+        "41101": {
+            "name": "Convention to Combat Desertification"
+        },
+        "41102": {
+            "name": "Desert Locust Control Organisation for Eastern Africa"
+        },
+        "41103": {
+            "name": "Economic Commission for Africa"
+        },
+        "41104": {
+            "name": "Economic Commission for Latin America and the Caribbean"
+        },
+        "41105": {
+            "name": "Economic and Social Commission for Western Asia"
+        },
+        "41106": {
+            "name": "Economic and Social Commission for Asia and the Pacific"
+        },
+        "41107": {
+            "name": "International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only)"
+        },
+        "41108": {
+            "name": "International Fund for Agricultural Development"
+        },
+        "41109": {
+            "name": "International Research and Training Institute for the Advancement of Women"
+        },
+        "41110": {
+            "name": "Joint United Nations Programme on HIV/AIDS"
+        },
+        "41111": {
+            "name": "United Nations Capital Development Fund"
+        },
+        "41112": {
+            "name": "United Nations Conference on Trade and Development"
+        },
+        "41114": {
+            "name": "United Nations Development Programme"
+        },
+        "41116": {
+            "name": "United Nations Environment Programme"
+        },
+        "41119": {
+            "name": "United Nations Population Fund"
+        },
+        "41120": {
+            "name": "United Nations Human Settlement Programme"
+        },
+        "41121": {
+            "name": "United Nations Office of the United Nations High Commissioner for Refugees"
+        },
+        "41122": {
+            "name": "United Nations Children\u2019s Fund"
+        },
+        "41123": {
+            "name": "United Nations Industrial Development Organisation"
+        },
+        "41124": {
+            "name": "United Nations Development Fund for Women"
+        },
+        "41125": {
+            "name": "United Nations Institute for Training and Research"
+        },
+        "41126": {
+            "name": "United Nations Mine Action Service"
+        },
+        "41127": {
+            "name": "United Nations Office of Co-ordination of Humanitarian Affairs"
+        },
+        "41128": {
+            "name": "United Nations Office on Drugs and Crime"
+        },
+        "41129": {
+            "name": "United Nations Research Institute for Social Development"
+        },
+        "41130": {
+            "name": "United Nations Relief and Works Agency for Palestine Refugees in the Near East"
+        },
+        "41131": {
+            "name": "United Nations System Staff College"
+        },
+        "41132": {
+            "name": "United Nations System Standing Committee on Nutrition"
+        },
+        "41133": {
+            "name": "United Nations Special Initiative on Africa"
+        },
+        "41134": {
+            "name": "United Nations University (including Endowment Fund)"
+        },
+        "41135": {
+            "name": "United Nations Volunteers"
+        },
+        "41136": {
+            "name": "United Nations Voluntary Fund on Disability"
+        },
+        "41137": {
+            "name": "United Nations Voluntary Fund for Technical Co-operation in the Field of Human Rights"
+        },
+        "41138": {
+            "name": "United Nations Voluntary Fund for Victims of Torture"
+        },
+        "41140": {
+            "name": "World Food Programme"
+        },
+        "41141": {
+            "name": "United Nations Peacebuilding Fund"
+        },
+        "41142": {
+            "name": "United Nations Democracy Fund"
+        },
+        "41143": {
+            "name": "World Health Organisation - core voluntary contributions account"
+        },
+        "41144": {
+            "name": "International Labour Organisation - Regular Budget Supplementary Account"
+        },
+        "41145": {
+            "name": "International Maritime Organisation - Technical Co-operation Fund"
+        },
+        "41146": {
+            "name": "United Nations Entity for Gender Equality and the Empowerment of Women"
+        },
+        "41147": {
+            "name": "Central Emergency Response Fund"
+        },
+        "41148": {
+            "name": "United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs"
+        },
+        "41149": {
+            "name": "United Nations Development Coordination Office"
+        },
+        "41150": {
+            "name": "United Nations Institute for Disarmament Research"
+        },
+        "41151": {
+            "name": "International Agency for Research on Cancer"
+        },
+        "41300": {
+            "name": "Other UN (Core Contributions Reportable in Part)"
+        },
+        "41301": {
+            "name": "Food and Agricultural Organisation"
+        },
+        "41302": {
+            "name": "International Labour Organisation - Assessed Contributions"
+        },
+        "41303": {
+            "name": "International Telecommunications Union"
+        },
+        "41304": {
+            "name": "United Nations Educational, Scientific and Cultural Organisation"
+        },
+        "41305": {
+            "name": "United Nations"
+        },
+        "41306": {
+            "name": "Universal Postal Union"
+        },
+        "41307": {
+            "name": "World Health Organisation - assessed contributions"
+        },
+        "41308": {
+            "name": "World Intellectual Property Organisation"
+        },
+        "41309": {
+            "name": "World Meteorological Organisation"
+        },
+        "41310": {
+            "name": "United Nations Department of Peace Operations - UN Peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++."
+        },
+        "41311": {
+            "name": "United Nations Peacebuilding Fund (Window One:  Flexible Contributions Only)"
+        },
+        "41312": {
+            "name": "International Atomic Energy Agency - assessed contributions"
+        },
+        "41313": {
+            "name": "United Nations High Commissioner for Human Rights (extrabudgetary contributions only)"
+        },
+        "41314": {
+            "name": "United Nations Economic Commission for Europe (extrabudgetary contributions only)"
+        },
+        "41315": {
+            "name": "United Nations Office for Disaster Reduction"
+        },
+        "41316": {
+            "name": "United Nations Framework Convention on Climate Change"
+        },
+        "41317": {
+            "name": "Green Climate Fund"
+        },
+        "41318": {
+            "name": "Global Mechanism"
+        },
+        "41319": {
+            "name": "World Tourism Organisation"
+        },
+        "41320": {
+            "name": "Technology Bank\u00a0for\u00a0Least\u00a0Developed Countries"
+        },
+        "41400": {
+            "name": "UN inter-agency pooled funds"
+        },
+        "41401": {
+            "name": "UN-Multi Partner Trust Fund Office"
+        },
+        "41500": {
+            "name": "UN single-agency thematic funds"
+        },
+        "41501": {
+            "name": "United Nations Reducing Emissions from Deforestation and Forest Degradation"
+        },
+        "41502": {
+            "name": "United Nations Office for Project Services"
+        },
+        "41503": {
+            "name": "UN-led Country-based Pooled Funds"
+        },
+        "41600": {
+            "name": "Existing UN channels not included in Standard I - UN entity- of the UN Data Cube reporting framework",
+            "description": "Canaux existants de l'ONU non inclus dans la norme I - entit\u00e9 des Nations Unies - du cadre de reporting du cube de donn\u00e9es de l'ONU"
+        },
+        "42000": {
+            "name": "European Union Institutions"
+        },
+        "42001": {
+            "name": "European Commission - Development Share of Budget"
+        },
+        "42003": {
+            "name": "European Commission - European Development Fund"
+        },
+        "42004": {
+            "name": "European Investment Bank"
+        },
+        "42005": {
+            "name": "Facility for Euro-Mediterranean Investment and Partnership Trust Fund"
+        },
+        "43000": {
+            "name": "International Monetary Fund (IMF)"
+        },
+        "43001": {
+            "name": "International Monetary Fund - Poverty Reduction and Growth Trust"
+        },
+        "43002": {
+            "name": "International Monetary Fund - Poverty Reduction and Growth - Heavily Indebted Poor Countries Debt Relief Initiative Trust Fund [includes HIPC, Extended Credit Facility (ECF), and ECF-HIPC sub-accounts]"
+        },
+        "43003": {
+            "name": "International Monetary Fund - Subsidization of Emergency Post Conflict Assistance/Emergency Assistance for Natural Disasters for PRGT-eligible members"
+        },
+        "43004": {
+            "name": "International Monetary Fund - Poverty Reduction and Growth - Multilateral Debt Relief Initiative Trust"
+        },
+        "43005": {
+            "name": "International Monetary Fund - Post-Catastrophe Debt Relief Trust"
+        },
+        "43006": {
+            "name": "Catastrophe Containment and Relief Trust"
+        },
+        "44000": {
+            "name": "World Bank Group (WB)"
+        },
+        "44001": {
+            "name": "International Bank for Reconstruction and Development"
+        },
+        "44002": {
+            "name": "International Development Association"
+        },
+        "44003": {
+            "name": "International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund"
+        },
+        "44004": {
+            "name": "International Finance Corporation"
+        },
+        "44005": {
+            "name": "Multilateral Investment Guarantee Agency"
+        },
+        "44006": {
+            "name": "Advance Market Commitments"
+        },
+        "44007": {
+            "name": "International Development Association - Multilateral Debt Relief Initiative"
+        },
+        "44008": {
+            "name": "Partnership for Market Implementation"
+        },
+        "45000": {
+            "name": "World Trade Organisation (WTO)"
+        },
+        "45001": {
+            "name": "World Trade Organisation - International Trade Centre"
+        },
+        "45002": {
+            "name": "World Trade Organisation - Advisory Centre on WTO Law"
+        },
+        "45003": {
+            "name": "World Trade Organisation - Doha Development Agenda Global Trust Fund"
+        },
+        "46000": {
+            "name": "Regional Development Banks"
+        },
+        "46002": {
+            "name": "African Development Bank"
+        },
+        "46003": {
+            "name": "African Development Fund"
+        },
+        "46004": {
+            "name": "Asian Development Bank"
+        },
+        "46005": {
+            "name": "Asian Development Fund"
+        },
+        "46006": {
+            "name": "Black Sea Trade and Development Bank"
+        },
+        "46007": {
+            "name": "Central American Bank for Economic Integration"
+        },
+        "46008": {
+            "name": "Development Bank of Latin America"
+        },
+        "46009": {
+            "name": "Caribbean Development Bank"
+        },
+        "46012": {
+            "name": "Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund"
+        },
+        "46013": {
+            "name": "Inter-American Development Bank, Fund for Special Operations"
+        },
+        "46015": {
+            "name": "European Bank for Reconstruction and Development"
+        },
+        "46016": {
+            "name": "European Bank for Reconstruction and Development \u2013 technical co-operation and special funds (ODA-eligible countries only)"
+        },
+        "46017": {
+            "name": "European Bank for Reconstruction and Development \u2013 technical co-operation and special funds (all EBRD countries of operations)"
+        },
+        "46018": {
+            "name": "European Bank for Reconstruction and Development - Early Transition Countries Fund"
+        },
+        "46019": {
+            "name": "European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund"
+        },
+        "46020": {
+            "name": "Central African States Development Bank"
+        },
+        "46021": {
+            "name": "West African Development Bank"
+        },
+        "46022": {
+            "name": "African Export Import Bank"
+        },
+        "46023": {
+            "name": "Eastern and Southern African Trade and Development Bank"
+        },
+        "46024": {
+            "name": "Council of Europe Development Bank"
+        },
+        "46025": {
+            "name": "Islamic Development Bank"
+        },
+        "46026": {
+            "name": "Asian Infrastructure Investment Bank"
+        },
+        "46027": {
+            "name": "Financial Fund for the Development of the River Plate Basin"
+        },
+        "47000": {
+            "name": "Other multilateral institutions"
+        },
+        "47001": {
+            "name": "African Capacity Building Foundation"
+        },
+        "47002": {
+            "name": "Asian Productivity Organisation"
+        },
+        "47003": {
+            "name": "Association of South East Asian Nations: Economic Co-operation"
+        },
+        "47004": {
+            "name": "ASEAN Cultural Fund"
+        },
+        "47005": {
+            "name": "African Union (excluding peacekeeping facilities)"
+        },
+        "47008": {
+            "name": "World Vegetable Centre"
+        },
+        "47009": {
+            "name": "African and Malagasy Council for Higher Education"
+        },
+        "47010": {
+            "name": "Commonwealth Agency for Public Administration and Management"
+        },
+        "47011": {
+            "name": "Caribbean Community Secretariat"
+        },
+        "47012": {
+            "name": "Caribbean Epidemiology Centre"
+        },
+        "47013": {
+            "name": "Commonwealth Foundation"
+        },
+        "47014": {
+            "name": "Commonwealth Fund for Technical Co-operation"
+        },
+        "47015": {
+            "name": "CGIAR Fund"
+        },
+        "47016": {
+            "name": "Commonwealth Institute"
+        },
+        "47017": {
+            "name": "International Centre for Tropical Agriculture"
+        },
+        "47018": {
+            "name": "Centre for International Forestry Research"
+        },
+        "47019": {
+            "name": "International Centre for Advanced Mediterranean Agronomic Studies"
+        },
+        "47020": {
+            "name": "International Maize and Wheat Improvement Centre"
+        },
+        "47021": {
+            "name": "International Potato Centre"
+        },
+        "47022": {
+            "name": "Convention on International Trade in Endangered Species of Wild Flora and Fauna"
+        },
+        "47023": {
+            "name": "Commonwealth Legal Advisory Service"
+        },
+        "47024": {
+            "name": "Commonwealth Media Development Fund"
+        },
+        "47025": {
+            "name": "Commonwealth of Learning"
+        },
+        "47026": {
+            "name": "Community of Portuguese Speaking Countries"
+        },
+        "47027": {
+            "name": "Colombo Plan"
+        },
+        "47028": {
+            "name": "Commonwealth Partnership for Technical Management"
+        },
+        "47029": {
+            "name": "Sahel and West Africa Club"
+        },
+        "47030": {
+            "name": "Commonwealth Scientific Council"
+        },
+        "47031": {
+            "name": "Commonwealth Small States Office"
+        },
+        "47032": {
+            "name": "Commonwealth Trade and Investment Access Facility"
+        },
+        "47033": {
+            "name": "Commonwealth Youth Programme"
+        },
+        "47034": {
+            "name": "Economic Community of West African States"
+        },
+        "47035": {
+            "name": "Environmental Development Action in the Third World"
+        },
+        "47036": {
+            "name": "European and Mediterranean Plant Protection Organisation"
+        },
+        "47037": {
+            "name": "Eastern-Regional Organisation of Public Administration"
+        },
+        "47038": {
+            "name": "INTERPOL Fund for Aid and Technical Assistance to Developing Countries"
+        },
+        "47040": {
+            "name": "Forum Fisheries Agency"
+        },
+        "47041": {
+            "name": "Food and Fertilizer Technology Centre"
+        },
+        "47042": {
+            "name": "Foundation for International Training"
+        },
+        "47043": {
+            "name": "Global Crop Diversity Trust"
+        },
+        "47044": {
+            "name": "Global Environment Facility Trust Fund"
+        },
+        "47045": {
+            "name": "Global Fund to Fight AIDS, Tuberculosis and Malaria"
+        },
+        "47046": {
+            "name": "International Organisation of the Francophonie"
+        },
+        "47047": {
+            "name": "International African Institute"
+        },
+        "47048": {
+            "name": "Inter-American Indian Institute"
+        },
+        "47049": {
+            "name": "International Bureau of Education - International Educational Reporting System (IERS)"
+        },
+        "47050": {
+            "name": "International Cotton Advisory Committee"
+        },
+        "47051": {
+            "name": "International Centre for Agricultural Research in Dry Areas"
+        },
+        "47053": {
+            "name": "International Centre for Diarrhoeal Disease Research, Bangladesh"
+        },
+        "47054": {
+            "name": "International Centre of Insect Physiology and Ecology"
+        },
+        "47055": {
+            "name": "International Centre for Development Oriented Research in Agriculture"
+        },
+        "47056": {
+            "name": "World AgroForestry Centre"
+        },
+        "47057": {
+            "name": "International Crop Research for Semi-Arid Tropics"
+        },
+        "47058": {
+            "name": "International Institute for Democracy and Electoral Assistance"
+        },
+        "47059": {
+            "name": "International Development Law Organisation"
+        },
+        "47060": {
+            "name": "International Institute for Cotton"
+        },
+        "47061": {
+            "name": "Inter-American Institute for Co-operation on Agriculture"
+        },
+        "47062": {
+            "name": "International Institute of Tropical Agriculture"
+        },
+        "47063": {
+            "name": "International Livestock Research Institute"
+        },
+        "47064": {
+            "name": "International Network for Bamboo and Rattan"
+        },
+        "47065": {
+            "name": "Intergovernmental Oceanographic Commission"
+        },
+        "47066": {
+            "name": "International Organisation for Migration"
+        },
+        "47067": {
+            "name": "Intergovernmental Panel on Climate Change"
+        },
+        "47068": {
+            "name": "Asia-Pacific Fishery Commission"
+        },
+        "47069": {
+            "name": "Bioversity International"
+        },
+        "47070": {
+            "name": "International Rice Research Institute"
+        },
+        "47071": {
+            "name": "International Seed Testing Association"
+        },
+        "47073": {
+            "name": "International Tropical Timber Organisation"
+        },
+        "47074": {
+            "name": "International Vaccine Institute"
+        },
+        "47075": {
+            "name": "International Water Management Institute"
+        },
+        "47076": {
+            "name": "Justice Studies Centre of the Americas"
+        },
+        "47077": {
+            "name": "Mekong River Commission"
+        },
+        "47078": {
+            "name": "Multilateral Fund for the Implementation of the Montreal Protocol"
+        },
+        "47079": {
+            "name": "Organisation of American States"
+        },
+        "47080": {
+            "name": "Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only)"
+        },
+        "47081": {
+            "name": "OECD Development Centre"
+        },
+        "47082": {
+            "name": "Organisation of Eastern Caribbean States"
+        },
+        "47083": {
+            "name": "Pan-American Health Organisation"
+        },
+        "47084": {
+            "name": "Pan-American Institute of Geography and History"
+        },
+        "47085": {
+            "name": "Pan-American Railway Congress Association"
+        },
+        "47086": {
+            "name": "Private Infrastructure Development Group"
+        },
+        "47087": {
+            "name": "Pacific Islands Forum Secretariat"
+        },
+        "47088": {
+            "name": "Relief Net"
+        },
+        "47089": {
+            "name": "Southern African Development Community"
+        },
+        "47090": {
+            "name": "Southern African Transport and Communications Commission"
+        },
+        "47091": {
+            "name": "(Colombo Plan) Special Commonwealth African Assistance Programme"
+        },
+        "47092": {
+            "name": "South East Asian Fisheries Development Centre"
+        },
+        "47093": {
+            "name": "South East Asian Ministers of Education"
+        },
+        "47094": {
+            "name": "South Pacific Applied Geoscience Commission"
+        },
+        "47095": {
+            "name": "South Pacific Board for Educational Assessment"
+        },
+        "47096": {
+            "name": "Secretariat of the Pacific Community"
+        },
+        "47097": {
+            "name": "Pacific Regional Environment Programme"
+        },
+        "47098": {
+            "name": "Unrepresented Nations and Peoples\u2019 Organisation"
+        },
+        "47099": {
+            "name": "University of the South Pacific"
+        },
+        "47100": {
+            "name": "West African Monetary Union"
+        },
+        "47101": {
+            "name": "Africa Rice Centre"
+        },
+        "47102": {
+            "name": "World Customs Organisation Fellowship Programme"
+        },
+        "47103": {
+            "name": "World Maritime University"
+        },
+        "47104": {
+            "name": "WorldFish Centre"
+        },
+        "47105": {
+            "name": "Common Fund for Commodities"
+        },
+        "47106": {
+            "name": "Geneva Centre for the Democratic Control of Armed Forces"
+        },
+        "47107": {
+            "name": "International Finance Facility for Immunisation"
+        },
+        "47108": {
+            "name": "Multi-Country Demobilisation and Reintegration Program"
+        },
+        "47109": {
+            "name": "Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities)"
+        },
+        "47110": {
+            "name": "Organisation of the Black Sea Economic Cooperation"
+        },
+        "47111": {
+            "name": "Adaptation Fund"
+        },
+        "47112": {
+            "name": "Central European Initiative - Special Fund for Climate and Environmental Protection"
+        },
+        "47113": {
+            "name": "Economic and Monetary Community of Central Africa"
+        },
+        "47114": {
+            "name": "Asian Forest Cooperation Organisation"
+        },
+        "47116": {
+            "name": "Integrated Framework for Trade-Related Technical Assistance to Least Developed Countries"
+        },
+        "47117": {
+            "name": "New Partnership for Africa's Development"
+        },
+        "47118": {
+            "name": "Regional Organisation for the Strengthening of Supreme Audit Institutions of Francophone Sub-Saharan Countries"
+        },
+        "47119": {
+            "name": "Sahara and Sahel Observatory"
+        },
+        "47120": {
+            "name": "South Asian Association for Regional Cooperation"
+        },
+        "47121": {
+            "name": "United Cities and Local Governments of Africa"
+        },
+        "47122": {
+            "name": "Global Alliance for Vaccines and Immunization"
+        },
+        "47123": {
+            "name": "Geneva International Centre for Humanitarian Demining"
+        },
+        "47124": {
+            "name": "International Anti-Corruption Academy"
+        },
+        "47125": {
+            "name": "International Centre for Genetic Engineering and Biotechnology"
+        },
+        "47127": {
+            "name": "Latin-American Energy Organisation"
+        },
+        "47128": {
+            "name": "Nordic Development Fund"
+        },
+        "47129": {
+            "name": "Global Environment Facility - Least Developed Countries Fund"
+        },
+        "47130": {
+            "name": "Global Environment Facility - Special Climate Change Fund"
+        },
+        "47131": {
+            "name": "Organisation for Security and Co-operation in Europe"
+        },
+        "47132": {
+            "name": "Commonwealth Secretariat (ODA-eligible contributions only)"
+        },
+        "47134": {
+            "name": "Clean Technology Fund"
+        },
+        "47135": {
+            "name": "Strategic Climate Fund"
+        },
+        "47136": {
+            "name": "Global Green Growth Institute"
+        },
+        "47137": {
+            "name": "African Risk Capacity Group"
+        },
+        "47138": {
+            "name": "Council of Europe"
+        },
+        "47139": {
+            "name": "World Customs Organisation Customs Co-operation Fund"
+        },
+        "47140": {
+            "name": "Organisation of Ibero-American States for Education, Science and Culture"
+        },
+        "47141": {
+            "name": "African Tax Administration Forum"
+        },
+        "47142": {
+            "name": "OPEC Fund for International Development"
+        },
+        "47143": {
+            "name": "Global Community Engagement and Resilience Fund"
+        },
+        "47144": {
+            "name": "International Renewable Energy Agency"
+        },
+        "47145": {
+            "name": "Center of Excellence in Finance"
+        },
+        "47146": {
+            "name": "International Investment Bank"
+        },
+        "47147": {
+            "name": "International Finance Facility for Education"
+        },
+        "47148": {
+            "name": "World Organisation for Animal Health"
+        },
+        "47400": {
+            "name": "European Space Agency (ESA) programme 'Space in support of International Development Aid'"
+        },
+        "47501": {
+            "name": "Global Partnership for Education"
+        },
+        "47502": {
+            "name": "Global Fund for Disaster Risk Reduction"
+        },
+        "47503": {
+            "name": "Global Agriculture and Food Security Program"
+        },
+        "47504": {
+            "name": "Forest Carbon Partnership Facility"
+        },
+        "50000": {
+            "name": "Others"
+        },
+        "51000": {
+            "name": "University, college or other teaching institution, research institute or think-tank"
+        },
+        "51001": {
+            "name": "International Food Policy Research Institute"
+        },
+        "52000": {
+            "name": "Other"
+        },
+        "60000": {
+            "name": "Private Sector Institutions"
+        },
+        "61000": {
+            "name": "Private sector in provider country"
+        },
+        "61001": {
+            "name": "Banks (deposit taking corporations)"
+        },
+        "61002": {
+            "name": "Private exporter in provider country"
+        },
+        "61003": {
+            "name": "Investment funds and other collective investment institutions"
+        },
+        "61004": {
+            "name": "Holding companies, trusts and Special Purpose Vehicles"
+        },
+        "61005": {
+            "name": "Insurance Corporations"
+        },
+        "61006": {
+            "name": "Pension Funds"
+        },
+        "61007": {
+            "name": "Other financial corporations"
+        },
+        "61008": {
+            "name": "Exporters"
+        },
+        "61009": {
+            "name": "Other non-financial corporations"
+        },
+        "61010": {
+            "name": "Retail investors"
+        },
+        "62000": {
+            "name": "Private sector in recipient country"
+        },
+        "62001": {
+            "name": "Banks (deposit taking corporations except Micro Finance Institutions)"
+        },
+        "62002": {
+            "name": "Micro Finance Institutions (deposit and non-deposit)"
+        },
+        "62003": {
+            "name": "Investment funds and other collective investment institutions"
+        },
+        "62004": {
+            "name": "Holding companies, trusts and Special Purpose Vehicles"
+        },
+        "62005": {
+            "name": "Insurance Corporations"
+        },
+        "62006": {
+            "name": "Pension Funds"
+        },
+        "62007": {
+            "name": "Other financial corporations"
+        },
+        "62008": {
+            "name": "Importers/Exporters"
+        },
+        "62009": {
+            "name": "Other non-financial corporations"
+        },
+        "62010": {
+            "name": "Retail investors"
+        },
+        "63000": {
+            "name": "Private sector in third country"
+        },
+        "63001": {
+            "name": "Banks (deposit taking corporations except Micro Finance Institutions)"
+        },
+        "63002": {
+            "name": "Micro Finance Institutions (deposit and non-deposit)"
+        },
+        "63003": {
+            "name": "Investment funds and other collective investment institutions"
+        },
+        "63004": {
+            "name": "Holding companies, trusts and Special Purpose Vehicles"
+        },
+        "63005": {
+            "name": "Insurance Corporations"
+        },
+        "63006": {
+            "name": "Pension Funds"
+        },
+        "63007": {
+            "name": "Other financial corporations"
+        },
+        "63008": {
+            "name": "Exporters"
+        },
+        "63009": {
+            "name": "Other non-financial corporations"
+        },
+        "63010": {
+            "name": "Retail investors"
+        },
+        "90000": {
+            "name": "Other"
+        }
+    }
+}

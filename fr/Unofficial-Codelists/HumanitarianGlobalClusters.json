@@ -1,0 +1,52 @@
+{
+    "metadata": {
+        "name": "Clusters Humanitaires Mondiaux"
+    },
+    "codelist-items": {
+        "4": {
+            "name": "Abris d'urgence et NFI"
+        },
+        "1": {
+            "name": "Coordination et gestion des camps"
+        },
+        "5406": {
+            "name": "Action contre les mines"
+        },
+        "6": {
+            "name": "S\u00e9curit\u00e9 alimentaire"
+        },
+        "11": {
+            "name": "Eau, assainissement et hygi\u00e8ne"
+        },
+        "8": {
+            "name": "Logistique"
+        },
+        "5403": {
+            "name": "Protection de l'enfance"
+        },
+        "10": {
+            "name": "Protection"
+        },
+        "3": {
+            "name": "Education"
+        },
+        "9": {
+            "name": "Nutrition"
+        },
+        "7": {
+            "name": "Sant\u00e9"
+        },
+        "2": {
+            "name": "Rel\u00e8vement rapide"
+        },
+        "5": {
+            "name": "T\u00e9l\u00e9communications d'urgence"
+        },
+        "5404": {
+            "name": "Violences bas\u00e9es sur le genre"
+        },
+        "5405": {
+            "name": "Logement, terre, et biens"
+        }
+    }
+}

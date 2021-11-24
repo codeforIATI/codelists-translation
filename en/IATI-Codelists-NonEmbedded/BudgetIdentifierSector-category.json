@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "name": "Budget Identifier Sector (category)",
+        "description": "This codelist exists to group the Budget Identifier codelist into categories. It is not used as a codelist in its own right.",
+        "category": "Non-Core"
+    },
+    "codelist-items": {
+        "1": {
+            "name": "General Public Service"
+        },
+        "2": {
+            "name": "Justice, Law, Order and Security"
+        },
+        "3": {
+            "name": "Economic Affairs"
+        },
+        "4": {
+            "name": "Water, Natural Resource Management and Environment"
+        },
+        "5": {
+            "name": "Social Affairs"
+        },
+        "6": {
+            "name": "Development Partner Affairs"
+        },
+        "7": {
+            "name": "General Budget Support and Aid support external to General Government Sector"
+        }
+    }
+}

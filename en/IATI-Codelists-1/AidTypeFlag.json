@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "name": "Aid Type Flag",
+        "description": "DAC/CRS classification used to distinguish aid modalities. "
+    },
+    "codelist-items": {
+        "1": {
+            "name": "Free standing technical cooperation"
+        },
+        "2": {
+            "name": "Programme-based approach"
+        },
+        "3": {
+            "name": "Investment project"
+        },
+        "4": {
+            "name": "Associated financing"
+        }
+    }
+}

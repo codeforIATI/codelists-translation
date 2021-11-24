@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "name": "Type d'organisation"
+    },
+    "codelist-items": {
+        "10": {
+            "name": "Gouvernement"
+        },
+        "11": {
+            "name": "Gouvernement local",
+            "description": "Toute organisation gouvernementale locale (infranationale) dans le pays donateur ou b\u00e9n\u00e9ficiaire."
+        },
+        "15": {
+            "name": "Autre secteur public"
+        },
+        "21": {
+            "name": "ONG internationale"
+        },
+        "22": {
+            "name": "ONG nationale"
+        },
+        "23": {
+            "name": "ONG regionale"
+        },
+        "24": {
+            "name": "ONG dans le pays b\u00e9n\u00e9ficiaire",
+            "description": "ONG ou OSC locale ou nationale bas\u00e9e dans le pays b\u00e9n\u00e9ficiaire de l\u2019aide"
+        },
+        "30": {
+            "name": "Partenariat public-priv\u00e9"
+        },
+        "40": {
+            "name": "Multilat\u00e9ral"
+        },
+        "60": {
+            "name": "Fondation"
+        },
+        "70": {
+            "name": "Secteur priv\u00e9"
+        },
+        "71": {
+            "name": "Secteur priv\u00e9 situ\u00e9 dans un pays fournisseur/donateur",
+            "description": "Situ\u00e9 dans un pays fournisseur/donateur."
+        },
+        "72": {
+            "name": "Secteur priv\u00e9 situ\u00e9 dans un pays b\u00e9n\u00e9ficiaire de l\u2019aide.",
+            "description": "Situ\u00e9 dans un pays b\u00e9n\u00e9ficiaire de l\u2019aide."
+        },
+        "73": {
+            "name": "Secteur priv\u00e9 situ\u00e9 dans un pays tiers",
+            "description": "Situ\u00e9 ni dans un pays donateur, ni dans un pays b\u00e9n\u00e9ficiaire."
+        },
+        "80": {
+            "name": "Universitaire, formation et recherche"
+        },
+        "90": {
+            "name": "Autre"
+        }
+    }
+}

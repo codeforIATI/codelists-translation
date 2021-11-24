@@ -1,0 +1,15 @@
+{
+    "metadata": {
+        "name": "Humanitarian Scope Type",
+        "description": "The Humanitarian Scope Type codelist defines codes for types of humanitarian events and actions.",
+        "category": "Non-Core"
+    },
+    "codelist-items": {
+        "1": {
+            "name": "Emergency"
+        },
+        "2": {
+            "name": "Appeal"
+        }
+    }
+}

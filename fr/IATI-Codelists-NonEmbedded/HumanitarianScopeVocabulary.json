@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "name": "Vocabulaire de cadre humanitaire",
+        "description": "La liste de codes de vocabulaire de cadre humanitaire d\u00e9finit une gamme de listes externes de code qui offrent elles-m\u00eames des codes et descriptions d'\u00e9v\u00e9nements et d'actions humanitaires."
+    },
+    "codelist-items": {
+        "1-2": {
+            "name": "Glide"
+        },
+        "2-1": {
+            "name": "Plan humanitaire"
+        },
+        "99": {
+            "name": "Organisation d\u00e9clarante"
+        }
+    }
+}

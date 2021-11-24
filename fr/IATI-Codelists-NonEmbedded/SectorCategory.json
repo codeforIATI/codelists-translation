@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "name": "Secteur du CAD \u00e0 3 chiffres"
+    },
+    "codelist-items": {
+        "111": {
+            "name": "Education, Niveau non sp\u00e9cifi\u00e9",
+            "description": "Les codes de cette cat\u00e9gorie doivent \u00eatre utilis\u00e9s seulement si le niveau d'\u00e9ducation n'est pas sp\u00e9cifi\u00e9 ou connu (par exemple la formation d'enseignants d'\u00e9coles primaires devrait \u00eatre cod\u00e9e sous 11220)."
+        },
+        "112": {
+            "name": "Education de Base"
+        },
+        "113": {
+            "name": "Education Secondaire"
+        },
+        "114": {
+            "name": "Education Post Secondaire"
+        },
+        "121": {
+            "name": "Sant\u00e9, G\u00e9n\u00e9ral"
+        },
+        "122": {
+            "name": "Sant\u00e9 de Base"
+        },
+        "123": {
+            "name": "Maladies non-transmissibles (MNT)"
+        },
+        "130": {
+            "name": "Politique en Mati\u00e8re de Population/Sant\u00e9&Fertilit\u00e9"
+        },
+        "140": {
+            "name": "Distribution d'Eau et Assainissement"
+        },
+        "151": {
+            "name": "Gouvernement & Soci\u00e9t\u00e9 Civile-g\u00e9n\u00e9ral",
+            "description": "N.B. Utiliser le code 51010 pour le soutien budg\u00e9taire g\u00e9n\u00e9ral."
+        },
+        "152": {
+            "name": "Conflits, Paix et S\u00e9curit\u00e9",
+            "description": "N.B.  Des notes suppl\u00e9mentaires sur l'\u00e9ligibilit\u00e9 au titre de l'APD (et les exclusions) des activit\u00e9s li\u00e9es aux conflits, la paix et la s\u00e9curit\u00e9 sont donn\u00e9es dans les paragraphes 76-81 des Directives."
+        },
+        "160": {
+            "name": "Infrastructure et Services Sociaux Divers"
+        },
+        "210": {
+            "name": "Transports et Entreposage",
+            "description": "Nota bene : La fabrication de mat\u00e9riel de transport devrait \u00eatre incluse dans le code 32172."
+        },
+        "220": {
+            "name": "Communications"
+        },
+        "230": {
+            "name": "PRODUCTION ET DISTRIBUTION D\u2019ENERGIE"
+        },
+        "231": {
+            "name": "Politique de l'\u00e9nergie"
+        },
+        "232": {
+            "name": "Production d'\u00e9lectricit\u00e9, sources renouvelables"
+        },
+        "233": {
+            "name": "Production d'\u00e9lectricit\u00e9, sources non renouvelables"
+        },
+        "234": {
+            "name": "Centrales hybrides"
+        },
+        "235": {
+            "name": "Centrales nucl\u00e9aires"
+        },
+        "236": {
+            "name": "Distribution de l'\u00e9nergie"
+        },
+        "240": {
+            "name": "Banques et Services Financiers"
+        },
+        "250": {
+            "name": "Entreprises et Autres Services"
+        },
+        "311": {
+            "name": "Agriculture"
+        },
+        "312": {
+            "name": "Sylviculture"
+        },
+        "313": {
+            "name": "P\u00eache"
+        },
+        "321": {
+            "name": "Industries Manufacturi\u00e8res"
+        },
+        "322": {
+            "name": "Industries Extractives"
+        },
+        "323": {
+            "name": "Construction"
+        },
+        "331": {
+            "name": "Politique Commerciale et R\u00e9glementations"
+        },
+        "332": {
+            "name": "Tourisme"
+        },
+        "410": {
+            "name": "Protection de l'Environnement G\u00e9n\u00e9ral",
+            "description": "Secteur non sp\u00e9cifi\u00e9."
+        },
+        "430": {
+            "name": "Autres Multisecteurs"
+        },
+        "510": {
+            "name": "Soutien Budg\u00e9taire",
+            "description": "Les soutiens budg\u00e9taires sous la forme d'approches sectorielles devraient \u00eatre inclus dans les secteurs respectifs."
+        },
+        "520": {
+            "name": "Aide Alimentaire D\u00e9velopmentale"
+        },
+        "530": {
+            "name": "Aide sous forme de Produits, Autre",
+            "description": "Aide sous forme de produits non alimentaires (quand le secteur b\u00e9n\u00e9ficiaire ne peut \u00eatre pr\u00e9cis\u00e9)."
+        },
+        "600": {
+            "name": "Actions se Rapportant a la Dette"
+        },
+        "720": {
+            "name": "Intervention d'Urgence",
+            "description": "Une situation d'urgence a pour origine une crise provoqu\u00e9e par des actions humaines ou par une catastrophe naturelle."
+        },
+        "730": {
+            "name": "Reconstruction & R\u00e9habilitation",
+            "description": "Activit\u00e9s men\u00e9es pendant et apr\u00e8s une situation d'urgence. Les activit\u00e9s \u00e0 plus long terme destin\u00e9es \u00e0 am\u00e9liorer le niveau d'infrastructure ou de services sociaux doivent \u00eatre rapport\u00e9es sous les codes correspondants des secteurs \u00e9conomiques et sociaux pertinents. Voir \u00e9galement les orientations sur la distinction entre l'aide humanitaire et l'aide ventilable par secteur."
+        },
+        "740": {
+            "name": "Pr\u00e9vention catastrophes/Pr\u00e9paration \u00e0 leur survenue",
+            "description": "Voir code 43060 pour la r\u00e9duction des risques de catastrophes."
+        },
+        "910": {
+            "name": "Frais Administratifs des Donneurs"
+        },
+        "920": {
+            "name": "CONCOURS FOURNIS AUX ORGANISATIONS NON-GOUVERNEMENTALES (ONG)",
+            "description": "Contributions aux ONG nationales et internationales pour utilisation \u00e0 la discr\u00e9tion de ces derni\u00e8res."
+        },
+        "930": {
+            "name": "Refugi\u00e9s dans les Pays Donneurs"
+        },
+        "998": {
+            "name": "Non Affect\u00e9 / Non Specifi\u00e9",
+            "description": null
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "111": {
+            "name": "Educaci\u00f3n, nivel no especificado"
+        },
+        "112": {
+            "name": "Educaci\u00f3n b\u00e1sica"
+        },
+        "113": {
+            "name": "Educaci\u00f3n secundaria"
+        },
+        "114": {
+            "name": "Educaci\u00f3n post-secundaria"
+        },
+        "121": {
+            "name": "Salud, general"
+        },
+        "122": {
+            "name": "Salud b\u00e1sica"
+        },
+        "123": {
+            "name": "Enfermedades no transmisibles"
+        },
+        "130": {
+            "name": "Programas/pol\u00edticas sobre poblaci\u00f3n y salud reproductiva"
+        },
+        "140": {
+            "name": "Abastecimiento de agua y saneamiento"
+        },
+        "151": {
+            "name": "Gobierno y sociedad civil, general"
+        },
+        "152": {
+            "name": "Prevenci\u00f3n y resoluci\u00f3n de conflictos, paz y seguridad"
+        },
+        "160": {
+            "name": "Otros servicios e infraestructuras sociales"
+        },
+        "210": {
+            "name": "Transporte y almacenamiento"
+        },
+        "220": {
+            "name": "Comunicaciones"
+        },
+        "230": {
+            "name": "Generaci\u00f3n y suministro de energ\u00eda"
+        },
+        "231": {
+            "name": "Pol\u00edtica energ\u00e9tica"
+        },
+        "232": {
+            "name": "Generaci\u00f3n de energ\u00eda, fuentes renovables"
+        },
+        "233": {
+            "name": "Generaci\u00f3n de energ\u00eda, fuentes no renovables"
+        },
+        "234": {
+            "name": "Centrales de energ\u00eda h\u00edbrida"
+        },
+        "235": {
+            "name": "Centrales de energ\u00eda nuclear"
+        },
+        "236": {
+            "name": "Distribuci\u00f3n de la energ\u00eda"
+        },
+        "240": {
+            "name": "Servicios bancarios y financieros"
+        },
+        "250": {
+            "name": "Empresas y otros servicios"
+        },
+        "311": {
+            "name": "Agricultura"
+        },
+        "312": {
+            "name": "Silvicultura"
+        },
+        "313": {
+            "name": "Pesca"
+        },
+        "321": {
+            "name": "Industria"
+        },
+        "322": {
+            "name": "Industrias extractivas"
+        },
+        "323": {
+            "name": "Construcci\u00f3n"
+        },
+        "331": {
+            "name": "Pol\u00edtica y regulaci\u00f3n comercial"
+        },
+        "332": {
+            "name": "Turismo"
+        },
+        "410": {
+            "name": "Protecci\u00f3n general medio ambiente"
+        },
+        "430": {
+            "name": "Otras acciones multisectoriales"
+        },
+        "510": {
+            "name": "Apoyo presupuestario general"
+        },
+        "520": {
+            "name": "Ayuda alimentaria para el desarrollo"
+        },
+        "530": {
+            "name": "Otras ayudas en forma de suministro de bienes"
+        },
+        "600": {
+            "name": "Actividades relacionadas con la deuda"
+        },
+        "720": {
+            "name": "Ayuda de emergencia"
+        },
+        "730": {
+            "name": "Ayuda a la reconstrucci\u00f3n y a la rehabilitaci\u00f3n"
+        },
+        "740": {
+            "name": "Prevenci\u00f3n de desastres"
+        },
+        "910": {
+            "name": "Costes administrativos donantes"
+        },
+        "920": {
+            "name": "APOYO A ORGANIZACIONES NO GUBERNAMENTALES (ONG)"
+        },
+        "930": {
+            "name": "Ayuda a refugiados en el pa\u00eds donante"
+        },
+        "998": {
+            "name": "Sin especificaci\u00f3n / no clasificados"
+        }
+    }
+}

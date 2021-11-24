@@ -1,0 +1,21 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "1": {
+            "name": "Financement",
+            "description": "Le gouvernement ou l'organisation qui finance l'activit\u00e9."
+        },
+        "2": {
+            "name": "Responsabilit\u00e9",
+            "description": "Une organisation responsable de la supervision de l'activit\u00e9 et de ses r\u00e9sultats"
+        },
+        "3": {
+            "name": "Octroi",
+            "description": "Une organisation qui g\u00e8re le budget et l'orientation d'une activit\u00e9 au nom de l'organisation offrant le financement"
+        },
+        "4": {
+            "name": "Mise en \u0153uvre",
+            "description": "L'organisation qui ex\u00e9cute physiquement l'activit\u00e9 ou l'intervention."
+        }
+    }
+}

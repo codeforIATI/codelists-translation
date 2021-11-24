@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "name": "Contact Type",
+        "category": "Non-Core"
+    },
+    "codelist-items": {
+        "1": {
+            "name": "General Enquiries",
+            "description": "General Enquiries"
+        },
+        "2": {
+            "name": "Project Management",
+            "description": "Project Management"
+        },
+        "3": {
+            "name": "Financial Management",
+            "description": "Financial Management"
+        },
+        "4": {
+            "name": "Communications",
+            "description": "Communications"
+        }
+    }
+}

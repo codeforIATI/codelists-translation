@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "name": "DAC 3 Digit Sector",
+        "category": "Replicated"
+    },
+    "codelist-items": {
+        "111": {
+            "name": "Education, Level Unspecified",
+            "description": "The codes in this category are to be used only when level of education is unspecified or unknown (e.g. training of primary school teachers should be coded under 11220)."
+        },
+        "112": {
+            "name": "Basic Education"
+        },
+        "113": {
+            "name": "Secondary Education"
+        },
+        "114": {
+            "name": "Post-Secondary Education"
+        },
+        "121": {
+            "name": "Health, General"
+        },
+        "122": {
+            "name": "Basic Health"
+        },
+        "123": {
+            "name": "Non-communicable diseases (NCDs)"
+        },
+        "130": {
+            "name": "Population Policies/Programmes & Reproductive Health"
+        },
+        "140": {
+            "name": "Water Supply & Sanitation"
+        },
+        "151": {
+            "name": "Government & Civil Society-general",
+            "description": "N.B. Use code 51010 for general budget support."
+        },
+        "152": {
+            "name": "Conflict, Peace & Security",
+            "description": "N.B. Further notes on ODA eligibility (and exclusions) of conflict, peace and security related activities are given in paragraphs 76-81 of the Directives."
+        },
+        "160": {
+            "name": "Other Social Infrastructure & Services"
+        },
+        "210": {
+            "name": "Transport & Storage",
+            "description": "Note: Manufacturing of transport equipment should be included under code 32172."
+        },
+        "220": {
+            "name": "Communications"
+        },
+        "230": {
+            "name": "ENERGY GENERATION AND SUPPLY",
+            "description": "Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation."
+        },
+        "231": {
+            "name": "Energy Policy"
+        },
+        "232": {
+            "name": "Energy generation, renewable sources"
+        },
+        "233": {
+            "name": "Energy generation, non-renewable sources"
+        },
+        "234": {
+            "name": "Hybrid energy plants"
+        },
+        "235": {
+            "name": "Nuclear energy plants"
+        },
+        "236": {
+            "name": "Energy distribution"
+        },
+        "240": {
+            "name": "Banking & Financial Services"
+        },
+        "250": {
+            "name": "Business & Other Services"
+        },
+        "311": {
+            "name": "Agriculture"
+        },
+        "312": {
+            "name": "Forestry"
+        },
+        "313": {
+            "name": "Fishing"
+        },
+        "321": {
+            "name": "Industry"
+        },
+        "322": {
+            "name": "Mineral Resources & Mining"
+        },
+        "323": {
+            "name": "Construction"
+        },
+        "331": {
+            "name": "Trade Policies & Regulations"
+        },
+        "332": {
+            "name": "Tourism"
+        },
+        "410": {
+            "name": "General Environment Protection",
+            "description": "Covers activities concerned with conservation, protection or amelioration of the physical environment without sector allocation."
+        },
+        "430": {
+            "name": "Other Multisector"
+        },
+        "510": {
+            "name": "General Budget Support",
+            "description": "Budget support in the form of sector-wide approaches (SWAps) should be included in the respective sectors."
+        },
+        "520": {
+            "name": "Development Food Assistance"
+        },
+        "530": {
+            "name": "Other Commodity Assistance",
+            "description": "Non-food commodity assistance (when benefiting sector not specified)."
+        },
+        "600": {
+            "name": "Action Relating to Debt"
+        },
+        "720": {
+            "name": "Emergency Response",
+            "description": "An emergency is a situation which results from man made crises and/or natural disasters."
+        },
+        "730": {
+            "name": "Reconstruction Relief & Rehabilitation",
+            "description": "This relates to activities during and in the aftermath of an emergency situation.  Longer-term activities to improve the level of infrastructure or social services should be reported under the relevant economic and social sector codes. See also guideline on distinguishing humanitarian from sector-allocable aid."
+        },
+        "740": {
+            "name": "Disaster Prevention & Preparedness",
+            "description": "See code 43060 for disaster risk reduction."
+        },
+        "910": {
+            "name": "Administrative Costs of Donors"
+        },
+        "920": {
+            "name": "SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)",
+            "description": "In the donor country."
+        },
+        "930": {
+            "name": "Refugees in Donor Countries"
+        },
+        "998": {
+            "name": "Unallocated / Unspecified",
+            "description": "Contributions to general development of the recipient should be included under programme assistance (51010)."
+        }
+    }
+}

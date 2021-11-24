@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "1": {
+            "name": "Geonames.org"
+        },
+        "2": {
+            "name": "National Geospatial-Intelligence Agency"
+        },
+        "3": {
+            "name": "Open Street Map"
+        }
+    }
+}

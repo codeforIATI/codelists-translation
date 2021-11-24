@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "Vocabulary"
+    },
+    "codelist-items": {
+        "ADT": {
+            "name": "AidData"
+        },
+        "COFOG": {
+            "name": "Classification of the Functions of Government (UN)"
+        },
+        "DAC": {
+            "name": "OECD Development Assistance Committee"
+        },
+        "DAC-3": {
+            "name": "OECD Development Assistance Committee 3 digit codes"
+        },
+        "ISO": {
+            "name": "International Organization for Standardization"
+        },
+        "NACE": {
+            "name": "Statistical classification of economic activities in the European Community"
+        },
+        "NTEE": {
+            "name": "National Taxonomy for Exempt Entities (USA)"
+        },
+        "RO": {
+            "name": "Reporting Organisation (i.e. maintained by the organisation referred to in the <reporting-org> element."
+        },
+        "RO2": {
+            "name": "Reporting Organisation (2) - where reporting organisations have more than one vocabulary that they wish to reference"
+        },
+        "WB": {
+            "name": "World Bank"
+        }
+    }
+}

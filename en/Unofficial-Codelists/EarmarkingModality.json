@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "name": "Earmarking Modality",
+        "category": "Replicated"
+    },
+    "codelist-items": {
+        "A": {
+            "name": "Fully flexible core contribution"
+        },
+        "B": {
+            "name": "Fully flexible core contribution to the CERF"
+        },
+        "C": {
+            "name": "Core contribution"
+        },
+        "D": {
+            "name": "Core contribution with limitations"
+        },
+        "E": {
+            "name": "Directed to a geographical region or a strategic objective"
+        },
+        "F": {
+            "name": "Directed to a Country-Based Pooled Fund"
+        },
+        "G": {
+            "name": "Directed to an aid organisation's country operations"
+        },
+        "H": {
+            "name": "Directed to a sub-objective/target"
+        },
+        "I": {
+            "name": "Directed to a specific project"
+        },
+        "J": {
+            "name": "Directed geographically and thematically, tied financially"
+        },
+        "K": {
+            "name": "Directed geographically and thematically, in kind"
+        },
+        "L": {
+            "name": "Donor-initiated projects/directed contributions"
+        }
+    }
+}

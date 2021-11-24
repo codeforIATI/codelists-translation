@@ -1,0 +1,209 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "1": {
+            "name": "INB: ingreso nacional bruto"
+        },
+        "110": {
+            "name": "Donaci\u00f3n est\u00e1ndar"
+        },
+        "1100": {
+            "name": "Garant\u00edas o seguros"
+        },
+        "111": {
+            "name": "Subsidios a inversores privados nacionales"
+        },
+        "2": {
+            "name": "Asistencia oficial para el desarrollo en porcentaje del INB"
+        },
+        "210": {
+            "name": "Subvenci\u00f3n de los intereses"
+        },
+        "211": {
+            "name": "Subvenci\u00f3n de los intereses a exportadores privados nacionales"
+        },
+        "3": {
+            "name": "Flujos totales en porcentaje del INB"
+        },
+        "310": {
+            "name": "Suscripci\u00f3n de capital en r\u00e9gimen de dep\u00f3sito"
+        },
+        "311": {
+            "name": "Suscripci\u00f3n de capital en r\u00e9gimen de conversi\u00f3n en efectivo"
+        },
+        "4": {
+            "name": "Poblaci\u00f3n"
+        },
+        "410": {
+            "name": "Asistencia mediante pr\u00e9stamo sin reorganizaci\u00f3n de la deuda"
+        },
+        "411": {
+            "name": "Pr\u00e9stamo relativo a la inversi\u00f3n a pa\u00edses en desarrollo"
+        },
+        "412": {
+            "name": "Pr\u00e9stamo en una operaci\u00f3n conjunta con el beneficiario"
+        },
+        "413": {
+            "name": "Pr\u00e9stamo a inversionista privado nacional"
+        },
+        "414": {
+            "name": "Pr\u00e9stamo a exportador privado nacional"
+        },
+        "421": {
+            "name": "Pr\u00e9stamo est\u00e1ndar"
+        },
+        "422": {
+            "name": "Donaci\u00f3n reembolsable"
+        },
+        "423": {
+            "name": "Bonos"
+        },
+        "424": {
+            "name": "Bonos de titulizaci\u00f3n de activos"
+        },
+        "425": {
+            "name": "Otros t\u00edtulos de deuda"
+        },
+        "431": {
+            "name": "Pr\u00e9stamos subordinados"
+        },
+        "432": {
+            "name": "Capital preferente"
+        },
+        "433": {
+            "name": "Otros instrumentos h\u00edbridos"
+        },
+        "451": {
+            "name": "Cr\u00e9ditos a la exportaci\u00f3n con garant\u00eda no bancaria"
+        },
+        "452": {
+            "name": "Porciones sin garant\u00eda no bancaria de los cr\u00e9ditos a la exportaci\u00f3n con garant\u00eda"
+        },
+        "453": {
+            "name": "Cr\u00e9ditos bancarios a la exportaci\u00f3n"
+        },
+        "510": {
+            "name": "Capital com\u00fan"
+        },
+        "511": {
+            "name": "Adquisici\u00f3n de capital que no es parte de una operaci\u00f3n conjunta en pa\u00edses en desarrollo"
+        },
+        "512": {
+            "name": "Otras adquisiciones de capital"
+        },
+        "520": {
+            "name": "Acciones en veh\u00edculos de inversi\u00f3n colectiva"
+        },
+        "530": {
+            "name": "Utilidades reinvertidas"
+        },
+        "610": {
+            "name": "Condonaci\u00f3n de la deuda:  T\u00edtulos de asistencia oficial para el desarrollo (C)"
+        },
+        "611": {
+            "name": "Condonaci\u00f3n de la deuda: T\u00edtulos de asistencia oficial para el desarrollo (I)"
+        },
+        "612": {
+            "name": "Condonaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (C)"
+        },
+        "613": {
+            "name": "Condonaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (I)"
+        },
+        "614": {
+            "name": "Condonaci\u00f3n de la deuda:  T\u00edtulos privados (C)"
+        },
+        "615": {
+            "name": "Condonaci\u00f3n de la deuda:  T\u00edtulos privados (I)"
+        },
+        "616": {
+            "name": "Condonaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (ratio del servicio de la deuda)"
+        },
+        "617": {
+            "name": "Condonaci\u00f3n de la deuda:  T\u00edtulos privados (ratio del servicio de la deuda)"
+        },
+        "618": {
+            "name": "Condonaci\u00f3n de la deuda: Otros"
+        },
+        "620": {
+            "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulos de asistencia oficial para el desarrollo (C)"
+        },
+        "621": {
+            "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulos de asistencia oficial para el desarrollo (I)"
+        },
+        "622": {
+            "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (C)"
+        },
+        "623": {
+            "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (I)"
+        },
+        "624": {
+            "name": "Reprogramaci\u00f3n de la deuda:  T\u00edtulos privados (C)"
+        },
+        "625": {
+            "name": "Reprogramaci\u00f3n de la deuda:  T\u00edtulos privados (I)"
+        },
+        "626": {
+            "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (ratio del servicio de la deuda)"
+        },
+        "627": {
+            "name": "Reprogramaci\u00f3n de la deuda:  T\u00edtulos privados (ratio del servicio de la deuda)"
+        },
+        "630": {
+            "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulo de otras corrientes oficiales (ratio del servicio de la deuda: capital principal del pr\u00e9stamo original)"
+        },
+        "631": {
+            "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (ratio del servicio de la deuda: inter\u00e9s del pr\u00e9stamo original)"
+        },
+        "632": {
+            "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulo privado (ratio del servicio de la deuda: capital principal del pr\u00e9stamo original)"
+        },
+        "633": {
+            "name": "Condonaci\u00f3n o conversi\u00f3n de la deuda: derechos de cr\u00e9dito a la exportaci\u00f3n (C)"
+        },
+        "634": {
+            "name": "Condonaci\u00f3n o conversi\u00f3n de la deuda: derechos de cr\u00e9dito a la exportaci\u00f3n (I)"
+        },
+        "635": {
+            "name": "Condonaci\u00f3n de la deuda: derechos de cr\u00e9dito a la exportaci\u00f3n (ratio del servicio de la deuda)"
+        },
+        "636": {
+            "name": "Reprogramaci\u00f3n de la deuda: derechos de cr\u00e9dito a la exportaci\u00f3n (C)"
+        },
+        "637": {
+            "name": "Reprogramaci\u00f3n de la deuda: derechos de cr\u00e9dito a la exportaci\u00f3n (I)"
+        },
+        "638": {
+            "name": "Reprogramaci\u00f3n de la deuda: derechos de cr\u00e9dito a la exportaci\u00f3n (ratio del servicio de la deuda)"
+        },
+        "639": {
+            "name": "Reprogramaci\u00f3n de la deuda: t\u00edtulos de cr\u00e9dito a la exportaci\u00f3n (ratio del servicio de la deuda: capital principal del pr\u00e9stamo original)"
+        },
+        "710": {
+            "name": "Inversi\u00f3n extranjera directa, nueva salida de capitales (incluidas las utilidades reinvertidas si no se dispone de identificaci\u00f3n independiente)"
+        },
+        "711": {
+            "name": "Otras inversiones extranjeras directas, incluidas las utilidades reinvertidas"
+        },
+        "712": {
+            "name": "Inversi\u00f3n extranjera directa, utilidades reinvertidas"
+        },
+        "810": {
+            "name": "Bonos bancarios"
+        },
+        "811": {
+            "name": "Bonos no bancarios"
+        },
+        "910": {
+            "name": "Otras garant\u00edas o cr\u00e9ditos bancarios"
+        },
+        "911": {
+            "name": "Otras garant\u00edas o cr\u00e9ditos no bancarios"
+        },
+        "912": {
+            "name": "Adquisici\u00f3n de t\u00edtulos de organismos emisores"
+        },
+        "913": {
+            "name": "T\u00edtulos y otros instrumentos emitidos originalmente por organismos multilaterales"
+        }
+    }
+}

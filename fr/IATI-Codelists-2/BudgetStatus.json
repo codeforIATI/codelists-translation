@@ -1,0 +1,13 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "1": {
+            "name": "Indicatif",
+            "description": "Une estimation non contraignante du budget d\u00e9crit."
+        },
+        "2": {
+            "name": "Engag\u00e9",
+            "description": "Une entente contraignante au sujet du budget d\u00e9crit."
+        }
+    }
+}

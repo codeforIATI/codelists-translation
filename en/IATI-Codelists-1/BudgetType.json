@@ -1,0 +1,14 @@
+{
+    "metadata": {
+        "name": "Budget Type",
+        "description": "DAC/CRS classification used to determine the character of resource flows (bilateral or multilateral)."
+    },
+    "codelist-items": {
+        "1": {
+            "name": "Original"
+        },
+        "2": {
+            "name": "Revised"
+        }
+    }
+}

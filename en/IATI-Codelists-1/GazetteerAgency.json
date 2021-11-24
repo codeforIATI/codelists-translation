@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "name": "Gazetteer Agency",
+        "description": "An online resource that holds coordinates and descriptions of geographic locations "
+    },
+    "codelist-items": {
+        "GEO": {
+            "name": "Geonames.org"
+        },
+        "NGA": {
+            "name": "National Geospatial-Intelligence Agency"
+        },
+        "OSM": {
+            "name": "Open Street Map"
+        }
+    }
+}

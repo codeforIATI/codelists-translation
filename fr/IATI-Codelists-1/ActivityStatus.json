@@ -1,0 +1,23 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "1": {
+            "name": "Planification"
+        },
+        "2": {
+            "name": "Actif"
+        },
+        "3": {
+            "name": "Finalisation"
+        },
+        "4": {
+            "name": "Ferm\u00e9"
+        },
+        "5": {
+            "name": "Annul\u00e9"
+        },
+        "6": {
+            "name": "Suspendu"
+        }
+    }
+}

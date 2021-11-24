@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "name": "Region",
+        "category": "Replicated"
+    },
+    "codelist-items": {
+        "88": {
+            "name": "States Ex-Yugoslavia unspecified"
+        },
+        "89": {
+            "name": "Europe, regional"
+        },
+        "189": {
+            "name": "North of Sahara, regional"
+        },
+        "289": {
+            "name": "South of Sahara, regional"
+        },
+        "298": {
+            "name": "Africa, regional"
+        },
+        "380": {
+            "name": "West Indies, regional"
+        },
+        "389": {
+            "name": "Caribbean & Central America, regional"
+        },
+        "489": {
+            "name": "South America, regional"
+        },
+        "498": {
+            "name": "America, regional"
+        },
+        "589": {
+            "name": "Middle East, regional"
+        },
+        "619": {
+            "name": "Central Asia, regional"
+        },
+        "679": {
+            "name": "South Asia, regional"
+        },
+        "689": {
+            "name": "South & Central Asia, regional"
+        },
+        "789": {
+            "name": "Far East Asia, regional"
+        },
+        "798": {
+            "name": "Asia, regional"
+        },
+        "889": {
+            "name": "Oceania, regional"
+        },
+        "998": {
+            "name": "Developing countries, unspecified"
+        },
+        "1027": {
+            "name": "Eastern Africa, regional"
+        },
+        "1028": {
+            "name": "Middle Africa, regional"
+        },
+        "1029": {
+            "name": "Southern Africa, regional"
+        },
+        "1030": {
+            "name": "Western Africa, regional"
+        },
+        "1031": {
+            "name": "Caribbean, regional"
+        },
+        "1032": {
+            "name": "Central America, regional"
+        },
+        "1033": {
+            "name": "Melanesia, regional"
+        },
+        "1034": {
+            "name": "Micronesia, regional"
+        },
+        "1035": {
+            "name": "Polynesia, regional"
+        }
+    }
+}

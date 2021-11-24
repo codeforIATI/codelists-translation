@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "name": "Collaboration Type",
+        "description": "OECD DAC classification used to determine the character of resource flows (bilateral or multilateral).",
+        "category": "Replicated"
+    },
+    "codelist-items": {
+        "1": {
+            "name": "Bilateral"
+        },
+        "2": {
+            "name": "Multilateral (inflows)"
+        },
+        "3": {
+            "name": "Bilateral, core contributions to NGOs and other private bodies / PPPs"
+        },
+        "4": {
+            "name": "Multilateral outflows"
+        },
+        "6": {
+            "name": "Private Sector Outflows"
+        },
+        "7": {
+            "name": "Bilateral, ex-post reporting on NGOs\u2019 activities funded through core contributions"
+        },
+        "8": {
+            "name": "Bilateral, triangular co-operation.",
+            "description": "Activities where one or more bilateral providers of development co-operation or international organisations support South-South co-operation, joining forces with developing countries to facilitate a sharing of knowledge and experience among all partners involved. (Activities that only involve bilateral providers or multilateral agencies without a South-South co-operation element (e.g. joint programming, pooled funding or delegated co-operation) should not be assigned bi_multi 8.)"
+        }
+    }
+}

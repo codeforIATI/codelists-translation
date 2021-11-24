@@ -1,0 +1,1010 @@
+{
+    "metadata": {
+        "name": "Humanitarian Plan",
+        "category": "Replicated"
+    },
+    "codelist-items": {
+        "FAFG21": {
+            "name": "Afghanistan Flash Appeal 2021"
+        },
+        "HAFG21": {
+            "name": "Afghanistan Humanitarian Response Plan 2021"
+        },
+        "RBGD21": {
+            "name": "Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2021"
+        },
+        "HBFA21": {
+            "name": "Burkina Faso Humanitarian Response Plan 2021"
+        },
+        "HBDI21": {
+            "name": "Burundi Humanitarian Response Plan 2021"
+        },
+        "RRWATZAUGA21": {
+            "name": "Burundi Regional Refugee Response Plan 2021"
+        },
+        "HCMR21": {
+            "name": "Cameroon Humanitarian Response Plan 2021"
+        },
+        "HCAF21": {
+            "name": "Central African Republic Humanitarian Response Plan 2021"
+        },
+        "HTCD21": {
+            "name": "Chad Humanitarian Response Plan 2021"
+        },
+        "HCOL21": {
+            "name": "Colombia Humanitarian Response Plan 2021"
+        },
+        "HCOD21": {
+            "name": "Democratic Republic of Congo Humanitarian Response Plan 2021"
+        },
+        "RDRCRRP21": {
+            "name": "Democratic Republic of Congo Regional Refugee Response Plan 2021"
+        },
+        "HSLV2122": {
+            "name": "El Salvador Plan de Respuesta Humanitario 2021"
+        },
+        "FPSE21": {
+            "name": "Escalation of Hostilities in the oPt  Flash Appeal 2021"
+        },
+        "HETH21": {
+            "name": "Ethiopia Humanitarian Response Plan 2021"
+        },
+        "HGTM2122": {
+            "name": "Guatemala Plan de Respuesta Humanitario 2021"
+        },
+        "FHTI2122": {
+            "name": "Haiti Flash Appeal 2021"
+        },
+        "HHTI21": {
+            "name": "Haiti Humanitarian Response Plan 2021"
+        },
+        "FHND2021": {
+            "name": "Honduras Flash Appeal 2020-2021"
+        },
+        "HHND2122": {
+            "name": "Honduras Plan de Respuesta Humanitario 2021"
+        },
+        "HIRQ21": {
+            "name": "Iraq Humanitarian Response Plan 2021"
+        },
+        "FKEN21": {
+            "name": "Kenya Drought Flash Appeal 2021"
+        },
+        "OLBN2122": {
+            "name": "Lebanon Emergency Response Plan 2021"
+        },
+        "HLBY21": {
+            "name": "Libya Humanitarian Response Plan 2021"
+        },
+        "FMDG2122": {
+            "name": "Madagascar&#039;s Grand Sud Flash Appeal 2021"
+        },
+        "FMDG21": {
+            "name": "Madagascar&#039;s Grand Sud Flash Appeal 2021"
+        },
+        "HMLI21": {
+            "name": "Mali Humanitarian Response Plan 2021"
+        },
+        "HMOZ21": {
+            "name": "Mozambique Humanitarian Response Plan 2021"
+        },
+        "HMMR21": {
+            "name": "Myanmar Humanitarian Response Plan 2021"
+        },
+        "OMMR21": {
+            "name": "Myanmar Interim Emergency Response Plan 2021"
+        },
+        "ONPL21": {
+            "name": "Nepal Covid-19 Response Plan 2021"
+        },
+        "HNER21": {
+            "name": "Niger Humanitarian Response Plan 2021"
+        },
+        "HNGA21": {
+            "name": "Nigeria Humanitarian Response Plan 2021"
+        },
+        "OETH21": {
+            "name": "Northern Ethiopia Response Plan 2021"
+        },
+        "HPSE21": {
+            "name": "occupied Palestinian territory 2021"
+        },
+        "HPAK21": {
+            "name": "Pakistan Humanitarian Response Plan 2021"
+        },
+        "RREG21": {
+            "name": "Refugee and Migrant Response Plan for Venezuela 2021 (RMRP)"
+        },
+        "RDJIETHSOMYEM21": {
+            "name": "Regional Migrant Humanitarian Response Plan for the Horn of Africa and Yemen 2021"
+        },
+        "HSOM21": {
+            "name": "Somalia Humanitarian Response Plan 2021"
+        },
+        "HSSD21": {
+            "name": "South Sudan Humanitarian Response Plan 2021"
+        },
+        "RETHKENUGA21": {
+            "name": "South Sudan Regional Refugee Response Plan 2021"
+        },
+        "HSDN21": {
+            "name": "Sudan Humanitarian Response Plan 2021"
+        },
+        "HSYR21": {
+            "name": "Syria Humanitarian Response Plan 2021"
+        },
+        "RSYR21": {
+            "name": "Syria Refugee Response and Resilience Plan (3RP) 2021"
+        },
+        "HUKR21": {
+            "name": "Ukraine Humanitarian Response Plan 2021"
+        },
+        "HVEN21": {
+            "name": "Venezuela Humanitarian Response Plan 2021"
+        },
+        "HYEM21": {
+            "name": "Yemen Humanitarian Response Plan 2021"
+        },
+        "HZWE21": {
+            "name": "Zimbabwe Humanitarian Response Plan 2021"
+        },
+        "HAFG20": {
+            "name": "Afghanistan 2020"
+        },
+        "OBGD20": {
+            "name": "Bangladesh Intersectoral COVID-19 Response Plan 2020"
+        },
+        "RBGD20": {
+            "name": "Bangladesh: 2020 Joint Response Plan for Rohingya Humanitarian Crisis (January-December)"
+        },
+        "OBEN20": {
+            "name": "Benin Intersectoral COVID Response Plan 2020"
+        },
+        "HBFA20": {
+            "name": "Burkina Faso 2020"
+        },
+        "HBDI20": {
+            "name": "Burundi 2020"
+        },
+        "RRWATZAUGA20": {
+            "name": "Burundi Regional Refugee Response Plan 2020"
+        },
+        "OMOZ20a": {
+            "name": "Cabo Delgado Province Mozambique Rapid Response Plan 2020"
+        },
+        "HCMR20": {
+            "name": "Cameroon 2020"
+        },
+        "HCAF2021": {
+            "name": "Central African Republic 2020"
+        },
+        "HTCD20": {
+            "name": "Chad 2020"
+        },
+        "HCOL20": {
+            "name": "Colombia 2020 OLD"
+        },
+        "OCOL20": {
+            "name": "Colombia Intersectoral COVID-19 Response Plan 2020"
+        },
+        "HCOVD20": {
+            "name": "COVID-19 Global Humanitarian Response Plan"
+        },
+        "RDRCRRP20": {
+            "name": "Democratic Republic of Congo Regional Refugee Response Plan 2020"
+        },
+        "HCOD20": {
+            "name": "Democratic Republic of the Congo 2020"
+        },
+        "FDJI1920": {
+            "name": "Djibouti Flash Appeal 2019 - 2020"
+        },
+        "ODJI20": {
+            "name": "Djibouti Intersectoral COVID-19 Response Plan 2020"
+        },
+        "OPRK20a": {
+            "name": "DPR Korea Intersectoral COVID Response Plan 2020"
+        },
+        "OPRK20b": {
+            "name": "DPR Korea Needs and Priorities 2020"
+        },
+        "OECU20": {
+            "name": "Ecuador Intersectoral COVID-19 Response Plan 2020"
+        },
+        "HETH20": {
+            "name": "Ethiopia 2020"
+        },
+        "OGLBL20": {
+            "name": "Famine Prevention COVID-19 2020"
+        },
+        "O20": {
+            "name": "Global Operational Support COVID-19"
+        },
+        "HHTI20": {
+            "name": "Haiti 2020"
+        },
+        "OIRN20": {
+            "name": "Iran Intersectoral COVID Response Plan 2020"
+        },
+        "HIRQ20": {
+            "name": "Iraq 2020"
+        },
+        "OJOR20": {
+            "name": "Jordan Intersectoral COVID-19 Response Plan 2020"
+        },
+        "OKEN20": {
+            "name": "Kenya Intersectoral COVID-19 Response Plan 2020"
+        },
+        "FLBN20": {
+            "name": "Lebanon Flash Appeal 2020"
+        },
+        "OLBN20": {
+            "name": "Lebanon Intersectoral COVID Response Plan 2020"
+        },
+        "FLSO1920": {
+            "name": "Lesotho Flash Appeal 2019-2020"
+        },
+        "OLBR20": {
+            "name": "Liberia Intersectoral COVID Response Plan 2020"
+        },
+        "HLBY20": {
+            "name": "Libya 2020"
+        },
+        "HMLI20": {
+            "name": "Mali 2020"
+        },
+        "OMOZ20b": {
+            "name": "Mozambique COVID-19 2020"
+        },
+        "HMMR20": {
+            "name": "Myanmar 2020"
+        },
+        "HNER20": {
+            "name": "Niger 2020"
+        },
+        "HNGA20": {
+            "name": "Nigeria 2020"
+        },
+        "HPSE20": {
+            "name": "occupied Palestinian territory 2020 (part of 2018-2020 HRP)"
+        },
+        "OPAK20": {
+            "name": "Pakistan Intersectoral COVID Response Plan 2020"
+        },
+        "OPHL20": {
+            "name": "Philippines Intersectoral COVID Response Plan 2020"
+        },
+        "RREG20": {
+            "name": "Refugee and Migrant Response Plan 2020 for Refugees and Migrants from Venezuela (RMRP"
+        },
+        "RDJIETHSOMYEM20": {
+            "name": "Regional Migrant Response Plan for the Horn of Africa and Yemen 2020"
+        },
+        "OCOG20": {
+            "name": "Republic of Congo Intersectoral COVID-19 Response Plan 2020"
+        },
+        "OSLE20": {
+            "name": "Sierra Leone Intersectoral COVID Response Plan 2020"
+        },
+        "HSOM20": {
+            "name": "Somalia 2020"
+        },
+        "HSSD20": {
+            "name": "South Sudan 2020"
+        },
+        "RETHKENUGA20": {
+            "name": "South Sudan Regional Refugee Response Plan 2020"
+        },
+        "HSDN20": {
+            "name": "Sudan 2020"
+        },
+        "HSYR20": {
+            "name": "Syria Humanitarian Response Plan 2020"
+        },
+        "RSYR20": {
+            "name": "Syria Refugee Response and Resilience Plan (3RP) 2020"
+        },
+        "OTZA20": {
+            "name": "Tanzania Intersectoral COVID-19 Response Plan 2020"
+        },
+        "OTGO20": {
+            "name": "Togo Intersectoral COVID Response Plan 2020"
+        },
+        "OUGA20": {
+            "name": "Uganda Intersectoral COVID-19 Response Plan 2020"
+        },
+        "HUKR20": {
+            "name": "Ukraine 2020"
+        },
+        "OGLBL20a": {
+            "name": "Unallocated supplementary NGO envelope COVID-19 2020"
+        },
+        "HVEN20": {
+            "name": "Venezuela 2020"
+        },
+        "HYEM20": {
+            "name": "Yemen 2020"
+        },
+        "OZMB1920": {
+            "name": "Zambia 2019 - 2020"
+        },
+        "OZMB20": {
+            "name": "Zambia Intersectoral COVID-19 Response Plan 2020"
+        },
+        "HZWE20": {
+            "name": "Zimbabwe 2020"
+        },
+        "HAFG19": {
+            "name": "Afghanistan 2019"
+        },
+        "OBGD19": {
+            "name": "Bangladesh: 2019 Joint Response Plan for Rohingya Humanitarian Crisis (January-December)"
+        },
+        "OBFA19": {
+            "name": "Burkina Faso 2019"
+        },
+        "HBDI19": {
+            "name": "Burundi 2019"
+        },
+        "HCMR19": {
+            "name": "Cameroon 2019"
+        },
+        "HCAF19": {
+            "name": "Central African Republic 2019"
+        },
+        "HTCD19": {
+            "name": "Chad 2019"
+        },
+        "HCOD19": {
+            "name": "Democratic Republic of the Congo 2019"
+        },
+        "OPRK19": {
+            "name": "DPR Korea Needs and Priorities 2019"
+        },
+        "HETH19": {
+            "name": "Ethiopia 2019"
+        },
+        "HHTI19": {
+            "name": "Haiti 2019"
+        },
+        "HIRQ19": {
+            "name": "Iraq 2019"
+        },
+        "OIRN19": {
+            "name": "Islamic Republic of Iran: Floods Response Plan (April 2019)"
+        },
+        "HLBY19": {
+            "name": "Libya 2019"
+        },
+        "FMDG19": {
+            "name": "Madagascar Flash Appeal 2019"
+        },
+        "HMLI19": {
+            "name": "Mali 2019"
+        },
+        "HMOZ19": {
+            "name": "Mozambique Humanitarian Response Plan 2019"
+        },
+        "HMMR19": {
+            "name": "Myanmar 2019"
+        },
+        "HNER19": {
+            "name": "Niger 2019"
+        },
+        "HNGA19": {
+            "name": "Nigeria 2019"
+        },
+        "HPSE19": {
+            "name": "occupied Palestinian territory 2019  (part of 2018-2020 HRP)"
+        },
+        "OPAK19": {
+            "name": "Pakistan 2019"
+        },
+        "OSAMR19": {
+            "name": "Regional Refugee and Migrant Response Plan (for Refugees and Migrants from Venezuela)"
+        },
+        "HSOM19": {
+            "name": "Somalia 2019"
+        },
+        "HSSD19": {
+            "name": "South Sudan 2019"
+        },
+        "HSDN19": {
+            "name": "Sudan 2019"
+        },
+        "HSYR19": {
+            "name": "Syria Humanitarian Response Plan 2019"
+        },
+        "RSYR19": {
+            "name": "Syria Refugee Response and Resilience Plan (3RP) 2019"
+        },
+        "HUKR19": {
+            "name": "Ukraine Humanitarian Response Plan (HRP) 2019"
+        },
+        "HVEN19": {
+            "name": "Venezuela 2019"
+        },
+        "HYEM19": {
+            "name": "Yemen 2019"
+        },
+        "FZWE1820": {
+            "name": "Zimbabwe Flash Appeal 2019 / 2020"
+        },
+        "HAFG18": {
+            "name": "Afghanistan 2018"
+        },
+        "OBGD18": {
+            "name": "Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2018"
+        },
+        "OBFA18": {
+            "name": "Burkina Faso 2018"
+        },
+        "HBDI18": {
+            "name": "Burundi 2018"
+        },
+        "HCMR18": {
+            "name": "Cameroon 2018"
+        },
+        "HCAF18": {
+            "name": "Central African Republic 2018"
+        },
+        "HTCD18": {
+            "name": "Chad 2018"
+        },
+        "HCOD18": {
+            "name": "Democratic Republic of the Congo 2018"
+        },
+        "OPRK18": {
+            "name": "DPR Korea Needs and Priorities 2018"
+        },
+        "HETH18": {
+            "name": "Ethiopia Humanitarian and Disaster Resilience Plan 2018"
+        },
+        "HHTI18": {
+            "name": "Haiti 2018"
+        },
+        "OIDN18": {
+            "name": "Indonesia: Central Sulawesi Earthquake Response Plan 2018"
+        },
+        "HIRQ18": {
+            "name": "Iraq 2018"
+        },
+        "HLBY18": {
+            "name": "Libya 2018"
+        },
+        "HMLI18": {
+            "name": "Mali 2018"
+        },
+        "OMRT18": {
+            "name": "Mauritania 2018"
+        },
+        "HMMR18": {
+            "name": "Myanmar 2018"
+        },
+        "HNER18": {
+            "name": "Niger 2018"
+        },
+        "HNGA18": {
+            "name": "Nigeria 2018"
+        },
+        "HPSE18": {
+            "name": "occupied Palestinian territory 2018  (part of 2018-2020 HRP)"
+        },
+        "OPAK18": {
+            "name": "Pakistan Transition Plan: Humanitarian Component 2018"
+        },
+        "OPHL18": {
+            "name": "Philippines: Marawi Conflict 2018"
+        },
+        "HSSD18": {
+            "name": "Republic of South Sudan 2018"
+        },
+        "OSEN18": {
+            "name": "Senegal 2018"
+        },
+        "HSOM18": {
+            "name": "Somalia 2018"
+        },
+        "HSDN18": {
+            "name": "Sudan 2018"
+        },
+        "HSYR17a": {
+            "name": "Syria Humanitarian Response Plan 2018"
+        },
+        "R18": {
+            "name": "Syria regional refugee and resilience plan (3RP) 2018"
+        },
+        "HUKR18": {
+            "name": "Ukraine Humanitarian Response Plan 2018"
+        },
+        "HYEM18": {
+            "name": "Yemen 2018"
+        },
+        "OEUR17": {
+            "name": "2017 Europe Situation - Regional Refugee and Migrant Response"
+        },
+        "HAFG17": {
+            "name": "Afghanistan 2017"
+        },
+        "OBGD17": {
+            "name": "Bangladesh: Rohingya Refugee Crisis 2017"
+        },
+        "HBFA17": {
+            "name": "Burkina Faso 2017"
+        },
+        "HBDI17": {
+            "name": "Burundi 2017"
+        },
+        "HCMR17": {
+            "name": "Cameroon 2017"
+        },
+        "HCAF17": {
+            "name": "Central African Republic 2017"
+        },
+        "HTCD17": {
+            "name": "Chad 2017"
+        },
+        "OCUB17": {
+            "name": "Cuba Plan of Action 2017"
+        },
+        "HCOD17": {
+            "name": "Democratic Republic of the Congo 2017"
+        },
+        "HDJI17": {
+            "name": "Djibouti 2017"
+        },
+        "FDMA17": {
+            "name": "Dominica Flash Appeal 2017"
+        },
+        "OPRK17": {
+            "name": "DPR Korea Needs and Priorities 2017"
+        },
+        "HETH17": {
+            "name": "Ethiopia 2017"
+        },
+        "HHTI17": {
+            "name": "Haiti 2017"
+        },
+        "O17": {
+            "name": "Hurricane Irma: Regional Response Plan for the Caribbean Region (Sep to Dec 2017)"
+        },
+        "HIRQ17": {
+            "name": "Iraq 2017"
+        },
+        "FKEN17": {
+            "name": "Kenya Flash Appeal 2017"
+        },
+        "HLBY17": {
+            "name": "Libya 2017"
+        },
+        "FMDG17": {
+            "name": "Madagascar Flash Appeal 2017"
+        },
+        "HMLI17": {
+            "name": "Mali 2017"
+        },
+        "HMRT17": {
+            "name": "Mauritania 2017"
+        },
+        "FMOZ17": {
+            "name": "Mozambique Cyclone Dineo Flash Appeal 2017"
+        },
+        "HMMR17": {
+            "name": "Myanmar 2017"
+        },
+        "HNER17": {
+            "name": "Niger 2017"
+        },
+        "HNGA17": {
+            "name": "Nigeria 2017"
+        },
+        "HPSE17": {
+            "name": "occupied Palestinian territory 2017"
+        },
+        "HPAK17": {
+            "name": "Pakistan Humanitarian Strategic Plan 2017"
+        },
+        "FPER17": {
+            "name": "Peru Flash Appeal 2017"
+        },
+        "HCOG17": {
+            "name": "Republic of Congo 2017"
+        },
+        "HSSD17": {
+            "name": "Republic of South Sudan 2017"
+        },
+        "HSEN17": {
+            "name": "Senegal 2017"
+        },
+        "HSOM17": {
+            "name": "Somalia 2017"
+        },
+        "HSDN17": {
+            "name": "Sudan 2017"
+        },
+        "HSYR17": {
+            "name": "Syria Humanitarian Response Plan 2017"
+        },
+        "RSYR17": {
+            "name": "Syria regional refugee and resilience plan (3RP) 2017"
+        },
+        "HUKR17": {
+            "name": "Ukraine Humanitarian Response Plan 2017"
+        },
+        "HYEM17": {
+            "name": "Yemen Humanitarian Response Plan 2017"
+        },
+        "OEUR16": {
+            "name": "2016 Europe Situation -Regional Refugee and Migrant Response"
+        },
+        "HAFG16": {
+            "name": "Afghanistan 2016"
+        },
+        "FAFG16": {
+            "name": "Afghanistan Flash Appeal: One million people on the move (September - December 2016)"
+        },
+        "HBFA16": {
+            "name": "Burkina Faso 2016"
+        },
+        "HBDI16": {
+            "name": "Burundi 2016"
+        },
+        "HCMR16": {
+            "name": "Cameroon 2016"
+        },
+        "HCAF16": {
+            "name": "Central African Republic 2016"
+        },
+        "HTCD16": {
+            "name": "Chad 2016"
+        },
+        "HCOD16": {
+            "name": "Democratic Republic of the Congo 2016"
+        },
+        "HDJI16": {
+            "name": "Djibouti 2016"
+        },
+        "OPRK16": {
+            "name": "DPR Korea Needs and Priorities 2016"
+        },
+        "FECU16": {
+            "name": "Ecuador Earthquake Flash Appeal 2016"
+        },
+        "FFJI16": {
+            "name": "Fiji Tropical Cyclone Flash Appeal 2016"
+        },
+        "HGMB16": {
+            "name": "Gambia 2016"
+        },
+        "HGTM16": {
+            "name": "Guatemala 2016"
+        },
+        "HHTI16": {
+            "name": "Haiti 2016"
+        },
+        "FHTI16": {
+            "name": "Haiti Flash Appeal: Hurricane Matthew 2016"
+        },
+        "HHND16": {
+            "name": "Honduras 2016"
+        },
+        "HIRQ16": {
+            "name": "Iraq 2016"
+        },
+        "FLBY16": {
+            "name": "Libya - Sirte Flash Appeal 2016"
+        },
+        "HLBY1516": {
+            "name": "Libya 2015-2016"
+        },
+        "HMLI16": {
+            "name": "Mali 2016"
+        },
+        "HMRT16": {
+            "name": "Mauritania 2016"
+        },
+        "FIRQ16": {
+            "name": "Mosul Flash Appeal 2016"
+        },
+        "HMMR16": {
+            "name": "Myanmar 2016"
+        },
+        "HNER16": {
+            "name": "Niger 2016"
+        },
+        "HNGA16": {
+            "name": "Nigeria 2016"
+        },
+        "HPSE16": {
+            "name": "occupied Palestinian territory 2016"
+        },
+        "HSSD16": {
+            "name": "Republic of South Sudan 2016"
+        },
+        "HXSHL16": {
+            "name": "Sahel 2016"
+        },
+        "HSEN16": {
+            "name": "Senegal 2016"
+        },
+        "HSOM16": {
+            "name": "Somalia 2016"
+        },
+        "HSDN16": {
+            "name": "Sudan 2016"
+        },
+        "HSYR16": {
+            "name": "Syria Humanitarian Response Plan 2016"
+        },
+        "RXSYRREG16": {
+            "name": "Syria regional refugee and resilience plan (3RP) 2016"
+        },
+        "HUKR1615": {
+            "name": "Ukraine 2016"
+        },
+        "HYEM16": {
+            "name": "Yemen Humanitarian Response Plan 2016"
+        },
+        "HZWE1617": {
+            "name": "Zimbabwe Humanitarian Response Plan 2016"
+        },
+        "HAFG15": {
+            "name": "Afghanistan 2015"
+        },
+        "HBFA15": {
+            "name": "Burkina Faso 2015"
+        },
+        "HCMR15": {
+            "name": "Cameroon 2015"
+        },
+        "HCAF15": {
+            "name": "Central African Republic 2015"
+        },
+        "HTCD15": {
+            "name": "Chad 2015"
+        },
+        "HCOD15": {
+            "name": "Democratic Republic of the Congo 2015"
+        },
+        "HDJI15": {
+            "name": "Djibouti 2015"
+        },
+        "OPRK15": {
+            "name": "DPR Korea Needs and Priorities 2015"
+        },
+        "HGMB15": {
+            "name": "Gambia 2015"
+        },
+        "FGTM1415": {
+            "name": "Guatemala 2015"
+        },
+        "FHTI15": {
+            "name": "Haiti 2015 Urgent Request for Humanitarian Funding"
+        },
+        "FHND1415": {
+            "name": "Honduras 2015"
+        },
+        "FVUT15": {
+            "name": "Humanitarian Action Plan/ERP for Vanuatu"
+        },
+        "HIRQ15": {
+            "name": "Iraq 2015"
+        },
+        "HLBY1415": {
+            "name": "Libya Humanitarian Appeal October 2014- May 2015"
+        },
+        "HMLI15": {
+            "name": "Mali 2015"
+        },
+        "HMRT15": {
+            "name": "Mauritania 2015"
+        },
+        "HMMR15": {
+            "name": "Myanmar 2015"
+        },
+        "FNPL15": {
+            "name": "Nepal Earthquake Flash Appeal 2015"
+        },
+        "HNER15": {
+            "name": "Niger 2015"
+        },
+        "HNGA15": {
+            "name": "Nigeria 2015"
+        },
+        "HPSE15": {
+            "name": "occupied Palestinian territory 2015"
+        },
+        "HSSD15": {
+            "name": "Republic of South Sudan 2015"
+        },
+        "HXSHL15": {
+            "name": "Sahel Regional 2015"
+        },
+        "HSEN15": {
+            "name": "Senegal 2015"
+        },
+        "HSOM15": {
+            "name": "Somalia 2015"
+        },
+        "RXSSDREG15": {
+            "name": "South Sudan regional refugee response plan 2015 (Ethiopia, Kenya, Uganda components)"
+        },
+        "HSDN15": {
+            "name": "Sudan 2015"
+        },
+        "RXSYRREG15": {
+            "name": "Syria regional refugee and resilience plan (3RP) 2015"
+        },
+        "HSYR15": {
+            "name": "Syria Response Plan 2015"
+        },
+        "HUKR15": {
+            "name": "Ukraine 2015"
+        },
+        "HYEM15": {
+            "name": "Yemen 2015"
+        },
+        "HAFG14": {
+            "name": "Afghanistan 2014"
+        },
+        "HBFA1314": {
+            "name": "Burkina Faso 2014"
+        },
+        "HCMR14": {
+            "name": "Cameroon 2014"
+        },
+        "HCAF14": {
+            "name": "Central African Republic 2014"
+        },
+        "HTCD14": {
+            "name": "Chad 2014"
+        },
+        "HCOD1415": {
+            "name": "Democratic Republic of the Congo 2014"
+        },
+        "HDJI14": {
+            "name": "Djibouti 2014"
+        },
+        "OXEBOLA1415": {
+            "name": "Ebola Virus Outbreak - Overview of Needs and Requirements (inter-agency plan for Guinea, Liberia, Sierra Leone, Region) - October 2014 - June 2015"
+        },
+        "HGMB14": {
+            "name": "Gambia 2014"
+        },
+        "HHTI14": {
+            "name": "Haiti Humanitarian Action Plan 2014"
+        },
+        "HIRQ14": {
+            "name": "Iraq 2014"
+        },
+        "HMLI14": {
+            "name": "Mali 2014"
+        },
+        "HMRT14": {
+            "name": "Mauritania 2014"
+        },
+        "HMMR14": {
+            "name": "Myanmar 2014"
+        },
+        "HNER14": {
+            "name": "Niger Plan de R\u00e9ponse Strat\u00e9gique 2014"
+        },
+        "HNGA14": {
+            "name": "Nigeria 2014"
+        },
+        "HPSE14": {
+            "name": "occupied Palestinian territory 2014"
+        },
+        "FPHL1314": {
+            "name": "Philippines - Bohol Earthquake Action Plan (October 2013 - April 2014)"
+        },
+        "HPHL1314": {
+            "name": "Philippines - Typhoon Haiyan Strategic Response Plan (November 2013 - October 2014)"
+        },
+        "HPHL1314a": {
+            "name": "Philippines- Zamboanga crisis (October 2013-August 2014)"
+        },
+        "HCOG14": {
+            "name": "Republic of Congo 2014"
+        },
+        "HSSD14": {
+            "name": "Republic of South Sudan - Crisis Response Plan 2014"
+        },
+        "HXSHL14": {
+            "name": "Sahel Regional 2014"
+        },
+        "HSEN14": {
+            "name": "Senegal 2014"
+        },
+        "HSOM14": {
+            "name": "Somalia 2014"
+        },
+        "RXSSDREG14": {
+            "name": "South Sudan Regional Refugee Response Plan (Ethiopia, Kenya, Sudan and Uganda) 2014"
+        },
+        "HSDN14": {
+            "name": "Sudan Humanitarian Work Plan 2014"
+        },
+        "HSYR1314": {
+            "name": "Syria Humanitarian Assistance Response Plan (SHARP) 2014"
+        },
+        "RXSYRREG14": {
+            "name": "Syria Regional Refugee Response Plan (RRP) 2014"
+        },
+        "FUKR14": {
+            "name": "Ukraine PRP 2014"
+        },
+        "HYEM14": {
+            "name": "Yemen 2014"
+        },
+        "CAFG13": {
+            "name": "Afghanistan 2013"
+        },
+        "CBFA13": {
+            "name": "Burkina Faso 2013"
+        },
+        "CCAF13": {
+            "name": "Central African Republic 2013"
+        },
+        "CTCD13": {
+            "name": "Chad 2013"
+        },
+        "OCUB1213": {
+            "name": "Cuba Plan of Action 2012 - 2013 (November 2012 - December 2013)"
+        },
+        "CCOD1314": {
+            "name": "Democratic Republic of the Congo 2013"
+        },
+        "CDJI13": {
+            "name": "Djibouti 2013"
+        },
+        "CHTI13": {
+            "name": "Haiti Humanitarian Action Plan 2013"
+        },
+        "CKEN13": {
+            "name": "Kenya Emergency Humanitarian Response Plan 2013"
+        },
+        "CMLI13": {
+            "name": "Mali 2013"
+        },
+        "CMRT13": {
+            "name": "Mauritania 2013"
+        },
+        "OMMR13": {
+            "name": "Myanmar - Kachin Response Plan 2013 (March - December 2013)"
+        },
+        "OMMR1213": {
+            "name": "Myanmar - Rakhine Response Plan 2012-2013 (July 2012 - December 2013)"
+        },
+        "CNER13": {
+            "name": "Niger 2013"
+        },
+        "CPSE13": {
+            "name": "occupied Palestinian territory 2013"
+        },
+        "CPHL1314": {
+            "name": "Philippines Mindanao Action Plan 2013"
+        },
+        "CSSD13": {
+            "name": "Republic of South Sudan 2013"
+        },
+        "CSOM13": {
+            "name": "Somalia 2013"
+        },
+        "CSDN13": {
+            "name": "Sudan 2013"
+        },
+        "CSYR13": {
+            "name": "Syria Humanitarian Assistance Response Plan (SHARP) 2013"
+        },
+        "RXSYRREG13": {
+            "name": "Syria Regional Refugee Response Plan (RRP) 2013"
+        },
+        "CYEM13": {
+            "name": "Yemen Humanitarian Response Plan 2013"
+        },
+        "OZWE13": {
+            "name": "Zimbabwe 2013"
+        }
+    }
+}

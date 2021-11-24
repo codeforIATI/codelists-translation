@@ -1,0 +1,68 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "A01": {
+            "name": "Apoyo presupuestario general"
+        },
+        "A02": {
+            "name": "Apoyo presupuestario sectorial"
+        },
+        "B01": {
+            "name": "Apoyo b\u00e1sico a ONG, otros organismos privados, alianzas p\u00fablico-privadas e institutos de investigaci\u00f3n"
+        },
+        "B02": {
+            "name": "Contribuciones b\u00e1sicas a instituciones multilaterales"
+        },
+        "B03": {
+            "name": "Contribuciones a programas para fines concretos y fondos administrados por asociados en la ejecuci\u00f3n"
+        },
+        "B031": {
+            "name": "Contribuciones a mecanismos de financiaci\u00f3n de donantes m\u00faltiples y entidades m\u00faltiples"
+        },
+        "B032": {
+            "name": "Contribuciones a mecanismos de financiaci\u00f3n de donantes m\u00faltiples y una entidad \u00fanica"
+        },
+        "B033": {
+            "name": "Contribuciones a mecanismos de financiaci\u00f3n de un donante \u00fanico y contribuciones para fines espec\u00edficos para ventanillas de financiaci\u00f3n o ubicaciones geogr\u00e1ficas espec\u00edficas"
+        },
+        "B04": {
+            "name": "Fondos colectivos o financiaci\u00f3n mancomunada"
+        },
+        "C01": {
+            "name": "Intervenciones basadas en proyectos"
+        },
+        "D01": {
+            "name": "Personal del pa\u00eds donante"
+        },
+        "D02": {
+            "name": "Asistencia t\u00e9cnica de otro tipo"
+        },
+        "E01": {
+            "name": "Becas o capacitaci\u00f3n en el pa\u00eds donante"
+        },
+        "E02": {
+            "name": "Costos estudiantiles estimados"
+        },
+        "F01": {
+            "name": "Alivio de la deuda"
+        },
+        "G01": {
+            "name": "Costos administrativos no incluidos en otras secciones"
+        },
+        "H01": {
+            "name": "Concienciaci\u00f3n en materia de desarrollo"
+        },
+        "H02": {
+            "name": "Refugiados/solicitantes de asilo en pa\u00edses donantes"
+        },
+        "H03": {
+            "name": "Solicitantes de asilo finalmente aceptados"
+        },
+        "H04": {
+            "name": "Solicitantes de asilo finalmente rechazados"
+        },
+        "H05": {
+            "name": "Refugiados reconocidos"
+        }
+    }
+}

@@ -1,0 +1,1289 @@
+{
+    "metadata": {
+        "name": "Code de m\u00e9canisme du SNPC"
+    },
+    "codelist-items": {
+        "10000": {
+            "name": "Institutions du secteur public"
+        },
+        "11000": {
+            "name": "Gouvernement du donneur"
+        },
+        "11001": {
+            "name": "Gouvernment central"
+        },
+        "11002": {
+            "name": "Gouvernment local"
+        },
+        "11003": {
+            "name": "Entreprise publique"
+        },
+        "11004": {
+            "name": "Autres entit\u00e9 publique dans le pays donneur"
+        },
+        "12000": {
+            "name": "Gouvernement du b\u00e9n\u00e9ficiaire"
+        },
+        "12001": {
+            "name": "Gouvernment central"
+        },
+        "12002": {
+            "name": "Gouvernment local"
+        },
+        "12003": {
+            "name": "Entreprise publique"
+        },
+        "12004": {
+            "name": "Autres entit\u00e9 publique dans le pays b\u00e9n\u00e9ficiaire"
+        },
+        "13000": {
+            "name": "Gouvernement tiers (coop\u00e9ration d\u00e9l\u00e9gu\u00e9e)"
+        },
+        "20000": {
+            "name": "Organisations non gouvernementales (ONG) et soci\u00e9t\u00e9 civile"
+        },
+        "21000": {
+            "name": "ONG internationales"
+        },
+        "21001": {
+            "name": "Association de g\u00e9oscientifiques pour le d\u00e9veloppement international"
+        },
+        "21002": {
+            "name": "Agence de coop\u00e9ration et d'information pour le commerce international"
+        },
+        "21003": {
+            "name": "Conseil latino-am\u00e9ricain des sciences sociales"
+        },
+        "21004": {
+            "name": "Conseil pour le d\u00e9veloppement de la recherche en sciences sociales en Afrique"
+        },
+        "21005": {
+            "name": "Consumer Unity and Trust Society International"
+        },
+        "21006": {
+            "name": "Development Gateway Foundation"
+        },
+        "21007": {
+            "name": "Centre international de liaison pour l\u2019environnement"
+        },
+        "21008": {
+            "name": "Eurostep"
+        },
+        "21009": {
+            "name": "Forum pour la recherche agricole en Afrique"
+        },
+        "21010": {
+            "name": "Forum des \u00e9ducatrices africaines"
+        },
+        "21011": {
+            "name": "Campagne mondiale pour l\u2019\u00e9ducation"
+        },
+        "21013": {
+            "name": "Health Action International"
+        },
+        "21014": {
+            "name": "Syst\u00e8mes d\u2019Information et de Documentation sur les Droits de l\u2019Homme"
+        },
+        "21015": {
+            "name": "Association internationale rurale catholique"
+        },
+        "21016": {
+            "name": "Comit\u00e9 international de la Croix-Rouge"
+        },
+        "21017": {
+            "name": "Centre international de commerce et de d\u00e9veloppement durable"
+        },
+        "21018": {
+            "name": "F\u00e9d\u00e9ration internationale des Soci\u00e9t\u00e9s de la Croix-Rouge et du Croissant-Rouge"
+        },
+        "21019": {
+            "name": "F\u00e9d\u00e9ration internationale des centres sociaux et communautaires"
+        },
+        "21020": {
+            "name": "International HIV/AIDS Alliance"
+        },
+        "21021": {
+            "name": "Institut international pour l\u2019environnement et le d\u00e9veloppement"
+        },
+        "21022": {
+            "name": "R\u00e9seau international d\u2019institutions financi\u00e8res"
+        },
+        "21023": {
+            "name": "F\u00e9d\u00e9ration internationale pour le planning familial"
+        },
+        "21024": {
+            "name": "Inter Press Service, International Association"
+        },
+        "21025": {
+            "name": "Centre s\u00e9ismologique international"
+        },
+        "21026": {
+            "name": "Service International pour les Droits de l\u2019Homme"
+        },
+        "21027": {
+            "name": "ITF Am\u00e9liorer la s\u00e9curit\u00e9 humaine"
+        },
+        "21028": {
+            "name": "Fonds international d\u2019\u00e9changes universitaires - \u00c9changes int\u00e9ressant l\u2019Afrique et l\u2019Am\u00e9rique latine"
+        },
+        "21029": {
+            "name": "M\u00e9decins Sans Fronti\u00e8res"
+        },
+        "21030": {
+            "name": "Institut panafricain pour le d\u00e9veloppement"
+        },
+        "21031": {
+            "name": "Institut PANOS"
+        },
+        "21032": {
+            "name": "Organisation internationale pour les services en mati\u00e8re de population"
+        },
+        "21033": {
+            "name": "Transparency International"
+        },
+        "21034": {
+            "name": "Union Internationale Contre la Tuberculose et les Maladies Respiratoires"
+        },
+        "21035": {
+            "name": "Organisation mondiale contre la torture"
+        },
+        "21036": {
+            "name": "Entraide universitaire mondiale"
+        },
+        "21037": {
+            "name": "Banque mondiale des femmes"
+        },
+        "21038": {
+            "name": "International Alert"
+        },
+        "21039": {
+            "name": "Institut international de d\u00e9veloppement durable"
+        },
+        "21040": {
+            "name": "Centre de la tribune internationale de la femme"
+        },
+        "21041": {
+            "name": "Soci\u00e9t\u00e9 pour le d\u00e9veloppement international"
+        },
+        "21042": {
+            "name": "Alliance internationale pour la consolidation de la paix"
+        },
+        "21043": {
+            "name": "Association des parlementaires d\u2019Europe pour l\u2019Afrique"
+        },
+        "21044": {
+            "name": "Conseil international pour la lutte contre les troubles dus \u00e0 une carence en iode"
+        },
+        "21045": {
+            "name": "Fondation africaine pour la m\u00e9decine et la recherche"
+        },
+        "21046": {
+            "name": "Association de Coop\u00e9ration et de Recherche pour le D\u00e9veloppement"
+        },
+        "21047": {
+            "name": "AgriCord"
+        },
+        "21048": {
+            "name": "Association des universit\u00e9s africaines"
+        },
+        "21049": {
+            "name": "Centre europ\u00e9en de gestion de politiques de d\u00e9veloppement"
+        },
+        "21050": {
+            "name": "Appel de Gen\u00e8ve"
+        },
+        "21051": {
+            "name": "Institut sup\u00e9rieur panafricaine d\u2019economie coop\u00e9rative"
+        },
+        "21053": {
+            "name": "IPAS-Protecting Women's Health, Advancing Women's Reproductive Rights"
+        },
+        "21054": {
+            "name": "Institut Vie et Paix"
+        },
+        "21055": {
+            "name": "R\u00e9seau r\u00e9gional de formation sur le SIDA"
+        },
+        "21056": {
+            "name": "Partenariat pour les \u00e9nergies renouvelables et l'efficience \u00e9nerg\u00e9tique"
+        },
+        "21057": {
+            "name": "Centre International pour la Justice Transitionnelle"
+        },
+        "21058": {
+            "name": "International Crisis Group"
+        },
+        "21059": {
+            "name": "Fonds solidaire pour l'Afrique"
+        },
+        "21060": {
+            "name": "Association pour la pr\u00e9vention de la torture"
+        },
+        "21061": {
+            "name": "Conseil international de r\u00e9habilitation pour les victimes de torture"
+        },
+        "21062": {
+            "name": "The Nature Conservancy"
+        },
+        "21063": {
+            "name": null
+        },
+        "21064": {
+            "name": "Initiative Clinton pour\u00a0l'acc\u00e8s\u00a0\u00e0\u00a0la sant\u00e9"
+        },
+        "21501": {
+            "name": null
+        },
+        "21502": {
+            "name": null
+        },
+        "21503": {
+            "name": null
+        },
+        "21504": {
+            "name": null
+        },
+        "21505": {
+            "name": null
+        },
+        "21506": {
+            "name": null
+        },
+        "21507": {
+            "name": null
+        },
+        "22000": {
+            "name": "ONG bas\u00e9e dans un pays donneur"
+        },
+        "22501": {
+            "name": null
+        },
+        "22502": {
+            "name": null
+        },
+        "23000": {
+            "name": "ONG bas\u00e9e dans un pays en d\u00e9veloppement"
+        },
+        "23501": {
+            "name": "Soci\u00e9t\u00e9s nationales de la Croix-Rouge et du Croissant-Rouge"
+        },
+        "30000": {
+            "name": "Partenariats public-priv\u00e9 (PPP) et r\u00e9seaux"
+        },
+        "30001": {
+            "name": "Alliance mondiale pour une meilleure nutrition"
+        },
+        "30003": {
+            "name": "Initiative mondiale en faveur de l\u2019informatique dans les \u00e9coles et dans les communaut\u00e9s"
+        },
+        "30004": {
+            "name": "Partenariat mondial pour l'eau"
+        },
+        "30005": {
+            "name": "Initiative internationale pour un vaccin contre le SIDA"
+        },
+        "30006": {
+            "name": "Partenariat international pour des microbicides"
+        },
+        "30007": {
+            "name": "Alliance mondiale pour les TIC et le d\u00e9veloppement"
+        },
+        "30008": {
+            "name": "Alliance pour les villes"
+        },
+        "30009": {
+            "name": "Small Arms Survey"
+        },
+        "30010": {
+            "name": "Facilit\u00e9 internationale d'achat de m\u00e9dicaments"
+        },
+        "30011": {
+            "name": "Union internationale pour la conservation de la nature"
+        },
+        "30012": {
+            "name": "Global Climate Partnership Fund"
+        },
+        "30013": {
+            "name": "M\u00e9canisme de soutien au microfinancement"
+        },
+        "30014": {
+            "name": "Fonds r\u00e9gional d\u2019investissement pour les tr\u00e8s petites, petites et moyennes entreprises d\u2019Afrique subsaharienne"
+        },
+        "30015": {
+            "name": "Fonds mondial pour la promotion de l'efficacit\u00e9 \u00e9nerg\u00e9tique et des \u00e9nergies renouvelables"
+        },
+        "30016": {
+            "name": "European Fund for Southeast Europe"
+        },
+        "30017": {
+            "name": "SANAD Fund for Micro, Small and Medium Enterprises"
+        },
+        "30018": {
+            "name": "African Finance Corporation"
+        },
+        "30019": {
+            "name": "Currency Exchange Fund N.V."
+        },
+        "30020": {
+            "name": "Global Energy Efficiency and Renewable Energy Fund"
+        },
+        "31000": {
+            "name": "Partenariats public-priv\u00e9 (PPP)"
+        },
+        "31001": {
+            "name": "R\u00e9seau de d\u00e9veloppement mondial"
+        },
+        "31002": {
+            "name": "Alliance mondiale pour le savoir"
+        },
+        "31003": {
+            "name": "Coalition internationale pour l'acc\u00e8s \u00e0 la terre"
+        },
+        "31004": {
+            "name": "Secr\u00e9tariat de l'Initiative pour la transparence dans les industries extractives"
+        },
+        "31005": {
+            "name": "R\u00e9seau parlementaire sur la Banque mondaile"
+        },
+        "31006": {
+            "name": "Coalition pour les innovations en mati\u00e8re de pr\u00e9paration"
+        },
+        "32000": {
+            "name": "R\u00e9seaux"
+        },
+        "40000": {
+            "name": "Organisations multilat\u00e9rales"
+        },
+        "41000": {
+            "name": "Agence, fonds ou commission des Nations Unies (ONU)"
+        },
+        "41100": {
+            "name": "Entit\u00e9s des Nations Unies (contributions aux budgets reguliers \u00e0 d\u00e9clarer dans leur int\u00e9gralit\u00e9)"
+        },
+        "41101": {
+            "name": "Convention sur la lutte contre la d\u00e9sertification"
+        },
+        "41102": {
+            "name": "Organisation de lutte contre le criquet p\u00e8lerin dans l'Est Africain"
+        },
+        "41103": {
+            "name": "Commission \u00e9conomique pour l'Afrique"
+        },
+        "41104": {
+            "name": "Commission \u00e9conomique pour l'Am\u00e9rique latine et les Cara\u00efbes"
+        },
+        "41105": {
+            "name": "Commission \u00e9conomique et sociale pour l'Asie occidentale"
+        },
+        "41106": {
+            "name": "Commission \u00e9conomique et sociale pour l'Asie et le Pacifique"
+        },
+        "41107": {
+            "name": "Agence internationale de l'\u00e9nergie atomique (Contributions au Fonds de Coop\u00e9ration Technique uniquement)"
+        },
+        "41108": {
+            "name": "Fonds international de d\u00e9veloppement agricole"
+        },
+        "41109": {
+            "name": "International Research and Training Institute for the Advancement of Women"
+        },
+        "41110": {
+            "name": "Programme commun des Nations Unies sur le VIH/SIDA"
+        },
+        "41111": {
+            "name": "Fonds d\u2019\u00e9quipement des Nations Unies"
+        },
+        "41112": {
+            "name": "Conf\u00e9rence des Nations Unies sur le commerce et le d\u00e9veloppement"
+        },
+        "41114": {
+            "name": "Programme des Nations Unies pour le d\u00e9veloppement"
+        },
+        "41116": {
+            "name": "Programme des Nations Unies pour l'environnement"
+        },
+        "41119": {
+            "name": "Fonds des Nations Unies pour la population"
+        },
+        "41120": {
+            "name": "Programme des Nations Unies pour les \u00e9tablissements humains"
+        },
+        "41121": {
+            "name": "Haut Commissariat des Nations Unies pour les r\u00e9fugi\u00e9s"
+        },
+        "41122": {
+            "name": "Fonds des Nations Unies pour l'enfance"
+        },
+        "41123": {
+            "name": "Organisation des Nations Unies pour le d\u00e9veloppement industriel"
+        },
+        "41124": {
+            "name": "United Nations Development Fund for Women"
+        },
+        "41125": {
+            "name": "Institut des Nations Unies pour la formation et la recherche"
+        },
+        "41126": {
+            "name": "Service de l'action antimines des Nations Unies"
+        },
+        "41127": {
+            "name": "Bureau des Nations Unies pour la coordination de l'assistance humanitaire"
+        },
+        "41128": {
+            "name": "Office des Nations Unies contre la drogue et le crime"
+        },
+        "41129": {
+            "name": "Institut de recherche des Nations Unies pour le d\u00e9veloppement social"
+        },
+        "41130": {
+            "name": "Office de secours et de travaux des Nations Unies pour les r\u00e9fugi\u00e9s de Palestine dans le Proche-Orient"
+        },
+        "41131": {
+            "name": "Ecole des cadres du syst\u00e8me des Nations Unies"
+        },
+        "41132": {
+            "name": "Comit\u00e9 permanent de la nutrition du syst\u00e8me des Nations Unies"
+        },
+        "41133": {
+            "name": "Initiative sp\u00e9ciale des Nations Unies pour l'Afrique"
+        },
+        "41134": {
+            "name": "Universit\u00e9 des Nations Unies (y compris le Fonds de dotation)"
+        },
+        "41135": {
+            "name": "Programme des volontaires des Nations Unies"
+        },
+        "41136": {
+            "name": "Fonds de contributions voluntaires des Nations Unies pour les handicap\u00e9s"
+        },
+        "41137": {
+            "name": "Fonds de contributions volontaires des Nations Unies pour la coop\u00e9ration technique dans le domaine des droits de l'homme"
+        },
+        "41138": {
+            "name": "Fonds de contributions volontaires des Nations Unies pour les victimes de la torture"
+        },
+        "41140": {
+            "name": "Programme alimentaire mondial"
+        },
+        "41141": {
+            "name": "Fonds des Nations Unies pour la consolidation de la paix"
+        },
+        "41142": {
+            "name": "Fonds des Nations Unies pour la d\u00e9mocratie"
+        },
+        "41143": {
+            "name": "Organisation mondiale de la sant\u00e9 - compte de contributions volontaires sans objet d\u00e9sign\u00e9"
+        },
+        "41144": {
+            "name": "Organisation internationale du Travail - Compte suppl\u00e9mentaire du budget ordinaire"
+        },
+        "41145": {
+            "name": "Organisation maritime internationale - Programme int\u00e9gr\u00e9 de coop\u00e9ration technique"
+        },
+        "41146": {
+            "name": "Entit\u00e9 des Nations Unies pour l'\u00e9galit\u00e9 des sexes et l'autonomisation de la femme"
+        },
+        "41147": {
+            "name": "Fonds central pour les interventions d'urgence"
+        },
+        "41148": {
+            "name": "D\u00e9partement des affaires politiques des Nations unies, fonds fiduciaire de soutien aux affaires politiques"
+        },
+        "41149": {
+            "name": "Bureau de la coordination des activit\u00e9s de d\u00e9veloppement des Nations Unies"
+        },
+        "41150": {
+            "name": "Institut des Nations unies pour la recherche sur le d\u00e9sarmement"
+        },
+        "41151": {
+            "name": "Centre international de recherche sur le cancer"
+        },
+        "41300": {
+            "name": "Autres Nations Unies (contributions comptabilisables pour partie)"
+        },
+        "41301": {
+            "name": "Organisation des Nations Unies pour l'alimentation et l'agriculture"
+        },
+        "41302": {
+            "name": "Organisation internationale du travail - contributions obligatoires"
+        },
+        "41303": {
+            "name": "Union internationale des t\u00e9l\u00e9communications"
+        },
+        "41304": {
+            "name": "Organisation des Nations Unies pour l\u2019\u00e9ducation, la science et la culture"
+        },
+        "41305": {
+            "name": "Organisation des Nations Unies"
+        },
+        "41306": {
+            "name": "Union postale universelle"
+        },
+        "41307": {
+            "name": "Organisation mondiale de la sant\u00e9 - contributions obligatoires"
+        },
+        "41308": {
+            "name": "Organisation mondiale de la propri\u00e9t\u00e9 intellectuelle"
+        },
+        "41309": {
+            "name": "Organisation m\u00e9t\u00e9orologique mondiale"
+        },
+        "41310": {
+            "name": "D\u00e9partement des op\u00e9rations de paix des Nations unies. Op\u00e9rations de maintien de la paix [seulement MINURSO,MINUSCA,MINUSMA, MINUSTAH,MONUSCO,MINUAD, FINUL,FISNUA,MINUK, MINUL,UNMISS,ONUCI]. Notifier les contributions mission par mission au format SNPC++."
+        },
+        "41311": {
+            "name": "Fonds des Nations Unies pour la consolidation de la paix (Guichet un:  contributions sans conditions)"
+        },
+        "41312": {
+            "name": "Agence internationale de l'\u00e9nergie atomique - contributions obligatoires"
+        },
+        "41313": {
+            "name": "Haut-Commissariat des Nations unies aux droits de l'homme (contributions extrabudg\u00e9taires uniquement)"
+        },
+        "41314": {
+            "name": "Commission \u00e9conomique des Nations unies pour l'Europe (contributions extrabudg\u00e9taires uniquement)"
+        },
+        "41315": {
+            "name": "Bureau des Nations Unies pour la pr\u00e9vention de catastrophes"
+        },
+        "41316": {
+            "name": "Convention-cadre des Nations unies sur les changements climatiques"
+        },
+        "41317": {
+            "name": "Fonds vert pour le climat"
+        },
+        "41318": {
+            "name": "M\u00e9canisme mondial"
+        },
+        "41319": {
+            "name": "Organisation mondiale du tourisme"
+        },
+        "41320": {
+            "name": "Banque de Technologies en faveur des Pays les Moins Avanc\u00e9s"
+        },
+        "41400": {
+            "name": "Fonds communs interinstitutions des Nations Unies"
+        },
+        "41401": {
+            "name": "UN-Multi Partner Trust Fund Office"
+        },
+        "41500": {
+            "name": "Fonds th\u00e9matiques uniques des Nations Unies"
+        },
+        "41501": {
+            "name": null
+        },
+        "41502": {
+            "name": "Le Bureau des Nations Unies pour les services d'appui aux projets"
+        },
+        "41503": {
+            "name": null
+        },
+        "41600": {
+            "name": "Canaux de l'ONU existants non inclus dans la norme I du cadre de reporting du cube de l'ONU",
+            "description": null
+        },
+        "42000": {
+            "name": "Institutions de l'Union europ\u00e9enne"
+        },
+        "42001": {
+            "name": "Commission europ\u00e9enne - partie du budget affect\u00e9e au d\u00e9veloppement"
+        },
+        "42003": {
+            "name": "Commission europ\u00e9enne - Fonds europ\u00e9en de d\u00e9veloppement"
+        },
+        "42004": {
+            "name": "Banque europ\u00e9enne d'investissement"
+        },
+        "42005": {
+            "name": "Facility for Euro-Mediterranean Investment and Partnership Trust Fund"
+        },
+        "43000": {
+            "name": "Fonds mon\u00e9taire international (FMI)"
+        },
+        "43001": {
+            "name": "Fonds mon\u00e9taire international \u2013 Facilit\u00e9 pour la r\u00e9duction de la pauvret\u00e9 et pour la croissance"
+        },
+        "43002": {
+            "name": "Fonds mon\u00e9taire international \u2013 R\u00e9duction de la pauvret\u00e9 et croissance \u2013 Initiative d\u2019all\u00e8gement de la dette en faveur des pays pauvres tr\u00e8s endett\u00e9s [y compris Initiative PPTE, Facilit\u00e9 \u00e9largie de cr\u00e9dit (FEC) et sous-comptes (FEC-PPTE)]"
+        },
+        "43003": {
+            "name": "Fonds mon\u00e9taire international \u2013 Aide d\u2019urgence apr\u00e8s un conflit (EPCA) et aide d\u2019urgence \u00e0 la suite de catastrophes naturelles (ENDA) pour les membres pouvant b\u00e9n\u00e9ficier de la FRPC"
+        },
+        "43004": {
+            "name": "Fonds mon\u00e9taire international \u2013 Facilit\u00e9 pour la r\u00e9duction de la pauvret\u00e9 et pour la croissance \u2013 Initiative d\u2019all\u00e8gement de la dette multilat\u00e9rale"
+        },
+        "43005": {
+            "name": "Fonds mon\u00e9taire international  - Fonds fiduciaire pour l'all\u00e9gement de la dette apr\u00e8s une catastrophe"
+        },
+        "43006": {
+            "name": "Fonds fiduciaire d\u2019assistance et de riposte aux catastrophes"
+        },
+        "44000": {
+            "name": "Groupe de la Banque mondiale (BM)"
+        },
+        "44001": {
+            "name": "Banque internationale pour la reconstruction et le d\u00e9veloppement"
+        },
+        "44002": {
+            "name": "Association internationale de d\u00e9veloppement"
+        },
+        "44003": {
+            "name": "Association internationale de d\u00e9veloppement - Fonds fiduciaire de l'IDA en faveur des pays pauvres tr\u00e8s endett\u00e9s"
+        },
+        "44004": {
+            "name": "Soci\u00e9t\u00e9 financi\u00e8re internationale"
+        },
+        "44005": {
+            "name": "Agence multilat\u00e9rale de garantie des investissements"
+        },
+        "44006": {
+            "name": "Garanties de march\u00e9"
+        },
+        "44007": {
+            "name": "Association internationale de d\u00e9veloppement - Initiative d\u2019all\u00e9gement de la dette multilat\u00e9rale"
+        },
+        "44008": {
+            "name": "Partnership for Market Implementation"
+        },
+        "45000": {
+            "name": "Organisation mondiale du commerce (OMC)"
+        },
+        "45001": {
+            "name": "Centre du commerce international de l'Organisation mondiale du commerce"
+        },
+        "45002": {
+            "name": "Centre consultatif sur la l\u00e9gislation de l'Organisation mondiale du commerce"
+        },
+        "45003": {
+            "name": "Organisation mondiale du commerce - Fonds global d'affectation sp\u00e9ciale pour le Programme de Doha pour le d\u00e9veloppement"
+        },
+        "46000": {
+            "name": "Banques r\u00e9gionales de d\u00e9veloppement"
+        },
+        "46002": {
+            "name": "Banque africaine de d\u00e9veloppement"
+        },
+        "46003": {
+            "name": "Fonds africain de d\u00e9veloppement"
+        },
+        "46004": {
+            "name": "Banque asiatique de d\u00e9veloppement"
+        },
+        "46005": {
+            "name": "Fonds asiatique de d\u00e9veloppement"
+        },
+        "46006": {
+            "name": "Black Sea Trade and Development Bank"
+        },
+        "46007": {
+            "name": "Banque centroam\u00e9ricaine d'int\u00e9gration \u00e9conomique"
+        },
+        "46008": {
+            "name": "Banque de d\u00e9veloppement de l'Am\u00e9rique latine"
+        },
+        "46009": {
+            "name": "Banque de d\u00e9veloppement des Cara\u00efbes"
+        },
+        "46012": {
+            "name": "Banque interam\u00e9ricaine de d\u00e9veloppement, Soci\u00e9t\u00e9 interam\u00e9ricaine d'investissements, Fonds multilat\u00e9ral d'investissements"
+        },
+        "46013": {
+            "name": "Banque interam\u00e9ricaine de d\u00e9veloppement, Fonds op\u00e9rations sp\u00e9cial"
+        },
+        "46015": {
+            "name": "Banque europ\u00e9enne pour la reconstruction et le d\u00e9veloppement"
+        },
+        "46016": {
+            "name": "Banque europ\u00e9enne pour la reconstruction et le d\u00e9veloppement - coop\u00e9ration technique et fonds sp\u00e9ciaux (pays \u00e9ligibles \u00e0 l'APD)"
+        },
+        "46017": {
+            "name": "Banque europ\u00e9enne pour la reconstruction et le d\u00e9veloppement - coop\u00e9ration technique et fonds sp\u00e9ciaux (tous pays)"
+        },
+        "46018": {
+            "name": "Banque europ\u00e9enne de reconstruction et de d\u00e9veloppement - Initiative en faveur des pays en transition pr\u00e9coce"
+        },
+        "46019": {
+            "name": "Banque europ\u00e9enne de reconstruction et de d\u00e9veloppement - Fonds sp\u00e9cial pour les Balkans occidentaux"
+        },
+        "46020": {
+            "name": "Banque de d\u00e9veloppement des \u00c9tats de l'Afrique Centrale"
+        },
+        "46021": {
+            "name": "Banque ouest-africaine de d\u00e9veloppement"
+        },
+        "46022": {
+            "name": "Banque Africaine d'Import-Export"
+        },
+        "46023": {
+            "name": "Banque de l\u2019Afrique de l\u2019Est et de l\u2019Afrique Australe pour le Commerce et le D\u00e9veloppement"
+        },
+        "46024": {
+            "name": "Banque de D\u00e9veloppement\u00a0du\u00a0Conseil de l'Europe"
+        },
+        "46025": {
+            "name": "Banque Islamique de D\u00e9veloppement"
+        },
+        "46026": {
+            "name": null
+        },
+        "46027": {
+            "name": "Fonds financier pour le d\u00e9veloppement du bassin fluvial de la Plata"
+        },
+        "47000": {
+            "name": "Autres institutions multilat\u00e9rales"
+        },
+        "47001": {
+            "name": "Fondation pour le renforcement des capacit\u00e9s en Afrique"
+        },
+        "47002": {
+            "name": "Organisation asiatique de productivit\u00e9"
+        },
+        "47003": {
+            "name": "Association des nations de l'Asie du Sud-Est - coop\u00e9ration \u00e9conomique"
+        },
+        "47004": {
+            "name": "ASEAN Cultural Fund"
+        },
+        "47005": {
+            "name": "Union Africaine (\u00e0 l'exclusion de la Facilit\u00e9 de soutien \u00e0 la paix)"
+        },
+        "47008": {
+            "name": "Centre international de cultures mara\u00eech\u00e8res"
+        },
+        "47009": {
+            "name": "Conseil africain et malgache pour l'enseignement sup\u00e9rieur"
+        },
+        "47010": {
+            "name": "Agence du Commonwealth pour l'administration et la gestion publiques"
+        },
+        "47011": {
+            "name": "Secr\u00e9tariat de la Communaut\u00e9 des Cara\u00efbes"
+        },
+        "47012": {
+            "name": "Centre \u00e9pid\u00e9miologique des Cara\u00efbes"
+        },
+        "47013": {
+            "name": "Fondation du Commonwealth"
+        },
+        "47014": {
+            "name": "Commonwealth Fund for Technical Co-operation"
+        },
+        "47015": {
+            "name": "CGIAR Fund"
+        },
+        "47016": {
+            "name": "Commonwealth Institute"
+        },
+        "47017": {
+            "name": "Centre international d'agriculture tropicale"
+        },
+        "47018": {
+            "name": "Centre de recherche foresti\u00e8re internationale"
+        },
+        "47019": {
+            "name": "Centre international de hautes \u00e9tudes agronomique m\u00e9diterran\u00e9ennes"
+        },
+        "47020": {
+            "name": "Centre international d\u2019am\u00e9lioration du ma\u00efs et du bl\u00e9"
+        },
+        "47021": {
+            "name": "Centre international de la pomme de terre"
+        },
+        "47022": {
+            "name": "Convention sur le commerce international des esp\u00e8ces de faune et de flore sauvages menac\u00e9es d'extinction"
+        },
+        "47023": {
+            "name": "Commonwealth Legal Advisory Service"
+        },
+        "47024": {
+            "name": "Commonwealth Media Development Fund"
+        },
+        "47025": {
+            "name": "Commonwealth of Learning"
+        },
+        "47026": {
+            "name": "Communaut\u00e9 des pays de langue portugaise"
+        },
+        "47027": {
+            "name": "Plan de Colombo"
+        },
+        "47028": {
+            "name": "Partenariat pour la gestion technique (Commonwealth)"
+        },
+        "47029": {
+            "name": "Club du Sahel et de l\u2019Afrique de l\u2019Ouest"
+        },
+        "47030": {
+            "name": "Commonwealth Scientific Council"
+        },
+        "47031": {
+            "name": "Commonwealth Small States Office"
+        },
+        "47032": {
+            "name": "Commonwealth Trade and Investment Access Facility"
+        },
+        "47033": {
+            "name": "Commonwealth Youth Programme"
+        },
+        "47034": {
+            "name": "Communaut\u00e9 \u00e9conomique des Etats de l\u2019Afrique de l\u2019Ouest"
+        },
+        "47035": {
+            "name": "Environnement et d\u00e9veloppement du Tiers-monde"
+        },
+        "47036": {
+            "name": "Organisation Europ\u00e9enne et M\u00e9diterran\u00e9enne pour la Protection des Plantes"
+        },
+        "47037": {
+            "name": "Organisation r\u00e9gionale de l'Orient pour l'administration publique"
+        },
+        "47038": {
+            "name": "INTERPOL Fund for Aid and Technical Assistance to Developing Countries"
+        },
+        "47040": {
+            "name": "Agence des p\u00eaches"
+        },
+        "47041": {
+            "name": "Centre des techniques de l'alimentation et des engrais"
+        },
+        "47042": {
+            "name": "Fondation pour la formation internationale dans les pays du tiers monde"
+        },
+        "47043": {
+            "name": "Global Crop Diversity Trust"
+        },
+        "47044": {
+            "name": "Fonds pour l'environnement mondial - fonds fiduciaire"
+        },
+        "47045": {
+            "name": "Fonds mondial de lutte contre le SIDA, la tuberculose et la paludisme"
+        },
+        "47046": {
+            "name": "Organisation internationale de la Francophonie"
+        },
+        "47047": {
+            "name": "Institut international africain"
+        },
+        "47048": {
+            "name": "Inter-American Indian Institute"
+        },
+        "47049": {
+            "name": "International Bureau of Education - International Educational Reporting System (IERS)"
+        },
+        "47050": {
+            "name": "Comit\u00e9 consultatif international du coton"
+        },
+        "47051": {
+            "name": "Centre international de recherche agricole dans les zones arides"
+        },
+        "47053": {
+            "name": "International Centre for Diarrhoeal Disease Research, Bangladesh"
+        },
+        "47054": {
+            "name": "Centre international sur la physiologie et l\u2019\u00e9cologie des insectes"
+        },
+        "47055": {
+            "name": "Centre International pour la Recherche Agricole orient\u00e9e vers le d\u00e9veloppement"
+        },
+        "47056": {
+            "name": "Centre mondial de l\u2019agroforesterie"
+        },
+        "47057": {
+            "name": "Institut international de recherche sur les cultures des zones tropicales semi-arides"
+        },
+        "47058": {
+            "name": "International Institute for Democracy and Electoral Assistance"
+        },
+        "47059": {
+            "name": "Organisation internationale de droit du d\u00e9veloppement"
+        },
+        "47060": {
+            "name": "International Institute for Cotton"
+        },
+        "47061": {
+            "name": "Institut interam\u00e9ricain de coop\u00e9ration pour l\u2019agriculture"
+        },
+        "47062": {
+            "name": "Institut international d\u2019agriculture tropicale"
+        },
+        "47063": {
+            "name": "International Livestock Research Institute"
+        },
+        "47064": {
+            "name": "R\u00e9seau International sur le bambou et le rotin"
+        },
+        "47065": {
+            "name": "Commission oc\u00e9anographique intergouvernementale"
+        },
+        "47066": {
+            "name": "Organisation internationale des migrations"
+        },
+        "47067": {
+            "name": "Groupe d\u2019experts intergouvernemental sur l\u2019\u00e9volution du climat"
+        },
+        "47068": {
+            "name": "Commission Asie-Pacifique des p\u00eaches"
+        },
+        "47069": {
+            "name": "Bioversity International"
+        },
+        "47070": {
+            "name": "Institut international de recherche sur le riz"
+        },
+        "47071": {
+            "name": "Association internationale d\u2019essais de semences"
+        },
+        "47073": {
+            "name": "Organisation Internationale des Bois Tropicaux"
+        },
+        "47074": {
+            "name": "Institut international de vaccins"
+        },
+        "47075": {
+            "name": "Institut international de gestion des ressources en eau"
+        },
+        "47076": {
+            "name": "Centre d\u2019\u00e9tudes sur la justice dans les Am\u00e9riques"
+        },
+        "47077": {
+            "name": "Commission du M\u00e9kong"
+        },
+        "47078": {
+            "name": "Fonds multilat\u00e9ral pour l\u2019application du Protocole de Montr\u00e9al"
+        },
+        "47079": {
+            "name": "Organisation des \u00c9tats am\u00e9ricains"
+        },
+        "47080": {
+            "name": "Organisation de Coop\u00e9ration et de d\u00e9veloppement \u00e9conomiques (contributions aux fonds sp\u00e9ciaux pour les activit\u00e9s de coop\u00e9ration technique uniquement)"
+        },
+        "47081": {
+            "name": "OCDE Centre de d\u00e9veloppement"
+        },
+        "47082": {
+            "name": "Organisation des \u00c9tats des Cara\u00efbes orientales"
+        },
+        "47083": {
+            "name": "Organisation panam\u00e9ricaine de la sant\u00e9"
+        },
+        "47084": {
+            "name": "Institut panam\u00e9ricain de g\u00e9ographie et d\u2019histoire"
+        },
+        "47085": {
+            "name": "Pan-American Railway Congress Association"
+        },
+        "47086": {
+            "name": "Private Infrastructure Development Group"
+        },
+        "47087": {
+            "name": "Secr\u00e9tariat du Forum des Iles du Pacifique"
+        },
+        "47088": {
+            "name": "Relief Net"
+        },
+        "47089": {
+            "name": "Communaut\u00e9 pour le d\u00e9veloppement de l\u2019Afrique australe"
+        },
+        "47090": {
+            "name": "Southern African Transport and Communications Commission"
+        },
+        "47091": {
+            "name": "(Colombo Plan) Special Commonwealth African Assistance Programme"
+        },
+        "47092": {
+            "name": "Centre de d\u00e9veloppement des p\u00eaches de l\u2019Asie du Sud-Est"
+        },
+        "47093": {
+            "name": "Organisation des Ministres de l\u2019\u00e9ducation de l\u2019Asie du Sud-Est"
+        },
+        "47094": {
+            "name": "South Pacific Applied Geoscience Commission"
+        },
+        "47095": {
+            "name": "Conseil d\u2019\u00e9valuation du Pacifique Sud pour l'\u00e9ducation"
+        },
+        "47096": {
+            "name": "Secr\u00e9tariat G\u00e9n\u00e9ral de la Communaut\u00e9 du Pacifique"
+        },
+        "47097": {
+            "name": "Programme r\u00e9gional oc\u00e9anien de l\u2019environnement"
+        },
+        "47098": {
+            "name": "Organisation des peuples et des nations non repr\u00e9sent\u00e9s"
+        },
+        "47099": {
+            "name": "Universit\u00e9 du Pacifique Sud"
+        },
+        "47100": {
+            "name": "Union mon\u00e9taire ouest-africaine"
+        },
+        "47101": {
+            "name": "Centre du riz pour l\u2019Afrique"
+        },
+        "47102": {
+            "name": "Organisation mondiale des douanes, programme de bourses"
+        },
+        "47103": {
+            "name": "Universit\u00e9 maritime mondiale"
+        },
+        "47104": {
+            "name": "Centre international pour l\u2019am\u00e9nagement des ressources bioaquatiques"
+        },
+        "47105": {
+            "name": "Fonds commun pour les produits de base"
+        },
+        "47106": {
+            "name": "Centre de contr\u00f4le d\u00e9mocratique des forces arm\u00e9es - Gen\u00e8ve"
+        },
+        "47107": {
+            "name": "Facilit\u00e9 internationale de financement pour la vaccination"
+        },
+        "47108": {
+            "name": "Multi-Country Demobilisation and Reintegration Program"
+        },
+        "47109": {
+            "name": "Fonds de soutien de la coop\u00e9ration \u00e9conomique Asie-Pacifique (hors lutte contre le terrorisme)"
+        },
+        "47110": {
+            "name": "Organisation de coop\u00e9ration \u00e9conomique de la mer Noire"
+        },
+        "47111": {
+            "name": "Fonds pour l\u2019adaptation"
+        },
+        "47112": {
+            "name": "Initiative de l\u2019Europe centrale - Fonds Sp\u00e9cial pour la protection climatique et environnementale"
+        },
+        "47113": {
+            "name": "Communaut\u00e9 \u00e9conomique et mon\u00e9taire de l\u2019Afrique Centrale"
+        },
+        "47114": {
+            "name": "Asian Forest Cooperation Organisation"
+        },
+        "47116": {
+            "name": "Cadre int\u00e9gr\u00e9 pour l'assistance technique li\u00e9e au commerce en faveur des pays les moins avanc\u00e9s"
+        },
+        "47117": {
+            "name": "Nouveau Partenariat pour le d\u00e9veloppement de l\u2019Afrique"
+        },
+        "47118": {
+            "name": "Conseil R\u00e9gional de Formation des Institutions Sup\u00e9rieures de Contr\u00f4le des Finances Publiques d\u2019Afrique Francophone Subsaharienne"
+        },
+        "47119": {
+            "name": "Observatoire du Sahara et du Sahel"
+        },
+        "47120": {
+            "name": "Association de l'Asie du Sud pour la coop\u00e9ration r\u00e9gionale"
+        },
+        "47121": {
+            "name": "Cit\u00e9s et gouvernements locaux unis d\u2019Afrique"
+        },
+        "47122": {
+            "name": "Alliance mondiale pour la vaccination et l\u2019immunisation"
+        },
+        "47123": {
+            "name": "Centre International de D\u00e9minage Humanitaire Gen\u00e8ve"
+        },
+        "47124": {
+            "name": "International Anti-Corruption Academy"
+        },
+        "47125": {
+            "name": "International Centre for Genetic Engineering and Biotechnology"
+        },
+        "47127": {
+            "name": "Organisation latino-am\u00e9ricaine de l'\u00e9nergie"
+        },
+        "47128": {
+            "name": "Nordic Development Fund"
+        },
+        "47129": {
+            "name": "FEM Fonds pour les pays les moins avanc\u00e9s"
+        },
+        "47130": {
+            "name": "FEM Fonds sp\u00e9cial pour les changements climatiques"
+        },
+        "47131": {
+            "name": "Organisation pour la s\u00e9curit\u00e9 et la oop\u00e9ration en Europe"
+        },
+        "47132": {
+            "name": "Secr\u00e9tariat du Commonwealth (seulement les contributions \u00e9ligibles \u00e0 l'APD)"
+        },
+        "47134": {
+            "name": "Fonds pour les technologies propres"
+        },
+        "47135": {
+            "name": "Fonds strat\u00e9gique pour le climat"
+        },
+        "47136": {
+            "name": "Institut mondial de la croissance verte"
+        },
+        "47137": {
+            "name": "Mutuelle panafricaine de gestion des risques"
+        },
+        "47138": {
+            "name": "Conseil de l\u2019Europe"
+        },
+        "47139": {
+            "name": "Organisation Mondiale des Douanes Fonds de coop\u00e9ration douani\u00e8re"
+        },
+        "47140": {
+            "name": "Organisation des \u00e9tats ib\u00e9ro-am\u00e9ricains pour l'\u00e9ducation, la science et la culture (OEI)"
+        },
+        "47141": {
+            "name": "Forum sur l\u2019Administration Fiscale Africaine"
+        },
+        "47142": {
+            "name": "Le Fonds OPEP pour le d\u00e9veloppement international"
+        },
+        "47143": {
+            "name": "Fonds mondial pour l\u2019engagement de la communaut\u00e9 et la r\u00e9silience"
+        },
+        "47144": {
+            "name": "Agence internationale pour les energies renouvelables"
+        },
+        "47145": {
+            "name": null
+        },
+        "47146": {
+            "name": null
+        },
+        "47147": {
+            "name": "Facilit\u00e9 internationale de financement pour l'\u00e9ducation"
+        },
+        "47148": {
+            "name": "Organisation mondiale de la sant\u00e9 animale"
+        },
+        "47400": {
+            "name": null
+        },
+        "47501": {
+            "name": "Partenariat Mondial pour l'Education"
+        },
+        "47502": {
+            "name": null
+        },
+        "47503": {
+            "name": null
+        },
+        "47504": {
+            "name": null
+        },
+        "50000": {
+            "name": "Autres"
+        },
+        "51000": {
+            "name": "Universit\u00e9, coll\u00e8ge ou autre \u00e9tablissement d'enseignement, institut de recherche ou de r\u00e9flexion"
+        },
+        "51001": {
+            "name": "Institut International de Recherche sur les Politiques Alimentaires"
+        },
+        "52000": {
+            "name": "Autre"
+        },
+        "60000": {
+            "name": "Institutions du secteur priv\u00e9"
+        },
+        "61000": {
+            "name": "Secteur priv\u00e9 du pays donneur"
+        },
+        "61001": {
+            "name": "Banques (institutions de d\u00e9p\u00f4ts)"
+        },
+        "61002": {
+            "name": "Exportateur priv\u00e9 dans le pays donneur"
+        },
+        "61003": {
+            "name": "Fonds d\u2019investissements et autres organismes de placement collectifs"
+        },
+        "61004": {
+            "name": "Soci\u00e9t\u00e9s holding, fonds fiduciaires et structures de titrisation"
+        },
+        "61005": {
+            "name": "Soci\u00e9t\u00e9s d\u2019assurance"
+        },
+        "61006": {
+            "name": "Fonds de pension"
+        },
+        "61007": {
+            "name": "Autres soci\u00e9t\u00e9s financi\u00e8res"
+        },
+        "61008": {
+            "name": "Exportateurs"
+        },
+        "61009": {
+            "name": "Autres soci\u00e9t\u00e9s non financi\u00e8res"
+        },
+        "61010": {
+            "name": "Investisseurs individuels"
+        },
+        "62000": {
+            "name": "Secteur priv\u00e9 du pays b\u00e9n\u00e9ficiaire"
+        },
+        "62001": {
+            "name": "Banques (institutions de d\u00e9p\u00f4ts hors institutions de microfinancement)"
+        },
+        "62002": {
+            "name": "Institutions de microfinancement (collectant ou pas des d\u00e9p\u00f4ts)"
+        },
+        "62003": {
+            "name": "Fonds d\u2019investissements et autres organismes de placement collectifs"
+        },
+        "62004": {
+            "name": "Soci\u00e9t\u00e9s holding, fonds fiduciaires et structures de titrisation"
+        },
+        "62005": {
+            "name": "Soci\u00e9t\u00e9s d\u2019assurance"
+        },
+        "62006": {
+            "name": "Fonds de pension"
+        },
+        "62007": {
+            "name": "Autres soci\u00e9t\u00e9s financi\u00e8res"
+        },
+        "62008": {
+            "name": "Importateurs / Exportateurs"
+        },
+        "62009": {
+            "name": "Autres soci\u00e9t\u00e9s non financi\u00e8res"
+        },
+        "62010": {
+            "name": "Investisseurs individuels"
+        },
+        "63000": {
+            "name": "Secteur priv\u00e9 d'un pays tiers"
+        },
+        "63001": {
+            "name": "Banques (institutions de d\u00e9p\u00f4ts hors institutions de microfinancement)"
+        },
+        "63002": {
+            "name": "Institutions de microfinancement (collectant ou pas des d\u00e9p\u00f4ts)"
+        },
+        "63003": {
+            "name": "Fonds d\u2019investissements et autres organismes de placement collectifs"
+        },
+        "63004": {
+            "name": "Soci\u00e9t\u00e9s holding, fonds fiduciaires et structures de titrisation"
+        },
+        "63005": {
+            "name": "Soci\u00e9t\u00e9s d\u2019assurance"
+        },
+        "63006": {
+            "name": "Fonds de pension"
+        },
+        "63007": {
+            "name": "Autres soci\u00e9t\u00e9s financi\u00e8res"
+        },
+        "63008": {
+            "name": "Exportateurs"
+        },
+        "63009": {
+            "name": "Autres soci\u00e9t\u00e9s non financi\u00e8res"
+        },
+        "63010": {
+            "name": "Investisseurs individuels"
+        },
+        "90000": {
+            "name": "Autre"
+        }
+    }
+}

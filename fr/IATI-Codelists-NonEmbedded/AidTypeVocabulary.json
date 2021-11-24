@@ -1,0 +1,14 @@
+{
+    "metadata": {
+        "name": "Vocabulaire de type d'aide",
+        "description": "La liste de codes Vocabulaire de type d'aide d\u00e9finit une gamme de listes externes de codes qui offrent elles-m\u00eames des codes et descriptions de type d'aide."
+    },
+    "codelist-items": {
+        "1": {
+            "name": "CAD OCDE"
+        },
+        "2": {},
+        "3": {},
+        "4": {}
+    }
+}

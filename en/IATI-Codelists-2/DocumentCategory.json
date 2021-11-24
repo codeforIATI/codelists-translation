@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "name": "Document Category",
+        "category": "Core"
+    },
+    "codelist-items": {
+        "A01": {
+            "name": "Pre- and post-project impact appraisal",
+            "description": null
+        },
+        "A02": {
+            "name": "Objectives / Purpose of activity",
+            "description": null
+        },
+        "A03": {
+            "name": "Intended ultimate beneficiaries",
+            "description": null
+        },
+        "A04": {
+            "name": "Conditions",
+            "description": null
+        },
+        "A05": {
+            "name": "Budget",
+            "description": null
+        },
+        "A06": {
+            "name": "Summary information about contract",
+            "description": null
+        },
+        "A07": {
+            "name": "Review of project performance and evaluation",
+            "description": null
+        },
+        "A08": {
+            "name": "Results, outcomes and outputs",
+            "description": null
+        },
+        "A09": {
+            "name": "Memorandum of understanding (If agreed by all parties)",
+            "description": null
+        },
+        "A10": {
+            "name": "Tender",
+            "description": null
+        },
+        "A11": {
+            "name": "Contract",
+            "description": null
+        },
+        "A12": {
+            "name": "Activity web page",
+            "description": null
+        },
+        "B01": {
+            "name": "Annual report",
+            "description": null
+        },
+        "B02": {
+            "name": "Institutional Strategy paper",
+            "description": null
+        },
+        "B03": {
+            "name": "Country strategy paper",
+            "description": null
+        },
+        "B04": {
+            "name": "Aid Allocation Policy",
+            "description": null
+        },
+        "B05": {
+            "name": "Procurement Policy and Procedure",
+            "description": null
+        },
+        "B06": {
+            "name": "Institutional Audit Report",
+            "description": null
+        },
+        "B07": {
+            "name": "Country Audit Report",
+            "description": null
+        },
+        "B08": {
+            "name": "Exclusions Policy",
+            "description": null
+        },
+        "B09": {
+            "name": "Institutional Evaluation Report",
+            "description": null
+        },
+        "B10": {
+            "name": "Country Evaluation Report",
+            "description": null
+        },
+        "B11": {
+            "name": "Sector strategy",
+            "description": null
+        },
+        "B12": {
+            "name": "Thematic strategy",
+            "description": null
+        },
+        "B13": {
+            "name": "Country-level Memorandum of Understanding",
+            "description": null
+        },
+        "B14": {
+            "name": "Evaluations policy",
+            "description": null
+        },
+        "B15": {
+            "name": "General Terms and Conditions",
+            "description": null
+        },
+        "B16": {
+            "name": "Organisation web page",
+            "description": null
+        },
+        "B17": {
+            "name": "Country/Region web page",
+            "description": null
+        },
+        "B18": {
+            "name": "Sector web page",
+            "description": null
+        }
+    }
+}

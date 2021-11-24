@@ -1,0 +1,83 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "88": {
+            "name": "Estados sin especificar de la ex-Yugoslavia"
+        },
+        "89": {
+            "name": "Europa, regional"
+        },
+        "189": {
+            "name": "Norte del S\u00e1hara, regional"
+        },
+        "289": {
+            "name": "Sur del S\u00e1hara, regional"
+        },
+        "298": {
+            "name": "\u00c1frica, regional"
+        },
+        "380": {
+            "name": "Indias Occidentales, regional"
+        },
+        "389": {
+            "name": "El Caribe y Am\u00e9rica Central, regional"
+        },
+        "489": {
+            "name": "Am\u00e9rica del Sur, regional"
+        },
+        "498": {
+            "name": "Am\u00e9rica, regional"
+        },
+        "589": {
+            "name": "Oriente Medio, regional"
+        },
+        "619": {
+            "name": "Asia Central, regional"
+        },
+        "679": {
+            "name": "Asia Meridional, regional"
+        },
+        "689": {
+            "name": "Asia Meridional y Central, regional"
+        },
+        "789": {
+            "name": "El Lejano Oriente y Asia, regional"
+        },
+        "798": {
+            "name": "Asia, regional"
+        },
+        "889": {
+            "name": "Ocean\u00eda, regional"
+        },
+        "998": {
+            "name": "Pa\u00edses en desarrollo, sin especificar"
+        },
+        "1027": {
+            "name": "\u00c1frica Oriental, regional"
+        },
+        "1028": {
+            "name": "Oriente Medio y \u00c1frica, regional"
+        },
+        "1029": {
+            "name": "\u00c1frica Meridional, regional"
+        },
+        "1030": {
+            "name": "\u00c1frica Occidental, regional"
+        },
+        "1031": {
+            "name": "El Caribe, regional"
+        },
+        "1032": {
+            "name": "Am\u00e9rica Central, regional"
+        },
+        "1033": {
+            "name": "Melanesia, regional"
+        },
+        "1034": {
+            "name": "Micronesia, regional"
+        },
+        "1035": {
+            "name": "Polinesia, regional"
+        }
+    }
+}

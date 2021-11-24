@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "name": "Indicator Measure",
+        "description": "To specify how an indicator is being measured. This includes qualitative and quantitative values.",
+        "category": "Non-Core"
+    },
+    "codelist-items": {
+        "1": {
+            "name": "Unit",
+            "description": "The indicator is measured in units."
+        },
+        "2": {
+            "name": "Percentage",
+            "description": "The indicator is measured in percentages"
+        },
+        "3": {
+            "name": "Nominal",
+            "description": "The indicator is measured as a quantitative nominal scale."
+        },
+        "4": {
+            "name": "Ordinal",
+            "description": "The indicator is measured as a quantitative ordinal scale."
+        },
+        "5": {
+            "name": "Qualitative",
+            "description": "The indicator is qualitative."
+        }
+    }
+}

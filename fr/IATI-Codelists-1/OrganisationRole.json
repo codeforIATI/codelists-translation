@@ -1,0 +1,17 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "Accountable": {
+            "name": "Responsabilit\u00e9"
+        },
+        "Extending": {
+            "name": "Octroi"
+        },
+        "Funding": {
+            "name": "Financement"
+        },
+        "Implementing": {
+            "name": "Mise en \u0153uvre"
+        }
+    }
+}

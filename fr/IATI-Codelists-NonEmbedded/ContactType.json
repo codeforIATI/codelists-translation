@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "name": "Type de contact"
+    },
+    "codelist-items": {
+        "1": {
+            "name": "Renseignements g\u00e9n\u00e9raux",
+            "description": "Renseignements g\u00e9n\u00e9raux"
+        },
+        "2": {
+            "name": "Gestion de projet",
+            "description": "Gestion de projet"
+        },
+        "3": {
+            "name": "Gestion financi\u00e8re",
+            "description": "Gestion financi\u00e8re"
+        },
+        "4": {
+            "name": "Communications",
+            "description": "Communications"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "name": "Loan Repayment Period",
+        "description": "CRS Loan Repayment No of Payments",
+        "category": "Non-Core"
+    },
+    "codelist-items": {
+        "1": {
+            "name": "Annual",
+            "description": "The loan has 1 repayment per year"
+        },
+        "2": {
+            "name": "Semi-annual",
+            "description": "The loan has 2 repayments per year"
+        },
+        "4": {
+            "name": "Quarterly",
+            "description": "The loan has 4 repayments per year "
+        },
+        "12": {
+            "name": "Monthly",
+            "description": "The loan has 12, monthly repayments per year"
+        }
+    }
+}

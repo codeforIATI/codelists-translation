@@ -1,0 +1,17 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "start-actual": {
+            "name": "d\u00e9but-r\u00e9el"
+        },
+        "end-actual": {
+            "name": "fin-r\u00e9elle"
+        },
+        "start-planned": {
+            "name": "d\u00e9but-pr\u00e9vu"
+        },
+        "end-planned": {
+            "name": "fin-pr\u00e9vue"
+        }
+    }
+}

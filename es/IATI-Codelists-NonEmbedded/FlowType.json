@@ -1,0 +1,35 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "10": {
+            "name": "Asistencia oficial para el desarrollo"
+        },
+        "20": {
+            "name": "Otras corrientes oficiales"
+        },
+        "21": {
+            "name": "Otras corrientes oficiales de cr\u00e9ditos no destinados a la exportaci\u00f3n"
+        },
+        "22": {
+            "name": "Cr\u00e9ditos a la exportaci\u00f3n con respaldo oficial"
+        },
+        "30": {
+            "name": "Financiaci\u00f3n privada para el desarrollo"
+        },
+        "35": {
+            "name": "Mercado privado"
+        },
+        "36": {
+            "name": "Inversi\u00f3n extranjera directa privada"
+        },
+        "37": {
+            "name": "Otros flujos privados con arreglo a las condiciones de mercado"
+        },
+        "40": {
+            "name": "No flujo"
+        },
+        "50": {
+            "name": "Otros flujos"
+        }
+    }
+}

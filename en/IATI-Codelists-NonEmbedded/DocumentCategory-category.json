@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "name": "Document Category (category)",
+        "description": "This codelist exists to group the Document Category codelist into categories. It is not used as a codelist in its own right.",
+        "category": "Non-Core"
+    },
+    "codelist-items": {
+        "A": {
+            "name": "Activity Level",
+            "description": "The document is relevant to a specific activity"
+        },
+        "B": {
+            "name": "Organisation Level",
+            "description": "The document is relevant to the organisation as a whole"
+        }
+    }
+}

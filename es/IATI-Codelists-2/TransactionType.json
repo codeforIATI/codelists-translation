@@ -1,0 +1,44 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "1": {
+            "name": "Ingresos de fondos"
+        },
+        "2": {
+            "name": "Compromiso de pago saliente"
+        },
+        "3": {
+            "name": "Desembolso"
+        },
+        "4": {
+            "name": "Gasto"
+        },
+        "5": {
+            "name": "Pago de intereses"
+        },
+        "6": {
+            "name": "Reembolso de un pr\u00e9stamo"
+        },
+        "7": {
+            "name": "Reembolso"
+        },
+        "8": {
+            "name": "Adquisici\u00f3n de capital"
+        },
+        "9": {
+            "name": "Venta de capital"
+        },
+        "10": {
+            "name": "Garant\u00eda de cr\u00e9dito"
+        },
+        "11": {
+            "name": "Compromiso de pago entrante"
+        },
+        "12": {
+            "name": "Promesa de contribuci\u00f3n saliente"
+        },
+        "13": {
+            "name": "Promesa de contribuci\u00f3n entrante"
+        }
+    }
+}

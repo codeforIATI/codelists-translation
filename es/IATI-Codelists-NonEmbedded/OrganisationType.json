@@ -1,0 +1,53 @@
+{
+    "metadata": {},
+    "codelist-items": {
+        "10": {
+            "name": "Gobierno"
+        },
+        "11": {
+            "name": "Gobierno local"
+        },
+        "15": {
+            "name": "Otras entidades del sector p\u00fablico"
+        },
+        "21": {
+            "name": "ONG internacional"
+        },
+        "22": {
+            "name": "ONG nacional"
+        },
+        "23": {
+            "name": "ONG regional"
+        },
+        "24": {
+            "name": "ONG con sede en el pa\u00eds asociado"
+        },
+        "30": {
+            "name": "Alianza p\u00fablico-privada"
+        },
+        "40": {
+            "name": "Multilateral"
+        },
+        "60": {
+            "name": "Fundaci\u00f3n"
+        },
+        "70": {
+            "name": "Sector privado"
+        },
+        "71": {
+            "name": "Sector privado en el pa\u00eds proveedor"
+        },
+        "72": {
+            "name": "Sector privado en el pa\u00eds beneficiario de la ayuda"
+        },
+        "73": {
+            "name": "Sector privado en un pa\u00eds tercero"
+        },
+        "80": {
+            "name": "Instituci\u00f3n acad\u00e9mica, de capacitaci\u00f3n e investigaci\u00f3n"
+        },
+        "90": {
+            "name": "Otros"
+        }
+    }
+}
