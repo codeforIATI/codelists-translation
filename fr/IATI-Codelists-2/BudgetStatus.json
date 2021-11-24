@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "name": null,
-        "description": null
+        "name": "Budget Status",
+        "description": "Code to denote if the described budget is binding."
     },
     "codelist-items": {
         "1": {
