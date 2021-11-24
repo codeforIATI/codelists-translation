@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "name": null,
-        "description": null
+        "name": "Activity Date Type",
+        "description": "Types of date for activities"
     },
     "codelist-items": {
         "start-actual": {
