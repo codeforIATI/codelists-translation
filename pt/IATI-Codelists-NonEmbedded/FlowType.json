@@ -1,48 +1,48 @@
 {
     "metadata": {
-        "name": null,
-        "description": null
+        "name": "Flow Type",
+        "description": "DAC/CRS distinction between ODA (official development assistance) and other types of resource flow."
     },
     "codelist-items": {
         "10": {
             "name": "APD",
-            "description": null
+            "description": "Official Development Assistance"
         },
         "20": {
             "name": "OFP",
-            "description": null
+            "description": "Other Official Flows"
         },
         "21": {
             "name": "OFP de cr\u00e9ditos que n\u00e3o \u00e0 exporta\u00e7\u00e3o",
-            "description": null
+            "description": "Other Official Flows, excl. export credits"
         },
         "22": {
             "name": "Cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o com apoio p\u00fablico",
-            "description": null
+            "description": "Officially supported export credits. Covers both official direct export credits and private export credits under official guarantee or insurance"
         },
         "30": {
             "name": "Financiamento privado ao desenvolvimento",
-            "description": null
+            "description": "Financing by civil society organisations (NGOs, philantropic foundations, etc.)"
         },
         "35": {
             "name": "Mercado privado",
-            "description": null
+            "description": "Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries"
         },
         "36": {
             "name": "Investimento direto estrangeiro privado",
-            "description": null
+            "description": "Private Foreign Direct Investment"
         },
         "37": {
             "name": "Outros fluxos privados aos termos do mercado",
-            "description": null
+            "description": "Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries"
         },
         "40": {
             "name": "N\u00e3o-fluxos",
-            "description": null
+            "description": "e.g. GNI, ODA%GNI, Population etc"
         },
         "50": {
             "name": "Outros fluxos",
-            "description": null
+            "description": "e.g. non-ODA component of peacebuilding operations"
         }
     }
 }
