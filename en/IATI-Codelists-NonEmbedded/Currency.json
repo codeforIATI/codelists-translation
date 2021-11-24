@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Currency",
-        "description": "ISO 4217 Currency used for all transactions and budgets",
-        "category": "Replicated"
+        "description": "ISO 4217 Currency used for all transactions and budgets"
     },
     "codelist-items": {
         "ADP": {

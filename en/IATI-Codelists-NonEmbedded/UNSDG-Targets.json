@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "UN Sustainable Development Goals (SDG) Targets",
-        "description": "A value from the second-level list of UN sustainable development goals (SDGs) (e.g. \u20181.1\u2019)",
-        "category": "Replicated"
+        "description": "A value from the second-level list of UN sustainable development goals (SDGs) (e.g. \u20181.1\u2019)"
     },
     "codelist-items": {
         "1.1": {

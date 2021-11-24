@@ -1,7 +1,6 @@
 {
     "metadata": {
-        "name": "Transaction Type",
-        "category": "Core"
+        "name": "Transaction Type"
     },
     "codelist-items": {
         "1": {

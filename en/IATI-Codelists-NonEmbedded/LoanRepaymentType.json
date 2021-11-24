@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Loan Repayment Type",
-        "description": "Used in additional CRS elements",
-        "category": "Non-Core"
+        "description": "Used in additional CRS elements"
     },
     "codelist-items": {
         "1": {

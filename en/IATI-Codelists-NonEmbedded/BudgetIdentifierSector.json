@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Budget Identifier Sector",
-        "description": "This codelists exists to group the Budget Identifier codelist into sectors. It is not used as a codelist in its own right.",
-        "category": "Non-Core"
+        "description": "This codelists exists to group the Budget Identifier codelist into sectors. It is not used as a codelist in its own right."
     },
     "codelist-items": {
         "1.1": {

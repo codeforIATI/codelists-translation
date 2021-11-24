@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Activity Scope",
-        "description": "Geographic scope of activity",
-        "category": "Non-Core"
+        "description": "Geographic scope of activity"
     },
     "codelist-items": {
         "1": {

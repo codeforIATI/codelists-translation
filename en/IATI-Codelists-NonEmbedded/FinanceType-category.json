@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Finance Type (category)",
-        "description": "This codelists exists to group the Finance Type codelist into categories. It is not used as a codelist in its own right.",
-        "category": "Replicated"
+        "description": "This codelists exists to group the Finance Type codelist into categories. It is not used as a codelist in its own right."
     },
     "codelist-items": {
         "0": {

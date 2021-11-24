@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Indicator Vocabulary",
-        "description": "The Indicator Vocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for indicators, for example to specify results.",
-        "category": "Non-Core"
+        "description": "The Indicator Vocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for indicators, for example to specify results."
     },
     "codelist-items": {
         "1": {

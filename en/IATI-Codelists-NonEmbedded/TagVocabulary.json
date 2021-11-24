@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Tag Vocabulary",
-        "description": "The Tag Vocabulary codelist defines external codelists which themselves provide codes and descriptions for tag elements.",
-        "category": "Non-Core"
+        "description": "The Tag Vocabulary codelist defines external codelists which themselves provide codes and descriptions for tag elements."
     },
     "codelist-items": {
         "1": {

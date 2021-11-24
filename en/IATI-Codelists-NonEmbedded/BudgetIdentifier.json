@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Budget Identifier",
-        "description": "IATI Functional and Administrative Common Code : One of several possible Budget Identifier Vocabularies. As of version 2.03 this codelist has been deprecated.",
-        "category": "Non-Core"
+        "description": "IATI Functional and Administrative Common Code : One of several possible Budget Identifier Vocabularies. As of version 2.03 this codelist has been deprecated."
     },
     "codelist-items": {
         "1.1.1": {

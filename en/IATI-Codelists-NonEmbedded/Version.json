@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Version",
-        "description": "Version of the IATI Standard",
-        "category": "Non-Core"
+        "description": "Version of the IATI Standard"
     },
     "codelist-items": {
         "1.01": {},

@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Geographic Location Reach",
-        "description": null,
-        "category": "Non-Core"
+        "description": null
     },
     "codelist-items": {
         "1": {

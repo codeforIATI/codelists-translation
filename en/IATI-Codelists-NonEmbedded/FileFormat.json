@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "File Format",
-        "description": "File format of published documents.",
-        "category": "Replicated"
+        "description": "File format of published documents."
     },
     "codelist-items": {
         "application/1d-interleaved-parityfec": {},

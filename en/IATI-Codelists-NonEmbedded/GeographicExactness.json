@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Geographic Exactness",
-        "description": null,
-        "category": "Non-Core"
+        "description": null
     },
     "codelist-items": {
         "1": {

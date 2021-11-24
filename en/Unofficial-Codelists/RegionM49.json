@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Region (UN M49)",
-        "description": "Standard country or area codes for statistical use",
-        "category": "Replicated"
+        "description": "Standard country or area codes for statistical use"
     },
     "codelist-items": {
         "012": {

@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "CRS Additional Other Flags",
-        "description": "OECD DAC classification used to distinguish aid modalities.",
-        "category": "Non-Core"
+        "description": "OECD DAC classification used to distinguish aid modalities."
     },
     "codelist-items": {
         "1": {

@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Location Type",
-        "description": "US NGA Feature Designation Codes\n\nOn this codelist 'category' is used for the Feature Class.",
-        "category": "Replicated"
+        "description": "US NGA Feature Designation Codes\n\nOn this codelist 'category' is used for the Feature Class."
     },
     "codelist-items": {
         "AIRQ": {

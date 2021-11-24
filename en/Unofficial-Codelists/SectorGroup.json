@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "DAC Sector Groupings",
-        "description": "Hierarchical groupings of DAC CRS Purpose Codes.",
-        "category": "Replicated"
+        "description": "Hierarchical groupings of DAC CRS Purpose Codes."
     },
     "codelist-items": {
         "11110": {

@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Document Category (category)",
-        "description": "This codelist exists to group the Document Category codelist into categories. It is not used as a codelist in its own right.",
-        "category": "Non-Core"
+        "description": "This codelist exists to group the Document Category codelist into categories. It is not used as a codelist in its own right."
     },
     "codelist-items": {
         "A": {

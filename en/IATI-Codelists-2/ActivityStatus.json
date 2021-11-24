@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Activity Status",
-        "description": "Lifecycle status of the activity from pipeline to completion",
-        "category": "Core"
+        "description": "Lifecycle status of the activity from pipeline to completion"
     },
     "codelist-items": {
         "1": {

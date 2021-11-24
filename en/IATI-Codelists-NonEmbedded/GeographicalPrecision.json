@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Geographical Precision",
-        "description": "A system for clarifying the accuracy and usage of geographical coordinates",
-        "category": "Non-Core"
+        "description": "A system for clarifying the accuracy and usage of geographical coordinates"
     },
     "codelist-items": {
         "1": {

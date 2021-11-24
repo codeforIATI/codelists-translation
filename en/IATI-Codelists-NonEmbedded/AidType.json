@@ -1,7 +1,6 @@
 {
     "metadata": {
-        "name": "Aid Type",
-        "category": "Replicated"
+        "name": "Aid Type"
     },
     "codelist-items": {
         "A01": {

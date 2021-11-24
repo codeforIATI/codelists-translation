@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Activity Date Type",
-        "description": "\n            Types of date for activities.\n        \n            There are many different business models and dates that can be used\n            to describe the start and end of activities. It is recommended that\n            each publisher adopts their own consistent approach that provides\n            users with a meaningful indication of the lifespan of an activity.\n        ",
-        "category": "Core"
+        "description": "\n            Types of date for activities.\n        \n            There are many different business models and dates that can be used\n            to describe the start and end of activities. It is recommended that\n            each publisher adopts their own consistent approach that provides\n            users with a meaningful indication of the lifespan of an activity.\n        "
     },
     "codelist-items": {
         "1": {

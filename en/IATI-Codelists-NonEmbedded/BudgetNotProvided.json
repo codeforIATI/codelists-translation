@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Budget Not Provided",
-        "description": "A codelist defining the reasons why an activity does not contain any iati-activity/budget elements.",
-        "category": "Non-Core"
+        "description": "A codelist defining the reasons why an activity does not contain any iati-activity/budget elements."
     },
     "codelist-items": {
         "1": {

@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Aid Type Vocabulary",
-        "description": "The AidTypeVocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for aid type.",
-        "category": "Non-Core"
+        "description": "The AidTypeVocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for aid type."
     },
     "codelist-items": {
         "1": {

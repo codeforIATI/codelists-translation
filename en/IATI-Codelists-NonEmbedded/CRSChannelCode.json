@@ -1,7 +1,6 @@
 {
     "metadata": {
-        "name": "CRS Channel Code",
-        "category": "Replicated"
+        "name": "CRS Channel Code"
     },
     "codelist-items": {
         "10000": {

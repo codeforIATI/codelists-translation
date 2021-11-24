@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Budget Status",
-        "description": "Code to denote if the described budget is binding.",
-        "category": "Core"
+        "description": "Code to denote if the described budget is binding."
     },
     "codelist-items": {
         "1": {

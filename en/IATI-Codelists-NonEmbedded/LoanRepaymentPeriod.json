@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Loan Repayment Period",
-        "description": "CRS Loan Repayment No of Payments",
-        "category": "Non-Core"
+        "description": "CRS Loan Repayment No of Payments"
     },
     "codelist-items": {
         "1": {

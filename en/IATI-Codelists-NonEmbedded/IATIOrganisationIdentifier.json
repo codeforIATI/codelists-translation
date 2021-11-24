@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "IATI Organisation Identifier",
-        "description": "This is a list of organisation identifiers that is maintained by the IATI Secretariat.\nThe prefix for organisations on this list is XI-IATI\n\nIf a bona fide organisation is not registered with any recognised or appropriate registration agency (http://iatistandard.org/202/codelists/OrganisationRegistrationAgency/) they should contact the IATI Technical Team who will exceptionally allocate an organisation identifier using the XI-IATI prefix.\n\nWhile some of these identifiers have been derived from DAC codes, this 'meaning' is not carried forward. i.e. IATI generated identifiers have no intrinsic meaning.\n\nFor general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/",
-        "category": "Non-Core"
+        "description": "This is a list of organisation identifiers that is maintained by the IATI Secretariat.\nThe prefix for organisations on this list is XI-IATI\n\nIf a bona fide organisation is not registered with any recognised or appropriate registration agency (http://iatistandard.org/202/codelists/OrganisationRegistrationAgency/) they should contact the IATI Technical Team who will exceptionally allocate an organisation identifier using the XI-IATI prefix.\n\nWhile some of these identifiers have been derived from DAC codes, this 'meaning' is not carried forward. i.e. IATI generated identifiers have no intrinsic meaning.\n\nFor general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/"
     },
     "codelist-items": {
         "XI-IATI-1001": {

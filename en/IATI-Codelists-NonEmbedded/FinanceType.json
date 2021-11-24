@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Finance Type",
-        "description": "DAC/CRS transaction classification used to distinguish financial instruments,  e.g. grants or loans.",
-        "category": "Replicated"
+        "description": "DAC/CRS transaction classification used to distinguish financial instruments,  e.g. grants or loans."
     },
     "codelist-items": {
         "1": {

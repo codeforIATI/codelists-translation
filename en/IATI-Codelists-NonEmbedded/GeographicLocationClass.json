@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Geographic Location Class",
-        "description": null,
-        "category": "Non-Core"
+        "description": null
     },
     "codelist-items": {
         "1": {

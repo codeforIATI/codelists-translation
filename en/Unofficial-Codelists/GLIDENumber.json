@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "GLIDE Number",
-        "description": "A globally common unique ID code for disasters.",
-        "category": "Replicated"
+        "description": "A globally common unique ID code for disasters."
     },
     "codelist-items": {
         "EP-2020-000012-001": {

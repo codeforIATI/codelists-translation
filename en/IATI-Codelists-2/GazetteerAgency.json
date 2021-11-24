@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Gazetteer Agency",
-        "description": "An online resource that holds coordinates and descriptions of geographic locations ",
-        "category": "Core"
+        "description": "An online resource that holds coordinates and descriptions of geographic locations "
     },
     "codelist-items": {
         "1": {

@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Indicator Measure",
-        "description": "To specify how an indicator is being measured. This includes qualitative and quantitative values.",
-        "category": "Non-Core"
+        "description": "To specify how an indicator is being measured. This includes qualitative and quantitative values."
     },
     "codelist-items": {
         "1": {

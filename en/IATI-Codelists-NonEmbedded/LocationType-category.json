@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Location Type (category)",
-        "description": "This category is equivalent to US NGA's \"Feature Class\"",
-        "category": "Replicated"
+        "description": "This category is equivalent to US NGA's \"Feature Class\""
     },
     "codelist-items": {
         "A": {

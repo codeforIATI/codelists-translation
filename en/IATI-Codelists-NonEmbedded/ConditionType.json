@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Condition Type",
-        "description": "Condition type \u2013 e.g. policy, performance.",
-        "category": "Non-Core"
+        "description": "Condition type \u2013 e.g. policy, performance."
     },
     "codelist-items": {
         "1": {
