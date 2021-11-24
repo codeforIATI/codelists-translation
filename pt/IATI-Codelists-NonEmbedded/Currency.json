@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "name": null,
-        "description": null
+        "name": "Currency",
+        "description": "ISO 4217 Currency used for all transactions and budgets"
     },
     "codelist-items": {
         "ADP": {
@@ -162,7 +162,7 @@
         },
         "BYR": {
             "name": "Rublo bielorrusso",
-            "description": null
+            "description": "Withdrawn from ISO Currency codelist. Use code BYN."
         },
         "BZD": {
             "name": "D\u00f3lar belizenho"
@@ -253,7 +253,7 @@
         },
         "EEK": {
             "name": "Kroon",
-            "description": null
+            "description": "Withdrawn from ISO Currency codelist"
         },
         "EGP": {
             "name": "Libra eg\u00edpcia"
@@ -449,7 +449,7 @@
         },
         "LTL": {
             "name": "Litas lituano",
-            "description": null
+            "description": "Withdrawn from ISO Currency codelist"
         },
         "LTT": {
             "name": "Talonas"
@@ -465,7 +465,7 @@
         },
         "LVL": {
             "name": "Lats let\u00e3o",
-            "description": null
+            "description": "Withdrawn from ISO Currency codelist"
         },
         "LVR": {
             "name": "Rublo let\u00e3o"
@@ -502,7 +502,7 @@
         },
         "MRO": {
             "name": "Ouguiya",
-            "description": null
+            "description": "Withdrawn from ISO Currency codelist. Use code MRU."
         },
         "MRU": {
             "name": "Ouguiya"
@@ -686,7 +686,7 @@
         },
         "STD": {
             "name": "Dobra",
-            "description": null
+            "description": "Withdrawn from ISO Currency codelist. Use code STN."
         },
         "STN": {
             "name": "Dobra"
@@ -765,7 +765,7 @@
         },
         "USS": {
             "name": "D\u00f3lar dos EUA (mesmo dia)",
-            "description": null
+            "description": "Withdrawn from ISO Currency codelist."
         },
         "UYI": {
             "name": "Peso uruguaio em unidades indexadas (UI)"
@@ -789,7 +789,7 @@
             "name": "Bol\u00edvar"
         },
         "VED": {
-            "name": null
+            "name": "Bol\u00edvar Soberano"
         },
         "VEF": {
             "name": "Bol\u00edvar"
@@ -898,7 +898,7 @@
         },
         "ZMK": {
             "name": "Kwacha zambiano",
-            "description": null
+            "description": "Withdrawn from ISO Country codelist. Use code ZMW."
         },
         "ZMW": {
             "name": "Kwacha zambiano"
