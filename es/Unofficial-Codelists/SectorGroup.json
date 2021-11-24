@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "name": null,
-        "description": null
+        "name": "DAC Sector Groupings",
+        "description": "Hierarchical groupings of DAC CRS Purpose Codes."
     },
     "codelist-items": {
         "11110": {
@@ -135,7 +135,7 @@
             "{https://codeforiati.org/}group-name": "Salud"
         },
         "12264": {
-            "name": null,
+            "name": "COVID-19 control",
             "{https://codeforiati.org/}category-name": "Salud b\u00e1sica",
             "{https://codeforiati.org/}group-name": "Salud"
         },
