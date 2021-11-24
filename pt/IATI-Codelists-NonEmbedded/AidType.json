@@ -1,91 +1,91 @@
 {
     "metadata": {
-        "name": null
+        "name": "Aid Type"
     },
     "codelist-items": {
         "A01": {
             "name": "Apoio or\u00e7amental geral",
-            "description": null
+            "description": "Unearmarked contributions to the government budget including funding to support the implementation of macroeconomic reforms (structural adjustment programmes, poverty reduction strategies). Budget support is a method of financing a recipient country\u2019s budget through a transfer of resources from an external financing agency to the recipient government\u2019s national treasury. The funds thus transferred are managed in accordance with the recipient\u2019s budgetary procedures. Funds transferred to the national treasury for financing programmes or projects managed according to different budgetary procedures from those of the recipient country, with the intention of earmarking the resources for specific uses, are therefore excluded."
         },
         "A02": {
             "name": "Apoio or\u00e7amental setorial",
-            "description": null
+            "description": "Sector budget support, like general budget support, is a financial contribution to a recipient government\u2019s budget.  However, in sector budget support, the dialogue between donors and partner governments focuses on sector-specific concerns, rather than on overall policy and budget priorities."
         },
         "B01": {
             "name": "Apoio essencial a ONG, outras entidades privadas, PPP e institui\u00e7\u00f5es de investiga\u00e7\u00e3o",
-            "description": null
+            "description": "Funds are paid over to NGOs (local, national and international) for use at the latter\u2019s discretion, and contribute to programmes and activities which NGOs have developed themselves, and which they implement on their own authority and responsibility. Core contributions to PPPs, funds paid over to foundations (e.g. philanthropic foundations), and contributions to research institutes (public and private) are also recorded here. Annex 2 of the DAC Directives provides a list of INGOs, PPPs and networks core contributions to which may be reported under B01. This list is not exclusive."
         },
         "B02": {
             "name": "Contribui\u00e7\u00f5es essenciais para institui\u00e7\u00f5es multilaterais",
-            "description": null
+            "description": "These funds are classified as multilateral ODA (all other categories fall under bilateral ODA). The recipient multilateral institution pools contributions so that they lose their identity and become an integral part of its financial assets. See Annex 2 of the DAC Directives for a comprehensive list of agencies core contributions to which may be reported under B02 (Section I. Multilateral institutions)."
         },
         "B03": {
             "name": "Contribui\u00e7\u00f5es para programas e fundos de finalidade espec\u00edfica geridos por parceiros de implementa\u00e7\u00e3o",
-            "description": null
+            "description": "In addition to their core-funded operations, international organisations, NGOs, PPPs and networks, both in provider and in third countries, set up programmes and funds with a specific sectoral, thematic or geographical focus. Donors\u2019 bilateral contributions to such programmes and funds are recorded here."
         },
         "B031": {
             "name": "Contribui\u00e7\u00f5es para mecanismos de financiamento multidoador/multientidade",
-            "description": null
+            "description": "Funding mechanisms that pool contributions from several donors and that are implemented by several multilateral entities e.g. UN inter-agency pooled funds, including CERF and country-based pooled funds; Financial Intermediary Funds (GEF, CIFs) for which the World Bank is the Trustee."
         },
         "B032": {
             "name": "Contribui\u00e7\u00f5es para mecanismos de financiamento multidoador/entidade \u00fanica",
-            "description": null
+            "description": "Contributions to multi-donor funding mechanisms managed by a single multilateral organisation e.g. UN single-agency thematic funds; World Bank or other MDB trust funds. Classify the contribution as B032 even if in the initial stages only one donor contributes to the fund."
         },
         "B033": {
             "name": "Contribui\u00e7\u00f5es para mecanismos de financiamento com doador \u00fanico e contribui\u00e7\u00f5es destinadas a uma janela de financiamento ou localiza\u00e7\u00e3o geogr\u00e1fica espec\u00edfica",
-            "description": null
+            "description": "Contributions to funding mechanisms where the donor has a significant influence on the allocation of funds. This includes contributions to single-donor trust funds and earmarked contributions to specific countries/geographical locations or funding windows within multi-donor trust funds. When the donor designs the activity but channels it through an international organisation, the activity should be classified as C01."
         },
         "B04": {
             "name": "Fundos comuns/financiamento agrupado",
-            "description": null
+            "description": "The donor contributes funds to an autonomous account, managed jointly with other donors and/or the recipient. The account will have specific purposes, modes of disbursement and accountability mechanisms, and a limited time frame. Basket funds are characterised by common project documents, common funding contracts and common reporting/audit procedures with all donors. Donors\u2019 contributions to funds managed autonomously by international organisations are recorded under B03."
         },
         "C01": {
             "name": "Interven\u00e7\u00f5es de tipo projeto",
-            "description": null
+            "description": "A project is a set of inputs, activities and outputs, agreed with the partner country*, to reach specific objectives/outcomes within a defined time frame, with a defined budget and a  defined geographical area. Projects can vary significantly in terms of objectives, complexity, amounts involved and duration. There are smaller projects that might involve modest financial resources and last only a few months, whereas large projects might involve more significant amounts, entail successive phases and last for many years. A large project with a number of different components is sometimes referred to as a programme, but should nevertheless be recorded here. Feasibility studies, appraisals and evaluations are included (whether designed as part of projects/programmes or dedicated funding arrangements). Academic studies, research and development, trainings, scholarships, and other technical assistance activities not directly linked to development projects/programmes should instead be recorded under D02. Aid channelled through NGOs or multilaterals is also recorded here. This includes payments for NGOs and multilaterals to implement donors\u2019 projects and programmes, and funding of specified NGOs projects. By contrast, core funding of NGOs and multilaterals as well as contributions to specific-purpose funds are recorded under B.* In the cases of equity investments, humanitarian aid or aid channelled through NGOs, projects are recorded here even if there was no direct agreement between the donor and the partner country. Contributions to single-donor trust funds and contributions to trust funds earmarked for a specific funding window and/or country are recorded under B033."
         },
         "D01": {
             "name": "Pessoal do pa\u00eds doador",
-            "description": null
+            "description": "Experts, consultants, teachers, academics, researchers, volunteers and contributions to public and private bodies for sending experts to developing countries."
         },
         "D02": {
             "name": "Outra assist\u00eancia t\u00e9cnica",
-            "description": null
+            "description": "Provision, outside projects as described in category C01, of technical assistance in recipient countries (excluding technical assistance performed by donor experts reported under D01, and scholarships/training in donor country reported under E01). This includes training and research; language training; south-south studies; research studies; collaborative research between donor and recipient universities and organisations); local scholarships; development-oriented social and cultural programmes. This category also covers ad hoc contributions such as conferences, seminars and workshops, exchange visits, publications, etc."
         },
         "E01": {
             "name": "Bolsas de estudo/forma\u00e7\u00e3o no pa\u00eds doador",
-            "description": null
+            "description": "Financial aid awards for individual students and contributions to trainees."
         },
         "E02": {
             "name": "Custos estudantis estimados",
-            "description": null
+            "description": "Indirect (\u201cimputed\u201d) costs of tuition in donor countries."
         },
         "F01": {
             "name": "Al\u00edvio de d\u00edvida",
-            "description": null
+            "description": "Groups all actions relating to debt (forgiveness, conversions, swaps, buy-backs, rescheduling, refinancing)."
         },
         "G01": {
             "name": "Custos administrativos n\u00e3o inclu\u00eddos noutros lugares",
-            "description": null
+            "description": "Administrative costs of development assistance programmes not already included under other ODA items as an integral part of the costs of delivering or implementing the aid provided. This category covers situation analyses and auditing activities.As regards the salaries component of administrative costs, it relates to  in-house agency staff and contractors only; costs associated with donor experts/consultants are to be reported under category C or D01."
         },
         "H01": {
             "name": "Conscientiza\u00e7\u00e3o sobre desenvolvimento",
-            "description": null
+            "description": "Funding of activities designed to increase public support, i.e.\u00a0awareness in the donor country of development co-operation efforts, needs and issues."
         },
         "H02": {
             "name": "Refugiados/requerentes de asilo em pa\u00edses doadores",
-            "description": null
+            "description": "Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months, when costs cannot be disaggregated. See section II.6 and Annex 17."
         },
         "H03": {
             "name": "Requerentes de asilo aceitos em \u00faltima inst\u00e2ncia",
-            "description": null
+            "description": "Costs incurred in donor countries for basic assistance to asylum seekers, when these are ultimately accepted. This category includes only costs incurred prior to recognition."
         },
         "H04": {
             "name": "Requerentes de asilo rejeitados em \u00faltima inst\u00e2ncia",
-            "description": null
+            "description": "Costs incurred in donor countries for basic assistance to asylum seekers, when these are ultimately rejected. This category includes only costs incurred prior to rejection. Members may base their reporting on the first instance rejection, where a final decision on status is anticipated to occur after a 12-month period, and this facilitates the establishment of a conservative estimate. For further guidance on how to proceed with calculating costs related to rejected asylum seekers, see Clarification 5, third bullet in section II.6 of the Reporting Directives."
         },
         "H05": {
             "name": "Refugiados reconhecidos",
-            "description": null
+            "description": "Costs incurred in donor countries for basic assistance to refugees with a recognised status. This category only includes costs after recognition (or after date of entry into a country through a resettlement programme)."
         }
     }
 }
