@@ -226,40 +226,40 @@
             "name": "The Nature Conservancy"
         },
         "21063": {
-            "name": null
+            "name": "Conservation International"
         },
         "21064": {
             "name": "Initiative Clinton pour\u00a0l'acc\u00e8s\u00a0\u00e0\u00a0la sant\u00e9"
         },
         "21501": {
-            "name": null
+            "name": "OXFAM International"
         },
         "21502": {
-            "name": null
+            "name": "World Vision"
         },
         "21503": {
-            "name": null
+            "name": "Family Health International 360"
         },
         "21504": {
-            "name": null
+            "name": "International Relief and Development"
         },
         "21505": {
-            "name": null
+            "name": "Save the Children"
         },
         "21506": {
-            "name": null
+            "name": "International Rescue Committee"
         },
         "21507": {
-            "name": null
+            "name": "Pact World"
         },
         "22000": {
             "name": "ONG bas\u00e9e dans un pays donneur"
         },
         "22501": {
-            "name": null
+            "name": "OXFAM - provider country office"
         },
         "22502": {
-            "name": null
+            "name": "Save the Children - donor country office"
         },
         "23000": {
             "name": "ONG bas\u00e9e dans un pays en d\u00e9veloppement"
@@ -571,17 +571,17 @@
             "name": "Fonds th\u00e9matiques uniques des Nations Unies"
         },
         "41501": {
-            "name": null
+            "name": "United Nations Reducing Emissions from Deforestation and Forest Degradation"
         },
         "41502": {
             "name": "Le Bureau des Nations Unies pour les services d'appui aux projets"
         },
         "41503": {
-            "name": null
+            "name": "UN-led Country-based Pooled Funds"
         },
         "41600": {
             "name": "Canaux de l'ONU existants non inclus dans la norme I du cadre de reporting du cube de l'ONU",
-            "description": null
+            "description": "Canaux existants de l'ONU non inclus dans la norme I - entit\u00e9 des Nations Unies - du cadre de reporting du cube de donn\u00e9es de l'ONU"
         },
         "42000": {
             "name": "Institutions de l'Union europ\u00e9enne"
@@ -725,7 +725,7 @@
             "name": "Banque Islamique de D\u00e9veloppement"
         },
         "46026": {
-            "name": null
+            "name": "Asian Infrastructure Investment Bank"
         },
         "46027": {
             "name": "Fonds financier pour le d\u00e9veloppement du bassin fluvial de la Plata"
@@ -1142,10 +1142,10 @@
             "name": "Agence internationale pour les energies renouvelables"
         },
         "47145": {
-            "name": null
+            "name": "Center of Excellence in Finance"
         },
         "47146": {
-            "name": null
+            "name": "International Investment Bank"
         },
         "47147": {
             "name": "Facilit\u00e9 internationale de financement pour l'\u00e9ducation"
@@ -1154,19 +1154,19 @@
             "name": "Organisation mondiale de la sant\u00e9 animale"
         },
         "47400": {
-            "name": null
+            "name": "European Space Agency (ESA) programme 'Space in support of International Development Aid'"
         },
         "47501": {
             "name": "Partenariat Mondial pour l'Education"
         },
         "47502": {
-            "name": null
+            "name": "Global Fund for Disaster Risk Reduction"
         },
         "47503": {
-            "name": null
+            "name": "Global Agriculture and Food Security Program"
         },
         "47504": {
-            "name": null
+            "name": "Forest Carbon Partnership Facility"
         },
         "50000": {
             "name": "Autres"
