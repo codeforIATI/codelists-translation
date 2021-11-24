@@ -5,15 +5,15 @@
     "codelist-items": {
         "1": {
             "name": "Donateur",
-            "description": null
+            "description": "A government, organisation, agency or institution that provides aid funds."
         },
         "2": {
             "name": "R\u00e9cipiendaire",
-            "description": null
+            "description": "A government, organisation, agency or institution that recieves aid funds."
         },
         "3": {
             "name": "Agr\u00e9gateur",
-            "description": null
+            "description": "An organisation that collects and reproduces information from other providers or recipients"
         }
     }
 }
