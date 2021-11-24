@@ -22,6 +22,7 @@ class GenerateJSON():
         lang_xpath = self.get_lang_xpath()
         for child in code.getchildren():
             if child.tag == 'category': continue
+            if len(child.xpath('narrative')) == 0: continue
             narrative = child.xpath('narrative[{}]'.format(lang_xpath), namespaces=nsmap)
             if len(narrative) > 0:
                 out[child.tag] = narrative[0].text
@@ -35,7 +36,7 @@ class GenerateJSON():
         lang_xpath = self.get_lang_xpath()
         code_code = code.find('code').text
         for child in code.getchildren():
-            if child.tag == 'code': continue
+            if len(child.xpath('narrative')) == 0: continue
             narrative = child.xpath('narrative[{}]'.format(lang_xpath), namespaces=nsmap)
             if len(narrative) > 0:
                 out[child.tag] = narrative[0].text
