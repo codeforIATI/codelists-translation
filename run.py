@@ -25,6 +25,8 @@ class GenerateJSON():
             narrative = child.xpath('narrative[{}]'.format(lang_xpath), namespaces=nsmap)
             if len(narrative) > 0:
                 out[child.tag] = narrative[0].text
+            else:
+                out[child.tag] = None
         return out
 
 
@@ -36,6 +38,8 @@ class GenerateJSON():
             narrative = child.xpath('narrative[{}]'.format(lang_xpath), namespaces=nsmap)
             if len(narrative) > 0:
                 out[child.tag] = narrative[0].text
+            else:
+                out[child.tag] = None
         return code_code, out
 
 
