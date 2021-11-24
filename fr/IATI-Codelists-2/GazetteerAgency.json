@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "name": null,
-        "description": null
+        "name": "Gazetteer Agency",
+        "description": "An online resource that holds coordinates and descriptions of geographic locations "
     },
     "codelist-items": {
         "1": {
