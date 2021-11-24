@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "name": null
+        "name": "Organisation Type"
     },
     "codelist-items": {
         "10": {
@@ -8,7 +8,7 @@
         },
         "11": {
             "name": "Gobierno local",
-            "description": null
+            "description": "Any local (sub national) government organisation in either donor or recipient country."
         },
         "15": {
             "name": "Otras entidades del sector p\u00fablico"
@@ -24,7 +24,7 @@
         },
         "24": {
             "name": "ONG con sede en el pa\u00eds asociado",
-            "description": null
+            "description": "Local and National NGO / CSO based in aid/assistance recipient country"
         },
         "30": {
             "name": "Alianza p\u00fablico-privada"
@@ -40,15 +40,15 @@
         },
         "71": {
             "name": "Sector privado en el pa\u00eds proveedor",
-            "description": null
+            "description": "Is in provider / donor country."
         },
         "72": {
             "name": "Sector privado en el pa\u00eds beneficiario de la ayuda",
-            "description": null
+            "description": "Is in aid recipient country."
         },
         "73": {
             "name": "Sector privado en un pa\u00eds tercero",
-            "description": null
+            "description": "Is not in either a donor or aid recipient country."
         },
         "80": {
             "name": "Instituci\u00f3n acad\u00e9mica, de capacitaci\u00f3n e investigaci\u00f3n"
