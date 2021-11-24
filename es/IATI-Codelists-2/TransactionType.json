@@ -1,59 +1,59 @@
 {
     "metadata": {
-        "name": null
+        "name": "Transaction Type"
     },
     "codelist-items": {
         "1": {
             "name": "Ingresos de fondos",
-            "description": null
+            "description": "Funds recieved for use on the activity, which can be from an external or internal source. "
         },
         "2": {
             "name": "Compromiso de pago saliente",
-            "description": null
+            "description": "A firm, written obligation from a donor or provider to provide a specified amount of funds, under particular terms and conditions, for specific purposes, for the benefit of the recipient. "
         },
         "3": {
             "name": "Desembolso",
-            "description": null
+            "description": "Outgoing funds that are placed at the disposal of a recipient government or organisation, or funds transferred between two separately reported activities."
         },
         "4": {
             "name": "Gasto",
-            "description": null
+            "description": "Outgoing funds that are spent on goods and services for the activity."
         },
         "5": {
             "name": "Pago de intereses",
-            "description": null
+            "description": "The actual amount of interest paid on a loan or line of credit, including fees."
         },
         "6": {
             "name": "Reembolso de un pr\u00e9stamo",
-            "description": null
+            "description": "The actual amount of principal (amortisation) repaid, including any arrears. "
         },
         "7": {
             "name": "Reembolso",
-            "description": null
+            "description": "A type of disbursement that covers funds that have already been spent by the recipient, as agreed in the terms of the grant or loan"
         },
         "8": {
             "name": "Adquisici\u00f3n de capital",
-            "description": null
+            "description": "Outgoing funds that are used to purchase equity in a business"
         },
         "9": {
             "name": "Venta de capital",
-            "description": null
+            "description": "Incoming funds from the sale of equity. "
         },
         "10": {
             "name": "Garant\u00eda de cr\u00e9dito",
-            "description": null
+            "description": "A commitment made by a funding organisation to underwrite a loan or line of credit entered into by a third party. "
         },
         "11": {
             "name": "Compromiso de pago entrante",
-            "description": null
+            "description": "A firm, written obligation from a donor or provider to provide a specified amount of funds, under particular terms and conditions, reported by a recipient for this activity."
         },
         "12": {
             "name": "Promesa de contribuci\u00f3n saliente",
-            "description": null
+            "description": "Indicative, non-binding advice of an intended outgoing commitment."
         },
         "13": {
             "name": "Promesa de contribuci\u00f3n entrante",
-            "description": null
+            "description": "Indicative, non-binding advice of an intended incoming commitment."
         }
     }
 }
