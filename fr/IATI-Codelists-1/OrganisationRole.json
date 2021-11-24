@@ -1,24 +1,24 @@
 {
     "metadata": {
-        "name": null,
-        "description": null
+        "name": "Organisation Role",
+        "description": "The categories of DAC Sector codes"
     },
     "codelist-items": {
         "Accountable": {
             "name": "Responsabilit\u00e9",
-            "description": null
+            "description": "The government agency, civil society or private sector institution which is accountable for the implementation of the activity."
         },
         "Extending": {
             "name": "Octroi",
-            "description": null
+            "description": "The government entity (central, state or local government agency or department), or agency within an institution, financing the activity from its own budget"
         },
         "Funding": {
             "name": "Financement",
-            "description": null
+            "description": "The country or institution which provides the funds."
         },
         "Implementing": {
             "name": "Mise en \u0153uvre",
-            "description": null
+            "description": "The intermediary between the extending agency and the ultimate beneficiary. Also known as executing agency or channel of delivery. They can be public sector, non-governmental agencies (NGOs), Public-Private partnerships, or multilateral institutions"
         }
     }
 }
