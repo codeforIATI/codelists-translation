@@ -801,11 +801,11 @@
         },
         "25030": {
             "name": "Business development services",
-            "description": null
+            "description": "Public and private provision of business development services, e.g. incubators, business strategies, commercial linkages programmes and matchmaking services. Includes support to private organisations representing businesses, e.g. business associations; chambers of commerce; producer associations; providers of know-how and other business development services. For financial services use CRS codes 24030 or 24040. For SME development and for support to companies in the industrial sector use codes 32130 through 32172. For support to companies in the agricultural sector use code 31120."
         },
         "25040": {
             "name": "Code de conduite responsable",
-            "description": null
+            "description": "Support to policy reform, implementation and enforcement of responsible business conduct (RBC) principles and standards as well as facilitation of responsible business practices by companies. Includes establishing and enforcing a legal and regulatory framework to protect stakeholder rights and the environment, rewarding best performers; exemplifying RBC in government economic activities, such as state-owned enterprises' operations or public procurement; support to the implementation of the OECD Guidelines for MNEs, including disclosure, human rights, employment and industrial relations, environment, combating bribery, consumer interests, science and technology, competition and taxation."
         },
         "31110": {
             "name": "Politique agricole et gestion administrative",
@@ -1125,15 +1125,15 @@
         },
         "43071": {
             "name": "Politique de s\u00e9curit\u00e9 alimentaire et gestion administrative",
-            "description": null
+            "description": "Food security policy, programmes and activities; institution capacity strengthening; policies, programmes for the reduction of food loss/waste; food security information systems, data collection, statistics, analysis, tools, methods; coordination and governance mechanisms; other unspecified food security activities."
         },
         "43072": {
             "name": "Programmes de s\u00e9curit\u00e9 alimentaire des m\u00e9nages",
-            "description": null
+            "description": "Short or longer term household food security programmes and activities that improve the access of households to nutritionally adequate diets (excluding any cash transfers within broader social welfare programmes that do not have a specific food security, food acquisition or nutrition focus which should be reported under code 16010)."
         },
         "43073": {
             "name": "S\u00e9curit\u00e9 et qualit\u00e9 alimentaire",
-            "description": null
+            "description": "Food safety and quality policies, programmes and activities, including food inspection and certification; strengthening food safety/quality capacities and development of standards along the value chain; monitoring/surveillance and laboratory capacities; and delivery of information, communication, education."
         },
         "43081": {
             "name": "Education et formation plurisectorielles",
