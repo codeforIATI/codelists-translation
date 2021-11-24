@@ -6,23 +6,19 @@
     "codelist-items": {
         "1": {
             "name": "CAD OCDE",
-            "description": null,
-            "url": null
+            "description": null
         },
         "2": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "3": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "4": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         }
     }
 }

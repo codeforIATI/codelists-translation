@@ -1,1626 +1,1279 @@
 {
     "metadata": {
-        "name": null,
-        "url": null
+        "name": null
     },
     "codelist-items": {
         "11110": {
             "name": "Pol\u00edtica educativa y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11120": {
             "name": "Servicios e instalaciones educativos y formaci\u00f3n",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11130": {
             "name": "Formaci\u00f3n de profesores",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11182": {
             "name": "Investigaci\u00f3n educativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11220": {
             "name": "Educaci\u00f3n primaria",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11230": {
             "name": "Capacitaci\u00f3n b\u00e1sica de j\u00f3venes y adultos",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "11231": {
             "name": "Competencias b\u00e1sicas para la vida dirigidas a j\u00f3venes",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11232": {
             "name": "Equivalente a la educaci\u00f3n primaria para adultos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11240": {
             "name": "Educaci\u00f3n primera infancia",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11250": {
             "name": "Alimentaci\u00f3n escolar",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11260": {
             "name": "Educaci\u00f3n secundaria baja",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11320": {
             "name": "Educaci\u00f3n secundaria alta (modificada, incluye datos de 11322)",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "11321": {
             "name": "Educaci\u00f3n secundaria baja",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11322": {
             "name": "Educaci\u00f3n secundaria alta",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11330": {
             "name": "Formaci\u00f3n profesional",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11420": {
             "name": "Educaci\u00f3n universitaria",
-            "description": null,
-            "category": null
+            "description": null
         },
         "11430": {
             "name": "Formaci\u00f3n superior t\u00e9cnica y de direcci\u00f3n",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12110": {
             "name": "Pol\u00edtica sanitaria y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12181": {
             "name": "Ense\u00f1anza/formaci\u00f3n m\u00e9dicas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12182": {
             "name": "Investigaci\u00f3n m\u00e9dica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12191": {
             "name": "Servicios m\u00e9dicos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12196": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "12220": {
             "name": "Atenci\u00f3n sanitaria b\u00e1sica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12230": {
             "name": "Infraestructura sanitaria b\u00e1sica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12240": {
             "name": "Nutrici\u00f3n b\u00e1sica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12250": {
             "name": "Control enfermedades infecciosas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12261": {
             "name": "Educaci\u00f3n sanitaria",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12262": {
             "name": "Control de la malaria",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12263": {
             "name": "Control de la tuberculosis",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12264": {
             "name": "Lucha contra la COVID-19",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12281": {
             "name": "Formaci\u00f3n personal sanitario",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12310": {
             "name": "Lucha contra enfermedades no transmisibles, general",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12320": {
             "name": "Lucha contra el tabaquismo",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12330": {
             "name": "Lucha contra el consumo nocivo de alcohol y drogas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12340": {
             "name": "Fomento de la salud y el bienestar mentales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12350": {
             "name": "Otro tipo de prevenciones y tratamientos de enfermedades no transmisibles",
-            "description": null,
-            "category": null
+            "description": null
         },
         "12382": {
             "name": "Investigaci\u00f3n para la prevenci\u00f3n de y lucha contra enfermedades no transmisibles",
-            "description": null,
-            "category": null
+            "description": null
         },
         "13010": {
             "name": "Pol\u00edtica sobre poblaci\u00f3n y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "13020": {
             "name": "Atenci\u00f3n salud reproductiva",
-            "description": null,
-            "category": null
+            "description": null
         },
         "13030": {
             "name": "Planificaci\u00f3n familiar",
-            "description": null,
-            "category": null
+            "description": null
         },
         "13040": {
             "name": "Lucha contra ets (enfermedades de transmisi\u00f3n sexual), incluye sida",
-            "description": null,
-            "category": null
+            "description": null
         },
         "13081": {
             "name": "Formaci\u00f3n de personal para poblaci\u00f3n y salud reproductiva",
-            "description": null,
-            "category": null
+            "description": null
         },
         "13096": {
             "name": "Estad\u00edsticas y datos demogr\u00e1ficos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "14010": {
             "name": "Pol\u00edtica de recursos h\u00eddricos y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "14015": {
             "name": "Protecci\u00f3n recursos h\u00eddricos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "14020": {
             "name": "Abastecimiento de agua y saneamiento-sistemas de envergadura",
-            "description": null,
-            "category": null
+            "description": null
         },
         "14021": {
             "name": "Abastecimiento de agua-sistemas de envergadura",
-            "description": null,
-            "category": null
+            "description": null
         },
         "14022": {
             "name": "Saneamiento-sistemas de envergadura",
-            "description": null,
-            "category": null
+            "description": null
         },
         "14030": {
             "name": "Abastecimiento b\u00e1sico de agua potable y saneamiento b\u00e1sico",
-            "description": null,
-            "category": null
+            "description": null
         },
         "14031": {
             "name": "Abastecimiento b\u00e1sico de agua potable",
-            "description": null,
-            "category": null
+            "description": null
         },
         "14032": {
             "name": "Saneamiento b\u00e1sico",
-            "description": null,
-            "category": null
+            "description": null
         },
         "14040": {
             "name": "Desarrollo de cuencas fluviales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "14050": {
             "name": "Eliminaci\u00f3n/tratamiento residuos s\u00f3lidos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "14081": {
             "name": "Educaci\u00f3n y formaci\u00f3n en abastecimiento de agua y saneamiento",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15110": {
             "name": "Pol\u00edtica de administraci\u00f3n y gesti\u00f3n del sector p\u00fablico",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "15111": {
             "name": "Gesti\u00f3n financiera sector p\u00fablico",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "15112": {
             "name": "Descentralizaci\u00f3n y apoyo a gobiernos regionales y locales",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "15113": {
             "name": "Organizaciones e instituciones anti-corrupci\u00f3n",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15114": {
             "name": "Movilizaci\u00f3n de los ingresos nacionales",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "15116": {
             "name": "Recaudaci\u00f3n de impuestos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15117": {
             "name": "Planificaci\u00f3n presupuestaria",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15118": {
             "name": "Auditor\u00eda nacional",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15119": {
             "name": "Administraci\u00f3n de la deuda y la asistencia",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15120": {
             "name": "Administraci\u00f3n financiera del sector p\u00fablico",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15121": {
             "name": "Asuntos exteriores",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15122": {
             "name": "Misiones diplom\u00e1ticas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15123": {
             "name": "Administraci\u00f3n de la asistencia exterior de los pa\u00edses en desarrollo",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15124": {
             "name": "Servicios generales de personal",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15125": {
             "name": "Contrataci\u00f3n p\u00fablica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15126": {
             "name": "Otros servicios p\u00fablicos generales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15127": {
             "name": "Seguimiento y evaluaci\u00f3n nacional",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15128": {
             "name": "Financiaci\u00f3n del gobierno local",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15129": {
             "name": "Otras transferencias centrales a instituciones",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15130": {
             "name": "Desarrollo legal y judicial",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "15131": {
             "name": "Pol\u00edticas, planificaci\u00f3n y administraci\u00f3n de la justicia, la ley y el orden",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15132": {
             "name": "Polic\u00eda",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15133": {
             "name": "Servicios de lucha contra incendios y de rescate",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15134": {
             "name": "Asuntos judiciales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15135": {
             "name": "\u00d3mbudsman",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15136": {
             "name": "Inmigraci\u00f3n",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15137": {
-            "name": "Prisiones",
-            "category": null
+            "name": "Prisiones"
         },
         "15140": {
             "name": "Administraci\u00f3n p\u00fablica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15142": {
             "name": "Pol\u00edticas macroecon\u00f3micas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15143": {
             "name": "Servicios meteorol\u00f3gicos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15144": {
             "name": "Desarrollo de normas nacionales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15150": {
             "name": "La participaci\u00f3n democratica y la sociedad civil",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15151": {
             "name": "Procesos electorales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15152": {
             "name": "Legislaturas y partidos pol\u00edticos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15153": {
             "name": "Medios de comunicaci\u00f3n y el libre flujo de informaci\u00f3n",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15154": {
             "name": "Oficina ejecutiva",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15155": {
-            "name": "Pol\u00edticas tributarias y apoyo a la administraci\u00f3n",
-            "category": null
+            "name": "Pol\u00edticas tributarias y apoyo a la administraci\u00f3n"
         },
         "15156": {
             "name": "Movilizaci\u00f3n de otros ingresos no tributarios",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15160": {
             "name": "Derechos humanos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15161": {
             "name": "Elecciones",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15162": {
             "name": "Derechos humanos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15163": {
             "name": "Libre circulaci\u00f3n de la informaci\u00f3n",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15164": {
             "name": "Instituciones y organizaciones de defensa de la igualdad de las mujeres",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15170": {
             "name": "Organizaciones y movimientos, e instituciones gubernamentales, en defensa de los derechos de las mujeres",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15180": {
             "name": "Eliminaci\u00f3n de la violencia contra las mujeres y las ni\u00f1as",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15185": {
             "name": "Administraci\u00f3n local",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15190": {
             "name": "Facilitaci\u00f3n de la migraci\u00f3n y la movilidad de forma ordenada, segura, regular y responsable",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15196": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "15210": {
             "name": "Gesti\u00f3n y reforma de los sistemas de seguridad",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15220": {
             "name": "Construcci\u00f3n de la Paz y prevencion y soluci\u00f3n de conflictos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15230": {
             "name": "Participaci\u00f3n en operaciones internacionales de mantenimiento de la paz",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15240": {
             "name": "Reintegraci\u00f3n y control de armas peque\u00f1as y armas ligeras (APAL)",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15250": {
             "name": "Remoci\u00f3n de minas terrestres y restos explosivos de guerra",
-            "description": null,
-            "category": null
+            "description": null
         },
         "15261": {
             "name": "Ni\u00f1os soldados (prevenci\u00f3n y desmovilizaci\u00f3n)",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16010": {
             "name": "Servicios Sociales",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "16011": {
             "name": "Pol\u00edticas, planificaci\u00f3n y administraci\u00f3n en materia de protecci\u00f3n y servicios sociales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16012": {
             "name": "Seguridad social (excepto pensiones)",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16013": {
             "name": "Pensiones generales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16014": {
             "name": "Pensiones de la administraci\u00f3n p\u00fablica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16015": {
             "name": "Servicios sociales (incluido el desarrollo de la juventud y servicios dirigidos a mujeres y ni\u00f1os)",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16020": {
             "name": "Creaci\u00f3n de empleo",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16030": {
             "name": "Pol\u00edtica de vivienda y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16040": {
             "name": "Viviendas de bajo coste",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16050": {
             "name": "Ayuda multisectorial para servicios sociales b\u00e1sicos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16061": {
             "name": "Cultura y ocio",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "16062": {
             "name": "Capacitaci\u00f3n estad\u00edstica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16063": {
             "name": "Control estupefacientes",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16064": {
             "name": "Mitigaci\u00f3n social del VIH/sida",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16065": {
-            "name": "Actividades recreativas y deporte",
-            "category": null
+            "name": "Actividades recreativas y deporte"
         },
         "16066": {
-            "name": "Cultura",
-            "category": null
+            "name": "Cultura"
         },
         "16070": {
             "name": "Derechos laborales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "16080": {
             "name": "Di\u00e1logo social",
-            "description": null,
-            "category": null
+            "description": null
         },
         "21010": {
             "name": "Pol\u00edtica transporte y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "21011": {
             "name": "Pol\u00edticas, planificaci\u00f3n y administraci\u00f3n del transporte",
-            "description": null,
-            "category": null
+            "description": null
         },
         "21012": {
             "name": "Servicios de transporte p\u00fablico",
-            "description": null,
-            "category": null
+            "description": null
         },
         "21013": {
             "name": "Regulaci\u00f3n del transporte",
-            "description": null,
-            "category": null
+            "description": null
         },
         "21020": {
             "name": "Transporte por carretera",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "21021": {
             "name": "Construcci\u00f3n de carreteras secundarias",
-            "description": null,
-            "category": null
+            "description": null
         },
         "21022": {
             "name": "Mantenimiento de carreteras secundarias",
-            "description": null,
-            "category": null
+            "description": null
         },
         "21023": {
             "name": "Construcci\u00f3n de carreteras nacionales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "21024": {
             "name": "Mantenimiento de carreteras nacionales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "21030": {
             "name": "Transporte por ferrocarril",
-            "description": null,
-            "category": null
+            "description": null
         },
         "21040": {
             "name": "Transporte mar\u00edtimo y fluvial",
-            "description": null,
-            "category": null
+            "description": null
         },
         "21050": {
             "name": "Transporte a\u00e9reo",
-            "description": null,
-            "category": null
+            "description": null
         },
         "21061": {
             "name": "Almacenamiento",
-            "description": null,
-            "category": null
+            "description": null
         },
         "21081": {
-            "name": "Ense\u00f1anza y formaci\u00f3n en materia de transporte y almacenamiento",
-            "category": null
+            "name": "Ense\u00f1anza y formaci\u00f3n en materia de transporte y almacenamiento"
         },
         "22010": {
             "name": "Pol\u00edtica de comunicaciones y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "22011": {
-            "name": "Pol\u00edticas, planificaci\u00f3n y administraci\u00f3n de las comunicaciones",
-            "category": null
+            "name": "Pol\u00edticas, planificaci\u00f3n y administraci\u00f3n de las comunicaciones"
         },
         "22012": {
             "name": "Servicios postales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "22013": {
             "name": "Servicios de informaci\u00f3n",
-            "description": null,
-            "category": null
+            "description": null
         },
         "22020": {
             "name": "Telecomunicaciones",
-            "description": null,
-            "category": null
+            "description": null
         },
         "22030": {
             "name": "Radio, televisi\u00f3n, prensa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "22040": {
             "name": "Tecnolog\u00eda de la informaci\u00f3n y de las comunicaciones (TIC)",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23010": {
             "name": "Pol\u00edtica energ\u00e9tica y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23020": {
             "name": "Producci\u00f3n energ\u00e9tica - fuentes no renovables",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23030": {
             "name": "Producci\u00f3n energ\u00e9tica - fuentes renovables",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23040": {
             "name": "Transmisi\u00f3n/distribuci\u00f3n de energia electrica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23050": {
             "name": "Distribuci\u00f3n gas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23061": {
             "name": "Centrales t\u00e9rmicas de petr\u00f3leo",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23062": {
-            "name": "Centrales t\u00e9rmicas de gas",
-            "category": null
+            "name": "Centrales t\u00e9rmicas de gas"
         },
         "23063": {
-            "name": "Centrales t\u00e9rmicas de carb\u00f3n",
-            "category": null
+            "name": "Centrales t\u00e9rmicas de carb\u00f3n"
         },
         "23064": {
             "name": "Centrales nucleares",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23065": {
             "name": "Centrales hidroel\u00e9ctricas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23066": {
-            "name": "Energ\u00eda geot\u00e9rmica",
-            "category": null
+            "name": "Energ\u00eda geot\u00e9rmica"
         },
         "23067": {
             "name": "Energ\u00eda solar",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23068": {
             "name": "Energ\u00eda e\u00f3lica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23069": {
             "name": "Energ\u00eda maremotriz",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23070": {
             "name": "Biomasa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23081": {
             "name": "Educaci\u00f3n, formaci\u00f3n temas energ\u00e9ticos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23082": {
             "name": "Investigaci\u00f3n energ\u00e9tica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23110": {
             "name": "Gesti\u00f3n administrativa y pol\u00edticas de la energ\u00eda",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "23111": {
-            "name": "Pol\u00edticas, planificaci\u00f3n y administraci\u00f3n del sector energ\u00e9tico",
-            "category": null
+            "name": "Pol\u00edticas, planificaci\u00f3n y administraci\u00f3n del sector energ\u00e9tico"
         },
         "23112": {
             "name": "Regulaci\u00f3n de la energ\u00eda",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23181": {
             "name": "Educaci\u00f3n y capacitaci\u00f3n en energ\u00eda",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23182": {
             "name": "Investigaci\u00f3n sobre la energ\u00eda",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23183": {
             "name": "Conservaci\u00f3n de la energ\u00eda y eficiencia desde el punto de vista de la demanda",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23210": {
             "name": "Generaci\u00f3n de energ\u00eda, fuentes renovables: m\u00faltiples tecnolog\u00edas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23220": {
             "name": "Centrales hidroel\u00e9ctricas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23230": {
             "name": "Energ\u00eda solar para redes centralizadas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23231": {
             "name": "Energ\u00eda solar para redes aisladas y sistemas aut\u00f3nomos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23232": {
             "name": "Energ\u00eda solar: aplicaciones t\u00e9rmicas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23240": {
             "name": "Energ\u00eda e\u00f3lica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23250": {
             "name": "Energ\u00eda maremotriz",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23260": {
             "name": "Energ\u00eda geot\u00e9rmica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23270": {
             "name": "Centrales de biocombustibles",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23310": {
             "name": "Generaci\u00f3n de energ\u00eda, fuentes no renovables, sin especificar",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23320": {
             "name": "Centrales t\u00e9rmicas de carb\u00f3n",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23330": {
             "name": "Centrales t\u00e9rmicas de petr\u00f3leo",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23340": {
             "name": "Centrales el\u00e9ctricas de gas natural",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23350": {
             "name": "Centrales el\u00e9ctricas de combustible f\u00f3sil con captura y almacenamiento de carbono",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23360": {
             "name": "Centrales el\u00e9ctricas de residuos no renovables",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23410": {
             "name": "Centrales el\u00e9ctricas de energ\u00eda h\u00edbrida",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23510": {
             "name": "Centrales el\u00e9ctricas de energ\u00eda nuclear y seguridad nuclear",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23610": {
             "name": "Centrales de producci\u00f3n de calor",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23620": {
             "name": "Calefacci\u00f3n y refrigeraci\u00f3n urbanas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23630": {
             "name": "Transmisi\u00f3n y distribuci\u00f3n de energ\u00eda el\u00e9ctrica (redes centralizadas)",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23631": {
             "name": "Transmisi\u00f3n y distribuci\u00f3n de energ\u00eda el\u00e9ctrica (minirredes aisladas)",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23640": {
             "name": "Distribuci\u00f3n de gas al por menor",
-            "description": null,
-            "category": null
+            "description": null
         },
         "23641": {
-            "name": "Distribuci\u00f3n de combustibles f\u00f3siles l\u00edquidos o s\u00f3lidos al por menor",
-            "category": null
+            "name": "Distribuci\u00f3n de combustibles f\u00f3siles l\u00edquidos o s\u00f3lidos al por menor"
         },
         "23642": {
             "name": "Infraestructuras para la movilidad el\u00e9ctrica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "24010": {
             "name": "Pol\u00edtica financiera y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "24020": {
             "name": "Instituciones monetarias",
-            "description": null,
-            "category": null
+            "description": null
         },
         "24030": {
             "name": "Intermediarios financieros del sector formal",
-            "description": null,
-            "category": null
+            "description": null
         },
         "24040": {
             "name": "Intermediarios financieros semi-formales, informales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "24050": {
             "name": "Ense\u00f1anza/formaci\u00f3n en banca y servicios financieros",
-            "description": null,
-            "category": null
+            "description": null
         },
         "24081": {
-            "name": "Educaci\u00f3n o capacitaci\u00f3n en servicios bancarios y financieros",
-            "category": null
+            "name": "Educaci\u00f3n o capacitaci\u00f3n en servicios bancarios y financieros"
         },
         "25010": {
             "name": "Servicio e instituciones de apoyo a la empresa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "25020": {
             "name": "Privatizaciones",
-            "description": null,
-            "category": null
+            "description": null
         },
         "25030": {
             "name": "Servicios de desarrollo empresarial",
-            "description": null,
-            "category": null
+            "description": null
         },
         "25040": {
             "name": "Conducta empresarial responsable",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31110": {
             "name": "Pol\u00edtica agraria y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31120": {
             "name": "Desarrollo agrario",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31130": {
             "name": "Tierras cultivables",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31140": {
             "name": "Recursos h\u00eddricos para uso agr\u00edcola",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31150": {
             "name": "Insumos agr\u00edcolas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31161": {
             "name": "Producci\u00f3n alimentos agr\u00edcolas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31162": {
             "name": "Cultivos industriales/para la exportaci\u00f3n",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31163": {
             "name": "Ganader\u00eda",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31164": {
             "name": "Reforma agraria",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31165": {
             "name": "Desarrollo agrario alternativo",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31166": {
             "name": "Extensi\u00f3n agraria",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31181": {
-            "name": "Ense\u00f1anza/formaci\u00f3n agraria",
-            "category": null
+            "name": "Ense\u00f1anza/formaci\u00f3n agraria"
         },
         "31182": {
             "name": "Investigaci\u00f3n agraria",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31191": {
             "name": "Servicios agr\u00edcolas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31192": {
             "name": "Protecci\u00f3n plantas y poscosecha y lucha contra plagas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31193": {
             "name": "Servicios financieros agr\u00edcolas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31194": {
             "name": "Cooperativas agr\u00edcolas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31195": {
             "name": "Servicios ganaderos o veterinarios",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31210": {
             "name": "Pol\u00edtica forestal y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31220": {
             "name": "Desarrollo forestal",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31261": {
             "name": "Producci\u00f3n de carb\u00f3n vegetal / le\u00f1a",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31281": {
-            "name": "Educaci\u00f3n, formaci\u00f3n forestal",
-            "category": null
+            "name": "Educaci\u00f3n, formaci\u00f3n forestal"
         },
         "31282": {
             "name": "Investigaci\u00f3n silvicultura",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31291": {
-            "name": "Servicios forestales",
-            "category": null
+            "name": "Servicios forestales"
         },
         "31310": {
             "name": "Pol\u00edtica pesquera y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31320": {
             "name": "Desarrollo pesquero",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31381": {
-            "name": "Educaci\u00f3n, formaci\u00f3n pesquera",
-            "category": null
+            "name": "Educaci\u00f3n, formaci\u00f3n pesquera"
         },
         "31382": {
             "name": "Investigaci\u00f3n pesquera",
-            "description": null,
-            "category": null
+            "description": null
         },
         "31391": {
             "name": "Servicios pesqueros",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32110": {
             "name": "Pol\u00edtica industrial y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32120": {
-            "name": "Desarrollo industrial",
-            "category": null
+            "name": "Desarrollo industrial"
         },
         "32130": {
             "name": "Desarrollo de peque\u00f1as y medianas empresas (pymes)",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32140": {
-            "name": "Industria artesanal",
-            "category": null
+            "name": "Industria artesanal"
         },
         "32161": {
             "name": "Agro-industrias",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32162": {
             "name": "Industrias forestales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32163": {
             "name": "Textiles, cuero y sustitutos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32164": {
             "name": "Productos qu\u00edmicos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32165": {
-            "name": "Plantas de producci\u00f3n de fertilizantes",
-            "category": null
+            "name": "Plantas de producci\u00f3n de fertilizantes"
         },
         "32166": {
-            "name": "Cemento, cal, yeso",
-            "category": null
+            "name": "Cemento, cal, yeso"
         },
         "32167": {
             "name": "Fabricaci\u00f3n productos energ\u00e9ticos (combustibles f\u00f3siles)",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32168": {
             "name": "Producci\u00f3n farmac\u00e9utica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32169": {
             "name": "Industrias metal\u00fargicas b\u00e1sicas",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32170": {
-            "name": "Industrias metales no-ferrosos",
-            "category": null
+            "name": "Industrias metales no-ferrosos"
         },
         "32171": {
             "name": "Construcci\u00f3n mec\u00e1nica y el\u00e9ctrica",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32172": {
             "name": "Material de transporte",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32173": {
             "name": "Producci\u00f3n de biocombustibles modernos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32174": {
             "name": "Fabricaci\u00f3n de equipos de cocina no contaminantes",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32182": {
             "name": "Investigaci\u00f3n y desarrollo tecnol\u00f3gico",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32210": {
             "name": "Politica de las industrias extractivas y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32220": {
             "name": "Prospecciones y an\u00e1lisis minerales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32261": {
             "name": "Carb\u00f3n",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32262": {
             "name": "Petr\u00f3leo y gas (exploraci\u00f3n y producci\u00f3n)",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32263": {
             "name": "Metales ferrosos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32264": {
             "name": "Metales no ferrosos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32265": {
             "name": "Metales o materiales preciosos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32266": {
             "name": "Minerales industriales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32267": {
             "name": "Fertilizantes minerales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32268": {
             "name": "Recursos minerales fondos marinos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "32310": {
             "name": "Pol\u00edtica construcci\u00f3n y gestion administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "33110": {
             "name": "Pol\u00edtica comercial y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "33120": {
             "name": "Fomento del comercio",
-            "description": null,
-            "category": null
+            "description": null
         },
         "33130": {
             "name": "Acuerdos comerciales regionales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "33140": {
             "name": "Negociaciones comerciales multilaterales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "33150": {
             "name": "Ajustes vinculados al comercio",
-            "description": null,
-            "category": null
+            "description": null
         },
         "33181": {
             "name": "Educaci\u00f3n / formaci\u00f3n comercial",
-            "description": null,
-            "category": null
+            "description": null
         },
         "33210": {
-            "name": "Pol\u00edtica tur\u00edstica y gesti\u00f3n administrativa",
-            "category": null
+            "name": "Pol\u00edtica tur\u00edstica y gesti\u00f3n administrativa"
         },
         "41010": {
             "name": "Pol\u00edtica medioambiental y gesti\u00f3n administrativa",
-            "description": null,
-            "category": null
+            "description": null
         },
         "41020": {
             "name": "Protecci\u00f3n biosfera",
-            "description": null,
-            "category": null
+            "description": null
         },
         "41030": {
             "name": "Biodiversidad",
-            "description": null,
-            "category": null
+            "description": null
         },
         "41040": {
             "name": "Protecci\u00f3n del patrimonio",
-            "description": null,
-            "category": null
+            "description": null
         },
         "41050": {
             "name": "Control / prevenci\u00f3n de inundaciones",
-            "description": null,
-            "category": null
+            "description": null
         },
         "41081": {
-            "name": "Educaci\u00f3n / formaci\u00f3n medioambiental",
-            "category": null
+            "name": "Educaci\u00f3n / formaci\u00f3n medioambiental"
         },
         "41082": {
             "name": "Investigaci\u00f3n medioambiental",
-            "description": null,
-            "category": null
+            "description": null
         },
         "43010": {
-            "name": "Ayuda multisectorial",
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "name": "Ayuda multisectorial"
         },
         "43030": {
             "name": "Desarrollo y gesti\u00f3n urbanos",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "43031": {
             "name": "Pol\u00edticas y administraci\u00f3n de terrenos urbanos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "43032": {
             "name": "Desarrollo urbano",
-            "description": null,
-            "category": null
+            "description": null
         },
         "43040": {
             "name": "Desarrollo rural",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "43041": {
             "name": "Pol\u00edticas y administraci\u00f3n de terrenos rurales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "43042": {
             "name": "Desarrollo rural",
-            "description": null,
-            "category": null
+            "description": null
         },
         "43050": {
             "name": "Desarrollo de alternativas no agr\u00edcolas",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "43060": {
             "name": "Reducci\u00f3n del riesgo de desastres",
-            "description": null,
-            "category": null
+            "description": null
         },
         "43071": {
             "name": "Gesti\u00f3n administrativa y pol\u00edticas de la seguridad alimentaria",
-            "description": null,
-            "category": null
+            "description": null
         },
         "43072": {
             "name": "Programas de seguridad alimentaria familiar",
-            "description": null,
-            "category": null
+            "description": null
         },
         "43073": {
             "name": "Inocuidad y calidad alimentarias",
-            "description": null,
-            "category": null
+            "description": null
         },
         "43081": {
             "name": "Educaci\u00f3n o capacitaci\u00f3n multisectorial",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "43082": {
             "name": "Instituciones cient\u00edficas y de investigaci\u00f3n",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "51010": {
             "name": "Apoyo presupuestario general",
-            "description": null,
-            "category": null
+            "description": null
         },
         "52010": {
             "name": "Ayuda alimentaria",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "53030": {
             "name": "Apoyo importaci\u00f3n (bienes de equipo)",
-            "description": null,
-            "category": null
+            "description": null
         },
         "53040": {
             "name": "Apoyo importaci\u00f3n (productos)",
-            "description": null,
-            "category": null
+            "description": null
         },
         "60010": {
             "name": "Actividades relacionadas con la deuda",
-            "description": null,
-            "category": null
+            "description": null
         },
         "60020": {
-            "name": "Condonaci\u00f3n de deuda",
-            "category": null
+            "name": "Condonaci\u00f3n de deuda"
         },
         "60030": {
             "name": "Alivio de la deuda multilateral",
-            "description": null,
-            "category": null
+            "description": null
         },
         "60040": {
-            "name": "Reestructuraci\u00f3n y refinanciaci\u00f3n",
-            "category": null
+            "name": "Reestructuraci\u00f3n y refinanciaci\u00f3n"
         },
         "60061": {
             "name": "Canje de deuda por desarrollo",
-            "description": null,
-            "category": null
+            "description": null
         },
         "60062": {
             "name": "Otros tipos de canje de deuda",
-            "description": null,
-            "category": null
+            "description": null
         },
         "60063": {
             "name": "Recompra deuda",
-            "description": null,
-            "category": null
+            "description": null
         },
         "72010": {
             "name": "Ayuda y servicios materiales de emergencia",
-            "description": null,
-            "category": null
+            "description": null
         },
         "72011": {
             "name": "Servicios de atenci\u00f3n sanitaria b\u00e1sica en emergencias",
-            "description": null,
-            "category": null
+            "description": null
         },
         "72012": {
             "name": "Educaci\u00f3n en emergencias",
-            "description": null,
-            "category": null
+            "description": null
         },
         "72040": {
             "name": "Ayuda alimentaria de emergencia",
-            "description": null,
-            "category": null
+            "description": null
         },
         "72050": {
             "name": "Coordinaci\u00f3n de los servicios de protecci\u00f3n de la ayuda",
-            "description": null,
-            "category": null
+            "description": null
         },
         "73010": {
             "name": "Ayuda a la reconstrucci\u00f3n y a la rehabilitaci\u00f3n",
-            "description": null,
-            "category": null
+            "description": null
         },
         "74010": {
             "name": "Prevenci\u00f3n de desastres",
-            "description": null,
-            "category": null
+            "description": null
         },
         "74020": {
             "name": "Preparaci\u00f3n de respuesta multirriesgos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "91010": {
-            "name": "Costes administrativos (no asignable por sectores)",
-            "category": null
+            "name": "Costes administrativos (no asignable por sectores)"
         },
         "92010": {
             "name": "Apoyo a las ONG nacionales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "92020": {
-            "name": "Apoyo a las ONG internacionales",
-            "category": null
+            "name": "Apoyo a las ONG internacionales"
         },
         "92030": {
             "name": "Apoyo a las ONG locales y regionales",
-            "description": null,
-            "category": null
+            "description": null
         },
         "93010": {
             "name": "Ayuda a refugiados en el pa\u00eds donante (no asignable por sectores)",
-            "description": null,
-            "category": null
+            "description": null
         },
         "93011": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: alimentaci\u00f3n y alojamiento",
-            "description": null,
-            "category": null
+            "description": null
         },
         "93012": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: capacitaci\u00f3n",
-            "description": null,
-            "category": null
+            "description": null
         },
         "93013": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: salud",
-            "description": null,
-            "category": null
+            "description": null
         },
         "93014": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: otro tipo de sustento temporal",
-            "description": null,
-            "category": null
+            "description": null
         },
         "93015": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: repatriaci\u00f3n voluntaria",
-            "description": null,
-            "category": null
+            "description": null
         },
         "93016": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: transporte",
-            "description": null,
-            "category": null
+            "description": null
         },
         "93017": {
             "name": "Refugiados y solicitantes de asilo en pa\u00edses donantes: salvamento mar\u00edtimo",
-            "description": null,
-            "category": null
+            "description": null
         },
         "93018": {
             "name": "Refugiados o solicitantes de asilo en pa\u00edses donantes: costos administrativos",
-            "description": null,
-            "category": null
+            "description": null
         },
         "99810": {
             "name": "Sectores no especificados",
-            "description": null,
-            "category": null,
-            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
+            "description": null
         },
         "99820": {
             "name": "Sensibilizaci\u00f3n sobre los problemas relacionados con el desarrollo (no asignable por sectores)",
-            "description": null,
-            "category": null
+            "description": null
         }
     }
 }

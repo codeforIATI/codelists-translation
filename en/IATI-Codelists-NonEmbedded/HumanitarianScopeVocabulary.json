@@ -5,12 +5,10 @@
     },
     "codelist-items": {
         "1-2": {
-            "name": "Glide",
-            "url": null
+            "name": "Glide"
         },
         "2-1": {
-            "name": "Humanitarian Plan",
-            "url": null
+            "name": "Humanitarian Plan"
         },
         "99": {
             "name": "Reporting Organisation"

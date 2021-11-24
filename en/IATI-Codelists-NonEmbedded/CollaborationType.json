@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Collaboration Type",
-        "description": "OECD DAC classification used to determine the character of resource flows (bilateral or multilateral).",
-        "url": null
+        "description": "OECD DAC classification used to determine the character of resource flows (bilateral or multilateral)."
     },
     "codelist-items": {
         "1": {

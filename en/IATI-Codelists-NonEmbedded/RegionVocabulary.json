@@ -5,13 +5,11 @@
     "codelist-items": {
         "1": {
             "name": "OECD DAC",
-            "description": "Supra-national regions according to OECD DAC CRS recipient codes",
-            "url": null
+            "description": "Supra-national regions according to OECD DAC CRS recipient codes"
         },
         "2": {
             "name": "UN",
-            "description": "Supra-national regions maintained by UN Statistics Division (M49 standard)",
-            "url": null
+            "description": "Supra-national regions maintained by UN Statistics Division (M49 standard)"
         },
         "99": {
             "name": "Reporting Organisation",

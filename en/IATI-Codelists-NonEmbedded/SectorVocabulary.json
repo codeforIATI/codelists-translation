@@ -5,28 +5,23 @@
     "codelist-items": {
         "1": {
             "name": "OECD DAC CRS Purpose Codes (5 digit)",
-            "description": "The sector reported corresponds to an OECD DAC CRS 5-digit purpose code",
-            "url": null
+            "description": "The sector reported corresponds to an OECD DAC CRS 5-digit purpose code"
         },
         "2": {
             "name": "OECD DAC CRS Purpose Codes (3 digit)",
-            "description": "The sector reported corresponds to an OECD DAC CRS 3-digit purpose code",
-            "url": null
+            "description": "The sector reported corresponds to an OECD DAC CRS 3-digit purpose code"
         },
         "3": {
             "name": "Classification of the Functions of Government (UN)",
-            "description": "The sector reported corresponds to the UN Classification of the Functions of Government (CoFoG)",
-            "url": null
+            "description": "The sector reported corresponds to the UN Classification of the Functions of Government (CoFoG)"
         },
         "4": {
             "name": "Statistical classification of economic activities in the European Community",
-            "description": "The sector reported corresponds to the statistical classifications of economic activities in the European Community",
-            "url": null
+            "description": "The sector reported corresponds to the statistical classifications of economic activities in the European Community"
         },
         "5": {
             "name": "National Taxonomy for Exempt Entities (USA)",
-            "description": "The sector reported corresponds to the National Taxonomy for Exempt Entities (NTEE) - USA",
-            "url": null
+            "description": "The sector reported corresponds to the National Taxonomy for Exempt Entities (NTEE) - USA"
         },
         "6": {
             "name": "AidData",
@@ -34,33 +29,27 @@
         },
         "7": {
             "name": "SDG Goal",
-            "description": "A value from the top-level list of UN sustainable development goals (SDGs) (e.g. \u20181\u2019)",
-            "url": null
+            "description": "A value from the top-level list of UN sustainable development goals (SDGs) (e.g. \u20181\u2019)"
         },
         "8": {
             "name": "SDG Target",
-            "description": "A value from the second-level list of UN sustainable development goals (SDGs) (e.g. \u20181.1\u2019)",
-            "url": null
+            "description": "A value from the second-level list of UN sustainable development goals (SDGs) (e.g. \u20181.1\u2019)"
         },
         "9": {
             "name": "SDG Indicator",
-            "description": "A value from the second-level list of UN sustainable development (SDG) indicators",
-            "url": null
+            "description": "A value from the second-level list of UN sustainable development (SDG) indicators"
         },
         "10": {
             "name": "Humanitarian Global Clusters (Inter-Agency Standing Committee)",
-            "description": "The sector reported corresponds to an Inter-Agency Standard Committee Humanitarian Global Cluster code",
-            "url": null
+            "description": "The sector reported corresponds to an Inter-Agency Standard Committee Humanitarian Global Cluster code"
         },
         "11": {
             "name": "North American Industry Classification System (NAICS)",
-            "description": "The sector reported corresponds to the NAICS codelist",
-            "url": null
+            "description": "The sector reported corresponds to the NAICS codelist"
         },
         "12": {
             "name": "UN System Function",
-            "description": "The sector reported corresponds to the UN System Function codelist",
-            "url": null
+            "description": "The sector reported corresponds to the UN System Function codelist"
         },
         "99": {
             "name": "Reporting Organisation",

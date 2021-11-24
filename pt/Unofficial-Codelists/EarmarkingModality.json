@@ -1,56 +1,43 @@
 {
     "metadata": {
-        "name": null,
-        "url": null
+        "name": null
     },
     "codelist-items": {
         "A": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "B": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "C": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "D": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "E": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "F": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "G": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "H": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "I": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "J": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "K": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "L": {
-            "name": null,
-            "category": null
+            "name": null
         }
     }
 }

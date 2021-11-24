@@ -1,68 +1,52 @@
 {
     "metadata": {
-        "name": "Humanitarian Global Clusters",
-        "url": null
+        "name": "Humanitarian Global Clusters"
     },
     "codelist-items": {
         "4": {
-            "name": "Emergency Shelter and NFI",
-            "url": null
+            "name": "Emergency Shelter and NFI"
         },
         "1": {
-            "name": "Camp Coordination / Management",
-            "url": null
+            "name": "Camp Coordination / Management"
         },
         "5406": {
-            "name": "Mine Action",
-            "url": null
+            "name": "Mine Action"
         },
         "6": {
-            "name": "Food Security",
-            "url": null
+            "name": "Food Security"
         },
         "11": {
-            "name": "Water Sanitation Hygiene",
-            "url": null
+            "name": "Water Sanitation Hygiene"
         },
         "8": {
-            "name": "Logistics",
-            "url": null
+            "name": "Logistics"
         },
         "5403": {
-            "name": "Child Protection",
-            "url": null
+            "name": "Child Protection"
         },
         "10": {
-            "name": "Protection",
-            "url": null
+            "name": "Protection"
         },
         "3": {
-            "name": "Education",
-            "url": null
+            "name": "Education"
         },
         "9": {
-            "name": "Nutrition",
-            "url": null
+            "name": "Nutrition"
         },
         "7": {
-            "name": "Health",
-            "url": null
+            "name": "Health"
         },
         "2": {
-            "name": "Early Recovery",
-            "url": null
+            "name": "Early Recovery"
         },
         "5": {
-            "name": "Emergency Telecommunications",
-            "url": null
+            "name": "Emergency Telecommunications"
         },
         "5404": {
-            "name": "Gender Based Violence",
-            "url": null
+            "name": "Gender Based Violence"
         },
         "5405": {
-            "name": "Housing, Land and Property",
-            "url": null
+            "name": "Housing, Land and Property"
         }
     }
 }

@@ -1,3419 +1,2736 @@
 {
     "metadata": {
         "name": null,
-        "description": null,
-        "url": null
+        "description": null
     },
     "codelist-items": {
         "AIRQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CMPQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNLQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MFGQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FRMQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MSSNQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OILQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPLQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PRNQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RRQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RSTNQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RSTPQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STMQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WLLQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ADMD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ADMF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "AGRC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "AGRF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RESA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SCHA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "AIRB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "AIRF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "AIRP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "AMTH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STMA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ANCH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RDA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ANS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WALLA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BLDA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "AQC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNLA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ARCH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LAND": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "AREA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ISLF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RNGA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ASPH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ASTR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ASYL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ATHF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ATOL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CTRA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BDLD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BSTN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ESTB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BAN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BNK": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BAR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BRKS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BTL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BAY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BAYS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BCH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RDGB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BCHS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BCN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BNCH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BGHT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BLHL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BLOW": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BTYD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BOG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PSTB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BLDR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BRKW": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MFGB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BDG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ZNB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BLDG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BUR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BUSH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CTRB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BUTE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CARN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CLDA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CMP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNLB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TNLC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STMC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MFGC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNYN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CAPE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPLC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RTE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CSNO": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CSTL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TNKD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CSWY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CAVE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CMTY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CHN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNCR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CRQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CRQS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CLG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CFT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CLF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HSPC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "COLF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CST": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STNC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GRVC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SCHC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CMN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "COMC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CTRCM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CONE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNFL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CRSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CVNT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNCU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MFGCU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RFC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CRRL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CRDR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ESTC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HSEC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CTHSE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "COVE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LKC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LKSC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CRTR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CUET": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CULT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CRNT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CSTM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PSTC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CUTF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DARY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DAM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DEPU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DLTA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PCLD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DPR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DSRT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPLW": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNDT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DIKE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DIP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HSPD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STMD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DTCH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DTCHM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DVD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DCK": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DCKB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DCKY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BSND": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNLD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DTCHD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DCKD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SBED": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DUNE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RGNE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SCRP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "EST": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ESTY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STNE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FCL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CTRF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MFG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FAN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FRM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPLF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FRMS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FRMT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FYT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FLD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FIRE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ADM1": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FISH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PNDSF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FSR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FJD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FJDS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FORD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RESF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STNF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FRST": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "INLTQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MLSGQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FRSTF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FNDY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ADM4": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ZNF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PCLF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DPOF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GAP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GDN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GOSP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GASF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GATE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GYSR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GHAT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GLCR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNAU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RECG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GRGE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GRSLD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GRVE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GVL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GRAZ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GHSE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GULF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HLT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HMCK": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "AIRG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "VALG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HBR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HDLD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STMH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HTH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "AIRH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HERM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HLL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HLLS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ADMDH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ADM1H": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ADM4H": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PCLH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPLH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RRH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RSTNH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RGNH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ADM2H": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HSTS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ADM3H": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "UFHU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HMSD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HSP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SPNT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HTL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HSE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DEVH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RESH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HUT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HUTS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PSH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CAPG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DPRG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DOMG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RDGG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PCLI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "INDS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "INLT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STNI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TRGD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "INTF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LKI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LKSI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LKOI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PNDI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PNDSI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "POOLI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RSVI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LKNI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LKSNI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PNDNI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STMI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WTLDI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RDIN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNFE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FLDI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNLI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DTCHI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SYSI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ISL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ISLS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STLMT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ISTH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "JTY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "KRST": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CMPLA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LGN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LGNS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LK": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LBED": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CHNL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RGNL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LKS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ISLT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LNDF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LDNG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LAVA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNPB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LTER": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LEPC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HSPL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LEV": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LTHSE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MFGLM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GOVL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LCTY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LOCK": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CMPL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STMSB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MVA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ISLM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MGV": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MAR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CHNM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SCHN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MKT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MRSH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MDW": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "NKM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CTRM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MESA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STNM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MILB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "INSM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SCHM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ML": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CMPMN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MSSN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MOLE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MSTY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNMT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MOOR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MRN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MSQE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MND": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MTS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FLTM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MFGM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MUS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "NRWS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TNLN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RESN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "NVB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNLN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CHNN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNNI": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "NOV": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PSN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "NTK": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "NTKS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "NSY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OAS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OBPT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OBS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OCN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BLDO": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CMPO": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ESTO": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OILP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OILJ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TRMO": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PMPO": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OILR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OILW": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OILF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GRVO": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MLO": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OCH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MLM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OVF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LKO": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PGDA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PAL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GRVP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RESP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PAN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PANS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PRSH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PRK": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PRKGT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PRKHQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GARG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PKLT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PASS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PSTP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PK": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PKS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PEAT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PEN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BSNP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MFGPH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PIER": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GRVPN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNPL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PLN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PLAT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PTS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PLDR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PCL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PND": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PNDS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "POOL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPLL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPLS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PRT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PTGE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PO": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PRN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PRMN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PROM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PYR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PYRS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNQR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "QUAY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "QCKS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RECR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OBSR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STNR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RJCT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RSD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RSGNL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RSTN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RSTP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TNLRR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RYD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RNCH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RPDS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RVN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RCH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PRNJ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CMPRF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RGN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CTRR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPLR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RLG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ITTR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RESV": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RES": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RSV": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RSRT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RHSE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RLGR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RDGE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RDB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RDCUT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RDJCT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TNLRD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RDST": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RK": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HMDA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RKFL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RKS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RKRY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ESTR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RUIN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BDGQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DAMQ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SBKH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SDL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SALT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MFGN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LKN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LKSN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MRSHN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PNDN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PNDSN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SNTR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SAND": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ERG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STNS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MLSW": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SCH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ADMS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STNB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SCRB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SEA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SCNU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SCSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SMU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SMSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "AIRS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPLA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPLA4": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPLA2": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPLA3": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ADM2": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BNKX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNLX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ESTX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HBRX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PCLIX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STMIX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ISLX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LGNX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LKX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PENX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PLNX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PLATX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PPLX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RFX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STMX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "VALX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WADX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FLLSX": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PCLS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SWT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SHPF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SHOL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SHOPC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SHOR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SHRN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SILL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SINK": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ESTSL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SLID": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SLP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SLCE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SNOW": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SPA": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CTRS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SPLY": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SPIT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SPNG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SPUR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SQR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STBL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STDM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STPS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STKR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "REG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RET": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SHSE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STRT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BNKR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STMB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STMGS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STMM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STMS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ST": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "DAMSB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SUBW": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SUBS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MLSG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ESTSG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MFGSG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SPNS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SWMP": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SYG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TMTU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TMSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TAL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "OILT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ESTT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SCHT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TMPL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "AIRT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TRR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TERR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ADM3": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CRKT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FLTT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNSN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TOLL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TMB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TOWR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RDCR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TRL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TRANT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TREE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TRIG": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TRB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TUND": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TNL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TNLS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNLSB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LKSB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "APNU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ARCU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ARRU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BNKU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BKSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BSNU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BNCU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "BDLU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNYU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CNSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "CDAU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ESCU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FANU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FLTU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FRKU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FRSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FRZU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FURU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GAPU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "GLYU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HLLU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HLSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "HOLU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "KNLU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "KNSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LDGU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "LEVU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MDVU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MESU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MOTU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MNDU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MTU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MTSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PKU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PKSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PNLU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PLNU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PLTU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PLFU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PRVU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RMPU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RNGU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RAVU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RFU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RFSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RDGU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RDSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RISU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SDLU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SHFU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "EDGU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SHVU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SHLU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SHSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SILU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SLPU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "SPRU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TERU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TNGU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TRNU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "TRGU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "VALU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "VLSU": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "USGE": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "UPLD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "VAL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "VALS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "VETF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "VIN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "VINS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "VLC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WAD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WADB": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WADJ": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WADM": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WADS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WALL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MLWTR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "PMPW": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RSVT": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WTRC": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "FLLS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WTRH": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WTRW": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WEIR": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WLL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WLLS": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WTLD": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "STNW": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WHRF": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WHRL": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "RESW": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "MLWND": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "WRCK": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ZN": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "ZOO": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         }
     }
 }

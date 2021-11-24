@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Devise",
-        "description": "ISO 4217 La devise utilis\u00e9e pour tous les budgets et transactions",
-        "url": null
+        "description": "ISO 4217 La devise utilis\u00e9e pour tous les budgets et transactions"
     },
     "codelist-items": {
         "ADP": {

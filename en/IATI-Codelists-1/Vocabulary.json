@@ -7,27 +7,22 @@
             "name": "AidData"
         },
         "COFOG": {
-            "name": "Classification of the Functions of Government (UN)",
-            "url": null
+            "name": "Classification of the Functions of Government (UN)"
         },
         "DAC": {
-            "name": "OECD Development Assistance Committee",
-            "url": null
+            "name": "OECD Development Assistance Committee"
         },
         "DAC-3": {
-            "name": "OECD Development Assistance Committee 3 digit codes",
-            "url": null
+            "name": "OECD Development Assistance Committee 3 digit codes"
         },
         "ISO": {
             "name": "International Organization for Standardization"
         },
         "NACE": {
-            "name": "Statistical classification of economic activities in the European Community",
-            "url": null
+            "name": "Statistical classification of economic activities in the European Community"
         },
         "NTEE": {
-            "name": "National Taxonomy for Exempt Entities (USA)",
-            "url": null
+            "name": "National Taxonomy for Exempt Entities (USA)"
         },
         "RO": {
             "name": "Reporting Organisation (i.e. maintained by the organisation referred to in the <reporting-org> element."

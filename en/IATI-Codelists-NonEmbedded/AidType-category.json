@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Aid Type (category)",
-        "description": "This codelist exists to group the Aid Type codelist into categories. It is not used as a codelist in its own right.",
-        "url": null
+        "description": "This codelist exists to group the Aid Type codelist into categories. It is not used as a codelist in its own right."
     },
     "codelist-items": {
         "A": {

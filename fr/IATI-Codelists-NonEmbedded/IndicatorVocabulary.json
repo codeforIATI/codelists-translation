@@ -1,45 +1,35 @@
 {
     "metadata": {
         "name": "Vocabulaire d'indicateur",
-        "description": "La liste de codes Vocabulaire d'indicateur d\u00e9finit une gamme de listes externes qui contiennent des codes et descriptions d'indicateurs, par exemple pour d\u00e9crire des r\u00e9sultats.",
-        "url": null
+        "description": "La liste de codes Vocabulaire d'indicateur d\u00e9finit une gamme de listes externes qui contiennent des codes et descriptions d'indicateurs, par exemple pour d\u00e9crire des r\u00e9sultats."
     },
     "codelist-items": {
         "1": {
-            "name": null,
-            "url": null
+            "name": null
         },
         "2": {
-            "name": null,
-            "url": null
+            "name": null
         },
         "3": {
-            "name": null,
-            "url": null
+            "name": null
         },
         "4": {
-            "name": null,
-            "url": null
+            "name": null
         },
         "5": {
-            "name": null,
-            "url": null
+            "name": null
         },
         "6": {
-            "name": null,
-            "url": null
+            "name": null
         },
         "7": {
-            "name": null,
-            "url": null
+            "name": null
         },
         "8": {
-            "name": null,
-            "url": null
+            "name": null
         },
         "9": {
-            "name": null,
-            "url": null
+            "name": null
         },
         "99": {
             "name": null

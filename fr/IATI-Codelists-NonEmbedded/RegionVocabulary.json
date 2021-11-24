@@ -5,13 +5,11 @@
     "codelist-items": {
         "1": {
             "name": "OCDE CAD",
-            "description": "R\u00e9gions supranationales selon les codes de b\u00e9n\u00e9ficiaire OCDE CAD SNPC",
-            "url": null
+            "description": "R\u00e9gions supranationales selon les codes de b\u00e9n\u00e9ficiaire OCDE CAD SNPC"
         },
         "2": {
             "name": "ONU",
-            "description": "R\u00e9gions supranationales maintenues par la Division de la statistique de l'ONU",
-            "url": null
+            "description": "R\u00e9gions supranationales maintenues par la Division de la statistique de l'ONU"
         },
         "99": {
             "name": "Organisation d\u00e9clarante",

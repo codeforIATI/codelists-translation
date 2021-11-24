@@ -5,8 +5,7 @@
     "codelist-items": {
         "1": {
             "name": "OECD DAC CRS",
-            "description": "The policy marker is an OECD DAC CRS policy marker, Reported in columns 20-23, 28-31 and 54 of CRS++ reporting format.",
-            "url": null
+            "description": "The policy marker is an OECD DAC CRS policy marker, Reported in columns 20-23, 28-31 and 54 of CRS++ reporting format."
         },
         "99": {
             "name": "Reporting Organisation",

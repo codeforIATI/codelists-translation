@@ -6,203 +6,163 @@
     "codelist-items": {
         "XI-IATI-1001": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-1002": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-ACATBA": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-ADVZ": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-AGR": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-AIAS": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-AJS": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-ATTIC": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-BBDN": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-EBRD": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-BEH": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-CABI": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-CWSEC": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-DGF": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-EC_DEVCO": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-EC_ECHO": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-ESFD": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-EC_FPI": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-EC_NEAR": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-EFRD": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-FIABEL": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-GREDO": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-IADB": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-IFDC": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-IKI": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-KHF": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-LPI": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-MIF": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-NSO": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-OCHASDC": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-SGJ": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-SPR": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-SWSC": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-UCES": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-UDC": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-UNPF": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-WARDI": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-WAI": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-WBTF": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "XI-IATI-WVDRC": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         }
     }
 }

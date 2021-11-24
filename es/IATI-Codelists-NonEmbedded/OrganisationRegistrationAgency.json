@@ -6,1185 +6,791 @@
     "codelist-items": {
         "AE-ACCI": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-ADCD": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-AFZ": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-DCCI": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-DFSA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-DIFC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-DMCC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-FCCI": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-FFZ": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-HFZA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-RAKIA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-RK_CR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-SAIF": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-SCCI": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AE-UQCCI": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AF-CBR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AF-MOE": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AR-CENOC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AR-CUIT": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AT-FB": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AT-UID": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AU-ABN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AU-ACNC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "AZ-IVI": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "BD-NAB": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "BE-BCE_KBO": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "BE-GTCF": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "BG-EIK": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "BJ-IFU": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "BW-CIPA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "BY-ADR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA-CC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA-CRA_ACR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA-GOV": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA_AB-ABT": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA_BC-BRC_CBR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA_MB-MTB": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA_NB-NWB_NOB": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA_NL-NFL_TNL": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA_NS-NVS_NVE": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA_NT-NWT_TNO": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA_NU-NNV": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA_ON-ONT": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA_PE-PEI_IPE": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA_QC-QBC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA_SK-SKN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CA_YT-YKT": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CH-FDJP": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CN-SAIC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CO-CCB": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CO-RUE": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CY-DRCOR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CZ-DIC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "CZ-ICO": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "DE-CR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "DK-CVR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "EE-KMKR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "EE-RIK": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "EG-MOSS": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ES-DIR3": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ES-RMC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ET-CSA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ET-MFA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ET-MOT": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "FI-PRO": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "FR-INSEE": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "FR-RCS": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-CHC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-COH": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-EDU": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-GOR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-GOV": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-GOVUK": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-IRN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-LAE": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-LAS": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-MPR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-NHS": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-NIC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-PLA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-REV": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-SC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-SHPE": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GB-UKPRN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GE-NAPR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GG-RCE": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "GH-DSW": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "HK-CR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "HR-MBS": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "HR-OIB": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "HU-AFA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ID-KDN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ID-KHH": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ID-KLN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ID-PRO": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ID-SMR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "IE-CHY": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "IE-CRO": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "IL-ROC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "IM-CR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "IM-GR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "IN-MCA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "IN-MHA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "IT-CF": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "IT-RI": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "JE-FSC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "JE-OAC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "JO-CCD": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "JO-MSD": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "JP-JCN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "KE-NCB": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "KE-RCO": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "KE-RSO": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "KG-ID": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "KG-INN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "KZ-BIN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "LB-CR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "LB-MOI": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "LS-LCN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "LT-PVM": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "LT-RC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "LV-RE": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "MD-IDNO": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ML-CCIM": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ML-NIF": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "MM-MHA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "MU-CR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "MW-CNM": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "MW-MRA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "MW-NBM": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "MW-RG": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "MX-CPA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "MX-RFC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "MY-SSM": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "MZ-CR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "MZ-MOJ": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "MZ-NUIT": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "NG-BPP": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "NG-CAC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "NL-KVK": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "NL-OWMS": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "NO-BRC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "NP-CRO": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "NP-SWC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "PE-SUNARP": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "PH-SEC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "PK-PCP": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "PK-VSWA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "PL-KRS": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "PL-NIP": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "PL-REGON": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "PS-MOI": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "PT-NIPPC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "PY-PGN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "PY-RUC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "RO-CUI": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "RS-APR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "RS-PIB": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "RU-INN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "RU-OGRN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "SE-BLV": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "SE-KK": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "SE-ON": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "SG-ACRA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "SI-PRS": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "SI-TIN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "SK-ORSR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "SK-ZRSR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "SN-NINEA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "SS-RRC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "TR-MERSIS": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "TR-MOI": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "TZ-BRLA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "TZ-TRA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "UA-EDR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "UG-NGB": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "UG-RSB": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "US-DOS": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "US-EIN": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "US-USAGOV": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "UZ-KTUT": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "XE-EXAMPLE": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "XI-EORI": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "XI-GRID": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "XI-IATI": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "XI-PB": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "XI-PID": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "XI-WIKIDATA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "XM-DAC": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "XM-OCHA": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "XR-NUTS": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ZA-CIP": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ZA-NPO": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ZA-PBO": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ZM-PCR": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ZW-PVO": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         },
         "ZW-ROD": {
             "name": null,
-            "description": null,
-            "category": null,
-            "url": null
+            "description": null
         }
     }
 }

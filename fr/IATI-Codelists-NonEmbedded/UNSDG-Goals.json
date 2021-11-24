@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Objectifs de d\u00e9veloppement durable (ODD) de l'ONU",
-        "description": "Une valeur de la liste primaire d'Objectifs de d\u00e9veloppement durable (ODD) de l'ONU (par ex. \"1\").",
-        "url": null
+        "description": "Une valeur de la liste primaire d'Objectifs de d\u00e9veloppement durable (ODD) de l'ONU (par ex. \"1\")."
     },
     "codelist-items": {
         "1": {

@@ -1,1707 +1,1286 @@
 {
     "metadata": {
-        "name": null,
-        "url": null
+        "name": null
     },
     "codelist-items": {
         "10000": {
             "name": null
         },
         "11000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "11001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "11002": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "11003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "11004": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "12000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "12001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "12002": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "12003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "12004": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "13000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "20000": {
             "name": null
         },
         "21000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21002": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21004": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21005": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21006": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21007": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21008": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21009": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21010": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21011": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21013": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21014": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21015": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21016": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21017": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21018": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21019": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21020": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21021": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21022": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21023": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21024": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21025": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21026": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21027": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21028": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21029": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21030": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21031": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21032": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21033": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21034": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21035": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21036": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21037": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21038": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21039": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21040": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21041": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21042": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21043": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21044": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21045": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21046": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21047": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21048": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21049": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21050": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21051": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21053": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21054": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21055": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21056": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21057": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21058": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21059": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21060": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21061": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21062": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21063": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21064": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21501": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21502": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21503": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21504": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21505": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21506": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "21507": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "22000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "22501": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "22502": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "23000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "23501": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30000": {
             "name": null
         },
         "30001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30004": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30005": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30006": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30007": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30008": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30009": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30010": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30011": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30012": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30013": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30014": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30015": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30016": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30017": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30018": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30019": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "30020": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "31000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "31001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "31002": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "31003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "31004": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "31005": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "31006": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "32000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "40000": {
             "name": null
         },
         "41000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41100": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41101": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41102": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41103": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41104": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41105": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41106": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41107": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41108": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41109": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41110": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41111": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41112": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41114": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41116": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41119": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41120": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41121": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41122": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41123": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41124": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41125": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41126": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41127": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41128": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41129": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41130": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41131": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41132": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41133": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41134": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41135": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41136": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41137": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41138": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41140": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41141": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41142": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41143": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41144": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41145": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41146": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41147": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41148": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41149": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41150": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41151": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41300": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41301": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41302": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41303": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41304": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41305": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41306": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41307": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41308": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41309": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41310": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41311": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41312": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41313": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41314": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41315": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41316": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41317": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41318": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41319": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41320": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41400": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41401": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41500": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41501": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41502": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41503": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "41600": {
             "name": null,
-            "description": null,
-            "category": null
+            "description": null
         },
         "42000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "42001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "42003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "42004": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "42005": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "43000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "43001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "43002": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "43003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "43004": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "43005": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "43006": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "44000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "44001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "44002": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "44003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "44004": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "44005": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "44006": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "44007": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "44008": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "45000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "45001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "45002": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "45003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46002": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46004": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46005": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46006": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46007": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46008": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46009": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46012": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46013": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46015": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46016": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46017": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46018": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46019": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46020": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46021": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46022": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46023": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46024": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46025": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46026": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "46027": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47002": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47004": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47005": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47008": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47009": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47010": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47011": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47012": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47013": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47014": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47015": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47016": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47017": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47018": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47019": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47020": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47021": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47022": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47023": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47024": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47025": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47026": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47027": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47028": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47029": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47030": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47031": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47032": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47033": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47034": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47035": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47036": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47037": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47038": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47040": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47041": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47042": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47043": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47044": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47045": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47046": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47047": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47048": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47049": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47050": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47051": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47053": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47054": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47055": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47056": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47057": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47058": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47059": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47060": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47061": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47062": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47063": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47064": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47065": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47066": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47067": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47068": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47069": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47070": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47071": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47073": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47074": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47075": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47076": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47077": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47078": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47079": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47080": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47081": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47082": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47083": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47084": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47085": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47086": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47087": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47088": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47089": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47090": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47091": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47092": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47093": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47094": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47095": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47096": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47097": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47098": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47099": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47100": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47101": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47102": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47103": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47104": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47105": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47106": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47107": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47108": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47109": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47110": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47111": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47112": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47113": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47114": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47116": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47117": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47118": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47119": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47120": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47121": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47122": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47123": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47124": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47125": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47127": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47128": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47129": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47130": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47131": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47132": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47134": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47135": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47136": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47137": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47138": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47139": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47140": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47141": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47142": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47143": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47144": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47145": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47146": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47147": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47148": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47400": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47501": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47502": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47503": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "47504": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "50000": {
             "name": null
         },
         "51000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "51001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "52000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "60000": {
             "name": null
         },
         "61000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "61001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "61002": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "61003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "61004": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "61005": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "61006": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "61007": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "61008": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "61009": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "61010": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "62000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "62001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "62002": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "62003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "62004": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "62005": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "62006": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "62007": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "62008": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "62009": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "62010": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "63000": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "63001": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "63002": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "63003": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "63004": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "63005": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "63006": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "63007": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "63008": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "63009": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "63010": {
-            "name": null,
-            "category": null
+            "name": null
         },
         "90000": {
             "name": null

@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Type de collaboration",
-        "description": "Classification du CAD de l'OCDE qui permet de distinguer la nature des apports de ressources (bilat\u00e9rale ou multilat\u00e9rale).",
-        "url": null
+        "description": "Classification du CAD de l'OCDE qui permet de distinguer la nature des apports de ressources (bilat\u00e9rale ou multilat\u00e9rale)."
     },
     "codelist-items": {
         "1": {

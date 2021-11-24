@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "UN Sustainable Development Goals (SDG)",
-        "description": "A value from the top-level list of UN sustainable development goals (SDGs) (e.g. \u20181\u2019)",
-        "url": null
+        "description": "A value from the top-level list of UN sustainable development goals (SDGs) (e.g. \u20181\u2019)"
     },
     "codelist-items": {
         "1": {

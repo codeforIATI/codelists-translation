@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Type de financement (cat\u00e9gorie)",
-        "description": "Cette liste sert \u00e0 grouper la liste de codes Type de financement en cat\u00e9gories. Elle n'est pas utilis\u00e9e comme liste de codes en elle-m\u00eame.",
-        "url": null
+        "description": "Cette liste sert \u00e0 grouper la liste de codes Type de financement en cat\u00e9gories. Elle n'est pas utilis\u00e9e comme liste de codes en elle-m\u00eame."
     },
     "codelist-items": {
         "0": {

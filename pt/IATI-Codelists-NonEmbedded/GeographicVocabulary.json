@@ -5,30 +5,24 @@
     },
     "codelist-items": {
         "A1": {
-            "name": null,
-            "url": null
+            "name": null
         },
         "A2": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         },
         "A3": {
-            "name": null,
-            "url": null
+            "name": null
         },
         "A4": {
-            "name": null,
-            "url": null
+            "name": null
         },
         "G1": {
-            "name": null,
-            "url": null
+            "name": null
         },
         "G2": {
             "name": null,
-            "description": null,
-            "url": null
+            "description": null
         }
     }
 }

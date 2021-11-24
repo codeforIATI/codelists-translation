@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Flow Type",
-        "description": "DAC/CRS distinction between ODA (official development assistance) and other types of resource flow.",
-        "url": null
+        "description": "DAC/CRS distinction between ODA (official development assistance) and other types of resource flow."
     },
     "codelist-items": {
         "10": {

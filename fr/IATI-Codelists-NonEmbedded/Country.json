@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Pays",
-        "description": "La liste de codes Pays est g\u00e9n\u00e9r\u00e9e \u00e0 partir de la partie ISO 3166-1 de la norme ISO 3166. En plus des codes attribu\u00e9s officiellement, la norme permet d'\u00e9tendre les \u00e9l\u00e9ments de code en utilisant des codes r\u00e9serv\u00e9s ou des codes cr\u00e9\u00e9s par les usagers. A l'heure actuelle l'IITA d\u00e9finit des codes additionnels dans la gamme XA-XZ.",
-        "url": null
+        "description": "La liste de codes Pays est g\u00e9n\u00e9r\u00e9e \u00e0 partir de la partie ISO 3166-1 de la norme ISO 3166. En plus des codes attribu\u00e9s officiellement, la norme permet d'\u00e9tendre les \u00e9l\u00e9ments de code en utilisant des codes r\u00e9serv\u00e9s ou des codes cr\u00e9\u00e9s par les usagers. A l'heure actuelle l'IITA d\u00e9finit des codes additionnels dans la gamme XA-XZ."
     },
     "codelist-items": {
         "AF": {

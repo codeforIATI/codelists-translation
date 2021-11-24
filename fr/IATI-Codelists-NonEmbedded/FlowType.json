@@ -1,8 +1,7 @@
 {
     "metadata": {
         "name": "Type d'apport",
-        "description": "Distinction du CAD/SNPC entre l'APD (aide publique au d\u00e9veloppement) et les autres types d'apport",
-        "url": null
+        "description": "Distinction du CAD/SNPC entre l'APD (aide publique au d\u00e9veloppement) et les autres types d'apport"
     },
     "codelist-items": {
         "10": {
