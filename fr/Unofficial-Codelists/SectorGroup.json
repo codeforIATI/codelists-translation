@@ -1,7 +1,8 @@
 {
     "metadata": {
         "name": "Secteur du CAD (Groupements)",
-        "description": "Groupements des Secteurs du CAD avec niveaux hi\u00e9rarchiques."
+        "description": "Groupements des Secteurs du CAD avec niveaux hi\u00e9rarchiques.",
+        "category": "Copiée"
     },
     "codelist-items": {
         "11110": {
