@@ -1,44 +1,72 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null
+    },
     "codelist-items": {
         "1": {
-            "name": "Ingresos de fondos"
+            "code": null,
+            "name": "Ingresos de fondos",
+            "description": null
         },
         "2": {
-            "name": "Compromiso de pago saliente"
+            "code": null,
+            "name": "Compromiso de pago saliente",
+            "description": null
         },
         "3": {
-            "name": "Desembolso"
+            "code": null,
+            "name": "Desembolso",
+            "description": null
         },
         "4": {
-            "name": "Gasto"
+            "code": null,
+            "name": "Gasto",
+            "description": null
         },
         "5": {
-            "name": "Pago de intereses"
+            "code": null,
+            "name": "Pago de intereses",
+            "description": null
         },
         "6": {
-            "name": "Reembolso de un pr\u00e9stamo"
+            "code": null,
+            "name": "Reembolso de un pr\u00e9stamo",
+            "description": null
         },
         "7": {
-            "name": "Reembolso"
+            "code": null,
+            "name": "Reembolso",
+            "description": null
         },
         "8": {
-            "name": "Adquisici\u00f3n de capital"
+            "code": null,
+            "name": "Adquisici\u00f3n de capital",
+            "description": null
         },
         "9": {
-            "name": "Venta de capital"
+            "code": null,
+            "name": "Venta de capital",
+            "description": null
         },
         "10": {
-            "name": "Garant\u00eda de cr\u00e9dito"
+            "code": null,
+            "name": "Garant\u00eda de cr\u00e9dito",
+            "description": null
         },
         "11": {
-            "name": "Compromiso de pago entrante"
+            "code": null,
+            "name": "Compromiso de pago entrante",
+            "description": null
         },
         "12": {
-            "name": "Promesa de contribuci\u00f3n saliente"
+            "code": null,
+            "name": "Promesa de contribuci\u00f3n saliente",
+            "description": null
         },
         "13": {
-            "name": "Promesa de contribuci\u00f3n entrante"
+            "code": null,
+            "name": "Promesa de contribuci\u00f3n entrante",
+            "description": null
         }
     }
 }

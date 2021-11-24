@@ -5,6 +5,7 @@
     },
     "codelist-items": {
         "99": {
+            "code": null,
             "name": "Reporting Organisation"
         }
     }

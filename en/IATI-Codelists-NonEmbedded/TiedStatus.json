@@ -4,14 +4,17 @@
     },
     "codelist-items": {
         "3": {
+            "code": null,
             "name": "Partially tied",
             "description": "Official Development Assistance for which the associated goods and services must be procured from a restricted number of countries, which must however include substantially all aid recipient countries and can include the donor country."
         },
         "4": {
+            "code": null,
             "name": "Tied",
             "description": "Official grants or loans where procurement of the goods or services involved is limited to the donor country or to a group of countries which does not include substantially all aid recipient countries."
         },
         "5": {
+            "code": null,
             "name": "Untied",
             "description": "Untied aid is defined as loans and grants whose proceeds are fully and freely available to finance procurement from all OECD countries and substantially all developing countries."
         }

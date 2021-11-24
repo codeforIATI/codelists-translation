@@ -1,209 +1,363 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null,
+        "url": null
+    },
     "codelist-items": {
         "1": {
-            "name": "RNB: renda nacional bruta"
+            "code": null,
+            "name": "RNB: renda nacional bruta",
+            "category": null
         },
         "110": {
-            "name": "Subven\u00e7\u00e3o comum"
+            "code": null,
+            "name": "Subven\u00e7\u00e3o comum",
+            "description": null,
+            "category": null
         },
         "1100": {
-            "name": "Garantias/seguro"
+            "code": null,
+            "name": "Garantias/seguro",
+            "category": null
         },
         "111": {
-            "name": "Subs\u00eddios a investidores privados nacionais"
+            "code": null,
+            "name": "Subs\u00eddios a investidores privados nacionais",
+            "category": null
         },
         "2": {
-            "name": "APD em % do RNB"
+            "code": null,
+            "name": "APD em % do RNB",
+            "category": null
         },
         "210": {
-            "name": "Bonifica\u00e7\u00e3o de juros"
+            "code": null,
+            "name": "Bonifica\u00e7\u00e3o de juros",
+            "description": null,
+            "category": null
         },
         "211": {
-            "name": "Bonifica\u00e7\u00e3o de juros para exportadores privados nacionais"
+            "code": null,
+            "name": "Bonifica\u00e7\u00e3o de juros para exportadores privados nacionais",
+            "category": null
         },
         "3": {
-            "name": "Fluxos totais em % do RNB"
+            "code": null,
+            "name": "Fluxos totais em % do RNB",
+            "category": null
         },
         "310": {
-            "name": "Subscri\u00e7\u00e3o de capital com base nos dep\u00f3sitos"
+            "code": null,
+            "name": "Subscri\u00e7\u00e3o de capital com base nos dep\u00f3sitos",
+            "description": null,
+            "category": null
         },
         "311": {
-            "name": "Subscri\u00e7\u00e3o de capital com base nas entradas em caixa"
+            "code": null,
+            "name": "Subscri\u00e7\u00e3o de capital com base nas entradas em caixa",
+            "description": null,
+            "category": null
         },
         "4": {
-            "name": "Popula\u00e7\u00e3o"
+            "code": null,
+            "name": "Popula\u00e7\u00e3o",
+            "category": null
         },
         "410": {
-            "name": "Empr\u00e9stimo de ajuda excluindo reorganiza\u00e7\u00e3o de d\u00edvida"
+            "code": null,
+            "name": "Empr\u00e9stimo de ajuda excluindo reorganiza\u00e7\u00e3o de d\u00edvida",
+            "category": null
         },
         "411": {
-            "name": "Empr\u00e9stimo relacionado com investimento a pa\u00edses em desenvolvimento"
+            "code": null,
+            "name": "Empr\u00e9stimo relacionado com investimento a pa\u00edses em desenvolvimento",
+            "category": null
         },
         "412": {
-            "name": "Empr\u00e9stimo em empreendimento conjunto com o destinat\u00e1rio"
+            "code": null,
+            "name": "Empr\u00e9stimo em empreendimento conjunto com o destinat\u00e1rio",
+            "category": null
         },
         "413": {
-            "name": "Empr\u00e9stimo a investidor privado nacional"
+            "code": null,
+            "name": "Empr\u00e9stimo a investidor privado nacional",
+            "category": null
         },
         "414": {
-            "name": "Empr\u00e9stimo a exportador privado nacional"
+            "code": null,
+            "name": "Empr\u00e9stimo a exportador privado nacional",
+            "category": null
         },
         "421": {
-            "name": "Empr\u00e9stimo normal"
+            "code": null,
+            "name": "Empr\u00e9stimo normal",
+            "description": null,
+            "category": null
         },
         "422": {
-            "name": "Subven\u00e7\u00e3o reembols\u00e1vel"
+            "code": null,
+            "name": "Subven\u00e7\u00e3o reembols\u00e1vel",
+            "description": null,
+            "category": null
         },
         "423": {
-            "name": "Obriga\u00e7\u00f5es"
+            "code": null,
+            "name": "Obriga\u00e7\u00f5es",
+            "description": null,
+            "category": null
         },
         "424": {
-            "name": "T\u00edtulos garantidos por ativos"
+            "code": null,
+            "name": "T\u00edtulos garantidos por ativos",
+            "description": null,
+            "category": null
         },
         "425": {
-            "name": "Outros t\u00edtulos de d\u00edvida"
+            "code": null,
+            "name": "Outros t\u00edtulos de d\u00edvida",
+            "category": null
         },
         "431": {
-            "name": "Empr\u00e9stimo subordinado"
+            "code": null,
+            "name": "Empr\u00e9stimo subordinado",
+            "description": null,
+            "category": null
         },
         "432": {
-            "name": "Capital preferencial"
+            "code": null,
+            "name": "Capital preferencial",
+            "description": null,
+            "category": null
         },
         "433": {
-            "name": "Outros instrumentos h\u00edbridos"
+            "code": null,
+            "name": "Outros instrumentos h\u00edbridos",
+            "description": null,
+            "category": null
         },
         "451": {
-            "name": "Cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o com garantias n\u00e3o banc\u00e1rias"
+            "code": null,
+            "name": "Cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o com garantias n\u00e3o banc\u00e1rias",
+            "category": null
         },
         "452": {
-            "name": "Parcelas n\u00e3o garantidas de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o com garantias n\u00e3o banc\u00e1rias"
+            "code": null,
+            "name": "Parcelas n\u00e3o garantidas de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o com garantias n\u00e3o banc\u00e1rias",
+            "category": null
         },
         "453": {
-            "name": "Cr\u00e9ditos banc\u00e1rios \u00e0 exporta\u00e7\u00e3o"
+            "code": null,
+            "name": "Cr\u00e9ditos banc\u00e1rios \u00e0 exporta\u00e7\u00e3o",
+            "category": null
         },
         "510": {
-            "name": "Capital ordin\u00e1rio"
+            "code": null,
+            "name": "Capital ordin\u00e1rio",
+            "description": null,
+            "category": null
         },
         "511": {
-            "name": "Aquisi\u00e7\u00e3o de participa\u00e7\u00f5es que n\u00e3o como parte de empreendimentos conjuntos em pa\u00edses em desenvolvimento"
+            "code": null,
+            "name": "Aquisi\u00e7\u00e3o de participa\u00e7\u00f5es que n\u00e3o como parte de empreendimentos conjuntos em pa\u00edses em desenvolvimento",
+            "category": null
         },
         "512": {
-            "name": "Outras aquisi\u00e7\u00f5es de capital"
+            "code": null,
+            "name": "Outras aquisi\u00e7\u00f5es de capital",
+            "category": null
         },
         "520": {
-            "name": "Participa\u00e7\u00f5es em ve\u00edculos de investimento coletivo"
+            "code": null,
+            "name": "Participa\u00e7\u00f5es em ve\u00edculos de investimento coletivo",
+            "description": null,
+            "category": null
         },
         "530": {
-            "name": "Ganhos reinvestidos"
+            "code": null,
+            "name": "Ganhos reinvestidos",
+            "description": null,
+            "category": null
         },
         "610": {
-            "name": "Perd\u00e3o de d\u00edvida:  pedidos de APD (C)"
+            "code": null,
+            "name": "Perd\u00e3o de d\u00edvida:  pedidos de APD (C)",
+            "category": null
         },
         "611": {
-            "name": "Perd\u00e3o de d\u00edvida: pedidos de APD (J)"
+            "code": null,
+            "name": "Perd\u00e3o de d\u00edvida: pedidos de APD (J)",
+            "category": null
         },
         "612": {
-            "name": "Perd\u00e3o de d\u00edvida: pedidos de OFP (C)"
+            "code": null,
+            "name": "Perd\u00e3o de d\u00edvida: pedidos de OFP (C)",
+            "category": null
         },
         "613": {
-            "name": "Perd\u00e3o de d\u00edvida: pedidos de OFP (J)"
+            "code": null,
+            "name": "Perd\u00e3o de d\u00edvida: pedidos de OFP (J)",
+            "category": null
         },
         "614": {
-            "name": "Perd\u00e3o de d\u00edvida:  pedidos privados (C)"
+            "code": null,
+            "name": "Perd\u00e3o de d\u00edvida:  pedidos privados (C)",
+            "category": null
         },
         "615": {
-            "name": "Perd\u00e3o de d\u00edvida:  pedidos privados (J)"
+            "code": null,
+            "name": "Perd\u00e3o de d\u00edvida:  pedidos privados (J)",
+            "category": null
         },
         "616": {
-            "name": "Perd\u00e3o de d\u00edvida: pedidos de OFP (RSD)"
+            "code": null,
+            "name": "Perd\u00e3o de d\u00edvida: pedidos de OFP (RSD)",
+            "category": null
         },
         "617": {
-            "name": "Perd\u00e3o de d\u00edvida:  pedidos privados (RSD)"
+            "code": null,
+            "name": "Perd\u00e3o de d\u00edvida:  pedidos privados (RSD)",
+            "category": null
         },
         "618": {
-            "name": "Perd\u00e3o de d\u00edvida: Outros"
+            "code": null,
+            "name": "Perd\u00e3o de d\u00edvida: Outros",
+            "category": null
         },
         "620": {
-            "name": "Reescalonamento de d\u00edvida: pedidos de APD (C)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida: pedidos de APD (C)",
+            "category": null
         },
         "621": {
-            "name": "Reescalonamento de d\u00edvida: pedidos de APD (J)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida: pedidos de APD (J)",
+            "category": null
         },
         "622": {
-            "name": "Reescalonamento de d\u00edvida: pedidos de OFP (C)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida: pedidos de OFP (C)",
+            "category": null
         },
         "623": {
-            "name": "Reescalonamento de d\u00edvida: pedidos de OFP (J)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida: pedidos de OFP (J)",
+            "category": null
         },
         "624": {
-            "name": "Reescalonamento de d\u00edvida:  pedidos privados (C)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida:  pedidos privados (C)",
+            "category": null
         },
         "625": {
-            "name": "Reescalonamento de d\u00edvida:  pedidos privados (J)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida:  pedidos privados (J)",
+            "category": null
         },
         "626": {
-            "name": "Reescalonamento de d\u00edvida: pedidos de OFP (RSD)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida: pedidos de OFP (RSD)",
+            "category": null
         },
         "627": {
-            "name": "Reescalonamento de d\u00edvida:  pedidos privados (RSD)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida:  pedidos privados (RSD)",
+            "category": null
         },
         "630": {
-            "name": "Reescalonamento de d\u00edvida: pedido de OFP (RSD \u2013 capital original do empr\u00e9stimo)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida: pedido de OFP (RSD \u2013 capital original do empr\u00e9stimo)",
+            "category": null
         },
         "631": {
-            "name": "Reescalonamento de d\u00edvida: pedido de OFP (RSD \u2013 juros originais do empr\u00e9stimo)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida: pedido de OFP (RSD \u2013 juros originais do empr\u00e9stimo)",
+            "category": null
         },
         "632": {
-            "name": "Reescalonamento de d\u00edvida: pedido privado (RSD \u2013 capital original do empr\u00e9stimo)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida: pedido privado (RSD \u2013 capital original do empr\u00e9stimo)",
+            "category": null
         },
         "633": {
-            "name": "Perd\u00e3o/convers\u00e3o de d\u00edvida: pedidos de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o (C)"
+            "code": null,
+            "name": "Perd\u00e3o/convers\u00e3o de d\u00edvida: pedidos de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o (C)",
+            "category": null
         },
         "634": {
-            "name": "Perd\u00e3o/convers\u00e3o de d\u00edvida: pedidos de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o (J)"
+            "code": null,
+            "name": "Perd\u00e3o/convers\u00e3o de d\u00edvida: pedidos de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o (J)",
+            "category": null
         },
         "635": {
-            "name": "Perd\u00e3o de d\u00edvida: pedidos de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o (RSD)"
+            "code": null,
+            "name": "Perd\u00e3o de d\u00edvida: pedidos de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o (RSD)",
+            "category": null
         },
         "636": {
-            "name": "Reescalonamento de d\u00edvida: pedidos de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o (C)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida: pedidos de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o (C)",
+            "category": null
         },
         "637": {
-            "name": "Reescalonamento de d\u00edvida: pedidos de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o (J)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida: pedidos de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o (J)",
+            "category": null
         },
         "638": {
-            "name": "Reescalonamento de d\u00edvida: pedidos de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o (RSD)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida: pedidos de cr\u00e9ditos \u00e0 exporta\u00e7\u00e3o (RSD)",
+            "category": null
         },
         "639": {
-            "name": "Reescalonamento de d\u00edvida: pedido de cr\u00e9dito \u00e0 exporta\u00e7\u00e3o (RSD \u2013 capital original do empr\u00e9stimo)"
+            "code": null,
+            "name": "Reescalonamento de d\u00edvida: pedido de cr\u00e9dito \u00e0 exporta\u00e7\u00e3o (RSD \u2013 capital original do empr\u00e9stimo)",
+            "category": null
         },
         "710": {
-            "name": "Investimento direto estrangeiro, novo fluxo de sa\u00edda de capital (inclui ganhos reinvestidos se n\u00e3o estiver dispon\u00edvel identifica\u00e7\u00e3o separada)"
+            "code": null,
+            "name": "Investimento direto estrangeiro, novo fluxo de sa\u00edda de capital (inclui ganhos reinvestidos se n\u00e3o estiver dispon\u00edvel identifica\u00e7\u00e3o separada)",
+            "category": null
         },
         "711": {
-            "name": "Outro investimento estrangeiro direto, incluindo ganhos reinvestidos"
+            "code": null,
+            "name": "Outro investimento estrangeiro direto, incluindo ganhos reinvestidos",
+            "category": null
         },
         "712": {
-            "name": "Investimento direto estrangeiro, ganhos reinvestidos"
+            "code": null,
+            "name": "Investimento direto estrangeiro, ganhos reinvestidos",
+            "category": null
         },
         "810": {
-            "name": "Obriga\u00e7\u00f5es banc\u00e1rias"
+            "code": null,
+            "name": "Obriga\u00e7\u00f5es banc\u00e1rias",
+            "category": null
         },
         "811": {
-            "name": "Obriga\u00e7\u00f5es n\u00e3o banc\u00e1rias"
+            "code": null,
+            "name": "Obriga\u00e7\u00f5es n\u00e3o banc\u00e1rias",
+            "category": null
         },
         "910": {
-            "name": "Outros t\u00edtulos/cr\u00e9ditos banc\u00e1rios"
+            "code": null,
+            "name": "Outros t\u00edtulos/cr\u00e9ditos banc\u00e1rios",
+            "category": null
         },
         "911": {
-            "name": "Outros t\u00edtulos/cr\u00e9ditos n\u00e3o banc\u00e1rios"
+            "code": null,
+            "name": "Outros t\u00edtulos/cr\u00e9ditos n\u00e3o banc\u00e1rios",
+            "category": null
         },
         "912": {
-            "name": "Compra de t\u00edtulos a ag\u00eancias emissoras"
+            "code": null,
+            "name": "Compra de t\u00edtulos a ag\u00eancias emissoras",
+            "category": null
         },
         "913": {
-            "name": "T\u00edtulos e outros instrumentos originalmente emitidos por entidades multilaterais"
+            "code": null,
+            "name": "T\u00edtulos e outros instrumentos originalmente emitidos por entidades multilaterais",
+            "category": null
         }
     }
 }

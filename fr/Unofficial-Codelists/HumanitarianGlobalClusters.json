@@ -1,52 +1,83 @@
 {
     "metadata": {
-        "name": "Clusters Humanitaires Mondiaux"
+        "name": "Clusters Humanitaires Mondiaux",
+        "url": null
     },
     "codelist-items": {
         "4": {
-            "name": "Abris d'urgence et NFI"
+            "code": null,
+            "name": "Abris d'urgence et NFI",
+            "url": null
         },
         "1": {
-            "name": "Coordination et gestion des camps"
+            "code": null,
+            "name": "Coordination et gestion des camps",
+            "url": null
         },
         "5406": {
-            "name": "Action contre les mines"
+            "code": null,
+            "name": "Action contre les mines",
+            "url": null
         },
         "6": {
-            "name": "S\u00e9curit\u00e9 alimentaire"
+            "code": null,
+            "name": "S\u00e9curit\u00e9 alimentaire",
+            "url": null
         },
         "11": {
-            "name": "Eau, assainissement et hygi\u00e8ne"
+            "code": null,
+            "name": "Eau, assainissement et hygi\u00e8ne",
+            "url": null
         },
         "8": {
-            "name": "Logistique"
+            "code": null,
+            "name": "Logistique",
+            "url": null
         },
         "5403": {
-            "name": "Protection de l'enfance"
+            "code": null,
+            "name": "Protection de l'enfance",
+            "url": null
         },
         "10": {
-            "name": "Protection"
+            "code": null,
+            "name": "Protection",
+            "url": null
         },
         "3": {
-            "name": "Education"
+            "code": null,
+            "name": "Education",
+            "url": null
         },
         "9": {
-            "name": "Nutrition"
+            "code": null,
+            "name": "Nutrition",
+            "url": null
         },
         "7": {
-            "name": "Sant\u00e9"
+            "code": null,
+            "name": "Sant\u00e9",
+            "url": null
         },
         "2": {
-            "name": "Rel\u00e8vement rapide"
+            "code": null,
+            "name": "Rel\u00e8vement rapide",
+            "url": null
         },
         "5": {
-            "name": "T\u00e9l\u00e9communications d'urgence"
+            "code": null,
+            "name": "T\u00e9l\u00e9communications d'urgence",
+            "url": null
         },
         "5404": {
-            "name": "Violences bas\u00e9es sur le genre"
+            "code": null,
+            "name": "Violences bas\u00e9es sur le genre",
+            "url": null
         },
         "5405": {
-            "name": "Logement, terre, et biens"
+            "code": null,
+            "name": "Logement, terre, et biens",
+            "url": null
         }
     }
 }

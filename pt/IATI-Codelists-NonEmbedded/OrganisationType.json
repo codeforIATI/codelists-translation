@@ -1,52 +1,75 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null
+    },
     "codelist-items": {
         "10": {
+            "code": null,
             "name": "Governo"
         },
         "11": {
-            "name": "Governo local"
+            "code": null,
+            "name": "Governo local",
+            "description": null
         },
         "15": {
+            "code": null,
             "name": "Outro, setor p\u00fablico"
         },
         "21": {
+            "code": null,
             "name": "ONG internacional"
         },
         "22": {
+            "code": null,
             "name": "ONG nacional"
         },
         "23": {
+            "code": null,
             "name": "ONG regional"
         },
         "24": {
-            "name": "ONG sediada em pa\u00eds parceiro"
+            "code": null,
+            "name": "ONG sediada em pa\u00eds parceiro",
+            "description": null
         },
         "30": {
+            "code": null,
             "name": "Parceria p\u00fablico-privada"
         },
         "40": {
+            "code": null,
             "name": "Multilateral"
         },
         "60": {
+            "code": null,
             "name": "Funda\u00e7\u00e3o"
         },
         "70": {
+            "code": null,
             "name": "Setor privado"
         },
         "71": {
-            "name": "Setor privado no pa\u00eds provedor"
+            "code": null,
+            "name": "Setor privado no pa\u00eds provedor",
+            "description": null
         },
         "72": {
-            "name": "Setor privado no pa\u00eds destinat\u00e1rio da ajuda"
+            "code": null,
+            "name": "Setor privado no pa\u00eds destinat\u00e1rio da ajuda",
+            "description": null
         },
         "73": {
-            "name": "Setor privado num pa\u00eds terceiro"
+            "code": null,
+            "name": "Setor privado num pa\u00eds terceiro",
+            "description": null
         },
         "80": {
+            "code": null,
             "name": "Institui\u00e7\u00e3o acad\u00e9mica, de forma\u00e7\u00e3o ou de investiga\u00e7\u00e3o"
         },
         "90": {
+            "code": null,
             "name": "Outros"
         }
     }

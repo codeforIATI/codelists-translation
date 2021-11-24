@@ -1,52 +1,83 @@
 {
     "metadata": {
-        "name": "Humanitarian Global Clusters"
+        "name": "Humanitarian Global Clusters",
+        "url": null
     },
     "codelist-items": {
         "4": {
-            "name": "Emergency Shelter and NFI"
+            "code": null,
+            "name": "Emergency Shelter and NFI",
+            "url": null
         },
         "1": {
-            "name": "Camp Coordination / Management"
+            "code": null,
+            "name": "Camp Coordination / Management",
+            "url": null
         },
         "5406": {
-            "name": "Mine Action"
+            "code": null,
+            "name": "Mine Action",
+            "url": null
         },
         "6": {
-            "name": "Food Security"
+            "code": null,
+            "name": "Food Security",
+            "url": null
         },
         "11": {
-            "name": "Water Sanitation Hygiene"
+            "code": null,
+            "name": "Water Sanitation Hygiene",
+            "url": null
         },
         "8": {
-            "name": "Logistics"
+            "code": null,
+            "name": "Logistics",
+            "url": null
         },
         "5403": {
-            "name": "Child Protection"
+            "code": null,
+            "name": "Child Protection",
+            "url": null
         },
         "10": {
-            "name": "Protection"
+            "code": null,
+            "name": "Protection",
+            "url": null
         },
         "3": {
-            "name": "Education"
+            "code": null,
+            "name": "Education",
+            "url": null
         },
         "9": {
-            "name": "Nutrition"
+            "code": null,
+            "name": "Nutrition",
+            "url": null
         },
         "7": {
-            "name": "Health"
+            "code": null,
+            "name": "Health",
+            "url": null
         },
         "2": {
-            "name": "Early Recovery"
+            "code": null,
+            "name": "Early Recovery",
+            "url": null
         },
         "5": {
-            "name": "Emergency Telecommunications"
+            "code": null,
+            "name": "Emergency Telecommunications",
+            "url": null
         },
         "5404": {
-            "name": "Gender Based Violence"
+            "code": null,
+            "name": "Gender Based Violence",
+            "url": null
         },
         "5405": {
-            "name": "Housing, Land and Property"
+            "code": null,
+            "name": "Housing, Land and Property",
+            "url": null
         }
     }
 }

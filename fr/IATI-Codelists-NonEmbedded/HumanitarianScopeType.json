@@ -5,9 +5,11 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Urgence"
         },
         "2": {
+            "code": null,
             "name": "Appel"
         }
     }

@@ -5,9 +5,11 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Original"
         },
         "2": {
+            "code": null,
             "name": "Revised"
         }
     }

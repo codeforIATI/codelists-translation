@@ -1,11 +1,15 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null
+    },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Original",
             "description": "Le budget initialement affect\u00e9 \u00e0 l'activit\u00e9."
         },
         "2": {
+            "code": null,
             "name": "R\u00e9vis\u00e9",
             "description": "Le budget mis \u00e0 jour pour une activit\u00e9."
         }

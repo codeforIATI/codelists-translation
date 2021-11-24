@@ -1,12 +1,38 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null,
+        "url": null
+    },
     "codelist-items": {
-        "1": {},
-        "2": {},
-        "3": {},
-        "4": {},
-        "6": {},
-        "7": {},
-        "8": {}
+        "1": {
+            "code": null,
+            "name": null
+        },
+        "2": {
+            "code": null,
+            "name": null
+        },
+        "3": {
+            "code": null,
+            "name": null
+        },
+        "4": {
+            "code": null,
+            "name": null
+        },
+        "6": {
+            "code": null,
+            "name": null
+        },
+        "7": {
+            "code": null,
+            "name": null
+        },
+        "8": {
+            "code": null,
+            "name": null,
+            "description": null
+        }
     }
 }

@@ -5,18 +5,22 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Remboursements en tranches \u00e9gales du principal",
             "description": "Tel que requis et d\u00e9fini dans le gabarit CRS++ colonne 44"
         },
         "2": {
+            "code": null,
             "name": "Rente",
             "description": "Tel que requis et d\u00e9fini dans le gabarit CRS++ colonne 44"
         },
         "3": {
+            "code": null,
             "name": "Montant forfaitaire",
             "description": "Tel que requis et d\u00e9fini dans le gabarit CRS++ colonne 44"
         },
         "5": {
+            "code": null,
             "name": "Autre",
             "description": "Tel que requis et d\u00e9fini dans le gabarit CRS++ colonne 44"
         }

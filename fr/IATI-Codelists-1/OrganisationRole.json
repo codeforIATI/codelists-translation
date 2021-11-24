@@ -1,17 +1,28 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null
+    },
     "codelist-items": {
         "Accountable": {
-            "name": "Responsabilit\u00e9"
+            "code": null,
+            "name": "Responsabilit\u00e9",
+            "description": null
         },
         "Extending": {
-            "name": "Octroi"
+            "code": null,
+            "name": "Octroi",
+            "description": null
         },
         "Funding": {
-            "name": "Financement"
+            "code": null,
+            "name": "Financement",
+            "description": null
         },
         "Implementing": {
-            "name": "Mise en \u0153uvre"
+            "code": null,
+            "name": "Mise en \u0153uvre",
+            "description": null
         }
     }
 }

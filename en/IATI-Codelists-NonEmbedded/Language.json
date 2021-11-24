@@ -1,558 +1,743 @@
 {
     "metadata": {
-        "name": "Language"
+        "name": "Language",
+        "url": null
     },
     "codelist-items": {
         "aa": {
+            "code": null,
             "name": "Afar"
         },
         "ab": {
+            "code": null,
             "name": "Abkhazian"
         },
         "ae": {
+            "code": null,
             "name": "Avestan"
         },
         "af": {
+            "code": null,
             "name": "Afrikaans"
         },
         "ak": {
+            "code": null,
             "name": "Akan"
         },
         "am": {
+            "code": null,
             "name": "Amharic"
         },
         "an": {
+            "code": null,
             "name": "Aragonese"
         },
         "ar": {
+            "code": null,
             "name": "Arabic"
         },
         "as": {
+            "code": null,
             "name": "Assamese"
         },
         "av": {
+            "code": null,
             "name": "Avaric"
         },
         "ay": {
+            "code": null,
             "name": "Aymara"
         },
         "az": {
+            "code": null,
             "name": "Azerbaijani"
         },
         "ba": {
+            "code": null,
             "name": "Bashkir"
         },
         "be": {
+            "code": null,
             "name": "Belarusian"
         },
         "bg": {
+            "code": null,
             "name": "Bulgarian"
         },
         "bh": {
+            "code": null,
             "name": "Bihari languages"
         },
         "bi": {
+            "code": null,
             "name": "Bislama"
         },
         "bm": {
+            "code": null,
             "name": "Bambara"
         },
         "bn": {
+            "code": null,
             "name": "Bengali"
         },
         "bo": {
+            "code": null,
             "name": "Tibetan"
         },
         "br": {
+            "code": null,
             "name": "Breton"
         },
         "bs": {
+            "code": null,
             "name": "Bosnian"
         },
         "ca": {
+            "code": null,
             "name": "Catalan; Valencian"
         },
         "ce": {
+            "code": null,
             "name": "Chechen"
         },
         "ch": {
+            "code": null,
             "name": "Chamorro"
         },
         "co": {
+            "code": null,
             "name": "Corsican"
         },
         "cr": {
+            "code": null,
             "name": "Cree"
         },
         "cs": {
+            "code": null,
             "name": "Czech"
         },
         "cu": {
+            "code": null,
             "name": "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic"
         },
         "cv": {
+            "code": null,
             "name": "Chuvash"
         },
         "cy": {
+            "code": null,
             "name": "Welsh"
         },
         "da": {
+            "code": null,
             "name": "Danish"
         },
         "de": {
+            "code": null,
             "name": "German"
         },
         "dv": {
+            "code": null,
             "name": "Divehi; Dhivehi; Maldivian"
         },
         "dz": {
+            "code": null,
             "name": "Dzongkha"
         },
         "ee": {
+            "code": null,
             "name": "Ewe"
         },
         "el": {
+            "code": null,
             "name": "Greek, Modern (1453-)"
         },
         "en": {
+            "code": null,
             "name": "English"
         },
         "eo": {
+            "code": null,
             "name": "Esperanto"
         },
         "es": {
+            "code": null,
             "name": "Spanish; Castilian"
         },
         "et": {
+            "code": null,
             "name": "Estonian"
         },
         "eu": {
+            "code": null,
             "name": "Basque"
         },
         "fa": {
+            "code": null,
             "name": "Persian"
         },
         "ff": {
+            "code": null,
             "name": "Fulah"
         },
         "fi": {
+            "code": null,
             "name": "Finnish"
         },
         "fj": {
+            "code": null,
             "name": "Fijian"
         },
         "fo": {
+            "code": null,
             "name": "Faroese"
         },
         "fr": {
+            "code": null,
             "name": "French"
         },
         "fy": {
+            "code": null,
             "name": "Western Frisian"
         },
         "ga": {
+            "code": null,
             "name": "Irish"
         },
         "gd": {
+            "code": null,
             "name": "Gaelic; Scottish Gaelic"
         },
         "gl": {
+            "code": null,
             "name": "Galician"
         },
         "gn": {
+            "code": null,
             "name": "Guarani"
         },
         "gu": {
+            "code": null,
             "name": "Gujarati"
         },
         "gv": {
+            "code": null,
             "name": "Manx"
         },
         "ha": {
+            "code": null,
             "name": "Hausa"
         },
         "he": {
+            "code": null,
             "name": "Hebrew"
         },
         "hi": {
+            "code": null,
             "name": "Hindi"
         },
         "ho": {
+            "code": null,
             "name": "Hiri Motu"
         },
         "hr": {
+            "code": null,
             "name": "Croatian"
         },
         "ht": {
+            "code": null,
             "name": "Haitian; Haitian Creole"
         },
         "hu": {
+            "code": null,
             "name": "Hungarian"
         },
         "hy": {
+            "code": null,
             "name": "Armenian"
         },
         "hz": {
+            "code": null,
             "name": "Herero"
         },
         "ia": {
+            "code": null,
             "name": "Interlingua (International Auxiliary Language Association)"
         },
         "id": {
+            "code": null,
             "name": "Indonesian"
         },
         "ie": {
+            "code": null,
             "name": "Interlingue; Occidental"
         },
         "ig": {
+            "code": null,
             "name": "Igbo"
         },
         "ii": {
+            "code": null,
             "name": "Sichuan Yi; Nuosu"
         },
         "ik": {
+            "code": null,
             "name": "Inupiaq"
         },
         "io": {
+            "code": null,
             "name": "Ido"
         },
         "is": {
+            "code": null,
             "name": "Icelandic"
         },
         "it": {
+            "code": null,
             "name": "Italian"
         },
         "iu": {
+            "code": null,
             "name": "Inuktitut"
         },
         "ja": {
+            "code": null,
             "name": "Japanese"
         },
         "jv": {
+            "code": null,
             "name": "Javanese"
         },
         "ka": {
+            "code": null,
             "name": "Georgian"
         },
         "kg": {
+            "code": null,
             "name": "Kongo"
         },
         "ki": {
+            "code": null,
             "name": "Kikuyu; Gikuyu"
         },
         "kj": {
+            "code": null,
             "name": "Kuanyama; Kwanyama"
         },
         "kk": {
+            "code": null,
             "name": "Kazakh"
         },
         "kl": {
+            "code": null,
             "name": "Kalaallisut; Greenlandic"
         },
         "km": {
+            "code": null,
             "name": "Central Khmer"
         },
         "kn": {
+            "code": null,
             "name": "Kannada"
         },
         "ko": {
+            "code": null,
             "name": "Korean"
         },
         "kr": {
+            "code": null,
             "name": "Kanuri"
         },
         "ks": {
+            "code": null,
             "name": "Kashmiri"
         },
         "ku": {
+            "code": null,
             "name": "Kurdish"
         },
         "kv": {
+            "code": null,
             "name": "Komi"
         },
         "kw": {
+            "code": null,
             "name": "Cornish"
         },
         "ky": {
+            "code": null,
             "name": "Kirghiz; Kyrgyz"
         },
         "la": {
+            "code": null,
             "name": "Latin"
         },
         "lb": {
+            "code": null,
             "name": "Luxembourgish; Letzeburgesch"
         },
         "lg": {
+            "code": null,
             "name": "Ganda"
         },
         "li": {
+            "code": null,
             "name": "Limburgan; Limburger; Limburgish"
         },
         "ln": {
+            "code": null,
             "name": "Lingala"
         },
         "lo": {
+            "code": null,
             "name": "Lao"
         },
         "lt": {
+            "code": null,
             "name": "Lithuanian"
         },
         "lu": {
+            "code": null,
             "name": "Luba-Katanga"
         },
         "lv": {
+            "code": null,
             "name": "Latvian"
         },
         "mg": {
+            "code": null,
             "name": "Malagasy"
         },
         "mh": {
+            "code": null,
             "name": "Marshallese"
         },
         "mi": {
+            "code": null,
             "name": "Maori"
         },
         "mk": {
+            "code": null,
             "name": "Macedonian"
         },
         "ml": {
+            "code": null,
             "name": "Malayalam"
         },
         "mn": {
+            "code": null,
             "name": "Mongolian"
         },
         "mr": {
+            "code": null,
             "name": "Marathi"
         },
         "ms": {
+            "code": null,
             "name": "Malay"
         },
         "mt": {
+            "code": null,
             "name": "Maltese"
         },
         "my": {
+            "code": null,
             "name": "Burmese"
         },
         "na": {
+            "code": null,
             "name": "Nauru"
         },
         "nb": {
+            "code": null,
             "name": "Bokm\u00e5l, Norwegian; Norwegian Bokm\u00e5l"
         },
         "nd": {
+            "code": null,
             "name": "Ndebele, North; North Ndebele"
         },
         "ne": {
+            "code": null,
             "name": "Nepali"
         },
         "ng": {
+            "code": null,
             "name": "Ndonga"
         },
         "nl": {
+            "code": null,
             "name": "Dutch; Flemish"
         },
         "nn": {
+            "code": null,
             "name": "Norwegian Nynorsk; Nynorsk, Norwegian"
         },
         "no": {
+            "code": null,
             "name": "Norwegian"
         },
         "nr": {
+            "code": null,
             "name": "Ndebele, South; South Ndebele"
         },
         "nv": {
+            "code": null,
             "name": "Navajo; Navaho"
         },
         "ny": {
+            "code": null,
             "name": "Chichewa; Chewa; Nyanja"
         },
         "oc": {
+            "code": null,
             "name": "Occitan (post 1500); Proven\u00e7al"
         },
         "oj": {
+            "code": null,
             "name": "Ojibwa"
         },
         "om": {
+            "code": null,
             "name": "Oromo"
         },
         "or": {
+            "code": null,
             "name": "Oriya"
         },
         "os": {
+            "code": null,
             "name": "Ossetian; Ossetic"
         },
         "pa": {
+            "code": null,
             "name": "Panjabi; Punjabi"
         },
         "pi": {
+            "code": null,
             "name": "Pali"
         },
         "pl": {
+            "code": null,
             "name": "Polish"
         },
         "ps": {
+            "code": null,
             "name": "Pushto; Pashto"
         },
         "pt": {
+            "code": null,
             "name": "Portuguese"
         },
         "qu": {
+            "code": null,
             "name": "Quechua"
         },
         "rm": {
+            "code": null,
             "name": "Romansh"
         },
         "rn": {
+            "code": null,
             "name": "Rundi"
         },
         "ro": {
+            "code": null,
             "name": "Romanian; Moldavian; Moldovan"
         },
         "ru": {
+            "code": null,
             "name": "Russian"
         },
         "rw": {
+            "code": null,
             "name": "Kinyarwanda"
         },
         "sa": {
+            "code": null,
             "name": "Sanskrit"
         },
         "sc": {
+            "code": null,
             "name": "Sardinian"
         },
         "sd": {
+            "code": null,
             "name": "Sindhi"
         },
         "se": {
+            "code": null,
             "name": "Northern Sami"
         },
         "sg": {
+            "code": null,
             "name": "Sango"
         },
         "si": {
+            "code": null,
             "name": "Sinhala; Sinhalese"
         },
         "sk": {
+            "code": null,
             "name": "Slovak"
         },
         "sl": {
+            "code": null,
             "name": "Slovenian"
         },
         "sm": {
+            "code": null,
             "name": "Samoan"
         },
         "sn": {
+            "code": null,
             "name": "Shona"
         },
         "so": {
+            "code": null,
             "name": "Somali"
         },
         "sq": {
+            "code": null,
             "name": "Albanian"
         },
         "sr": {
+            "code": null,
             "name": "Serbian"
         },
         "ss": {
+            "code": null,
             "name": "Swati"
         },
         "st": {
+            "code": null,
             "name": "Sotho, Southern"
         },
         "su": {
+            "code": null,
             "name": "Sundanese"
         },
         "sv": {
+            "code": null,
             "name": "Swedish"
         },
         "sw": {
+            "code": null,
             "name": "Swahili"
         },
         "ta": {
+            "code": null,
             "name": "Tamil"
         },
         "te": {
+            "code": null,
             "name": "Telugu"
         },
         "tg": {
+            "code": null,
             "name": "Tajik"
         },
         "th": {
+            "code": null,
             "name": "Thai"
         },
         "ti": {
+            "code": null,
             "name": "Tigrinya"
         },
         "tk": {
+            "code": null,
             "name": "Turkmen"
         },
         "tl": {
+            "code": null,
             "name": "Tagalog"
         },
         "tn": {
+            "code": null,
             "name": "Tswana"
         },
         "to": {
+            "code": null,
             "name": "Tonga (Tonga Islands)"
         },
         "tr": {
+            "code": null,
             "name": "Turkish"
         },
         "ts": {
+            "code": null,
             "name": "Tsonga"
         },
         "tt": {
+            "code": null,
             "name": "Tatar"
         },
         "tw": {
+            "code": null,
             "name": "Twi"
         },
         "ty": {
+            "code": null,
             "name": "Tahitian"
         },
         "ug": {
+            "code": null,
             "name": "Uighur; Uyghur"
         },
         "uk": {
+            "code": null,
             "name": "Ukrainian"
         },
         "ur": {
+            "code": null,
             "name": "Urdu"
         },
         "uz": {
+            "code": null,
             "name": "Uzbek"
         },
         "ve": {
+            "code": null,
             "name": "Venda"
         },
         "vi": {
+            "code": null,
             "name": "Vietnamese"
         },
         "vo": {
+            "code": null,
             "name": "Volap\u00fck"
         },
         "wa": {
+            "code": null,
             "name": "Walloon"
         },
         "wo": {
+            "code": null,
             "name": "Wolof"
         },
         "xh": {
+            "code": null,
             "name": "Xhosa"
         },
         "yi": {
+            "code": null,
             "name": "Yiddish"
         },
         "yo": {
+            "code": null,
             "name": "Yoruba"
         },
         "za": {
+            "code": null,
             "name": "Zhuang; Chuang"
         },
         "zh": {
+            "code": null,
             "name": "Chinese"
         },
         "zu": {
+            "code": null,
             "name": "Zulu"
         }
     }

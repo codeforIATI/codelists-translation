@@ -4,12 +4,33 @@
         "description": "Cette liste de codes sert \u00e0 grouper la liste de codes Identification budg\u00e9taire en cat\u00e9gories. Elle n'est pas utilis\u00e9e comme liste de codes en elle-m\u00eame."
     },
     "codelist-items": {
-        "1": {},
-        "2": {},
-        "3": {},
-        "4": {},
-        "5": {},
-        "6": {},
-        "7": {}
+        "1": {
+            "code": null,
+            "name": null
+        },
+        "2": {
+            "code": null,
+            "name": null
+        },
+        "3": {
+            "code": null,
+            "name": null
+        },
+        "4": {
+            "code": null,
+            "name": null
+        },
+        "5": {
+            "code": null,
+            "name": null
+        },
+        "6": {
+            "code": null,
+            "name": null
+        },
+        "7": {
+            "code": null,
+            "name": null
+        }
     }
 }

@@ -1,927 +1,1232 @@
 {
     "metadata": {
         "name": "Currency",
-        "description": "ISO 4217 Currency used for all transactions and budgets"
+        "description": "ISO 4217 Currency used for all transactions and budgets",
+        "url": null
     },
     "codelist-items": {
         "ADP": {
+            "code": null,
             "name": "Andorran Peseta"
         },
         "AED": {
+            "code": null,
             "name": "UAE Dirham"
         },
         "AFA": {
+            "code": null,
             "name": "Afghani"
         },
         "AFN": {
+            "code": null,
             "name": "Afghani"
         },
         "ALK": {
+            "code": null,
             "name": "Old Lek"
         },
         "ALL": {
+            "code": null,
             "name": "Lek"
         },
         "AMD": {
+            "code": null,
             "name": "Armenian Dram"
         },
         "ANG": {
+            "code": null,
             "name": "Netherlands Antillean Guilder"
         },
         "AOA": {
+            "code": null,
             "name": "Kwanza"
         },
         "AOK": {
+            "code": null,
             "name": "Kwanza"
         },
         "AON": {
+            "code": null,
             "name": "New Kwanza"
         },
         "AOR": {
+            "code": null,
             "name": "Kwanza Reajustado"
         },
         "ARA": {
+            "code": null,
             "name": "Austral"
         },
         "ARP": {
+            "code": null,
             "name": "Peso Argentino"
         },
         "ARS": {
+            "code": null,
             "name": "Argentine Peso"
         },
         "ARY": {
+            "code": null,
             "name": "Peso"
         },
         "ATS": {
+            "code": null,
             "name": "Schilling"
         },
         "AUD": {
+            "code": null,
             "name": "Australian Dollar"
         },
         "AWG": {
+            "code": null,
             "name": "Aruban Florin"
         },
         "AYM": {
+            "code": null,
             "name": "Azerbaijan Manat"
         },
         "AZM": {
+            "code": null,
             "name": "Azerbaijanian Manat"
         },
         "AZN": {
+            "code": null,
             "name": "Azerbaijan Manat"
         },
         "BAD": {
+            "code": null,
             "name": "Dinar"
         },
         "BAM": {
+            "code": null,
             "name": "Convertible Mark"
         },
         "BBD": {
+            "code": null,
             "name": "Barbados Dollar"
         },
         "BDT": {
+            "code": null,
             "name": "Taka"
         },
         "BEC": {
+            "code": null,
             "name": "Convertible Franc"
         },
         "BEF": {
+            "code": null,
             "name": "Belgian Franc"
         },
         "BEL": {
+            "code": null,
             "name": "Financial Franc"
         },
         "BGJ": {
+            "code": null,
             "name": "Lev A/52"
         },
         "BGK": {
+            "code": null,
             "name": "Lev A/62"
         },
         "BGL": {
+            "code": null,
             "name": "Lev"
         },
         "BGN": {
+            "code": null,
             "name": "Bulgarian Lev"
         },
         "BHD": {
+            "code": null,
             "name": "Bahraini Dinar"
         },
         "BIF": {
+            "code": null,
             "name": "Burundi Franc"
         },
         "BMD": {
+            "code": null,
             "name": "Bermudian Dollar"
         },
         "BND": {
+            "code": null,
             "name": "Brunei Dollar"
         },
         "BOB": {
+            "code": null,
             "name": "Boliviano"
         },
         "BOP": {
+            "code": null,
             "name": "Peso boliviano"
         },
         "BOV": {
+            "code": null,
             "name": "Mvdol"
         },
         "BRB": {
+            "code": null,
             "name": "Cruzeiro"
         },
         "BRC": {
+            "code": null,
             "name": "Cruzado"
         },
         "BRE": {
+            "code": null,
             "name": "Cruzeiro"
         },
         "BRL": {
+            "code": null,
             "name": "Brazilian Real"
         },
         "BRN": {
+            "code": null,
             "name": "New Cruzado"
         },
         "BRR": {
+            "code": null,
             "name": "Cruzeiro Real"
         },
         "BSD": {
+            "code": null,
             "name": "Bahamian Dollar"
         },
         "BTN": {
+            "code": null,
             "name": "Ngultrum"
         },
         "BUK": {
+            "code": null,
             "name": "Kyat"
         },
         "BWP": {
+            "code": null,
             "name": "Pula"
         },
         "BYB": {
+            "code": null,
             "name": "Belarusian Ruble"
         },
         "BYN": {
+            "code": null,
             "name": "Belarusian Ruble"
         },
         "BYR": {
+            "code": null,
             "name": "Belarusian Ruble",
             "description": "Withdrawn from ISO Currency codelist. Use code BYN."
         },
         "BZD": {
+            "code": null,
             "name": "Belize Dollar"
         },
         "CAD": {
+            "code": null,
             "name": "Canadian Dollar"
         },
         "CDF": {
+            "code": null,
             "name": "Congolese Franc"
         },
         "CHC": {
+            "code": null,
             "name": "WIR Franc (for electronic)"
         },
         "CHE": {
+            "code": null,
             "name": "WIR Euro"
         },
         "CHF": {
+            "code": null,
             "name": "Swiss Franc"
         },
         "CHW": {
+            "code": null,
             "name": "WIR Franc"
         },
         "CLF": {
+            "code": null,
             "name": "Unidad de Fomento"
         },
         "CLP": {
+            "code": null,
             "name": "Chilean Peso"
         },
         "CNY": {
+            "code": null,
             "name": "Yuan Renminbi"
         },
         "COP": {
+            "code": null,
             "name": "Colombian Peso"
         },
         "COU": {
+            "code": null,
             "name": "Unidad de Valor Real"
         },
         "CRC": {
+            "code": null,
             "name": "Costa Rican Colon"
         },
         "CSD": {
+            "code": null,
             "name": "Serbian Dinar"
         },
         "CSJ": {
+            "code": null,
             "name": "Krona A/53"
         },
         "CSK": {
+            "code": null,
             "name": "Koruna"
         },
         "CUC": {
+            "code": null,
             "name": "Peso Convertible"
         },
         "CUP": {
+            "code": null,
             "name": "Cuban Peso"
         },
         "CVE": {
+            "code": null,
             "name": "Cabo Verde Escudo"
         },
         "CYP": {
+            "code": null,
             "name": "Cyprus Pound"
         },
         "CZK": {
+            "code": null,
             "name": "Czech Koruna"
         },
         "DDM": {
+            "code": null,
             "name": "Mark der DDR"
         },
         "DEM": {
+            "code": null,
             "name": "Deutsche Mark"
         },
         "DJF": {
+            "code": null,
             "name": "Djibouti Franc"
         },
         "DKK": {
+            "code": null,
             "name": "Danish Krone"
         },
         "DOP": {
+            "code": null,
             "name": "Dominican Peso"
         },
         "DZD": {
+            "code": null,
             "name": "Algerian Dinar"
         },
         "ECS": {
+            "code": null,
             "name": "Sucre"
         },
         "ECV": {
+            "code": null,
             "name": "Unidad de Valor Constante (UVC)"
         },
         "EEK": {
+            "code": null,
             "name": "Kroon",
             "description": "Withdrawn from ISO Currency codelist"
         },
         "EGP": {
+            "code": null,
             "name": "Egyptian Pound"
         },
         "ERN": {
+            "code": null,
             "name": "Nakfa"
         },
         "ESA": {
+            "code": null,
             "name": "Spanish Peseta"
         },
         "ESB": {
+            "code": null,
             "name": "\"A\" Account (convertible Peseta Account)"
         },
         "ESP": {
+            "code": null,
             "name": "Spanish Peseta"
         },
         "ETB": {
+            "code": null,
             "name": "Ethiopian Birr"
         },
         "EUR": {
+            "code": null,
             "name": "Euro"
         },
         "FIM": {
+            "code": null,
             "name": "Markka"
         },
         "FJD": {
+            "code": null,
             "name": "Fiji Dollar"
         },
         "FKP": {
+            "code": null,
             "name": "Falkland Islands Pound"
         },
         "FRF": {
+            "code": null,
             "name": "French Franc"
         },
         "GBP": {
+            "code": null,
             "name": "Pound Sterling"
         },
         "GEK": {
+            "code": null,
             "name": "Georgian Coupon"
         },
         "GEL": {
+            "code": null,
             "name": "Lari"
         },
         "GHC": {
+            "code": null,
             "name": "Cedi"
         },
         "GHP": {
+            "code": null,
             "name": "Ghana Cedi"
         },
         "GHS": {
+            "code": null,
             "name": "Ghana Cedi"
         },
         "GIP": {
+            "code": null,
             "name": "Gibraltar Pound"
         },
         "GMD": {
+            "code": null,
             "name": "Dalasi"
         },
         "GNE": {
+            "code": null,
             "name": "Syli"
         },
         "GNF": {
+            "code": null,
             "name": "Guinean Franc"
         },
         "GNS": {
+            "code": null,
             "name": "Syli"
         },
         "GQE": {
+            "code": null,
             "name": "Ekwele"
         },
         "GRD": {
+            "code": null,
             "name": "Drachma"
         },
         "GTQ": {
+            "code": null,
             "name": "Quetzal"
         },
         "GWE": {
+            "code": null,
             "name": "Guinea Escudo"
         },
         "GWP": {
+            "code": null,
             "name": "Guinea-Bissau Peso"
         },
         "GYD": {
+            "code": null,
             "name": "Guyana Dollar"
         },
         "HKD": {
+            "code": null,
             "name": "Hong Kong Dollar"
         },
         "HNL": {
+            "code": null,
             "name": "Lempira"
         },
         "HRD": {
+            "code": null,
             "name": "Croatian Dinar"
         },
         "HRK": {
+            "code": null,
             "name": "Kuna"
         },
         "HTG": {
+            "code": null,
             "name": "Gourde"
         },
         "HUF": {
+            "code": null,
             "name": "Forint"
         },
         "IDR": {
+            "code": null,
             "name": "Rupiah"
         },
         "IEP": {
+            "code": null,
             "name": "Irish Pound"
         },
         "ILP": {
+            "code": null,
             "name": "Pound"
         },
         "ILR": {
+            "code": null,
             "name": "Old Shekel"
         },
         "ILS": {
+            "code": null,
             "name": "New Israeli Sheqel"
         },
         "INR": {
+            "code": null,
             "name": "Indian Rupee"
         },
         "IQD": {
+            "code": null,
             "name": "Iraqi Dinar"
         },
         "IRR": {
+            "code": null,
             "name": "Iranian Rial"
         },
         "ISJ": {
+            "code": null,
             "name": "Old Krona"
         },
         "ISK": {
+            "code": null,
             "name": "Iceland Krona"
         },
         "ITL": {
+            "code": null,
             "name": "Italian Lira"
         },
         "JMD": {
+            "code": null,
             "name": "Jamaican Dollar"
         },
         "JOD": {
+            "code": null,
             "name": "Jordanian Dinar"
         },
         "JPY": {
+            "code": null,
             "name": "Yen"
         },
         "KES": {
+            "code": null,
             "name": "Kenyan Shilling"
         },
         "KGS": {
+            "code": null,
             "name": "Som"
         },
         "KHR": {
+            "code": null,
             "name": "Riel"
         },
         "KMF": {
+            "code": null,
             "name": "Comorian Franc "
         },
         "KPW": {
+            "code": null,
             "name": "North Korean Won"
         },
         "KRW": {
+            "code": null,
             "name": "Won"
         },
         "KWD": {
+            "code": null,
             "name": "Kuwaiti Dinar"
         },
         "KYD": {
+            "code": null,
             "name": "Cayman Islands Dollar"
         },
         "KZT": {
+            "code": null,
             "name": "Tenge"
         },
         "LAJ": {
+            "code": null,
             "name": "Pathet Lao Kip"
         },
         "LAK": {
+            "code": null,
             "name": "Lao Kip"
         },
         "LBP": {
+            "code": null,
             "name": "Lebanese Pound"
         },
         "LKR": {
+            "code": null,
             "name": "Sri Lanka Rupee"
         },
         "LRD": {
+            "code": null,
             "name": "Liberian Dollar"
         },
         "LSL": {
+            "code": null,
             "name": "Loti"
         },
         "LSM": {
+            "code": null,
             "name": "Loti"
         },
         "LTL": {
+            "code": null,
             "name": "Lithuanian Litas",
             "description": "Withdrawn from ISO Currency codelist"
         },
         "LTT": {
+            "code": null,
             "name": "Talonas"
         },
         "LUC": {
+            "code": null,
             "name": "Luxembourg Convertible Franc"
         },
         "LUF": {
+            "code": null,
             "name": "Luxembourg Franc"
         },
         "LUL": {
+            "code": null,
             "name": "Luxembourg Financial Franc"
         },
         "LVL": {
+            "code": null,
             "name": "Latvian Lats",
             "description": "Withdrawn from ISO Currency codelist"
         },
         "LVR": {
+            "code": null,
             "name": "Latvian Ruble"
         },
         "LYD": {
+            "code": null,
             "name": "Libyan Dinar"
         },
         "MAD": {
+            "code": null,
             "name": "Moroccan Dirham"
         },
         "MDL": {
+            "code": null,
             "name": "Moldovan Leu"
         },
         "MGA": {
+            "code": null,
             "name": "Malagasy Ariary"
         },
         "MGF": {
+            "code": null,
             "name": "Malagasy Franc"
         },
         "MKD": {
+            "code": null,
             "name": "Denar"
         },
         "MLF": {
+            "code": null,
             "name": "Mali Franc"
         },
         "MMK": {
+            "code": null,
             "name": "Kyat"
         },
         "MNT": {
+            "code": null,
             "name": "Tugrik"
         },
         "MOP": {
+            "code": null,
             "name": "Pataca"
         },
         "MRO": {
+            "code": null,
             "name": "Ouguiya",
             "description": "Withdrawn from ISO Currency codelist. Use code MRU."
         },
         "MRU": {
+            "code": null,
             "name": "Ouguiya"
         },
         "MTL": {
+            "code": null,
             "name": "Maltese Lira"
         },
         "MTP": {
+            "code": null,
             "name": "Maltese Pound"
         },
         "MUR": {
+            "code": null,
             "name": "Mauritius Rupee"
         },
         "MVQ": {
+            "code": null,
             "name": "Maldive Rupee"
         },
         "MVR": {
+            "code": null,
             "name": "Rufiyaa"
         },
         "MWK": {
+            "code": null,
             "name": "Malawi Kwacha"
         },
         "MXN": {
+            "code": null,
             "name": "Mexican Peso"
         },
         "MXP": {
+            "code": null,
             "name": "Mexican Peso"
         },
         "MXV": {
+            "code": null,
             "name": "Mexican Unidad de Inversion (UDI)"
         },
         "MYR": {
+            "code": null,
             "name": "Malaysian Ringgit"
         },
         "MZE": {
+            "code": null,
             "name": "Mozambique Escudo"
         },
         "MZM": {
+            "code": null,
             "name": "Mozambique Metical"
         },
         "MZN": {
+            "code": null,
             "name": "Mozambique Metical"
         },
         "NAD": {
+            "code": null,
             "name": "Namibia Dollar"
         },
         "NGN": {
+            "code": null,
             "name": "Naira"
         },
         "NIC": {
+            "code": null,
             "name": "Cordoba"
         },
         "NIO": {
+            "code": null,
             "name": "Cordoba Oro"
         },
         "NLG": {
+            "code": null,
             "name": "Netherlands Guilder"
         },
         "NOK": {
+            "code": null,
             "name": "Norwegian Krone"
         },
         "NPR": {
+            "code": null,
             "name": "Nepalese Rupee"
         },
         "NZD": {
+            "code": null,
             "name": "New Zealand Dollar"
         },
         "OMR": {
+            "code": null,
             "name": "Rial Omani"
         },
         "PAB": {
+            "code": null,
             "name": "Balboa"
         },
         "PEH": {
+            "code": null,
             "name": "Sol"
         },
         "PEI": {
+            "code": null,
             "name": "Inti"
         },
         "PEN": {
+            "code": null,
             "name": "Sol"
         },
         "PES": {
+            "code": null,
             "name": "Sol"
         },
         "PGK": {
+            "code": null,
             "name": "Kina"
         },
         "PHP": {
+            "code": null,
             "name": "Philippine Peso"
         },
         "PKR": {
+            "code": null,
             "name": "Pakistan Rupee"
         },
         "PLN": {
+            "code": null,
             "name": "Zloty"
         },
         "PLZ": {
+            "code": null,
             "name": "Zloty"
         },
         "PTE": {
+            "code": null,
             "name": "Portuguese Escudo"
         },
         "PYG": {
+            "code": null,
             "name": "Guarani"
         },
         "QAR": {
+            "code": null,
             "name": "Qatari Rial"
         },
         "RHD": {
+            "code": null,
             "name": "Rhodesian Dollar"
         },
         "ROK": {
+            "code": null,
             "name": "Leu A/52"
         },
         "ROL": {
+            "code": null,
             "name": "Old Leu"
         },
         "RON": {
+            "code": null,
             "name": "Romanian Leu"
         },
         "RSD": {
+            "code": null,
             "name": "Serbian Dinar"
         },
         "RUB": {
+            "code": null,
             "name": "Russian Ruble"
         },
         "RUR": {
+            "code": null,
             "name": "Russian Ruble"
         },
         "RWF": {
+            "code": null,
             "name": "Rwanda Franc"
         },
         "SAR": {
+            "code": null,
             "name": "Saudi Riyal"
         },
         "SBD": {
+            "code": null,
             "name": "Solomon Islands Dollar"
         },
         "SCR": {
+            "code": null,
             "name": "Seychelles Rupee"
         },
         "SDD": {
+            "code": null,
             "name": "Sudanese Dinar"
         },
         "SDG": {
+            "code": null,
             "name": "Sudanese Pound"
         },
         "SDP": {
+            "code": null,
             "name": "Sudanese Pound"
         },
         "SEK": {
+            "code": null,
             "name": "Swedish Krona"
         },
         "SGD": {
+            "code": null,
             "name": "Singapore Dollar"
         },
         "SHP": {
+            "code": null,
             "name": "Saint Helena Pound"
         },
         "SIT": {
+            "code": null,
             "name": "Tolar"
         },
         "SKK": {
+            "code": null,
             "name": "Slovak Koruna"
         },
         "SLL": {
+            "code": null,
             "name": "Leone"
         },
         "SOS": {
+            "code": null,
             "name": "Somali Shilling"
         },
         "SRD": {
+            "code": null,
             "name": "Surinam Dollar"
         },
         "SRG": {
+            "code": null,
             "name": "Surinam Guilder"
         },
         "SSP": {
+            "code": null,
             "name": "South Sudanese Pound"
         },
         "STD": {
+            "code": null,
             "name": "Dobra",
             "description": "Withdrawn from ISO Currency codelist. Use code STN."
         },
         "STN": {
+            "code": null,
             "name": "Dobra"
         },
         "SUR": {
+            "code": null,
             "name": "Rouble"
         },
         "SVC": {
+            "code": null,
             "name": "El Salvador Colon"
         },
         "SYP": {
+            "code": null,
             "name": "Syrian Pound"
         },
         "SZL": {
+            "code": null,
             "name": "Lilangeni"
         },
         "THB": {
+            "code": null,
             "name": "Baht"
         },
         "TJR": {
+            "code": null,
             "name": "Tajik Ruble"
         },
         "TJS": {
+            "code": null,
             "name": "Somoni"
         },
         "TMM": {
+            "code": null,
             "name": "Turkmenistan Manat"
         },
         "TMT": {
+            "code": null,
             "name": "Turkmenistan New Manat"
         },
         "TND": {
+            "code": null,
             "name": "Tunisian Dinar"
         },
         "TOP": {
+            "code": null,
             "name": "Pa\u2019anga"
         },
         "TPE": {
+            "code": null,
             "name": "Timor Escudo"
         },
         "TRL": {
+            "code": null,
             "name": "Old Turkish Lira"
         },
         "TRY": {
+            "code": null,
             "name": "Turkish Lira"
         },
         "TTD": {
+            "code": null,
             "name": "Trinidad and Tobago Dollar"
         },
         "TWD": {
+            "code": null,
             "name": "New Taiwan Dollar"
         },
         "TZS": {
+            "code": null,
             "name": "Tanzanian Shilling"
         },
         "UAH": {
+            "code": null,
             "name": "Hryvnia"
         },
         "UAK": {
+            "code": null,
             "name": "Karbovanet"
         },
         "UGS": {
+            "code": null,
             "name": "Uganda Shilling"
         },
         "UGW": {
+            "code": null,
             "name": "Old Shilling"
         },
         "UGX": {
+            "code": null,
             "name": "Uganda Shilling"
         },
         "USD": {
+            "code": null,
             "name": "US Dollar"
         },
         "USN": {
+            "code": null,
             "name": "US Dollar (Next day)"
         },
         "USS": {
+            "code": null,
             "name": "US Dollar (Same day)",
             "description": "Withdrawn from ISO Currency codelist."
         },
         "UYI": {
+            "code": null,
             "name": "Uruguay Peso en Unidades Indexadas (UI)"
         },
         "UYN": {
+            "code": null,
             "name": "Old Uruguay Peso"
         },
         "UYP": {
+            "code": null,
             "name": "Uruguayan Peso"
         },
         "UYU": {
+            "code": null,
             "name": "Peso Uruguayo"
         },
         "UYW": {
+            "code": null,
             "name": "Unidad Previsional"
         },
         "UZS": {
+            "code": null,
             "name": "Uzbekistan Sum"
         },
         "VEB": {
+            "code": null,
             "name": "Bolivar"
         },
         "VED": {
+            "code": null,
             "name": "Bol\u00edvar Soberano"
         },
         "VEF": {
+            "code": null,
             "name": "Bol\u00edvar"
         },
         "VES": {
+            "code": null,
             "name": "Bol\u00edvar Soberano"
         },
         "VNC": {
+            "code": null,
             "name": "Old Dong"
         },
         "VND": {
+            "code": null,
             "name": "Dong"
         },
         "VUV": {
+            "code": null,
             "name": "Vatu"
         },
         "WST": {
+            "code": null,
             "name": "Tala"
         },
         "XAF": {
+            "code": null,
             "name": "CFA Franc BEAC"
         },
         "XAG": {
+            "code": null,
             "name": "Silver"
         },
         "XAU": {
+            "code": null,
             "name": "Gold"
         },
         "XBA": {
+            "code": null,
             "name": "Bond Markets Unit European Composite Unit (EURCO)"
         },
         "XBB": {
+            "code": null,
             "name": "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
         },
         "XBC": {
+            "code": null,
             "name": "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"
         },
         "XBD": {
+            "code": null,
             "name": "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)"
         },
         "XBT": {
+            "code": null,
             "name": "Bitcoin"
         },
         "XCD": {
+            "code": null,
             "name": "East Caribbean Dollar"
         },
         "XDR": {
+            "code": null,
             "name": "SDR (Special Drawing Right)"
         },
         "XEU": {
+            "code": null,
             "name": "European Currency Unit (E.C.U)"
         },
         "XFO": {
+            "code": null,
             "name": "Gold-Franc"
         },
         "XFU": {
+            "code": null,
             "name": "UIC-Franc"
         },
         "XOF": {
+            "code": null,
             "name": "CFA Franc BCEAO"
         },
         "XPD": {
+            "code": null,
             "name": "Palladium"
         },
         "XPF": {
+            "code": null,
             "name": "CFP Franc"
         },
         "XPT": {
+            "code": null,
             "name": "Platinum"
         },
         "XRE": {
+            "code": null,
             "name": "RINET Funds Code"
         },
         "XSU": {
+            "code": null,
             "name": "Sucre"
         },
         "XTS": {
+            "code": null,
             "name": "Codes specifically reserved for testing purposes"
         },
         "XUA": {
+            "code": null,
             "name": "ADB Unit of Account"
         },
         "XXX": {
+            "code": null,
             "name": "The codes assigned for transactions where no currency is involved"
         },
         "YDD": {
+            "code": null,
             "name": "Yemeni Dinar"
         },
         "YER": {
+            "code": null,
             "name": "Yemeni Rial"
         },
         "YUD": {
+            "code": null,
             "name": "New Yugoslavian Dinar"
         },
         "YUM": {
+            "code": null,
             "name": "New Dinar"
         },
         "YUN": {
+            "code": null,
             "name": "Yugoslavian Dinar"
         },
         "ZAL": {
+            "code": null,
             "name": "Financial Rand"
         },
         "ZAR": {
+            "code": null,
             "name": "Rand"
         },
         "ZMK": {
+            "code": null,
             "name": "Zambian Kwacha",
             "description": "Withdrawn from ISO Country codelist. Use code ZMW."
         },
         "ZMW": {
+            "code": null,
             "name": "Zambian Kwacha"
         },
         "ZRN": {
+            "code": null,
             "name": "New Zaire"
         },
         "ZRZ": {
+            "code": null,
             "name": "Zaire"
         },
         "ZWC": {
+            "code": null,
             "name": "Rhodesian Dollar"
         },
         "ZWD": {
+            "code": null,
             "name": "Zimbabwe Dollar"
         },
         "ZWL": {
+            "code": null,
             "name": "Zimbabwe Dollar"
         },
         "ZWN": {
+            "code": null,
             "name": "Zimbabwe Dollar (new)"
         },
         "ZWR": {
+            "code": null,
             "name": "Zimbabwe Dollar"
         }
     }

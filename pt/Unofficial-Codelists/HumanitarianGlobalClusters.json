@@ -1,20 +1,83 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "url": null
+    },
     "codelist-items": {
-        "4": {},
-        "1": {},
-        "5406": {},
-        "6": {},
-        "11": {},
-        "8": {},
-        "5403": {},
-        "10": {},
-        "3": {},
-        "9": {},
-        "7": {},
-        "2": {},
-        "5": {},
-        "5404": {},
-        "5405": {}
+        "4": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "1": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "5406": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "6": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "11": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "8": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "5403": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "10": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "3": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "9": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "7": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "2": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "5": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "5404": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "5405": {
+            "code": null,
+            "name": null,
+            "url": null
+        }
     }
 }

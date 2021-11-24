@@ -1,976 +1,1951 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "url": null
+    },
     "codelist-items": {
         "11110": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa da educa\u00e7\u00e3o"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa da educa\u00e7\u00e3o",
+            "description": null,
+            "category": null
         },
         "11120": {
-            "name": "Instala\u00e7\u00f5es de educa\u00e7\u00e3o e forma\u00e7\u00e3o"
+            "code": null,
+            "name": "Instala\u00e7\u00f5es de educa\u00e7\u00e3o e forma\u00e7\u00e3o",
+            "description": null,
+            "category": null
         },
         "11130": {
-            "name": "Forma\u00e7\u00e3o de professores"
+            "code": null,
+            "name": "Forma\u00e7\u00e3o de professores",
+            "description": null,
+            "category": null
         },
         "11182": {
-            "name": "Investiga\u00e7\u00e3o educativa"
+            "code": null,
+            "name": "Investiga\u00e7\u00e3o educativa",
+            "description": null,
+            "category": null
         },
         "11220": {
-            "name": "Ensino prim\u00e1rio"
+            "code": null,
+            "name": "Ensino prim\u00e1rio",
+            "description": null,
+            "category": null
         },
         "11230": {
-            "name": "Compet\u00eancias b\u00e1sicas de vida para adultos"
+            "code": null,
+            "name": "Compet\u00eancias b\u00e1sicas de vida para adultos",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "11231": {
-            "name": "Compet\u00eancias b\u00e1sicas de vida para jovens"
+            "code": null,
+            "name": "Compet\u00eancias b\u00e1sicas de vida para jovens",
+            "description": null,
+            "category": null
         },
         "11232": {
-            "name": "Ensino prim\u00e1rio equivalente para adultos"
+            "code": null,
+            "name": "Ensino prim\u00e1rio equivalente para adultos",
+            "description": null,
+            "category": null
         },
         "11240": {
-            "name": "Educa\u00e7\u00e3o na primeira inf\u00e2ncia"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o na primeira inf\u00e2ncia",
+            "description": null,
+            "category": null
         },
         "11250": {
-            "name": "Alimenta\u00e7\u00e3o escolar"
+            "code": null,
+            "name": "Alimenta\u00e7\u00e3o escolar",
+            "description": null,
+            "category": null
         },
         "11260": {
-            "name": "Primeiro ciclo do ensino secund\u00e1rio"
+            "code": null,
+            "name": "Primeiro ciclo do ensino secund\u00e1rio",
+            "description": null,
+            "category": null
         },
         "11320": {
-            "name": "Segundo ciclo do ensino secund\u00e1rio (modificado e inclui dados do 11322)"
+            "code": null,
+            "name": "Segundo ciclo do ensino secund\u00e1rio (modificado e inclui dados do 11322)",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "11321": {
-            "name": "Primeiro ciclo do ensino secund\u00e1rio"
+            "code": null,
+            "name": "Primeiro ciclo do ensino secund\u00e1rio",
+            "description": null,
+            "category": null
         },
         "11322": {
-            "name": "Segundo ciclo do ensino secund\u00e1rio"
+            "code": null,
+            "name": "Segundo ciclo do ensino secund\u00e1rio",
+            "description": null,
+            "category": null
         },
         "11330": {
-            "name": "Forma\u00e7\u00e3o profissional"
+            "code": null,
+            "name": "Forma\u00e7\u00e3o profissional",
+            "description": null,
+            "category": null
         },
         "11420": {
-            "name": "Ensino superior"
+            "code": null,
+            "name": "Ensino superior",
+            "description": null,
+            "category": null
         },
         "11430": {
-            "name": "Forma\u00e7\u00e3o t\u00e9cnica e de gest\u00e3o avan\u00e7ada"
+            "code": null,
+            "name": "Forma\u00e7\u00e3o t\u00e9cnica e de gest\u00e3o avan\u00e7ada",
+            "description": null,
+            "category": null
         },
         "12110": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa da sa\u00fade"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa da sa\u00fade",
+            "description": null,
+            "category": null
         },
         "12181": {
-            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o m\u00e9dica"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o m\u00e9dica",
+            "description": null,
+            "category": null
         },
         "12182": {
-            "name": "Investiga\u00e7\u00e3o m\u00e9dica"
+            "code": null,
+            "name": "Investiga\u00e7\u00e3o m\u00e9dica",
+            "description": null,
+            "category": null
         },
         "12191": {
-            "name": "Servi\u00e7os m\u00e9dicos"
+            "code": null,
+            "name": "Servi\u00e7os m\u00e9dicos",
+            "description": null,
+            "category": null
         },
-        "12196": {},
+        "12196": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
         "12220": {
-            "name": "Cuidados de sa\u00fade b\u00e1sica"
+            "code": null,
+            "name": "Cuidados de sa\u00fade b\u00e1sica",
+            "description": null,
+            "category": null
         },
         "12230": {
-            "name": "Infraestruturas b\u00e1sicas de sa\u00fade"
+            "code": null,
+            "name": "Infraestruturas b\u00e1sicas de sa\u00fade",
+            "description": null,
+            "category": null
         },
         "12240": {
-            "name": "Nutri\u00e7\u00e3o B\u00e1sica"
+            "code": null,
+            "name": "Nutri\u00e7\u00e3o B\u00e1sica",
+            "description": null,
+            "category": null
         },
         "12250": {
-            "name": "Controle de doen\u00e7as infecciosas"
+            "code": null,
+            "name": "Controle de doen\u00e7as infecciosas",
+            "description": null,
+            "category": null
         },
         "12261": {
-            "name": "Educa\u00e7\u00e3o sanit\u00e1ria"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o sanit\u00e1ria",
+            "description": null,
+            "category": null
         },
         "12262": {
-            "name": "Controle da mal\u00e1ria"
+            "code": null,
+            "name": "Controle da mal\u00e1ria",
+            "description": null,
+            "category": null
         },
         "12263": {
-            "name": "Controle da tuberculose"
+            "code": null,
+            "name": "Controle da tuberculose",
+            "description": null,
+            "category": null
         },
         "12264": {
-            "name": "Controle da COVID-19"
+            "code": null,
+            "name": "Controle da COVID-19",
+            "description": null,
+            "category": null
         },
         "12281": {
-            "name": "Desenvolvimento do pessoal de sa\u00fade"
+            "code": null,
+            "name": "Desenvolvimento do pessoal de sa\u00fade",
+            "description": null,
+            "category": null
         },
         "12310": {
-            "name": "Controle de DNT, geral"
+            "code": null,
+            "name": "Controle de DNT, geral",
+            "description": null,
+            "category": null
         },
         "12320": {
-            "name": "Controle do tabagismo"
+            "code": null,
+            "name": "Controle do tabagismo",
+            "description": null,
+            "category": null
         },
         "12330": {
-            "name": "Investiga\u00e7\u00e3o para preven\u00e7\u00e3o e controle de DNT"
+            "code": null,
+            "name": "Investiga\u00e7\u00e3o para preven\u00e7\u00e3o e controle de DNT",
+            "description": null,
+            "category": null
         },
         "12340": {
-            "name": "Promo\u00e7\u00e3o da sa\u00fade mental e do bem-estar"
+            "code": null,
+            "name": "Promo\u00e7\u00e3o da sa\u00fade mental e do bem-estar",
+            "description": null,
+            "category": null
         },
         "12350": {
-            "name": "Outros meios de preven\u00e7\u00e3o e tratamento de DNT"
+            "code": null,
+            "name": "Outros meios de preven\u00e7\u00e3o e tratamento de DNT",
+            "description": null,
+            "category": null
         },
         "12382": {
-            "name": "Investiga\u00e7\u00e3o para preven\u00e7\u00e3o e controlo de DNT"
+            "code": null,
+            "name": "Investiga\u00e7\u00e3o para preven\u00e7\u00e3o e controlo de DNT",
+            "description": null,
+            "category": null
         },
         "13010": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa da popula\u00e7\u00e3o"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa da popula\u00e7\u00e3o",
+            "description": null,
+            "category": null
         },
         "13020": {
-            "name": "Cuidados de sa\u00fade reprodutiva"
+            "code": null,
+            "name": "Cuidados de sa\u00fade reprodutiva",
+            "description": null,
+            "category": null
         },
         "13030": {
-            "name": "Planejamento familiar"
+            "code": null,
+            "name": "Planejamento familiar",
+            "description": null,
+            "category": null
         },
         "13040": {
-            "name": "Controle de DST, incluindo o HIV/AIDS"
+            "code": null,
+            "name": "Controle de DST, incluindo o HIV/AIDS",
+            "description": null,
+            "category": null
         },
         "13081": {
-            "name": "Desenvolvimento de pessoal para a sa\u00fade reprodutiva e da popula\u00e7\u00e3o"
+            "code": null,
+            "name": "Desenvolvimento de pessoal para a sa\u00fade reprodutiva e da popula\u00e7\u00e3o",
+            "description": null,
+            "category": null
         },
         "13096": {
-            "name": "Estat\u00edsticas e dados populacionais"
+            "code": null,
+            "name": "Estat\u00edsticas e dados populacionais",
+            "description": null,
+            "category": null
         },
         "14010": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa do setor da \u00e1gua"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa do setor da \u00e1gua",
+            "description": null,
+            "category": null
         },
         "14015": {
-            "name": "Conserva\u00e7\u00e3o de recursos h\u00eddricos (incluindo recolha de dados)"
+            "code": null,
+            "name": "Conserva\u00e7\u00e3o de recursos h\u00eddricos (incluindo recolha de dados)",
+            "description": null,
+            "category": null
         },
         "14020": {
-            "name": "Abastecimento de \u00e1gua e saneamento \u2013 sistemas de grande escala"
+            "code": null,
+            "name": "Abastecimento de \u00e1gua e saneamento \u2013 sistemas de grande escala",
+            "description": null,
+            "category": null
         },
         "14021": {
-            "name": "Abastecimento de \u00e1gua \u2013 sistemas de grande escala"
+            "code": null,
+            "name": "Abastecimento de \u00e1gua \u2013 sistemas de grande escala",
+            "description": null,
+            "category": null
         },
         "14022": {
-            "name": "Saneamento \u2013 sistemas de grande escala"
+            "code": null,
+            "name": "Saneamento \u2013 sistemas de grande escala",
+            "description": null,
+            "category": null
         },
         "14030": {
-            "name": "Abastecimento b\u00e1sico de \u00e1gua pot\u00e1vel e saneamento b\u00e1sico"
+            "code": null,
+            "name": "Abastecimento b\u00e1sico de \u00e1gua pot\u00e1vel e saneamento b\u00e1sico",
+            "description": null,
+            "category": null
         },
         "14031": {
-            "name": "Abastecimento b\u00e1sico de \u00e1gua pot\u00e1vel"
+            "code": null,
+            "name": "Abastecimento b\u00e1sico de \u00e1gua pot\u00e1vel",
+            "description": null,
+            "category": null
         },
         "14032": {
-            "name": "Saneamento b\u00e1sico"
+            "code": null,
+            "name": "Saneamento b\u00e1sico",
+            "description": null,
+            "category": null
         },
         "14040": {
-            "name": "Desenvolvimento de bacias fluviais"
+            "code": null,
+            "name": "Desenvolvimento de bacias fluviais",
+            "description": null,
+            "category": null
         },
         "14050": {
-            "name": "Gest\u00e3o/escoamento da \u00e1gua"
+            "code": null,
+            "name": "Gest\u00e3o/escoamento da \u00e1gua",
+            "description": null,
+            "category": null
         },
         "14081": {
-            "name": "Educa\u00e7\u00e3o e forma\u00e7\u00e3o sobre abastecimento de \u00e1gua e saneamento"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o e forma\u00e7\u00e3o sobre abastecimento de \u00e1gua e saneamento",
+            "description": null,
+            "category": null
         },
         "15110": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa do setor p\u00fablico"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa do setor p\u00fablico",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "15111": {
-            "name": "Gest\u00e3o das finan\u00e7as p\u00fablicas (GFP)"
+            "code": null,
+            "name": "Gest\u00e3o das finan\u00e7as p\u00fablicas (GFP)",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "15112": {
-            "name": "Descentraliza\u00e7\u00e3o e apoio \u00e0 administra\u00e7\u00e3o p\u00fablica subnacional"
+            "code": null,
+            "name": "Descentraliza\u00e7\u00e3o e apoio \u00e0 administra\u00e7\u00e3o p\u00fablica subnacional",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "15113": {
-            "name": "Organiza\u00e7\u00f5es e institui\u00e7\u00f5es de combate \u00e0 corrup\u00e7\u00e3o"
+            "code": null,
+            "name": "Organiza\u00e7\u00f5es e institui\u00e7\u00f5es de combate \u00e0 corrup\u00e7\u00e3o",
+            "description": null,
+            "category": null
         },
         "15114": {
-            "name": "Mobiliza\u00e7\u00e3o de receitas nacionais"
+            "code": null,
+            "name": "Mobiliza\u00e7\u00e3o de receitas nacionais",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "15116": {
-            "name": "Cobran\u00e7a de impostos"
+            "code": null,
+            "name": "Cobran\u00e7a de impostos",
+            "description": null,
+            "category": null
         },
         "15117": {
-            "name": "Planejamento or\u00e7amental"
+            "code": null,
+            "name": "Planejamento or\u00e7amental",
+            "description": null,
+            "category": null
         },
         "15118": {
-            "name": "Auditoria nacional"
+            "code": null,
+            "name": "Auditoria nacional",
+            "description": null,
+            "category": null
         },
         "15119": {
-            "name": "Gest\u00e3o da d\u00edvida e da ajuda"
+            "code": null,
+            "name": "Gest\u00e3o da d\u00edvida e da ajuda",
+            "description": null,
+            "category": null
         },
         "15120": {
-            "name": "Gest\u00e3o financeira do setor p\u00fablico"
+            "code": null,
+            "name": "Gest\u00e3o financeira do setor p\u00fablico",
+            "description": null,
+            "category": null
         },
         "15121": {
-            "name": "Neg\u00f3cios estrangeiros"
+            "code": null,
+            "name": "Neg\u00f3cios estrangeiros",
+            "description": null,
+            "category": null
         },
         "15122": {
-            "name": "Miss\u00f5es diplom\u00e1ticas"
+            "code": null,
+            "name": "Miss\u00f5es diplom\u00e1ticas",
+            "description": null,
+            "category": null
         },
         "15123": {
-            "name": "Administra\u00e7\u00e3o da ajuda externa de pa\u00edses em desenvolvimento"
+            "code": null,
+            "name": "Administra\u00e7\u00e3o da ajuda externa de pa\u00edses em desenvolvimento",
+            "description": null,
+            "category": null
         },
         "15124": {
-            "name": "Servi\u00e7os gerais de pessoal"
+            "code": null,
+            "name": "Servi\u00e7os gerais de pessoal",
+            "description": null,
+            "category": null
         },
         "15125": {
-            "name": "Contrata\u00e7\u00e3o p\u00fablica"
+            "code": null,
+            "name": "Contrata\u00e7\u00e3o p\u00fablica",
+            "description": null,
+            "category": null
         },
         "15126": {
-            "name": "Outros servi\u00e7os p\u00fablicos gerais"
+            "code": null,
+            "name": "Outros servi\u00e7os p\u00fablicos gerais",
+            "description": null,
+            "category": null
         },
         "15127": {
-            "name": "Monitoriza\u00e7\u00e3o e avalia\u00e7\u00e3o nacionais"
+            "code": null,
+            "name": "Monitoriza\u00e7\u00e3o e avalia\u00e7\u00e3o nacionais",
+            "description": null,
+            "category": null
         },
         "15128": {
-            "name": "Financiamento da administra\u00e7\u00e3o p\u00fablica local"
+            "code": null,
+            "name": "Financiamento da administra\u00e7\u00e3o p\u00fablica local",
+            "description": null,
+            "category": null
         },
         "15129": {
-            "name": "Outras transfer\u00eancias centrais para institui\u00e7\u00f5es"
+            "code": null,
+            "name": "Outras transfer\u00eancias centrais para institui\u00e7\u00f5es",
+            "description": null,
+            "category": null
         },
         "15130": {
-            "name": "Desenvolvimento jur\u00eddico e judicial"
+            "code": null,
+            "name": "Desenvolvimento jur\u00eddico e judicial",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "15131": {
-            "name": "Pol\u00edtica, planejamento e administra\u00e7\u00e3o da justi\u00e7a, da lei e da ordem"
+            "code": null,
+            "name": "Pol\u00edtica, planejamento e administra\u00e7\u00e3o da justi\u00e7a, da lei e da ordem",
+            "description": null,
+            "category": null
         },
         "15132": {
-            "name": "Pol\u00edcia"
+            "code": null,
+            "name": "Pol\u00edcia",
+            "description": null,
+            "category": null
         },
         "15133": {
-            "name": "Servi\u00e7os de inc\u00eandio e resgate"
+            "code": null,
+            "name": "Servi\u00e7os de inc\u00eandio e resgate",
+            "description": null,
+            "category": null
         },
         "15134": {
-            "name": "Assuntos judiciais"
+            "code": null,
+            "name": "Assuntos judiciais",
+            "description": null,
+            "category": null
         },
         "15135": {
-            "name": "Ouvidoria"
+            "code": null,
+            "name": "Ouvidoria",
+            "description": null,
+            "category": null
         },
         "15136": {
-            "name": "Imigra\u00e7\u00e3o"
+            "code": null,
+            "name": "Imigra\u00e7\u00e3o",
+            "description": null,
+            "category": null
         },
         "15137": {
-            "name": "Pris\u00f5es"
+            "code": null,
+            "name": "Pris\u00f5es",
+            "category": null
         },
         "15140": {
-            "name": "Administra\u00e7\u00e3o do governo"
+            "code": null,
+            "name": "Administra\u00e7\u00e3o do governo",
+            "description": null,
+            "category": null
         },
         "15142": {
-            "name": "Pol\u00edtica macroecon\u00f3mica"
+            "code": null,
+            "name": "Pol\u00edtica macroecon\u00f3mica",
+            "description": null,
+            "category": null
         },
         "15143": {
-            "name": "Servi\u00e7os meteorol\u00f3gicos"
+            "code": null,
+            "name": "Servi\u00e7os meteorol\u00f3gicos",
+            "description": null,
+            "category": null
         },
         "15144": {
-            "name": "Elabora\u00e7\u00e3o de normas nacionais"
+            "code": null,
+            "name": "Elabora\u00e7\u00e3o de normas nacionais",
+            "description": null,
+            "category": null
         },
         "15150": {
-            "name": "Participa\u00e7\u00e3o democr\u00e1tica e sociedade civil"
+            "code": null,
+            "name": "Participa\u00e7\u00e3o democr\u00e1tica e sociedade civil",
+            "description": null,
+            "category": null
         },
         "15151": {
-            "name": "Elei\u00e7\u00f5es"
+            "code": null,
+            "name": "Elei\u00e7\u00f5es",
+            "description": null,
+            "category": null
         },
         "15152": {
-            "name": "Legislaturas e partidos pol\u00edticos"
+            "code": null,
+            "name": "Legislaturas e partidos pol\u00edticos",
+            "description": null,
+            "category": null
         },
         "15153": {
-            "name": "Meios de comunica\u00e7\u00e3o e livre circula\u00e7\u00e3o da informa\u00e7\u00e3o"
+            "code": null,
+            "name": "Meios de comunica\u00e7\u00e3o e livre circula\u00e7\u00e3o da informa\u00e7\u00e3o",
+            "description": null,
+            "category": null
         },
         "15154": {
-            "name": "Executivo"
+            "code": null,
+            "name": "Executivo",
+            "description": null,
+            "category": null
         },
         "15155": {
-            "name": "Apoio \u00e0 pol\u00edtica e \u00e0 administra\u00e7\u00e3o fiscais"
+            "code": null,
+            "name": "Apoio \u00e0 pol\u00edtica e \u00e0 administra\u00e7\u00e3o fiscais",
+            "category": null
         },
         "15156": {
-            "name": "Mobiliza\u00e7\u00e3o de outras receitas n\u00e3o fiscais"
+            "code": null,
+            "name": "Mobiliza\u00e7\u00e3o de outras receitas n\u00e3o fiscais",
+            "description": null,
+            "category": null
         },
         "15160": {
-            "name": "Direitos humanos"
+            "code": null,
+            "name": "Direitos humanos",
+            "description": null,
+            "category": null
         },
         "15161": {
-            "name": "Elei\u00e7\u00f5es"
+            "code": null,
+            "name": "Elei\u00e7\u00f5es",
+            "description": null,
+            "category": null
         },
         "15162": {
-            "name": "Direitos humanos"
+            "code": null,
+            "name": "Direitos humanos",
+            "description": null,
+            "category": null
         },
         "15163": {
-            "name": "Livre circula\u00e7\u00e3o da informa\u00e7\u00e3o"
+            "code": null,
+            "name": "Livre circula\u00e7\u00e3o da informa\u00e7\u00e3o",
+            "description": null,
+            "category": null
         },
         "15164": {
-            "name": "Organiza\u00e7\u00f5es e institui\u00e7\u00f5es de igualdade feminina"
+            "code": null,
+            "name": "Organiza\u00e7\u00f5es e institui\u00e7\u00f5es de igualdade feminina",
+            "description": null,
+            "category": null
         },
         "15170": {
-            "name": "Organiza\u00e7\u00f5es, movimentos e institui\u00e7\u00f5es governamentais de direitos da mulher"
+            "code": null,
+            "name": "Organiza\u00e7\u00f5es, movimentos e institui\u00e7\u00f5es governamentais de direitos da mulher",
+            "description": null,
+            "category": null
         },
         "15180": {
-            "name": "Erradica\u00e7\u00e3o da viol\u00eancia contra as mulheres e raparigas"
+            "code": null,
+            "name": "Erradica\u00e7\u00e3o da viol\u00eancia contra as mulheres e raparigas",
+            "description": null,
+            "category": null
         },
         "15185": {
-            "name": "Administra\u00e7\u00e3o local do governo"
+            "code": null,
+            "name": "Administra\u00e7\u00e3o local do governo",
+            "description": null,
+            "category": null
         },
         "15190": {
-            "name": "Facilita\u00e7\u00e3o da migra\u00e7\u00e3o e da mobilidade ordenadas, seguras, regulares e respons\u00e1veis"
+            "code": null,
+            "name": "Facilita\u00e7\u00e3o da migra\u00e7\u00e3o e da mobilidade ordenadas, seguras, regulares e respons\u00e1veis",
+            "description": null,
+            "category": null
         },
-        "15196": {},
+        "15196": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
         "15210": {
-            "name": "Gest\u00e3o e reforma do sistema de seguran\u00e7a"
+            "code": null,
+            "name": "Gest\u00e3o e reforma do sistema de seguran\u00e7a",
+            "description": null,
+            "category": null
         },
         "15220": {
-            "name": "Consolida\u00e7\u00e3o da paz civil, preven\u00e7\u00e3o e resolu\u00e7\u00e3o de conflitos"
+            "code": null,
+            "name": "Consolida\u00e7\u00e3o da paz civil, preven\u00e7\u00e3o e resolu\u00e7\u00e3o de conflitos",
+            "description": null,
+            "category": null
         },
         "15230": {
-            "name": "Participa\u00e7\u00e3o em opera\u00e7\u00f5es internacionais de consolida\u00e7\u00e3o da paz"
+            "code": null,
+            "name": "Participa\u00e7\u00e3o em opera\u00e7\u00f5es internacionais de consolida\u00e7\u00e3o da paz",
+            "description": null,
+            "category": null
         },
         "15240": {
-            "name": "Reintegra\u00e7\u00e3o e controle de armas leves e de pequeno calibre"
+            "code": null,
+            "name": "Reintegra\u00e7\u00e3o e controle de armas leves e de pequeno calibre",
+            "description": null,
+            "category": null
         },
         "15250": {
-            "name": "Remo\u00e7\u00e3o de minas terrestres e explosivos remanescentes de guerra"
+            "code": null,
+            "name": "Remo\u00e7\u00e3o de minas terrestres e explosivos remanescentes de guerra",
+            "description": null,
+            "category": null
         },
         "15261": {
-            "name": "Crian\u00e7as-soldado (preven\u00e7\u00e3o e desmobiliza\u00e7\u00e3o)"
+            "code": null,
+            "name": "Crian\u00e7as-soldado (preven\u00e7\u00e3o e desmobiliza\u00e7\u00e3o)",
+            "description": null,
+            "category": null
         },
         "16010": {
-            "name": "Prote\u00e7\u00e3o social"
+            "code": null,
+            "name": "Prote\u00e7\u00e3o social",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "16011": {
-            "name": "Pol\u00edtica, planejamento e administra\u00e7\u00e3o de servi\u00e7os de prote\u00e7\u00e3o e assist\u00eancia sociais"
+            "code": null,
+            "name": "Pol\u00edtica, planejamento e administra\u00e7\u00e3o de servi\u00e7os de prote\u00e7\u00e3o e assist\u00eancia sociais",
+            "description": null,
+            "category": null
         },
         "16012": {
-            "name": "Seguran\u00e7a social (excluindo pens\u00f5es)"
+            "code": null,
+            "name": "Seguran\u00e7a social (excluindo pens\u00f5es)",
+            "description": null,
+            "category": null
         },
         "16013": {
-            "name": "Pens\u00f5es gerais"
+            "code": null,
+            "name": "Pens\u00f5es gerais",
+            "description": null,
+            "category": null
         },
         "16014": {
-            "name": "Pens\u00f5es da fun\u00e7\u00e3o p\u00fablica"
+            "code": null,
+            "name": "Pens\u00f5es da fun\u00e7\u00e3o p\u00fablica",
+            "description": null,
+            "category": null
         },
         "16015": {
-            "name": "Servi\u00e7os sociais (incluindo jovens, mulheres e crian\u00e7as)"
+            "code": null,
+            "name": "Servi\u00e7os sociais (incluindo jovens, mulheres e crian\u00e7as)",
+            "description": null,
+            "category": null
         },
         "16020": {
-            "name": "Cria\u00e7\u00e3o de emprego"
+            "code": null,
+            "name": "Cria\u00e7\u00e3o de emprego",
+            "description": null,
+            "category": null
         },
         "16030": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa da habita\u00e7\u00e3o"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa da habita\u00e7\u00e3o",
+            "description": null,
+            "category": null
         },
         "16040": {
-            "name": "Habita\u00e7\u00e3o de baixo custo"
+            "code": null,
+            "name": "Habita\u00e7\u00e3o de baixo custo",
+            "description": null,
+            "category": null
         },
         "16050": {
-            "name": "Ajuda multissetorial para servi\u00e7os sociais b\u00e1sicos"
+            "code": null,
+            "name": "Ajuda multissetorial para servi\u00e7os sociais b\u00e1sicos",
+            "description": null,
+            "category": null
         },
         "16061": {
-            "name": "Cultura e lazer"
+            "code": null,
+            "name": "Cultura e lazer",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "16062": {
-            "name": "Refor\u00e7o da capacidade estat\u00edstica"
+            "code": null,
+            "name": "Refor\u00e7o da capacidade estat\u00edstica",
+            "description": null,
+            "category": null
         },
         "16063": {
-            "name": "Controle de narc\u00f3ticos"
+            "code": null,
+            "name": "Controle de narc\u00f3ticos",
+            "description": null,
+            "category": null
         },
         "16064": {
-            "name": "Mitiga\u00e7\u00e3o social do HIV/AIDS"
+            "code": null,
+            "name": "Mitiga\u00e7\u00e3o social do HIV/AIDS",
+            "description": null,
+            "category": null
         },
         "16065": {
-            "name": "Lazer e esporte"
+            "code": null,
+            "name": "Lazer e esporte",
+            "category": null
         },
         "16066": {
-            "name": "Cultura"
+            "code": null,
+            "name": "Cultura",
+            "category": null
         },
         "16070": {
-            "name": "Direitos laborais"
+            "code": null,
+            "name": "Direitos laborais",
+            "description": null,
+            "category": null
         },
         "16080": {
-            "name": "Di\u00e1logo social"
+            "code": null,
+            "name": "Di\u00e1logo social",
+            "description": null,
+            "category": null
         },
         "21010": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa dos transportes"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa dos transportes",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "21011": {
-            "name": "Pol\u00edtica, planejamento e administra\u00e7\u00e3o dos transportes"
+            "code": null,
+            "name": "Pol\u00edtica, planejamento e administra\u00e7\u00e3o dos transportes",
+            "description": null,
+            "category": null
         },
         "21012": {
-            "name": "Servi\u00e7os de transportes p\u00fablicos"
+            "code": null,
+            "name": "Servi\u00e7os de transportes p\u00fablicos",
+            "description": null,
+            "category": null
         },
         "21013": {
-            "name": "Regula\u00e7\u00e3o dos transportes"
+            "code": null,
+            "name": "Regula\u00e7\u00e3o dos transportes",
+            "description": null,
+            "category": null
         },
         "21020": {
-            "name": "Transporte rodovi\u00e1rio"
+            "code": null,
+            "name": "Transporte rodovi\u00e1rio",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "21021": {
-            "name": "Constru\u00e7\u00e3o de estradas secund\u00e1rias"
+            "code": null,
+            "name": "Constru\u00e7\u00e3o de estradas secund\u00e1rias",
+            "description": null,
+            "category": null
         },
         "21022": {
-            "name": "Manuten\u00e7\u00e3o de estradas secund\u00e1rias"
+            "code": null,
+            "name": "Manuten\u00e7\u00e3o de estradas secund\u00e1rias",
+            "description": null,
+            "category": null
         },
         "21023": {
-            "name": "Constru\u00e7\u00e3o de estradas nacionais"
+            "code": null,
+            "name": "Constru\u00e7\u00e3o de estradas nacionais",
+            "description": null,
+            "category": null
         },
         "21024": {
-            "name": "Manuten\u00e7\u00e3o de estradas nacionais"
+            "code": null,
+            "name": "Manuten\u00e7\u00e3o de estradas nacionais",
+            "description": null,
+            "category": null
         },
         "21030": {
-            "name": "Transporte ferrovi\u00e1rio"
+            "code": null,
+            "name": "Transporte ferrovi\u00e1rio",
+            "description": null,
+            "category": null
         },
         "21040": {
-            "name": "Transporte hidrovi\u00e1rio"
+            "code": null,
+            "name": "Transporte hidrovi\u00e1rio",
+            "description": null,
+            "category": null
         },
         "21050": {
-            "name": "Transporte a\u00e9reo"
+            "code": null,
+            "name": "Transporte a\u00e9reo",
+            "description": null,
+            "category": null
         },
         "21061": {
-            "name": "Armazenamento"
+            "code": null,
+            "name": "Armazenamento",
+            "description": null,
+            "category": null
         },
         "21081": {
-            "name": "Educa\u00e7\u00e3o e forma\u00e7\u00e3o sobre transporte e armazenamento"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o e forma\u00e7\u00e3o sobre transporte e armazenamento",
+            "category": null
         },
         "22010": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa das comunica\u00e7\u00f5es"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa das comunica\u00e7\u00f5es",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "22011": {
-            "name": "Pol\u00edtica, planeamento e administra\u00e7\u00e3o das comunica\u00e7\u00f5es"
+            "code": null,
+            "name": "Pol\u00edtica, planeamento e administra\u00e7\u00e3o das comunica\u00e7\u00f5es",
+            "category": null
         },
         "22012": {
-            "name": "Servi\u00e7os postais"
+            "code": null,
+            "name": "Servi\u00e7os postais",
+            "description": null,
+            "category": null
         },
         "22013": {
-            "name": "Servi\u00e7os de informa\u00e7\u00f5es"
+            "code": null,
+            "name": "Servi\u00e7os de informa\u00e7\u00f5es",
+            "description": null,
+            "category": null
         },
         "22020": {
-            "name": "Telecomunica\u00e7\u00f5es"
+            "code": null,
+            "name": "Telecomunica\u00e7\u00f5es",
+            "description": null,
+            "category": null
         },
         "22030": {
-            "name": "R\u00e1dio/televis\u00e3o/imprensa escrita"
+            "code": null,
+            "name": "R\u00e1dio/televis\u00e3o/imprensa escrita",
+            "description": null,
+            "category": null
         },
         "22040": {
-            "name": "Tecnologias de informa\u00e7\u00e3o e comunica\u00e7\u00e3o (TIC)"
+            "code": null,
+            "name": "Tecnologias de informa\u00e7\u00e3o e comunica\u00e7\u00e3o (TIC)",
+            "description": null,
+            "category": null
         },
         "23010": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa da energia"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa da energia",
+            "description": null,
+            "category": null
         },
         "23020": {
-            "name": "Gera\u00e7\u00e3o de energia \u2013 fontes n\u00e3o renov\u00e1veis"
+            "code": null,
+            "name": "Gera\u00e7\u00e3o de energia \u2013 fontes n\u00e3o renov\u00e1veis",
+            "description": null,
+            "category": null
         },
         "23030": {
-            "name": "Gera\u00e7\u00e3o de energia \u2013 fontes renov\u00e1veis"
+            "code": null,
+            "name": "Gera\u00e7\u00e3o de energia \u2013 fontes renov\u00e1veis",
+            "description": null,
+            "category": null
         },
         "23040": {
-            "name": "Transmiss\u00e3o/distribui\u00e7\u00e3o el\u00e9trica"
+            "code": null,
+            "name": "Transmiss\u00e3o/distribui\u00e7\u00e3o el\u00e9trica",
+            "description": null,
+            "category": null
         },
         "23050": {
-            "name": "Distribui\u00e7\u00e3o de g\u00e1s"
+            "code": null,
+            "name": "Distribui\u00e7\u00e3o de g\u00e1s",
+            "description": null,
+            "category": null
         },
         "23061": {
-            "name": "Centrais de energia el\u00e9tricas alimentadas a petr\u00f3leo"
+            "code": null,
+            "name": "Centrais de energia el\u00e9tricas alimentadas a petr\u00f3leo",
+            "description": null,
+            "category": null
         },
         "23062": {
-            "name": "Centrais de energia el\u00e9tricas alimentadas a g\u00e1s"
+            "code": null,
+            "name": "Centrais de energia el\u00e9tricas alimentadas a g\u00e1s",
+            "category": null
         },
         "23063": {
-            "name": "Centrais de energia el\u00e9tricas alimentadas a carv\u00e3o"
+            "code": null,
+            "name": "Centrais de energia el\u00e9tricas alimentadas a carv\u00e3o",
+            "category": null
         },
         "23064": {
-            "name": "Centrais de energia nucleares"
+            "code": null,
+            "name": "Centrais de energia nucleares",
+            "description": null,
+            "category": null
         },
         "23065": {
-            "name": "Centrais de energia hidroel\u00e9tricas"
+            "code": null,
+            "name": "Centrais de energia hidroel\u00e9tricas",
+            "description": null,
+            "category": null
         },
         "23066": {
-            "name": "Energia geot\u00e9rmica"
+            "code": null,
+            "name": "Energia geot\u00e9rmica",
+            "category": null
         },
         "23067": {
-            "name": "Energia solar"
+            "code": null,
+            "name": "Energia solar",
+            "description": null,
+            "category": null
         },
         "23068": {
-            "name": "Energia e\u00f3lica"
+            "code": null,
+            "name": "Energia e\u00f3lica",
+            "description": null,
+            "category": null
         },
         "23069": {
-            "name": "Energia oce\u00e2nica"
+            "code": null,
+            "name": "Energia oce\u00e2nica",
+            "description": null,
+            "category": null
         },
         "23070": {
-            "name": "Biomassa"
+            "code": null,
+            "name": "Biomassa",
+            "description": null,
+            "category": null
         },
         "23081": {
-            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o sobre energia"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o sobre energia",
+            "description": null,
+            "category": null
         },
         "23082": {
-            "name": "Investiga\u00e7\u00e3o sobre energia"
+            "code": null,
+            "name": "Investiga\u00e7\u00e3o sobre energia",
+            "description": null,
+            "category": null
         },
         "23110": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa da energia"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa da energia",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "23111": {
-            "name": "Pol\u00edtica, planejamento e administra\u00e7\u00e3o do setor energ\u00e9tico"
+            "code": null,
+            "name": "Pol\u00edtica, planejamento e administra\u00e7\u00e3o do setor energ\u00e9tico",
+            "category": null
         },
         "23112": {
-            "name": "Regula\u00e7\u00e3o da energia"
+            "code": null,
+            "name": "Regula\u00e7\u00e3o da energia",
+            "description": null,
+            "category": null
         },
         "23181": {
-            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o sobre energia"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o sobre energia",
+            "description": null,
+            "category": null
         },
         "23182": {
-            "name": "Investiga\u00e7\u00e3o sobre energia"
+            "code": null,
+            "name": "Investiga\u00e7\u00e3o sobre energia",
+            "description": null,
+            "category": null
         },
         "23183": {
-            "name": "Conserva\u00e7\u00e3o de energia e efici\u00eancia do lado da procura"
+            "code": null,
+            "name": "Conserva\u00e7\u00e3o de energia e efici\u00eancia do lado da procura",
+            "description": null,
+            "category": null
         },
         "23210": {
-            "name": "Gera\u00e7\u00e3o de energia, fontes renov\u00e1veis \u200b\u200b\u2013 v\u00e1rias tecnologias"
+            "code": null,
+            "name": "Gera\u00e7\u00e3o de energia, fontes renov\u00e1veis \u200b\u200b\u2013 v\u00e1rias tecnologias",
+            "description": null,
+            "category": null
         },
         "23220": {
-            "name": "Centrais de energia hidroel\u00e9tricas"
+            "code": null,
+            "name": "Centrais de energia hidroel\u00e9tricas",
+            "description": null,
+            "category": null
         },
         "23230": {
-            "name": "Energia solar para redes centralizadas"
+            "code": null,
+            "name": "Energia solar para redes centralizadas",
+            "description": null,
+            "category": null
         },
         "23231": {
-            "name": "Energia solar para redes isoladas e sistemas aut\u00f4nomos"
+            "code": null,
+            "name": "Energia solar para redes isoladas e sistemas aut\u00f4nomos",
+            "description": null,
+            "category": null
         },
         "23232": {
-            "name": "Energia solar \u2013 aplica\u00e7\u00f5es t\u00e9rmicas"
+            "code": null,
+            "name": "Energia solar \u2013 aplica\u00e7\u00f5es t\u00e9rmicas",
+            "description": null,
+            "category": null
         },
         "23240": {
-            "name": "Energia e\u00f3lica"
+            "code": null,
+            "name": "Energia e\u00f3lica",
+            "description": null,
+            "category": null
         },
         "23250": {
-            "name": "Energia mar\u00edtima"
+            "code": null,
+            "name": "Energia mar\u00edtima",
+            "description": null,
+            "category": null
         },
         "23260": {
-            "name": "Energia geot\u00e9rmica"
+            "code": null,
+            "name": "Energia geot\u00e9rmica",
+            "description": null,
+            "category": null
         },
         "23270": {
-            "name": "Centrais de energia el\u00e9tricas alimentadas a biocombust\u00edvel"
+            "code": null,
+            "name": "Centrais de energia el\u00e9tricas alimentadas a biocombust\u00edvel",
+            "description": null,
+            "category": null
         },
         "23310": {
-            "name": "Gera\u00e7\u00e3o de energia, fontes n\u00e3o renov\u00e1veis, n\u00e3o especificadas"
+            "code": null,
+            "name": "Gera\u00e7\u00e3o de energia, fontes n\u00e3o renov\u00e1veis, n\u00e3o especificadas",
+            "description": null,
+            "category": null
         },
         "23320": {
-            "name": "Centrais de energia el\u00e9tricas alimentadas a carv\u00e3o"
+            "code": null,
+            "name": "Centrais de energia el\u00e9tricas alimentadas a carv\u00e3o",
+            "description": null,
+            "category": null
         },
         "23330": {
-            "name": "Centrais de energia el\u00e9tricas alimentadas a petr\u00f3leo"
+            "code": null,
+            "name": "Centrais de energia el\u00e9tricas alimentadas a petr\u00f3leo",
+            "description": null,
+            "category": null
         },
         "23340": {
-            "name": "Centrais de energia el\u00e9tricas alimentadas a g\u00e1s natural"
+            "code": null,
+            "name": "Centrais de energia el\u00e9tricas alimentadas a g\u00e1s natural",
+            "description": null,
+            "category": null
         },
         "23350": {
-            "name": "Centrais de energia el\u00e9tricas alimentadas a combust\u00edveis f\u00f3sseis com captura e armazenamento de carbono (CAC)"
+            "code": null,
+            "name": "Centrais de energia el\u00e9tricas alimentadas a combust\u00edveis f\u00f3sseis com captura e armazenamento de carbono (CAC)",
+            "description": null,
+            "category": null
         },
         "23360": {
-            "name": "Centrais de energia el\u00e9tricas alimentadas a res\u00edduos n\u00e3o renov\u00e1veis"
+            "code": null,
+            "name": "Centrais de energia el\u00e9tricas alimentadas a res\u00edduos n\u00e3o renov\u00e1veis",
+            "description": null,
+            "category": null
         },
         "23410": {
-            "name": "Centrais el\u00e9tricas de energia h\u00edbrida"
+            "code": null,
+            "name": "Centrais el\u00e9tricas de energia h\u00edbrida",
+            "description": null,
+            "category": null
         },
         "23510": {
-            "name": "Centrais de energia nucleares e seguran\u00e7a nuclear"
+            "code": null,
+            "name": "Centrais de energia nucleares e seguran\u00e7a nuclear",
+            "description": null,
+            "category": null
         },
         "23610": {
-            "name": "Centrais de aquecimento"
+            "code": null,
+            "name": "Centrais de aquecimento",
+            "description": null,
+            "category": null
         },
         "23620": {
-            "name": "Aquecimento e refrigera\u00e7\u00e3o urbanos"
+            "code": null,
+            "name": "Aquecimento e refrigera\u00e7\u00e3o urbanos",
+            "description": null,
+            "category": null
         },
         "23630": {
-            "name": "Transmiss\u00e3o e distribui\u00e7\u00e3o de energia el\u00e9trica (redes centralizadas)"
+            "code": null,
+            "name": "Transmiss\u00e3o e distribui\u00e7\u00e3o de energia el\u00e9trica (redes centralizadas)",
+            "description": null,
+            "category": null
         },
         "23631": {
-            "name": "Transmiss\u00e3o e distribui\u00e7\u00e3o de energia el\u00e9trica (minirredes isoladas)"
+            "code": null,
+            "name": "Transmiss\u00e3o e distribui\u00e7\u00e3o de energia el\u00e9trica (minirredes isoladas)",
+            "description": null,
+            "category": null
         },
         "23640": {
-            "name": "Distribui\u00e7\u00e3o de g\u00e1s a retalho"
+            "code": null,
+            "name": "Distribui\u00e7\u00e3o de g\u00e1s a retalho",
+            "description": null,
+            "category": null
         },
         "23641": {
-            "name": "Distribui\u00e7\u00e3o de combust\u00edveis f\u00f3sseis l\u00edquidos ou s\u00f3lidos a retalho"
+            "code": null,
+            "name": "Distribui\u00e7\u00e3o de combust\u00edveis f\u00f3sseis l\u00edquidos ou s\u00f3lidos a retalho",
+            "category": null
         },
         "23642": {
-            "name": "Infraestruturas de mobilidade el\u00e9trica"
+            "code": null,
+            "name": "Infraestruturas de mobilidade el\u00e9trica",
+            "description": null,
+            "category": null
         },
         "24010": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa da \u00e1rea financeira"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa da \u00e1rea financeira",
+            "description": null,
+            "category": null
         },
         "24020": {
-            "name": "Institui\u00e7\u00f5es monet\u00e1rias"
+            "code": null,
+            "name": "Institui\u00e7\u00f5es monet\u00e1rias",
+            "description": null,
+            "category": null
         },
         "24030": {
-            "name": "Intermedi\u00e1rios financeiros do setor formal"
+            "code": null,
+            "name": "Intermedi\u00e1rios financeiros do setor formal",
+            "description": null,
+            "category": null
         },
         "24040": {
-            "name": "Intermedi\u00e1rios financeiros informais/semiformais"
+            "code": null,
+            "name": "Intermedi\u00e1rios financeiros informais/semiformais",
+            "description": null,
+            "category": null
         },
         "24050": {
-            "name": "Facilita\u00e7\u00e3o, promo\u00e7\u00e3o e otimiza\u00e7\u00e3o de remessas monet\u00e1rias"
+            "code": null,
+            "name": "Facilita\u00e7\u00e3o, promo\u00e7\u00e3o e otimiza\u00e7\u00e3o de remessas monet\u00e1rias",
+            "description": null,
+            "category": null
         },
         "24081": {
-            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o sobre servi\u00e7os banc\u00e1rios e financeiros"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o sobre servi\u00e7os banc\u00e1rios e financeiros",
+            "category": null
         },
         "25010": {
-            "name": "Pol\u00edtica e administra\u00e7\u00e3o de neg\u00f3cios"
+            "code": null,
+            "name": "Pol\u00edtica e administra\u00e7\u00e3o de neg\u00f3cios",
+            "description": null,
+            "category": null
         },
         "25020": {
-            "name": "Privatiza\u00e7\u00e3o"
+            "code": null,
+            "name": "Privatiza\u00e7\u00e3o",
+            "description": null,
+            "category": null
         },
         "25030": {
-            "name": "Servi\u00e7os de desenvolvimento de neg\u00f3cios"
+            "code": null,
+            "name": "Servi\u00e7os de desenvolvimento de neg\u00f3cios",
+            "description": null,
+            "category": null
         },
         "25040": {
-            "name": "Conduta empresarial respons\u00e1vel"
+            "code": null,
+            "name": "Conduta empresarial respons\u00e1vel",
+            "description": null,
+            "category": null
         },
         "31110": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa da agricultura"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa da agricultura",
+            "description": null,
+            "category": null
         },
         "31120": {
-            "name": "Desenvolvimento agr\u00edcola"
+            "code": null,
+            "name": "Desenvolvimento agr\u00edcola",
+            "description": null,
+            "category": null
         },
         "31130": {
-            "name": "Recursos fundi\u00e1rios agr\u00edcolas"
+            "code": null,
+            "name": "Recursos fundi\u00e1rios agr\u00edcolas",
+            "description": null,
+            "category": null
         },
         "31140": {
-            "name": "Recursos h\u00eddricos agr\u00edcolas"
+            "code": null,
+            "name": "Recursos h\u00eddricos agr\u00edcolas",
+            "description": null,
+            "category": null
         },
         "31150": {
-            "name": "Insumos agr\u00edcolas"
+            "code": null,
+            "name": "Insumos agr\u00edcolas",
+            "description": null,
+            "category": null
         },
         "31161": {
-            "name": "Produ\u00e7\u00e3o de culturas alimentares"
+            "code": null,
+            "name": "Produ\u00e7\u00e3o de culturas alimentares",
+            "description": null,
+            "category": null
         },
         "31162": {
-            "name": "Culturas industriais/culturas para exporta\u00e7\u00e3o"
+            "code": null,
+            "name": "Culturas industriais/culturas para exporta\u00e7\u00e3o",
+            "description": null,
+            "category": null
         },
         "31163": {
-            "name": "Pecu\u00e1ria"
+            "code": null,
+            "name": "Pecu\u00e1ria",
+            "description": null,
+            "category": null
         },
         "31164": {
-            "name": "Reforma agr\u00e1ria"
+            "code": null,
+            "name": "Reforma agr\u00e1ria",
+            "description": null,
+            "category": null
         },
         "31165": {
-            "name": "Desenvolvimento de alternativas agr\u00edcolas"
+            "code": null,
+            "name": "Desenvolvimento de alternativas agr\u00edcolas",
+            "description": null,
+            "category": null
         },
         "31166": {
-            "name": "Extens\u00e3o agr\u00edcola"
+            "code": null,
+            "name": "Extens\u00e3o agr\u00edcola",
+            "description": null,
+            "category": null
         },
         "31181": {
-            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o agr\u00edcola"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o agr\u00edcola",
+            "category": null
         },
         "31182": {
-            "name": "Investiga\u00e7\u00e3o agr\u00edcola"
+            "code": null,
+            "name": "Investiga\u00e7\u00e3o agr\u00edcola",
+            "description": null,
+            "category": null
         },
         "31191": {
-            "name": "Servi\u00e7os agr\u00edcolas"
+            "code": null,
+            "name": "Servi\u00e7os agr\u00edcolas",
+            "description": null,
+            "category": null
         },
         "31192": {
-            "name": "Prote\u00e7\u00e3o e controle de pragas para plantas e p\u00f3s-colheitas"
+            "code": null,
+            "name": "Prote\u00e7\u00e3o e controle de pragas para plantas e p\u00f3s-colheitas",
+            "description": null,
+            "category": null
         },
         "31193": {
-            "name": "Servi\u00e7os financeiros agr\u00edcolas"
+            "code": null,
+            "name": "Servi\u00e7os financeiros agr\u00edcolas",
+            "description": null,
+            "category": null
         },
         "31194": {
-            "name": "Cooperativas agr\u00edcolas"
+            "code": null,
+            "name": "Cooperativas agr\u00edcolas",
+            "description": null,
+            "category": null
         },
         "31195": {
-            "name": "Servi\u00e7os pecu\u00e1rios/veterin\u00e1rios"
+            "code": null,
+            "name": "Servi\u00e7os pecu\u00e1rios/veterin\u00e1rios",
+            "description": null,
+            "category": null
         },
         "31210": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa da silvicultura"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa da silvicultura",
+            "description": null,
+            "category": null
         },
         "31220": {
-            "name": "Desenvolvimento florestal"
+            "code": null,
+            "name": "Desenvolvimento florestal",
+            "description": null,
+            "category": null
         },
         "31261": {
-            "name": "Lenha/carv\u00e3o vegetal"
+            "code": null,
+            "name": "Lenha/carv\u00e3o vegetal",
+            "description": null,
+            "category": null
         },
         "31281": {
-            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o em silvicultura"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o em silvicultura",
+            "category": null
         },
         "31282": {
-            "name": "Investiga\u00e7\u00e3o florestal"
+            "code": null,
+            "name": "Investiga\u00e7\u00e3o florestal",
+            "description": null,
+            "category": null
         },
         "31291": {
-            "name": "Servi\u00e7os florestais"
+            "code": null,
+            "name": "Servi\u00e7os florestais",
+            "category": null
         },
         "31310": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa da pesca"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa da pesca",
+            "description": null,
+            "category": null
         },
         "31320": {
-            "name": "Desenvolvimento da pesca"
+            "code": null,
+            "name": "Desenvolvimento da pesca",
+            "description": null,
+            "category": null
         },
         "31381": {
-            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o sobre pesca"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o sobre pesca",
+            "category": null
         },
         "31382": {
-            "name": "Investiga\u00e7\u00e3o sobre pesca"
+            "code": null,
+            "name": "Investiga\u00e7\u00e3o sobre pesca",
+            "description": null,
+            "category": null
         },
         "31391": {
-            "name": "Servi\u00e7os pesqueiros"
+            "code": null,
+            "name": "Servi\u00e7os pesqueiros",
+            "description": null,
+            "category": null
         },
         "32110": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa da ind\u00fastria"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa da ind\u00fastria",
+            "description": null,
+            "category": null
         },
         "32120": {
-            "name": "Desenvolvimento industrial"
+            "code": null,
+            "name": "Desenvolvimento industrial",
+            "category": null
         },
         "32130": {
-            "name": "Desenvolvimento de pequenas e m\u00e9dias empresas (PME)"
+            "code": null,
+            "name": "Desenvolvimento de pequenas e m\u00e9dias empresas (PME)",
+            "description": null,
+            "category": null
         },
         "32140": {
-            "name": "Ind\u00fastrias caseiras e artesanato"
+            "code": null,
+            "name": "Ind\u00fastrias caseiras e artesanato",
+            "category": null
         },
         "32161": {
-            "name": "Agroind\u00fastrias"
+            "code": null,
+            "name": "Agroind\u00fastrias",
+            "description": null,
+            "category": null
         },
         "32162": {
-            "name": "Ind\u00fastrias florestais"
+            "code": null,
+            "name": "Ind\u00fastrias florestais",
+            "description": null,
+            "category": null
         },
         "32163": {
-            "name": "T\u00eaxteis, couros e substitutos"
+            "code": null,
+            "name": "T\u00eaxteis, couros e substitutos",
+            "description": null,
+            "category": null
         },
         "32164": {
-            "name": "Produtos qu\u00edmicos"
+            "code": null,
+            "name": "Produtos qu\u00edmicos",
+            "description": null,
+            "category": null
         },
         "32165": {
-            "name": "F\u00e1bricas de fertilizantes"
+            "code": null,
+            "name": "F\u00e1bricas de fertilizantes",
+            "category": null
         },
         "32166": {
-            "name": "Cimento/cal/gesso"
+            "code": null,
+            "name": "Cimento/cal/gesso",
+            "category": null
         },
         "32167": {
-            "name": "Ind\u00fastria da energia (combust\u00edveis f\u00f3sseis)"
+            "code": null,
+            "name": "Ind\u00fastria da energia (combust\u00edveis f\u00f3sseis)",
+            "description": null,
+            "category": null
         },
         "32168": {
-            "name": "Produ\u00e7\u00e3o farmac\u00eautica"
+            "code": null,
+            "name": "Produ\u00e7\u00e3o farmac\u00eautica",
+            "description": null,
+            "category": null
         },
         "32169": {
-            "name": "Ind\u00fastrias de metais b\u00e1sicos"
+            "code": null,
+            "name": "Ind\u00fastrias de metais b\u00e1sicos",
+            "description": null,
+            "category": null
         },
         "32170": {
-            "name": "Ind\u00fastrias de metais n\u00e3o ferrosos"
+            "code": null,
+            "name": "Ind\u00fastrias de metais n\u00e3o ferrosos",
+            "category": null
         },
         "32171": {
-            "name": "Engenharia"
+            "code": null,
+            "name": "Engenharia",
+            "description": null,
+            "category": null
         },
         "32172": {
-            "name": "Ind\u00fastria de equipamento de transporte"
+            "code": null,
+            "name": "Ind\u00fastria de equipamento de transporte",
+            "description": null,
+            "category": null
         },
         "32173": {
-            "name": "Produ\u00e7\u00e3o de biocombust\u00edveis modernos"
+            "code": null,
+            "name": "Produ\u00e7\u00e3o de biocombust\u00edveis modernos",
+            "description": null,
+            "category": null
         },
         "32174": {
-            "name": "Produ\u00e7\u00e3o de aparelhos dom\u00e9sticos para cozinha ecol\u00f3gica"
+            "code": null,
+            "name": "Produ\u00e7\u00e3o de aparelhos dom\u00e9sticos para cozinha ecol\u00f3gica",
+            "description": null,
+            "category": null
         },
         "32182": {
-            "name": "Investiga\u00e7\u00e3o e desenvolvimento tecnol\u00f3gicos"
+            "code": null,
+            "name": "Investiga\u00e7\u00e3o e desenvolvimento tecnol\u00f3gicos",
+            "description": null,
+            "category": null
         },
         "32210": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa dos minerais/minas"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa dos minerais/minas",
+            "description": null,
+            "category": null
         },
         "32220": {
-            "name": "Prospec\u00e7\u00e3o e explora\u00e7\u00e3o minerais"
+            "code": null,
+            "name": "Prospec\u00e7\u00e3o e explora\u00e7\u00e3o minerais",
+            "description": null,
+            "category": null
         },
         "32261": {
-            "name": "Carv\u00e3o"
+            "code": null,
+            "name": "Carv\u00e3o",
+            "description": null,
+            "category": null
         },
         "32262": {
-            "name": "Petr\u00f3leo e g\u00e1s (montante)"
+            "code": null,
+            "name": "Petr\u00f3leo e g\u00e1s (montante)",
+            "description": null,
+            "category": null
         },
         "32263": {
-            "name": "Metais ferrosos"
+            "code": null,
+            "name": "Metais ferrosos",
+            "description": null,
+            "category": null
         },
         "32264": {
-            "name": "Metais n\u00e3o ferrosos"
+            "code": null,
+            "name": "Metais n\u00e3o ferrosos",
+            "description": null,
+            "category": null
         },
         "32265": {
-            "name": "Metais/materiais preciosos"
+            "code": null,
+            "name": "Metais/materiais preciosos",
+            "description": null,
+            "category": null
         },
         "32266": {
-            "name": "Minerais industriais"
+            "code": null,
+            "name": "Minerais industriais",
+            "description": null,
+            "category": null
         },
         "32267": {
-            "name": "Minerais fertilizantes"
+            "code": null,
+            "name": "Minerais fertilizantes",
+            "description": null,
+            "category": null
         },
         "32268": {
-            "name": "Minerais dos fundos marinhos"
+            "code": null,
+            "name": "Minerais dos fundos marinhos",
+            "description": null,
+            "category": null
         },
         "32310": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa da constru\u00e7\u00e3o"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa da constru\u00e7\u00e3o",
+            "description": null,
+            "category": null
         },
         "33110": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa do com\u00e9rcio"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa do com\u00e9rcio",
+            "description": null,
+            "category": null
         },
         "33120": {
-            "name": "Facilita\u00e7\u00e3o do com\u00e9rcio"
+            "code": null,
+            "name": "Facilita\u00e7\u00e3o do com\u00e9rcio",
+            "description": null,
+            "category": null
         },
         "33130": {
-            "name": "Acordos de com\u00e9rcio regional (ACR)"
+            "code": null,
+            "name": "Acordos de com\u00e9rcio regional (ACR)",
+            "description": null,
+            "category": null
         },
         "33140": {
-            "name": "Negocia\u00e7\u00f5es comerciais multilaterais"
+            "code": null,
+            "name": "Negocia\u00e7\u00f5es comerciais multilaterais",
+            "description": null,
+            "category": null
         },
         "33150": {
-            "name": "Ajustes relacionados com o com\u00e9rcio"
+            "code": null,
+            "name": "Ajustes relacionados com o com\u00e9rcio",
+            "description": null,
+            "category": null
         },
         "33181": {
-            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o sobre com\u00e9rcio"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o sobre com\u00e9rcio",
+            "description": null,
+            "category": null
         },
         "33210": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa do turismo"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa do turismo",
+            "category": null
         },
         "41010": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa do meio ambiente"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa do meio ambiente",
+            "description": null,
+            "category": null
         },
         "41020": {
-            "name": "Prote\u00e7\u00e3o da biosfera"
+            "code": null,
+            "name": "Prote\u00e7\u00e3o da biosfera",
+            "description": null,
+            "category": null
         },
         "41030": {
-            "name": "Biodiversidade"
+            "code": null,
+            "name": "Biodiversidade",
+            "description": null,
+            "category": null
         },
         "41040": {
-            "name": "Preserva\u00e7\u00e3o da paisagem"
+            "code": null,
+            "name": "Preserva\u00e7\u00e3o da paisagem",
+            "description": null,
+            "category": null
         },
         "41050": {
-            "name": "Preven\u00e7\u00e3o/controle de inunda\u00e7\u00f5es"
+            "code": null,
+            "name": "Preven\u00e7\u00e3o/controle de inunda\u00e7\u00f5es",
+            "description": null,
+            "category": null
         },
         "41081": {
-            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o ambiental"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o ambiental",
+            "category": null
         },
         "41082": {
-            "name": "Investiga\u00e7\u00e3o ambiental"
+            "code": null,
+            "name": "Investiga\u00e7\u00e3o ambiental",
+            "description": null,
+            "category": null
         },
         "43010": {
-            "name": "Ajuda multissetorial"
+            "code": null,
+            "name": "Ajuda multissetorial",
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "43030": {
-            "name": "Desenvolvimento e gest\u00e3o urbanos"
+            "code": null,
+            "name": "Desenvolvimento e gest\u00e3o urbanos",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "43031": {
-            "name": "Pol\u00edtica e gest\u00e3o do territ\u00f3rio urbano"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o do territ\u00f3rio urbano",
+            "description": null,
+            "category": null
         },
         "43032": {
-            "name": "Desenvolvimento urbano"
+            "code": null,
+            "name": "Desenvolvimento urbano",
+            "description": null,
+            "category": null
         },
         "43040": {
-            "name": "Desenvolvimento rural"
+            "code": null,
+            "name": "Desenvolvimento rural",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "43041": {
-            "name": "Pol\u00edtica e gest\u00e3o do territ\u00f3rio rural"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o do territ\u00f3rio rural",
+            "description": null,
+            "category": null
         },
         "43042": {
-            "name": "Desenvolvimento rural"
+            "code": null,
+            "name": "Desenvolvimento rural",
+            "description": null,
+            "category": null
         },
         "43050": {
-            "name": "Desenvolvimento de alternativas n\u00e3o agr\u00edcolas"
+            "code": null,
+            "name": "Desenvolvimento de alternativas n\u00e3o agr\u00edcolas",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "43060": {
-            "name": "Redu\u00e7\u00e3o do risco de cat\u00e1strofes"
+            "code": null,
+            "name": "Redu\u00e7\u00e3o do risco de cat\u00e1strofes",
+            "description": null,
+            "category": null
         },
         "43071": {
-            "name": "Pol\u00edtica e gest\u00e3o administrativa da seguran\u00e7a alimentar"
+            "code": null,
+            "name": "Pol\u00edtica e gest\u00e3o administrativa da seguran\u00e7a alimentar",
+            "description": null,
+            "category": null
         },
         "43072": {
-            "name": "Programas de seguran\u00e7a alimentar dom\u00e9stica"
+            "code": null,
+            "name": "Programas de seguran\u00e7a alimentar dom\u00e9stica",
+            "description": null,
+            "category": null
         },
         "43073": {
-            "name": "Seguran\u00e7a e qualidade alimentares"
+            "code": null,
+            "name": "Seguran\u00e7a e qualidade alimentares",
+            "description": null,
+            "category": null
         },
         "43081": {
-            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o multissetoriais"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o/forma\u00e7\u00e3o multissetoriais",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "43082": {
-            "name": "Institui\u00e7\u00f5es cient\u00edficas/de investiga\u00e7\u00e3o"
+            "code": null,
+            "name": "Institui\u00e7\u00f5es cient\u00edficas/de investiga\u00e7\u00e3o",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "51010": {
-            "name": "Ajuda relacionada com o apoio or\u00e7amental geral"
+            "code": null,
+            "name": "Ajuda relacionada com o apoio or\u00e7amental geral",
+            "description": null,
+            "category": null
         },
         "52010": {
-            "name": "Assist\u00eancia alimentar"
+            "code": null,
+            "name": "Assist\u00eancia alimentar",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "53030": {
-            "name": "Apoio \u00e0 importa\u00e7\u00e3o (bens de capital)"
+            "code": null,
+            "name": "Apoio \u00e0 importa\u00e7\u00e3o (bens de capital)",
+            "description": null,
+            "category": null
         },
         "53040": {
-            "name": "Apoio \u00e0 importa\u00e7\u00e3o (mercadorias)"
+            "code": null,
+            "name": "Apoio \u00e0 importa\u00e7\u00e3o (mercadorias)",
+            "description": null,
+            "category": null
         },
         "60010": {
-            "name": "A\u00e7\u00e3o relacionada com a d\u00edvida"
+            "code": null,
+            "name": "A\u00e7\u00e3o relacionada com a d\u00edvida",
+            "description": null,
+            "category": null
         },
         "60020": {
-            "name": "Perd\u00e3o de d\u00edvida"
+            "code": null,
+            "name": "Perd\u00e3o de d\u00edvida",
+            "category": null
         },
         "60030": {
-            "name": "Al\u00edvio da d\u00edvida multilateral"
+            "code": null,
+            "name": "Al\u00edvio da d\u00edvida multilateral",
+            "description": null,
+            "category": null
         },
         "60040": {
-            "name": "Reescalonamento e refinanciamento"
+            "code": null,
+            "name": "Reescalonamento e refinanciamento",
+            "category": null
         },
         "60061": {
-            "name": "Permuta de d\u00edvida por desenvolvimento"
+            "code": null,
+            "name": "Permuta de d\u00edvida por desenvolvimento",
+            "description": null,
+            "category": null
         },
         "60062": {
-            "name": "Outras permutas de d\u00edvida"
+            "code": null,
+            "name": "Outras permutas de d\u00edvida",
+            "description": null,
+            "category": null
         },
         "60063": {
-            "name": "Recompra de d\u00edvida"
+            "code": null,
+            "name": "Recompra de d\u00edvida",
+            "description": null,
+            "category": null
         },
         "72010": {
-            "name": "Assist\u00eancia e servi\u00e7os de al\u00edvio material"
+            "code": null,
+            "name": "Assist\u00eancia e servi\u00e7os de al\u00edvio material",
+            "description": null,
+            "category": null
         },
         "72011": {
-            "name": "Servi\u00e7os de cuidados de sa\u00fade b\u00e1sica em emerg\u00eancias"
+            "code": null,
+            "name": "Servi\u00e7os de cuidados de sa\u00fade b\u00e1sica em emerg\u00eancias",
+            "description": null,
+            "category": null
         },
         "72012": {
-            "name": "Educa\u00e7\u00e3o em emerg\u00eancias"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o em emerg\u00eancias",
+            "description": null,
+            "category": null
         },
         "72040": {
-            "name": "Assist\u00eancia alimentar de emerg\u00eancia"
+            "code": null,
+            "name": "Assist\u00eancia alimentar de emerg\u00eancia",
+            "description": null,
+            "category": null
         },
         "72050": {
-            "name": "Coordena\u00e7\u00e3o de assist\u00eancia e servi\u00e7os de apoio"
+            "code": null,
+            "name": "Coordena\u00e7\u00e3o de assist\u00eancia e servi\u00e7os de apoio",
+            "description": null,
+            "category": null
         },
         "73010": {
-            "name": "Reconstru\u00e7\u00e3o e reabilita\u00e7\u00e3o p\u00f3s-emerg\u00eancia imediatas"
+            "code": null,
+            "name": "Reconstru\u00e7\u00e3o e reabilita\u00e7\u00e3o p\u00f3s-emerg\u00eancia imediatas",
+            "description": null,
+            "category": null
         },
         "74010": {
-            "name": "Preven\u00e7\u00e3o e prepara\u00e7\u00e3o contra cat\u00e1strofes"
+            "code": null,
+            "name": "Preven\u00e7\u00e3o e prepara\u00e7\u00e3o contra cat\u00e1strofes",
+            "description": null,
+            "category": null
         },
         "74020": {
-            "name": "Prepara\u00e7\u00e3o da resposta contra v\u00e1rios riscos"
+            "code": null,
+            "name": "Prepara\u00e7\u00e3o da resposta contra v\u00e1rios riscos",
+            "description": null,
+            "category": null
         },
         "91010": {
-            "name": "Custos administrativos (n\u00e3o atribu\u00edveis a sectores)"
+            "code": null,
+            "name": "Custos administrativos (n\u00e3o atribu\u00edveis a sectores)",
+            "category": null
         },
         "92010": {
-            "name": "Apoio a ONG nacionais"
+            "code": null,
+            "name": "Apoio a ONG nacionais",
+            "description": null,
+            "category": null
         },
         "92020": {
-            "name": "Apoio a ONG internacionais"
+            "code": null,
+            "name": "Apoio a ONG internacionais",
+            "category": null
         },
         "92030": {
-            "name": "Apoio a ONG locais e regionais"
+            "code": null,
+            "name": "Apoio a ONG locais e regionais",
+            "description": null,
+            "category": null
         },
         "93010": {
-            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores (n\u00e3o atribu\u00edveis a setores)"
+            "code": null,
+            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores (n\u00e3o atribu\u00edveis a setores)",
+            "description": null,
+            "category": null
         },
         "93011": {
-            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 alimenta\u00e7\u00e3o e abrigo"
+            "code": null,
+            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 alimenta\u00e7\u00e3o e abrigo",
+            "description": null,
+            "category": null
         },
         "93012": {
-            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 forma\u00e7\u00e3o"
+            "code": null,
+            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 forma\u00e7\u00e3o",
+            "description": null,
+            "category": null
         },
         "93013": {
-            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 sa\u00fade"
+            "code": null,
+            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 sa\u00fade",
+            "description": null,
+            "category": null
         },
         "93014": {
-            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 outra subsist\u00eancia tempor\u00e1ria"
+            "code": null,
+            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 outra subsist\u00eancia tempor\u00e1ria",
+            "description": null,
+            "category": null
         },
         "93015": {
-            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 repatria\u00e7\u00e3o volunt\u00e1ria"
+            "code": null,
+            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 repatria\u00e7\u00e3o volunt\u00e1ria",
+            "description": null,
+            "category": null
         },
         "93016": {
-            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 transporte"
+            "code": null,
+            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 transporte",
+            "description": null,
+            "category": null
         },
         "93017": {
-            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 salvamento no mar"
+            "code": null,
+            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 salvamento no mar",
+            "description": null,
+            "category": null
         },
         "93018": {
-            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 custos administrativos"
+            "code": null,
+            "name": "Refugiados/requerentes de asilo em pa\u00edses doadores \u2013 custos administrativos",
+            "description": null,
+            "category": null
         },
         "99810": {
-            "name": "Setores n\u00e3o especificados"
+            "code": null,
+            "name": "Setores n\u00e3o especificados",
+            "description": null,
+            "category": null,
+            "{http://iatistandard.org/activity-standard/overview/country-budget-alignment/}status": null
         },
         "99820": {
-            "name": "Promo\u00e7\u00e3o da conscientiza\u00e7\u00e3o sobre desenvolvimento (n\u00e3o atribu\u00edveis a setores)"
+            "code": null,
+            "name": "Promo\u00e7\u00e3o da conscientiza\u00e7\u00e3o sobre desenvolvimento (n\u00e3o atribu\u00edveis a setores)",
+            "description": null,
+            "category": null
         }
     }
 }

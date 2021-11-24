@@ -4,9 +4,27 @@
         "description": "La liste de codes Vocabulaire d'\u00e9tiquettes d\u00e9finit une gamme de listes externes de codes qui offrent elles-m\u00eames des codes et descriptions d'\u00e9tiquettes."
     },
     "codelist-items": {
-        "1": {},
-        "2": {},
-        "3": {},
-        "99": {}
+        "1": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "2": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "3": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "99": {
+            "code": null,
+            "name": null
+        }
     }
 }

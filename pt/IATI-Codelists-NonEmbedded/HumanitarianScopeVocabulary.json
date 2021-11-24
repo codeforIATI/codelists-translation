@@ -1,8 +1,22 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null
+    },
     "codelist-items": {
-        "1-2": {},
-        "2-1": {},
-        "99": {}
+        "1-2": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "2-1": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "99": {
+            "code": null,
+            "name": null
+        }
     }
 }

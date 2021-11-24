@@ -5,12 +5,15 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Restrictions commerciales"
         },
         "2": {
+            "code": null,
             "name": "Restrictions l\u00e9gales"
         },
         "3": {
+            "code": null,
             "name": "Urgence \u00e0 d\u00e9veloppement rapide"
         }
     }

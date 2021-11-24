@@ -1,84 +1,111 @@
 {
     "metadata": {
-        "name": "R\u00e9gion"
+        "name": "R\u00e9gion",
+        "url": null
     },
     "codelist-items": {
         "88": {
+            "code": null,
             "name": "Etats ex-Yougoslavie non sp\u00e9cifi\u00e9"
         },
         "89": {
+            "code": null,
             "name": "Europe, r\u00e9gional"
         },
         "189": {
+            "code": null,
             "name": "Nord du Sahara, r\u00e9gional"
         },
         "289": {
+            "code": null,
             "name": "Sud du Sahara, r\u00e9gional"
         },
         "298": {
+            "code": null,
             "name": "Afrique, r\u00e9gional"
         },
         "380": {
+            "code": null,
             "name": "Indes occ., r\u00e9gional"
         },
         "389": {
+            "code": null,
             "name": "Cara\u00efbes et Am\u00e9rique centrale, r\u00e9gional"
         },
         "489": {
+            "code": null,
             "name": "Am\u00e9rique du Sud, r\u00e9gional"
         },
         "498": {
+            "code": null,
             "name": "Am\u00e9rique, r\u00e9gional"
         },
         "589": {
+            "code": null,
             "name": "Moyen-Orient, r\u00e9gional"
         },
         "619": {
+            "code": null,
             "name": "Asie centrale, r\u00e9gional"
         },
         "679": {
+            "code": null,
             "name": "Asie du Sud, r\u00e9gional"
         },
         "689": {
+            "code": null,
             "name": "Asie du Sud & C., r\u00e9gional"
         },
         "789": {
+            "code": null,
             "name": "Extr\u00eame-Orient, r\u00e9gional"
         },
         "798": {
+            "code": null,
             "name": "Asie, r\u00e9gional"
         },
         "889": {
+            "code": null,
             "name": "Oc\u00e9anie, r\u00e9gional"
         },
         "998": {
+            "code": null,
             "name": "Pays en d\u00e9veloppement, non sp\u00e9cifi\u00e9"
         },
         "1027": {
+            "code": null,
             "name": "Afrique de l'est, r\u00e9gional"
         },
         "1028": {
+            "code": null,
             "name": "Afrique centrale, r\u00e9gional"
         },
         "1029": {
+            "code": null,
             "name": "Afrique australe, r\u00e9gional"
         },
         "1030": {
+            "code": null,
             "name": "Afrique occidentale, r\u00e9gional"
         },
         "1031": {
+            "code": null,
             "name": "Cara\u00efbes, r\u00e9gional"
         },
         "1032": {
+            "code": null,
             "name": "Am\u00e9rique centrale, r\u00e9gional"
         },
         "1033": {
+            "code": null,
             "name": "M\u00e9lan\u00e9sie, r\u00e9gional"
         },
         "1034": {
+            "code": null,
             "name": "Micron\u00e9sie, r\u00e9gional"
         },
         "1035": {
+            "code": null,
             "name": "Polyn\u00e9sie, r\u00e9gional"
         }
     }

@@ -1,19 +1,88 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null
+    },
     "codelist-items": {
-        "1": {},
-        "2": {},
-        "3": {},
-        "4": {},
-        "5": {},
-        "6": {},
-        "7": {},
-        "8": {},
-        "9": {},
-        "10": {},
-        "11": {},
-        "12": {},
-        "99": {},
-        "98": {}
+        "1": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "2": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "3": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "4": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "5": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "6": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "7": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "8": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "9": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "10": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "11": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "12": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "99": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "98": {
+            "code": null,
+            "name": null,
+            "description": null
+        }
     }
 }

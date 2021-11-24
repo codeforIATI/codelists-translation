@@ -1,775 +1,1036 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null,
+        "url": null
+    },
     "codelist-items": {
         "AF": {
+            "code": null,
             "name": "Afeganist\u00e3o"
         },
         "AX": {
+            "code": null,
             "name": "Ilhas \u00c5land"
         },
         "AL": {
+            "code": null,
             "name": "Alb\u00e2nia"
         },
         "DZ": {
+            "code": null,
             "name": "Arg\u00e9lia"
         },
         "AS": {
+            "code": null,
             "name": "Samoa Americana"
         },
         "AD": {
+            "code": null,
             "name": "Andorra"
         },
         "AO": {
+            "code": null,
             "name": "Angola"
         },
         "AI": {
+            "code": null,
             "name": "Anguila"
         },
         "AQ": {
+            "code": null,
             "name": "Ant\u00e1rtida"
         },
         "AG": {
+            "code": null,
             "name": "Ant\u00edgua e Barbuda"
         },
         "AR": {
+            "code": null,
             "name": "Argentina"
         },
         "AM": {
+            "code": null,
             "name": "Arm\u00e9nia"
         },
         "AW": {
+            "code": null,
             "name": "Aruba"
         },
         "AU": {
+            "code": null,
             "name": "Austr\u00e1lia"
         },
         "AT": {
+            "code": null,
             "name": "\u00c1ustria"
         },
         "AZ": {
+            "code": null,
             "name": "Azerbaij\u00e3o"
         },
         "BS": {
+            "code": null,
             "name": "Bahamas"
         },
         "BH": {
+            "code": null,
             "name": "Bar\u00e9m"
         },
         "BD": {
+            "code": null,
             "name": "Bangladesh"
         },
         "BB": {
+            "code": null,
             "name": "Barbados"
         },
         "BY": {
+            "code": null,
             "name": "Bielorr\u00fassia"
         },
         "BE": {
+            "code": null,
             "name": "B\u00e9lgica"
         },
         "BZ": {
+            "code": null,
             "name": "Belize"
         },
         "BJ": {
+            "code": null,
             "name": "Benim"
         },
         "BM": {
+            "code": null,
             "name": "Bermudas"
         },
         "BT": {
+            "code": null,
             "name": "But\u00e3o"
         },
         "BO": {
+            "code": null,
             "name": "Bol\u00edvia (Estado Plurinacional da)"
         },
         "BQ": {
+            "code": null,
             "name": "Bonaire, Santo Eust\u00e1quio e Saba"
         },
         "BA": {
+            "code": null,
             "name": "B\u00f3snia e Herzegovina"
         },
         "BW": {
+            "code": null,
             "name": "Botsuana"
         },
         "BV": {
+            "code": null,
             "name": "Ilha Bouvet"
         },
         "BR": {
+            "code": null,
             "name": "Brasil"
         },
         "IO": {
+            "code": null,
             "name": "Territ\u00f3rio Brit\u00e2nico do Oceano \u00cdndico"
         },
         "BN": {
+            "code": null,
             "name": "Brunei Darussalam"
         },
         "BG": {
+            "code": null,
             "name": "Bulg\u00e1ria"
         },
         "BF": {
+            "code": null,
             "name": "Burquina Faso"
         },
         "BU": {
+            "code": null,
             "name": "Burma"
         },
         "BI": {
+            "code": null,
             "name": "Burundi"
         },
         "KH": {
+            "code": null,
             "name": "Camboja"
         },
         "CM": {
+            "code": null,
             "name": "Camar\u00f5es"
         },
         "CA": {
+            "code": null,
             "name": "Canad\u00e1"
         },
         "CV": {
+            "code": null,
             "name": "Cabo Verde"
         },
         "KY": {
+            "code": null,
             "name": "Ilhas Caim\u00e3"
         },
         "CF": {
+            "code": null,
             "name": "Rep\u00fablica Centro-Africana"
         },
         "TD": {
+            "code": null,
             "name": "Chade"
         },
         "CL": {
+            "code": null,
             "name": "Chile"
         },
         "CN": {
+            "code": null,
             "name": "China"
         },
         "CX": {
+            "code": null,
             "name": "Ilha do Natal"
         },
         "CC": {
+            "code": null,
             "name": "Ilhas Cocos (Keeling)"
         },
         "CO": {
+            "code": null,
             "name": "Col\u00f4mbia"
         },
         "KM": {
+            "code": null,
             "name": "Comores"
         },
         "CG": {
+            "code": null,
             "name": "Congo"
         },
         "CD": {
+            "code": null,
             "name": "Congo (Rep\u00fablica Democr\u00e1tica do)"
         },
         "CK": {
+            "code": null,
             "name": "Ilhas Cook"
         },
         "CR": {
+            "code": null,
             "name": "Costa Rica"
         },
         "CI": {
+            "code": null,
             "name": "C\u00f4te d'Ivoire"
         },
         "HR": {
+            "code": null,
             "name": "Cro\u00e1cia"
         },
         "CU": {
+            "code": null,
             "name": "Cuba"
         },
         "CW": {
+            "code": null,
             "name": "Cura\u00e7au"
         },
         "CY": {
+            "code": null,
             "name": "Chipre"
         },
         "CZ": {
+            "code": null,
             "name": "Ch\u00e9quia"
         },
         "DK": {
+            "code": null,
             "name": "Dinamarca"
         },
         "DJ": {
+            "code": null,
             "name": "Djibouti"
         },
         "DM": {
+            "code": null,
             "name": "Dominica"
         },
         "DO": {
+            "code": null,
             "name": "Rep\u00fablica Dominicana"
         },
         "TP": {
+            "code": null,
             "name": "Timor-Leste"
         },
         "EC": {
+            "code": null,
             "name": "Equador"
         },
         "EG": {
+            "code": null,
             "name": "Egito"
         },
         "SV": {
+            "code": null,
             "name": "El Salvador"
         },
         "GQ": {
+            "code": null,
             "name": "Guin\u00e9 Equatorial"
         },
         "ER": {
+            "code": null,
             "name": "Eritreia"
         },
         "EE": {
+            "code": null,
             "name": "Est\u00f3nia"
         },
         "ET": {
+            "code": null,
             "name": "Eti\u00f3pia"
         },
         "FK": {
+            "code": null,
             "name": "Ilhas Falkland (Maldivas)"
         },
         "FO": {
+            "code": null,
             "name": "Ilhas Faro\u00e9"
         },
         "FJ": {
+            "code": null,
             "name": "Fiji"
         },
         "FI": {
+            "code": null,
             "name": "Finl\u00e2ndia"
         },
         "FR": {
+            "code": null,
             "name": "Fran\u00e7a"
         },
         "GF": {
+            "code": null,
             "name": "Guiana Francesa"
         },
         "PF": {
+            "code": null,
             "name": "Polin\u00e9sia Francesa"
         },
         "TF": {
+            "code": null,
             "name": "Territ\u00f3rios Austrais Franceses"
         },
         "GA": {
+            "code": null,
             "name": "Gab\u00e3o"
         },
         "GM": {
+            "code": null,
             "name": "G\u00e2mbia"
         },
         "GE": {
+            "code": null,
             "name": "Ge\u00f3rgia"
         },
         "DE": {
+            "code": null,
             "name": "Alemanha"
         },
         "GH": {
+            "code": null,
             "name": "Gana"
         },
         "GI": {
+            "code": null,
             "name": "Gibraltar"
         },
         "GR": {
+            "code": null,
             "name": "Gr\u00e9cia"
         },
         "GL": {
+            "code": null,
             "name": "Groenl\u00e2ndia"
         },
         "GD": {
+            "code": null,
             "name": "Granada"
         },
         "GP": {
+            "code": null,
             "name": "Guadalupe"
         },
         "GU": {
+            "code": null,
             "name": "Guam"
         },
         "GT": {
+            "code": null,
             "name": "Guatemala"
         },
         "GG": {
+            "code": null,
             "name": "Guernsey"
         },
         "GN": {
+            "code": null,
             "name": "Guin\u00e9"
         },
         "GW": {
+            "code": null,
             "name": "Guin\u00e9-Bissau"
         },
         "GY": {
+            "code": null,
             "name": "Guiana"
         },
         "HT": {
+            "code": null,
             "name": "Haiti"
         },
         "HM": {
+            "code": null,
             "name": "Ilhas Heard e McDonald"
         },
         "VA": {
+            "code": null,
             "name": "Santa S\u00e9"
         },
         "HN": {
+            "code": null,
             "name": "Honduras"
         },
         "HK": {
+            "code": null,
             "name": "Hong Kong"
         },
         "HU": {
+            "code": null,
             "name": "Hungria"
         },
         "IS": {
+            "code": null,
             "name": "Isl\u00e2ndia"
         },
         "IN": {
+            "code": null,
             "name": "\u00cdndia"
         },
         "ID": {
+            "code": null,
             "name": "Indon\u00e9sia"
         },
         "IR": {
+            "code": null,
             "name": "Ir\u00e3 (Rep\u00fablica Isl\u00e2mica do)"
         },
         "IQ": {
+            "code": null,
             "name": "Iraque"
         },
         "IE": {
+            "code": null,
             "name": "Irlanda"
         },
         "IM": {
+            "code": null,
             "name": "Ilha de Man"
         },
         "IL": {
+            "code": null,
             "name": "Israel"
         },
         "IT": {
+            "code": null,
             "name": "It\u00e1lia"
         },
         "JM": {
+            "code": null,
             "name": "Jamaica"
         },
         "JP": {
+            "code": null,
             "name": "Jap\u00e3o"
         },
         "JE": {
+            "code": null,
             "name": "Jersey"
         },
         "JO": {
+            "code": null,
             "name": "Jord\u00e2nia"
         },
         "KZ": {
+            "code": null,
             "name": "Cazaquist\u00e3o"
         },
         "KE": {
+            "code": null,
             "name": "Qu\u00e9nia"
         },
         "KI": {
+            "code": null,
             "name": "Quiribati"
         },
         "KP": {
+            "code": null,
             "name": "Coreia (Rep\u00fablica Popular Democr\u00e1tica da)"
         },
         "KR": {
+            "code": null,
             "name": "Coreia (Rep\u00fablica da)"
         },
         "XK": {
+            "code": null,
             "name": "Kosovo"
         },
         "KW": {
+            "code": null,
             "name": "Kuwait"
         },
         "KG": {
+            "code": null,
             "name": "Quirguist\u00e3o"
         },
         "LA": {
+            "code": null,
             "name": "Laos, Rep\u00fablica Democr\u00e1tica Popular do"
         },
         "LV": {
+            "code": null,
             "name": "Let\u00f3nia"
         },
         "LB": {
+            "code": null,
             "name": "L\u00edbano"
         },
         "LS": {
+            "code": null,
             "name": "Lesoto"
         },
         "LR": {
+            "code": null,
             "name": "Lib\u00e9ria"
         },
         "LY": {
+            "code": null,
             "name": "L\u00edbia"
         },
         "LI": {
+            "code": null,
             "name": "Liechtenstein"
         },
         "LT": {
+            "code": null,
             "name": "Litu\u00e2nia"
         },
         "LU": {
+            "code": null,
             "name": "Luxemburgo"
         },
         "MO": {
+            "code": null,
             "name": "Macau"
         },
         "MK": {
+            "code": null,
             "name": "Maced\u00f3nia do Norte"
         },
         "MG": {
+            "code": null,
             "name": "Madag\u00e1scar"
         },
         "MW": {
+            "code": null,
             "name": "Malawi"
         },
         "MY": {
+            "code": null,
             "name": "Mal\u00e1sia"
         },
         "MV": {
+            "code": null,
             "name": "Maldivas"
         },
         "ML": {
+            "code": null,
             "name": "Mali"
         },
         "MT": {
+            "code": null,
             "name": "Malta"
         },
         "MH": {
+            "code": null,
             "name": "Ilhas Marshall"
         },
         "MQ": {
+            "code": null,
             "name": "Martinica"
         },
         "MR": {
+            "code": null,
             "name": "Maurit\u00e2nia"
         },
         "MU": {
+            "code": null,
             "name": "Maur\u00edcia"
         },
         "YT": {
+            "code": null,
             "name": "Maiote"
         },
         "MX": {
+            "code": null,
             "name": "M\u00e9xico"
         },
         "FM": {
+            "code": null,
             "name": "Micron\u00e9sia (Estados Federados da)"
         },
         "MD": {
+            "code": null,
             "name": "Mold\u00e1via (Rep\u00fablica da)"
         },
         "MC": {
+            "code": null,
             "name": "M\u00f3naco"
         },
         "MN": {
+            "code": null,
             "name": "Mong\u00f3lia"
         },
         "ME": {
+            "code": null,
             "name": "Montenegro"
         },
         "MS": {
+            "code": null,
             "name": "Monserrate"
         },
         "MA": {
+            "code": null,
             "name": "Marrocos"
         },
         "MZ": {
+            "code": null,
             "name": "Mo\u00e7ambique"
         },
         "MM": {
+            "code": null,
             "name": "Myanmar"
         },
         "NA": {
+            "code": null,
             "name": "Nam\u00edbia"
         },
         "NR": {
+            "code": null,
             "name": "Nauru"
         },
         "NP": {
+            "code": null,
             "name": "Nepal"
         },
         "NL": {
+            "code": null,
             "name": "Pa\u00edses Baixos"
         },
         "AN": {
+            "code": null,
             "name": "Antilhas Neerlandesas"
         },
         "NT": {
+            "code": null,
             "name": "Zona Neutra"
         },
         "NC": {
+            "code": null,
             "name": "Nova Caled\u00f3nia"
         },
         "NZ": {
+            "code": null,
             "name": "Nova Zel\u00e2ndia"
         },
         "NI": {
+            "code": null,
             "name": "Nicar\u00e1gua"
         },
         "NE": {
+            "code": null,
             "name": "N\u00edger"
         },
         "NG": {
+            "code": null,
             "name": "Nig\u00e9ria"
         },
         "NU": {
+            "code": null,
             "name": "Niue"
         },
         "NF": {
+            "code": null,
             "name": "Ilha Norfolk"
         },
         "MP": {
+            "code": null,
             "name": "Ilhas Marianas do Norte"
         },
         "NO": {
+            "code": null,
             "name": "Noruega"
         },
         "OM": {
+            "code": null,
             "name": "Om\u00e3"
         },
         "PK": {
+            "code": null,
             "name": "Paquist\u00e3o"
         },
         "PW": {
+            "code": null,
             "name": "Palau"
         },
         "PS": {
+            "code": null,
             "name": "Palestina, Estado da"
         },
         "PA": {
+            "code": null,
             "name": "Panam\u00e1"
         },
         "PG": {
+            "code": null,
             "name": "Papua-Nova Guin\u00e9"
         },
         "PY": {
+            "code": null,
             "name": "Paraguai"
         },
         "PE": {
+            "code": null,
             "name": "Peru"
         },
         "PH": {
+            "code": null,
             "name": "Filipinas"
         },
         "PN": {
+            "code": null,
             "name": "Pitcairn"
         },
         "PL": {
+            "code": null,
             "name": "Pol\u00f3nia"
         },
         "PT": {
+            "code": null,
             "name": "Portugal"
         },
         "PR": {
+            "code": null,
             "name": "Porto Rico"
         },
         "QA": {
+            "code": null,
             "name": "Catar"
         },
         "RE": {
+            "code": null,
             "name": "Reuni\u00e3o"
         },
         "RO": {
+            "code": null,
             "name": "Rom\u00e9nia"
         },
         "RU": {
+            "code": null,
             "name": "Federa\u00e7\u00e3o Russa"
         },
         "RW": {
+            "code": null,
             "name": "Ruanda"
         },
         "BL": {
+            "code": null,
             "name": "S\u00e3o Bartolomeu"
         },
         "SH": {
+            "code": null,
             "name": "Santa Helena, Ascens\u00e3o e Trist\u00e3o da Cunha"
         },
         "KN": {
+            "code": null,
             "name": "S\u00e3o Crist\u00f3v\u00e3o e Nevis"
         },
         "LC": {
+            "code": null,
             "name": "Santa L\u00facia"
         },
         "MF": {
+            "code": null,
             "name": "Saint Martin (parte francesa)"
         },
         "PM": {
+            "code": null,
             "name": "S\u00e3o Pedro e Miquel\u00e3o"
         },
         "VC": {
+            "code": null,
             "name": "S\u00e3o Vicente e Granadinas"
         },
         "WS": {
+            "code": null,
             "name": "Samoa"
         },
         "SM": {
+            "code": null,
             "name": "S\u00e3o Marinho"
         },
         "ST": {
+            "code": null,
             "name": "S\u00e3o Tom\u00e9 e Pr\u00edncipe"
         },
         "SA": {
+            "code": null,
             "name": "Ar\u00e1bia Saudita"
         },
         "SN": {
+            "code": null,
             "name": "Senegal"
         },
         "RS": {
+            "code": null,
             "name": "S\u00e9rvia"
         },
         "SC": {
+            "code": null,
             "name": "Seicheles"
         },
         "SL": {
+            "code": null,
             "name": "Serra Leoa"
         },
         "SG": {
+            "code": null,
             "name": "Singapura"
         },
         "SX": {
+            "code": null,
             "name": "Sint Maarten (parte neerlandesa)"
         },
         "SK": {
+            "code": null,
             "name": "Eslov\u00e1quia"
         },
         "SI": {
+            "code": null,
             "name": "Eslov\u00e9nia"
         },
         "SB": {
+            "code": null,
             "name": "Ilhas Salom\u00e3o"
         },
         "SO": {
+            "code": null,
             "name": "Som\u00e1lia"
         },
         "ZA": {
+            "code": null,
             "name": "\u00c1frica do Sul"
         },
         "GS": {
+            "code": null,
             "name": "Ilhas Ge\u00f3rgia do Sul e Sandwich do Sul"
         },
         "SS": {
+            "code": null,
             "name": "Sud\u00e3o do Sul"
         },
         "ES": {
+            "code": null,
             "name": "Espanha"
         },
         "LK": {
+            "code": null,
             "name": "Sri Lanka"
         },
         "SD": {
+            "code": null,
             "name": "Sud\u00e3o"
         },
         "SR": {
+            "code": null,
             "name": "Suriname"
         },
         "SJ": {
+            "code": null,
             "name": "Svalbard e Jan Mayen"
         },
         "SZ": {
+            "code": null,
             "name": "Essuat\u00edni"
         },
         "CS": {
+            "code": null,
             "name": "S\u00e9rvia e Montenegro"
         },
         "SE": {
+            "code": null,
             "name": "Su\u00e9cia"
         },
         "CH": {
+            "code": null,
             "name": "Su\u00ed\u00e7a"
         },
         "SY": {
+            "code": null,
             "name": "S\u00edria, Rep\u00fablica \u00c1rabe"
         },
         "TW": {
+            "code": null,
             "name": "Taiwan (Prov\u00edncia da China)"
         },
         "TJ": {
+            "code": null,
             "name": "Tajiquist\u00e3o"
         },
         "TZ": {
+            "code": null,
             "name": "Tanz\u00e2nia, Rep\u00fablica Unida da"
         },
         "TH": {
+            "code": null,
             "name": "Tail\u00e2ndia"
         },
         "TL": {
+            "code": null,
             "name": "Timor-Leste"
         },
         "TG": {
+            "code": null,
             "name": "Togo"
         },
         "TK": {
+            "code": null,
             "name": "Toquelau"
         },
         "TO": {
+            "code": null,
             "name": "Tonga"
         },
         "TT": {
+            "code": null,
             "name": "Trindade e Tobago"
         },
         "TN": {
+            "code": null,
             "name": "Tun\u00edsia"
         },
         "TR": {
+            "code": null,
             "name": "Turquia"
         },
         "TM": {
+            "code": null,
             "name": "Turquemenist\u00e3o"
         },
         "TC": {
+            "code": null,
             "name": "Ilhas Turcas e Caicos"
         },
         "TV": {
+            "code": null,
             "name": "Tuvalu"
         },
         "UG": {
+            "code": null,
             "name": "Uganda"
         },
         "UA": {
+            "code": null,
             "name": "Ucr\u00e2nia"
         },
         "AE": {
+            "code": null,
             "name": "Emirados \u00c1rabes Unidos"
         },
         "GB": {
+            "code": null,
             "name": "Reino Unido da Gr\u00e3-Bretanha e da Irlanda do Norte"
         },
         "US": {
+            "code": null,
             "name": "Estados Unidos da Am\u00e9rica"
         },
         "UM": {
+            "code": null,
             "name": "Ilhas menores distantes dos Estados Unidos"
         },
         "UY": {
+            "code": null,
             "name": "Uruguai"
         },
         "UZ": {
+            "code": null,
             "name": "Uzbequist\u00e3o"
         },
         "VU": {
+            "code": null,
             "name": "Vanuatu"
         },
         "VE": {
+            "code": null,
             "name": "Venezuela (Rep\u00fablica Bolivariana da)"
         },
         "VN": {
+            "code": null,
             "name": "Vietname"
         },
         "VG": {
+            "code": null,
             "name": "Ilhas Virgens Brit\u00e2nicas"
         },
         "VI": {
+            "code": null,
             "name": "Ilhas Virgens Americanas"
         },
         "WF": {
+            "code": null,
             "name": "Wallis e Futuna"
         },
         "EH": {
+            "code": null,
             "name": "Sahara Ocidental"
         },
         "YE": {
+            "code": null,
             "name": "I\u00e9men"
         },
         "YU": {
+            "code": null,
             "name": "Iugosl\u00e1via"
         },
         "ZR": {
+            "code": null,
             "name": "Zaire"
         },
         "ZM": {
+            "code": null,
             "name": "Z\u00e2mbia"
         },
         "ZW": {
+            "code": null,
             "name": "Zimbabwe"
         }
     }

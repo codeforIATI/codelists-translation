@@ -1,31 +1,163 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null
+    },
     "codelist-items": {
-        "A01": {},
-        "A02": {},
-        "A03": {},
-        "A04": {},
-        "A05": {},
-        "A06": {},
-        "A07": {},
-        "A08": {},
-        "A09": {},
-        "A10": {},
-        "A11": {},
-        "B01": {},
-        "B02": {},
-        "B03": {},
-        "B04": {},
-        "B05": {},
-        "B06": {},
-        "B07": {},
-        "B08": {},
-        "B09": {},
-        "B10": {},
-        "B11": {},
-        "B12": {},
-        "B13": {},
-        "B14": {},
-        "B15": {}
+        "A01": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "A02": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "A03": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "A04": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "A05": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "A06": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "A07": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "A08": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "A09": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "A10": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "A11": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B01": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B02": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B03": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B04": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B05": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B06": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B07": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B08": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B09": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B10": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B11": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B12": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B13": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B14": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        },
+        "B15": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null
+        }
     }
 }

@@ -4,18 +4,22 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Money is disbursed through central Ministry of Finance or Treasury",
             "description": "Money is disbursed through central Ministry of Finance or Treasury"
         },
         "2": {
+            "code": null,
             "name": "Money is disbursed directly to the implementing institution and managed through a separate bank account",
             "description": "Money is disbursed directly to the implementing institution and managed through a separate bank account"
         },
         "3": {
+            "code": null,
             "name": "Aid in kind: Donors utilise third party agencies, e.g. NGOs or management companies",
             "description": "Aid in kind: Donors utilise third party agencies, e.g. NGOs or management companies"
         },
         "4": {
+            "code": null,
             "name": "Aid in kind: Donors manage funds themselves",
             "description": "Aid in kind: Donors manage funds themselves"
         }

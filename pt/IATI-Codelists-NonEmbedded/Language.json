@@ -1,189 +1,744 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "url": null
+    },
     "codelist-items": {
-        "aa": {},
-        "ab": {},
-        "ae": {},
-        "af": {},
-        "ak": {},
-        "am": {},
-        "an": {},
-        "ar": {},
-        "as": {},
-        "av": {},
-        "ay": {},
-        "az": {},
-        "ba": {},
-        "be": {},
-        "bg": {},
-        "bh": {},
-        "bi": {},
-        "bm": {},
-        "bn": {},
-        "bo": {},
-        "br": {},
-        "bs": {},
-        "ca": {},
-        "ce": {},
-        "ch": {},
-        "co": {},
-        "cr": {},
-        "cs": {},
-        "cu": {},
-        "cv": {},
-        "cy": {},
-        "da": {},
-        "de": {},
-        "dv": {},
-        "dz": {},
-        "ee": {},
-        "el": {},
-        "en": {},
-        "eo": {},
-        "es": {},
-        "et": {},
-        "eu": {},
-        "fa": {},
-        "ff": {},
-        "fi": {},
-        "fj": {},
-        "fo": {},
-        "fr": {},
-        "fy": {},
-        "ga": {},
-        "gd": {},
-        "gl": {},
-        "gn": {},
-        "gu": {},
-        "gv": {},
-        "ha": {},
-        "he": {},
-        "hi": {},
-        "ho": {},
-        "hr": {},
-        "ht": {},
-        "hu": {},
-        "hy": {},
-        "hz": {},
-        "ia": {},
-        "id": {},
-        "ie": {},
-        "ig": {},
-        "ii": {},
-        "ik": {},
-        "io": {},
-        "is": {},
-        "it": {},
-        "iu": {},
-        "ja": {},
-        "jv": {},
-        "ka": {},
-        "kg": {},
-        "ki": {},
-        "kj": {},
-        "kk": {},
-        "kl": {},
-        "km": {},
-        "kn": {},
-        "ko": {},
-        "kr": {},
-        "ks": {},
-        "ku": {},
-        "kv": {},
-        "kw": {},
-        "ky": {},
-        "la": {},
-        "lb": {},
-        "lg": {},
-        "li": {},
-        "ln": {},
-        "lo": {},
-        "lt": {},
-        "lu": {},
-        "lv": {},
-        "mg": {},
-        "mh": {},
-        "mi": {},
-        "mk": {},
-        "ml": {},
-        "mn": {},
-        "mr": {},
-        "ms": {},
-        "mt": {},
-        "my": {},
-        "na": {},
-        "nb": {},
-        "nd": {},
-        "ne": {},
-        "ng": {},
-        "nl": {},
-        "nn": {},
-        "no": {},
-        "nr": {},
-        "nv": {},
-        "ny": {},
-        "oc": {},
-        "oj": {},
-        "om": {},
-        "or": {},
-        "os": {},
-        "pa": {},
-        "pi": {},
-        "pl": {},
-        "ps": {},
-        "pt": {},
-        "qu": {},
-        "rm": {},
-        "rn": {},
-        "ro": {},
-        "ru": {},
-        "rw": {},
-        "sa": {},
-        "sc": {},
-        "sd": {},
-        "se": {},
-        "sg": {},
-        "si": {},
-        "sk": {},
-        "sl": {},
-        "sm": {},
-        "sn": {},
-        "so": {},
-        "sq": {},
-        "sr": {},
-        "ss": {},
-        "st": {},
-        "su": {},
-        "sv": {},
-        "sw": {},
-        "ta": {},
-        "te": {},
-        "tg": {},
-        "th": {},
-        "ti": {},
-        "tk": {},
-        "tl": {},
-        "tn": {},
-        "to": {},
-        "tr": {},
-        "ts": {},
-        "tt": {},
-        "tw": {},
-        "ty": {},
-        "ug": {},
-        "uk": {},
-        "ur": {},
-        "uz": {},
-        "ve": {},
-        "vi": {},
-        "vo": {},
-        "wa": {},
-        "wo": {},
-        "xh": {},
-        "yi": {},
-        "yo": {},
-        "za": {},
-        "zh": {},
-        "zu": {}
+        "aa": {
+            "code": null,
+            "name": null
+        },
+        "ab": {
+            "code": null,
+            "name": null
+        },
+        "ae": {
+            "code": null,
+            "name": null
+        },
+        "af": {
+            "code": null,
+            "name": null
+        },
+        "ak": {
+            "code": null,
+            "name": null
+        },
+        "am": {
+            "code": null,
+            "name": null
+        },
+        "an": {
+            "code": null,
+            "name": null
+        },
+        "ar": {
+            "code": null,
+            "name": null
+        },
+        "as": {
+            "code": null,
+            "name": null
+        },
+        "av": {
+            "code": null,
+            "name": null
+        },
+        "ay": {
+            "code": null,
+            "name": null
+        },
+        "az": {
+            "code": null,
+            "name": null
+        },
+        "ba": {
+            "code": null,
+            "name": null
+        },
+        "be": {
+            "code": null,
+            "name": null
+        },
+        "bg": {
+            "code": null,
+            "name": null
+        },
+        "bh": {
+            "code": null,
+            "name": null
+        },
+        "bi": {
+            "code": null,
+            "name": null
+        },
+        "bm": {
+            "code": null,
+            "name": null
+        },
+        "bn": {
+            "code": null,
+            "name": null
+        },
+        "bo": {
+            "code": null,
+            "name": null
+        },
+        "br": {
+            "code": null,
+            "name": null
+        },
+        "bs": {
+            "code": null,
+            "name": null
+        },
+        "ca": {
+            "code": null,
+            "name": null
+        },
+        "ce": {
+            "code": null,
+            "name": null
+        },
+        "ch": {
+            "code": null,
+            "name": null
+        },
+        "co": {
+            "code": null,
+            "name": null
+        },
+        "cr": {
+            "code": null,
+            "name": null
+        },
+        "cs": {
+            "code": null,
+            "name": null
+        },
+        "cu": {
+            "code": null,
+            "name": null
+        },
+        "cv": {
+            "code": null,
+            "name": null
+        },
+        "cy": {
+            "code": null,
+            "name": null
+        },
+        "da": {
+            "code": null,
+            "name": null
+        },
+        "de": {
+            "code": null,
+            "name": null
+        },
+        "dv": {
+            "code": null,
+            "name": null
+        },
+        "dz": {
+            "code": null,
+            "name": null
+        },
+        "ee": {
+            "code": null,
+            "name": null
+        },
+        "el": {
+            "code": null,
+            "name": null
+        },
+        "en": {
+            "code": null,
+            "name": null
+        },
+        "eo": {
+            "code": null,
+            "name": null
+        },
+        "es": {
+            "code": null,
+            "name": null
+        },
+        "et": {
+            "code": null,
+            "name": null
+        },
+        "eu": {
+            "code": null,
+            "name": null
+        },
+        "fa": {
+            "code": null,
+            "name": null
+        },
+        "ff": {
+            "code": null,
+            "name": null
+        },
+        "fi": {
+            "code": null,
+            "name": null
+        },
+        "fj": {
+            "code": null,
+            "name": null
+        },
+        "fo": {
+            "code": null,
+            "name": null
+        },
+        "fr": {
+            "code": null,
+            "name": null
+        },
+        "fy": {
+            "code": null,
+            "name": null
+        },
+        "ga": {
+            "code": null,
+            "name": null
+        },
+        "gd": {
+            "code": null,
+            "name": null
+        },
+        "gl": {
+            "code": null,
+            "name": null
+        },
+        "gn": {
+            "code": null,
+            "name": null
+        },
+        "gu": {
+            "code": null,
+            "name": null
+        },
+        "gv": {
+            "code": null,
+            "name": null
+        },
+        "ha": {
+            "code": null,
+            "name": null
+        },
+        "he": {
+            "code": null,
+            "name": null
+        },
+        "hi": {
+            "code": null,
+            "name": null
+        },
+        "ho": {
+            "code": null,
+            "name": null
+        },
+        "hr": {
+            "code": null,
+            "name": null
+        },
+        "ht": {
+            "code": null,
+            "name": null
+        },
+        "hu": {
+            "code": null,
+            "name": null
+        },
+        "hy": {
+            "code": null,
+            "name": null
+        },
+        "hz": {
+            "code": null,
+            "name": null
+        },
+        "ia": {
+            "code": null,
+            "name": null
+        },
+        "id": {
+            "code": null,
+            "name": null
+        },
+        "ie": {
+            "code": null,
+            "name": null
+        },
+        "ig": {
+            "code": null,
+            "name": null
+        },
+        "ii": {
+            "code": null,
+            "name": null
+        },
+        "ik": {
+            "code": null,
+            "name": null
+        },
+        "io": {
+            "code": null,
+            "name": null
+        },
+        "is": {
+            "code": null,
+            "name": null
+        },
+        "it": {
+            "code": null,
+            "name": null
+        },
+        "iu": {
+            "code": null,
+            "name": null
+        },
+        "ja": {
+            "code": null,
+            "name": null
+        },
+        "jv": {
+            "code": null,
+            "name": null
+        },
+        "ka": {
+            "code": null,
+            "name": null
+        },
+        "kg": {
+            "code": null,
+            "name": null
+        },
+        "ki": {
+            "code": null,
+            "name": null
+        },
+        "kj": {
+            "code": null,
+            "name": null
+        },
+        "kk": {
+            "code": null,
+            "name": null
+        },
+        "kl": {
+            "code": null,
+            "name": null
+        },
+        "km": {
+            "code": null,
+            "name": null
+        },
+        "kn": {
+            "code": null,
+            "name": null
+        },
+        "ko": {
+            "code": null,
+            "name": null
+        },
+        "kr": {
+            "code": null,
+            "name": null
+        },
+        "ks": {
+            "code": null,
+            "name": null
+        },
+        "ku": {
+            "code": null,
+            "name": null
+        },
+        "kv": {
+            "code": null,
+            "name": null
+        },
+        "kw": {
+            "code": null,
+            "name": null
+        },
+        "ky": {
+            "code": null,
+            "name": null
+        },
+        "la": {
+            "code": null,
+            "name": null
+        },
+        "lb": {
+            "code": null,
+            "name": null
+        },
+        "lg": {
+            "code": null,
+            "name": null
+        },
+        "li": {
+            "code": null,
+            "name": null
+        },
+        "ln": {
+            "code": null,
+            "name": null
+        },
+        "lo": {
+            "code": null,
+            "name": null
+        },
+        "lt": {
+            "code": null,
+            "name": null
+        },
+        "lu": {
+            "code": null,
+            "name": null
+        },
+        "lv": {
+            "code": null,
+            "name": null
+        },
+        "mg": {
+            "code": null,
+            "name": null
+        },
+        "mh": {
+            "code": null,
+            "name": null
+        },
+        "mi": {
+            "code": null,
+            "name": null
+        },
+        "mk": {
+            "code": null,
+            "name": null
+        },
+        "ml": {
+            "code": null,
+            "name": null
+        },
+        "mn": {
+            "code": null,
+            "name": null
+        },
+        "mr": {
+            "code": null,
+            "name": null
+        },
+        "ms": {
+            "code": null,
+            "name": null
+        },
+        "mt": {
+            "code": null,
+            "name": null
+        },
+        "my": {
+            "code": null,
+            "name": null
+        },
+        "na": {
+            "code": null,
+            "name": null
+        },
+        "nb": {
+            "code": null,
+            "name": null
+        },
+        "nd": {
+            "code": null,
+            "name": null
+        },
+        "ne": {
+            "code": null,
+            "name": null
+        },
+        "ng": {
+            "code": null,
+            "name": null
+        },
+        "nl": {
+            "code": null,
+            "name": null
+        },
+        "nn": {
+            "code": null,
+            "name": null
+        },
+        "no": {
+            "code": null,
+            "name": null
+        },
+        "nr": {
+            "code": null,
+            "name": null
+        },
+        "nv": {
+            "code": null,
+            "name": null
+        },
+        "ny": {
+            "code": null,
+            "name": null
+        },
+        "oc": {
+            "code": null,
+            "name": null
+        },
+        "oj": {
+            "code": null,
+            "name": null
+        },
+        "om": {
+            "code": null,
+            "name": null
+        },
+        "or": {
+            "code": null,
+            "name": null
+        },
+        "os": {
+            "code": null,
+            "name": null
+        },
+        "pa": {
+            "code": null,
+            "name": null
+        },
+        "pi": {
+            "code": null,
+            "name": null
+        },
+        "pl": {
+            "code": null,
+            "name": null
+        },
+        "ps": {
+            "code": null,
+            "name": null
+        },
+        "pt": {
+            "code": null,
+            "name": null
+        },
+        "qu": {
+            "code": null,
+            "name": null
+        },
+        "rm": {
+            "code": null,
+            "name": null
+        },
+        "rn": {
+            "code": null,
+            "name": null
+        },
+        "ro": {
+            "code": null,
+            "name": null
+        },
+        "ru": {
+            "code": null,
+            "name": null
+        },
+        "rw": {
+            "code": null,
+            "name": null
+        },
+        "sa": {
+            "code": null,
+            "name": null
+        },
+        "sc": {
+            "code": null,
+            "name": null
+        },
+        "sd": {
+            "code": null,
+            "name": null
+        },
+        "se": {
+            "code": null,
+            "name": null
+        },
+        "sg": {
+            "code": null,
+            "name": null
+        },
+        "si": {
+            "code": null,
+            "name": null
+        },
+        "sk": {
+            "code": null,
+            "name": null
+        },
+        "sl": {
+            "code": null,
+            "name": null
+        },
+        "sm": {
+            "code": null,
+            "name": null
+        },
+        "sn": {
+            "code": null,
+            "name": null
+        },
+        "so": {
+            "code": null,
+            "name": null
+        },
+        "sq": {
+            "code": null,
+            "name": null
+        },
+        "sr": {
+            "code": null,
+            "name": null
+        },
+        "ss": {
+            "code": null,
+            "name": null
+        },
+        "st": {
+            "code": null,
+            "name": null
+        },
+        "su": {
+            "code": null,
+            "name": null
+        },
+        "sv": {
+            "code": null,
+            "name": null
+        },
+        "sw": {
+            "code": null,
+            "name": null
+        },
+        "ta": {
+            "code": null,
+            "name": null
+        },
+        "te": {
+            "code": null,
+            "name": null
+        },
+        "tg": {
+            "code": null,
+            "name": null
+        },
+        "th": {
+            "code": null,
+            "name": null
+        },
+        "ti": {
+            "code": null,
+            "name": null
+        },
+        "tk": {
+            "code": null,
+            "name": null
+        },
+        "tl": {
+            "code": null,
+            "name": null
+        },
+        "tn": {
+            "code": null,
+            "name": null
+        },
+        "to": {
+            "code": null,
+            "name": null
+        },
+        "tr": {
+            "code": null,
+            "name": null
+        },
+        "ts": {
+            "code": null,
+            "name": null
+        },
+        "tt": {
+            "code": null,
+            "name": null
+        },
+        "tw": {
+            "code": null,
+            "name": null
+        },
+        "ty": {
+            "code": null,
+            "name": null
+        },
+        "ug": {
+            "code": null,
+            "name": null
+        },
+        "uk": {
+            "code": null,
+            "name": null
+        },
+        "ur": {
+            "code": null,
+            "name": null
+        },
+        "uz": {
+            "code": null,
+            "name": null
+        },
+        "ve": {
+            "code": null,
+            "name": null
+        },
+        "vi": {
+            "code": null,
+            "name": null
+        },
+        "vo": {
+            "code": null,
+            "name": null
+        },
+        "wa": {
+            "code": null,
+            "name": null
+        },
+        "wo": {
+            "code": null,
+            "name": null
+        },
+        "xh": {
+            "code": null,
+            "name": null
+        },
+        "yi": {
+            "code": null,
+            "name": null
+        },
+        "yo": {
+            "code": null,
+            "name": null
+        },
+        "za": {
+            "code": null,
+            "name": null
+        },
+        "zh": {
+            "code": null,
+            "name": null
+        },
+        "zu": {
+            "code": null,
+            "name": null
+        }
     }
 }

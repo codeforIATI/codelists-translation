@@ -4,13 +4,37 @@
         "description": "Version of the IATI Standard"
     },
     "codelist-items": {
-        "1.01": {},
-        "1.02": {},
-        "1.03": {},
-        "1.04": {},
-        "1.05": {},
-        "2.01": {},
-        "2.02": {},
-        "2.03": {}
+        "1.01": {
+            "code": null,
+            "url": null
+        },
+        "1.02": {
+            "code": null,
+            "url": null
+        },
+        "1.03": {
+            "code": null,
+            "url": null
+        },
+        "1.04": {
+            "code": null,
+            "url": null
+        },
+        "1.05": {
+            "code": null,
+            "url": null
+        },
+        "2.01": {
+            "code": null,
+            "url": null
+        },
+        "2.02": {
+            "code": null,
+            "url": null
+        },
+        "2.03": {
+            "code": null,
+            "url": null
+        }
     }
 }

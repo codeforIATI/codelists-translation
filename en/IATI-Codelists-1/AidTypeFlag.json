@@ -5,15 +5,19 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Free standing technical cooperation"
         },
         "2": {
+            "code": null,
             "name": "Programme-based approach"
         },
         "3": {
+            "code": null,
             "name": "Investment project"
         },
         "4": {
+            "code": null,
             "name": "Associated financing"
         }
     }

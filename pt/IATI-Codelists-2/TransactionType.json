@@ -1,44 +1,72 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null
+    },
     "codelist-items": {
         "1": {
-            "name": "Entrada de fundos"
+            "code": null,
+            "name": "Entrada de fundos",
+            "description": null
         },
         "2": {
-            "name": "Compromisso de sa\u00edda"
+            "code": null,
+            "name": "Compromisso de sa\u00edda",
+            "description": null
         },
         "3": {
-            "name": "Desembolso"
+            "code": null,
+            "name": "Desembolso",
+            "description": null
         },
         "4": {
-            "name": "Despesa"
+            "code": null,
+            "name": "Despesa",
+            "description": null
         },
         "5": {
-            "name": "Pagamento de juros"
+            "code": null,
+            "name": "Pagamento de juros",
+            "description": null
         },
         "6": {
-            "name": "Liquida\u00e7\u00e3o de empr\u00e9stimo"
+            "code": null,
+            "name": "Liquida\u00e7\u00e3o de empr\u00e9stimo",
+            "description": null
         },
         "7": {
-            "name": "Reembolso"
+            "code": null,
+            "name": "Reembolso",
+            "description": null
         },
         "8": {
-            "name": "Compra de capital"
+            "code": null,
+            "name": "Compra de capital",
+            "description": null
         },
         "9": {
-            "name": "Venda de capital"
+            "code": null,
+            "name": "Venda de capital",
+            "description": null
         },
         "10": {
-            "name": "Garantia de cr\u00e9dito"
+            "code": null,
+            "name": "Garantia de cr\u00e9dito",
+            "description": null
         },
         "11": {
-            "name": "Compromisso de entrada"
+            "code": null,
+            "name": "Compromisso de entrada",
+            "description": null
         },
         "12": {
-            "name": "Promessa de sa\u00edda"
+            "code": null,
+            "name": "Promessa de sa\u00edda",
+            "description": null
         },
         "13": {
-            "name": "Promessa de entrada"
+            "code": null,
+            "name": "Promessa de entrada",
+            "description": null
         }
     }
 }

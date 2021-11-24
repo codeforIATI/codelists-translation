@@ -1,6 +1,12 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null
+    },
     "codelist-items": {
-        "99": {}
+        "99": {
+            "code": null,
+            "name": null
+        }
     }
 }

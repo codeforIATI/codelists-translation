@@ -1,22 +1,31 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null
+    },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Planification"
         },
         "2": {
+            "code": null,
             "name": "Actif"
         },
         "3": {
+            "code": null,
             "name": "Finalisation"
         },
         "4": {
+            "code": null,
             "name": "Ferm\u00e9"
         },
         "5": {
+            "code": null,
             "name": "Annul\u00e9"
         },
         "6": {
+            "code": null,
             "name": "Suspendu"
         }
     }

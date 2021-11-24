@@ -5,18 +5,25 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Agrovoc",
-            "description": "A controlled vocabulary covering all areas of interest of the Food and Agriculture Organization (FAO) of the United Nations, including food, nutrition, agriculture, fisheries, forestry, environment etc."
+            "description": "A controlled vocabulary covering all areas of interest of the Food and Agriculture Organization (FAO) of the United Nations, including food, nutrition, agriculture, fisheries, forestry, environment etc.",
+            "url": null
         },
         "2": {
+            "code": null,
             "name": "UN Sustainable Development Goals (SDG)",
-            "description": "A value from the top-level list of UN sustainable development goals (SDGs) (e.g. \u20181\u2019)"
+            "description": "A value from the top-level list of UN sustainable development goals (SDGs) (e.g. \u20181\u2019)",
+            "url": null
         },
         "3": {
+            "code": null,
             "name": "UN Sustainable Development Goals (SDG) Targets",
-            "description": "A value from the second-level list of UN sustainable development goals (SDGs) (e.g. \u20181.1\u2019)"
+            "description": "A value from the second-level list of UN sustainable development goals (SDGs) (e.g. \u20181.1\u2019)",
+            "url": null
         },
         "99": {
+            "code": null,
             "name": "Reporting Organisation"
         }
     }

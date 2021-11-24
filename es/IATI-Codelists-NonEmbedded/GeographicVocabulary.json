@@ -1,11 +1,40 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null
+    },
     "codelist-items": {
-        "A1": {},
-        "A2": {},
-        "A3": {},
-        "A4": {},
-        "G1": {},
-        "G2": {}
+        "A1": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "A2": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "A3": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "A4": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "G1": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "G2": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        }
     }
 }

@@ -1,35 +1,59 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null,
+        "url": null
+    },
     "codelist-items": {
         "10": {
-            "name": "Asistencia oficial para el desarrollo"
+            "code": null,
+            "name": "Asistencia oficial para el desarrollo",
+            "description": null
         },
         "20": {
-            "name": "Otras corrientes oficiales"
+            "code": null,
+            "name": "Otras corrientes oficiales",
+            "description": null
         },
         "21": {
-            "name": "Otras corrientes oficiales de cr\u00e9ditos no destinados a la exportaci\u00f3n"
+            "code": null,
+            "name": "Otras corrientes oficiales de cr\u00e9ditos no destinados a la exportaci\u00f3n",
+            "description": null
         },
         "22": {
-            "name": "Cr\u00e9ditos a la exportaci\u00f3n con respaldo oficial"
+            "code": null,
+            "name": "Cr\u00e9ditos a la exportaci\u00f3n con respaldo oficial",
+            "description": null
         },
         "30": {
-            "name": "Financiaci\u00f3n privada para el desarrollo"
+            "code": null,
+            "name": "Financiaci\u00f3n privada para el desarrollo",
+            "description": null
         },
         "35": {
-            "name": "Mercado privado"
+            "code": null,
+            "name": "Mercado privado",
+            "description": null
         },
         "36": {
-            "name": "Inversi\u00f3n extranjera directa privada"
+            "code": null,
+            "name": "Inversi\u00f3n extranjera directa privada",
+            "description": null
         },
         "37": {
-            "name": "Otros flujos privados con arreglo a las condiciones de mercado"
+            "code": null,
+            "name": "Otros flujos privados con arreglo a las condiciones de mercado",
+            "description": null
         },
         "40": {
-            "name": "No flujo"
+            "code": null,
+            "name": "No flujo",
+            "description": null
         },
         "50": {
-            "name": "Otros flujos"
+            "code": null,
+            "name": "Otros flujos",
+            "description": null
         }
     }
 }

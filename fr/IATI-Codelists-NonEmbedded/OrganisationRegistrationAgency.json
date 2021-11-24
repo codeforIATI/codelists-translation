@@ -4,202 +4,1384 @@
         "description": "Les valeurs de cette liste d\u00e9signent la liste sp\u00e9cifique dont est issu un identifiant d'organisation. La liste de codes constitue un registre de listes connues d'identifiants, y compris des registres nationaux de compagnies, des r\u00e9pertoires d'ONG et des listes d'organisations internationales et multilat\u00e9rales - ainsi que des instructions et des ressources en ligne pour faciliter la recherche des identifiants assign\u00e9s \u00e0 une organisation donn\u00e9e.\n\nDepuis le 17 juillet 2017 cette liste est g\u00e9r\u00e9e par le projet org-id.guide. Les diffuseurs de donn\u00e9es peuvent maintenant utiliser le site web `org-id.guide <http://org-id.guide/>`__ pour trouver la liste pertinente pour un identifiant d\u2019organisation donn\u00e9. Le registre entier de sources d\u2019identifiants peut aussi \u00eatre t\u00e9l\u00e9charg\u00e9 en formats `XML <http://org-id.guide/download.xml>`__, `JSON <http://org-id.guide/download.json>`__ and `CSV <http://org-id.guide/download.csv>`__.\n\nL\u2019IITA reproduit p\u00e9riodiquement la liste de codes des sources d\u2019identifiants depuis org-id.guide pour aider ceux qui utilisent la documentation de l\u2019IITA. Veuillez cependant noter que la source la plus \u00e0 jour est le projet `org-id.guide project <http://org-id.guide/>`__.\n\nSi org-id.guide n\u2019offre pas de contenu pour le genre d\u2019organisation que vous devez identifier, vous pouvez pr\u00e9senter une requ\u00eate pour l\u2019ajout d\u2019une nouvelle liste au registre en suivant les indications `guidance <http://docs.org-id.guide/en/latest/contribute/>`__ ou en contactant org-id.guide \u00e0 contact@org-id.guide."
     },
     "codelist-items": {
-        "AE-ACCI": {},
-        "AE-ADCD": {},
-        "AE-AFZ": {},
-        "AE-DCCI": {},
-        "AE-DFSA": {},
-        "AE-DIFC": {},
-        "AE-DMCC": {},
-        "AE-FCCI": {},
-        "AE-FFZ": {},
-        "AE-HFZA": {},
-        "AE-RAKIA": {},
-        "AE-RK_CR": {},
-        "AE-SAIF": {},
-        "AE-SCCI": {},
-        "AE-UQCCI": {},
-        "AF-CBR": {},
-        "AF-MOE": {},
-        "AR-CENOC": {},
-        "AR-CUIT": {},
-        "AT-FB": {},
-        "AT-UID": {},
-        "AU-ABN": {},
-        "AU-ACNC": {},
-        "AZ-IVI": {},
-        "BD-NAB": {},
-        "BE-BCE_KBO": {},
-        "BE-GTCF": {},
-        "BG-EIK": {},
-        "BJ-IFU": {},
-        "BW-CIPA": {},
-        "BY-ADR": {},
-        "CA-CC": {},
-        "CA-CRA_ACR": {},
-        "CA-GOV": {},
-        "CA_AB-ABT": {},
-        "CA_BC-BRC_CBR": {},
-        "CA_MB-MTB": {},
-        "CA_NB-NWB_NOB": {},
-        "CA_NL-NFL_TNL": {},
-        "CA_NS-NVS_NVE": {},
-        "CA_NT-NWT_TNO": {},
-        "CA_NU-NNV": {},
-        "CA_ON-ONT": {},
-        "CA_PE-PEI_IPE": {},
-        "CA_QC-QBC": {},
-        "CA_SK-SKN": {},
-        "CA_YT-YKT": {},
-        "CH-FDJP": {},
-        "CN-SAIC": {},
-        "CO-CCB": {},
-        "CO-RUE": {},
-        "CY-DRCOR": {},
-        "CZ-DIC": {},
-        "CZ-ICO": {},
-        "DE-CR": {},
-        "DK-CVR": {},
-        "EE-KMKR": {},
-        "EE-RIK": {},
-        "EG-MOSS": {},
-        "ES-DIR3": {},
-        "ES-RMC": {},
-        "ET-CSA": {},
-        "ET-MFA": {},
-        "ET-MOT": {},
-        "FI-PRO": {},
-        "FR-INSEE": {},
-        "FR-RCS": {},
-        "GB-CHC": {},
-        "GB-COH": {},
-        "GB-EDU": {},
-        "GB-GOR": {},
-        "GB-GOV": {},
-        "GB-GOVUK": {},
-        "GB-IRN": {},
-        "GB-LAE": {},
-        "GB-LAS": {},
-        "GB-MPR": {},
-        "GB-NHS": {},
-        "GB-NIC": {},
-        "GB-PLA": {},
-        "GB-REV": {},
-        "GB-SC": {},
-        "GB-SHPE": {},
-        "GB-UKPRN": {},
-        "GE-NAPR": {},
-        "GG-RCE": {},
-        "GH-DSW": {},
-        "HK-CR": {},
-        "HR-MBS": {},
-        "HR-OIB": {},
-        "HU-AFA": {},
-        "ID-KDN": {},
-        "ID-KHH": {},
-        "ID-KLN": {},
-        "ID-PRO": {},
-        "ID-SMR": {},
-        "IE-CHY": {},
-        "IE-CRO": {},
-        "IL-ROC": {},
-        "IM-CR": {},
-        "IM-GR": {},
-        "IN-MCA": {},
-        "IN-MHA": {},
-        "IT-CF": {},
-        "IT-RI": {},
-        "JE-FSC": {},
-        "JE-OAC": {},
-        "JO-CCD": {},
-        "JO-MSD": {},
-        "JP-JCN": {},
-        "KE-NCB": {},
-        "KE-RCO": {},
-        "KE-RSO": {},
-        "KG-ID": {},
-        "KG-INN": {},
-        "KZ-BIN": {},
-        "LB-CR": {},
-        "LB-MOI": {},
-        "LS-LCN": {},
-        "LT-PVM": {},
-        "LT-RC": {},
-        "LV-RE": {},
-        "MD-IDNO": {},
-        "ML-CCIM": {},
-        "ML-NIF": {},
-        "MM-MHA": {},
-        "MU-CR": {},
-        "MW-CNM": {},
-        "MW-MRA": {},
-        "MW-NBM": {},
-        "MW-RG": {},
-        "MX-CPA": {},
-        "MX-RFC": {},
-        "MY-SSM": {},
-        "MZ-CR": {},
-        "MZ-MOJ": {},
-        "MZ-NUIT": {},
-        "NG-BPP": {},
-        "NG-CAC": {},
-        "NL-KVK": {},
-        "NL-OWMS": {},
-        "NO-BRC": {},
-        "NP-CRO": {},
-        "NP-SWC": {},
-        "PE-SUNARP": {},
-        "PH-SEC": {},
-        "PK-PCP": {},
-        "PK-VSWA": {},
-        "PL-KRS": {},
-        "PL-NIP": {},
-        "PL-REGON": {},
-        "PS-MOI": {},
-        "PT-NIPPC": {},
-        "PY-PGN": {},
-        "PY-RUC": {},
-        "RO-CUI": {},
-        "RS-APR": {},
-        "RS-PIB": {},
-        "RU-INN": {},
-        "RU-OGRN": {},
-        "SE-BLV": {},
-        "SE-KK": {},
-        "SE-ON": {},
-        "SG-ACRA": {},
-        "SI-PRS": {},
-        "SI-TIN": {},
-        "SK-ORSR": {},
-        "SK-ZRSR": {},
-        "SN-NINEA": {},
-        "SS-RRC": {},
-        "TR-MERSIS": {},
-        "TR-MOI": {},
-        "TZ-BRLA": {},
-        "TZ-TRA": {},
-        "UA-EDR": {},
-        "UG-NGB": {},
-        "UG-RSB": {},
-        "US-DOS": {},
-        "US-EIN": {},
-        "US-USAGOV": {},
-        "UZ-KTUT": {},
-        "XE-EXAMPLE": {},
-        "XI-EORI": {},
-        "XI-GRID": {},
-        "XI-IATI": {},
-        "XI-PB": {},
-        "XI-PID": {},
-        "XI-WIKIDATA": {},
-        "XM-DAC": {},
-        "XM-OCHA": {},
-        "XR-NUTS": {},
-        "ZA-CIP": {},
-        "ZA-NPO": {},
-        "ZA-PBO": {},
-        "ZM-PCR": {},
-        "ZW-PVO": {},
-        "ZW-ROD": {}
+        "AE-ACCI": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-ADCD": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-AFZ": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-DCCI": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-DFSA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-DIFC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-DMCC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-FCCI": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-FFZ": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-HFZA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-RAKIA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-RK_CR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-SAIF": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-SCCI": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AE-UQCCI": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AF-CBR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AF-MOE": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AR-CENOC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AR-CUIT": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AT-FB": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AT-UID": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AU-ABN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AU-ACNC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "AZ-IVI": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "BD-NAB": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "BE-BCE_KBO": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "BE-GTCF": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "BG-EIK": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "BJ-IFU": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "BW-CIPA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "BY-ADR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA-CC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA-CRA_ACR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA-GOV": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA_AB-ABT": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA_BC-BRC_CBR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA_MB-MTB": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA_NB-NWB_NOB": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA_NL-NFL_TNL": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA_NS-NVS_NVE": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA_NT-NWT_TNO": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA_NU-NNV": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA_ON-ONT": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA_PE-PEI_IPE": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA_QC-QBC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA_SK-SKN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CA_YT-YKT": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CH-FDJP": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CN-SAIC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CO-CCB": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CO-RUE": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CY-DRCOR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CZ-DIC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "CZ-ICO": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "DE-CR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "DK-CVR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "EE-KMKR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "EE-RIK": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "EG-MOSS": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ES-DIR3": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ES-RMC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ET-CSA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ET-MFA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ET-MOT": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "FI-PRO": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "FR-INSEE": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "FR-RCS": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-CHC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-COH": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-EDU": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-GOR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-GOV": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-GOVUK": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-IRN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-LAE": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-LAS": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-MPR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-NHS": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-NIC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-PLA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-REV": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-SC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-SHPE": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GB-UKPRN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GE-NAPR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GG-RCE": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "GH-DSW": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "HK-CR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "HR-MBS": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "HR-OIB": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "HU-AFA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ID-KDN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ID-KHH": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ID-KLN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ID-PRO": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ID-SMR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "IE-CHY": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "IE-CRO": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "IL-ROC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "IM-CR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "IM-GR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "IN-MCA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "IN-MHA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "IT-CF": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "IT-RI": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "JE-FSC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "JE-OAC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "JO-CCD": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "JO-MSD": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "JP-JCN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "KE-NCB": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "KE-RCO": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "KE-RSO": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "KG-ID": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "KG-INN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "KZ-BIN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "LB-CR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "LB-MOI": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "LS-LCN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "LT-PVM": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "LT-RC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "LV-RE": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "MD-IDNO": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ML-CCIM": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ML-NIF": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "MM-MHA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "MU-CR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "MW-CNM": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "MW-MRA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "MW-NBM": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "MW-RG": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "MX-CPA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "MX-RFC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "MY-SSM": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "MZ-CR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "MZ-MOJ": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "MZ-NUIT": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "NG-BPP": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "NG-CAC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "NL-KVK": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "NL-OWMS": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "NO-BRC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "NP-CRO": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "NP-SWC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "PE-SUNARP": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "PH-SEC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "PK-PCP": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "PK-VSWA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "PL-KRS": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "PL-NIP": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "PL-REGON": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "PS-MOI": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "PT-NIPPC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "PY-PGN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "PY-RUC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "RO-CUI": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "RS-APR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "RS-PIB": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "RU-INN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "RU-OGRN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "SE-BLV": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "SE-KK": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "SE-ON": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "SG-ACRA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "SI-PRS": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "SI-TIN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "SK-ORSR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "SK-ZRSR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "SN-NINEA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "SS-RRC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "TR-MERSIS": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "TR-MOI": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "TZ-BRLA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "TZ-TRA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "UA-EDR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "UG-NGB": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "UG-RSB": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "US-DOS": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "US-EIN": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "US-USAGOV": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "UZ-KTUT": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "XE-EXAMPLE": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "XI-EORI": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "XI-GRID": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "XI-IATI": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "XI-PB": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "XI-PID": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "XI-WIKIDATA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "XM-DAC": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "XM-OCHA": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "XR-NUTS": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ZA-CIP": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ZA-NPO": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ZA-PBO": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ZM-PCR": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ZW-PVO": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        },
+        "ZW-ROD": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "category": null,
+            "url": null
+        }
     }
 }

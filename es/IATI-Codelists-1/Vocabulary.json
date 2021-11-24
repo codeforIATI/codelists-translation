@@ -1,15 +1,52 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null
+    },
     "codelist-items": {
-        "ADT": {},
-        "COFOG": {},
-        "DAC": {},
-        "DAC-3": {},
-        "ISO": {},
-        "NACE": {},
-        "NTEE": {},
-        "RO": {},
-        "RO2": {},
-        "WB": {}
+        "ADT": {
+            "code": null,
+            "name": null
+        },
+        "COFOG": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "DAC": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "DAC-3": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "ISO": {
+            "code": null,
+            "name": null
+        },
+        "NACE": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "NTEE": {
+            "code": null,
+            "name": null,
+            "url": null
+        },
+        "RO": {
+            "code": null,
+            "name": null
+        },
+        "RO2": {
+            "code": null,
+            "name": null
+        },
+        "WB": {
+            "code": null,
+            "name": null
+        }
     }
 }

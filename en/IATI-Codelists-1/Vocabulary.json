@@ -4,33 +4,48 @@
     },
     "codelist-items": {
         "ADT": {
+            "code": null,
             "name": "AidData"
         },
         "COFOG": {
-            "name": "Classification of the Functions of Government (UN)"
+            "code": null,
+            "name": "Classification of the Functions of Government (UN)",
+            "url": null
         },
         "DAC": {
-            "name": "OECD Development Assistance Committee"
+            "code": null,
+            "name": "OECD Development Assistance Committee",
+            "url": null
         },
         "DAC-3": {
-            "name": "OECD Development Assistance Committee 3 digit codes"
+            "code": null,
+            "name": "OECD Development Assistance Committee 3 digit codes",
+            "url": null
         },
         "ISO": {
+            "code": null,
             "name": "International Organization for Standardization"
         },
         "NACE": {
-            "name": "Statistical classification of economic activities in the European Community"
+            "code": null,
+            "name": "Statistical classification of economic activities in the European Community",
+            "url": null
         },
         "NTEE": {
-            "name": "National Taxonomy for Exempt Entities (USA)"
+            "code": null,
+            "name": "National Taxonomy for Exempt Entities (USA)",
+            "url": null
         },
         "RO": {
+            "code": null,
             "name": "Reporting Organisation (i.e. maintained by the organisation referred to in the <reporting-org> element."
         },
         "RO2": {
+            "code": null,
             "name": "Reporting Organisation (2) - where reporting organisations have more than one vocabulary that they wish to reference"
         },
         "WB": {
+            "code": null,
             "name": "World Bank"
         }
     }

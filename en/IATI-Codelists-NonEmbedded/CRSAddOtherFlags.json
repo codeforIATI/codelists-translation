@@ -5,18 +5,22 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Free standing technical cooperation",
             "description": "Free standing technical cooperation (Col 24 in CRS++ Reporting format)"
         },
         "2": {
+            "code": null,
             "name": "Programme-based approach",
             "description": "Programme-based approach (Col 25 in CRS++ Reporting format)"
         },
         "3": {
+            "code": null,
             "name": "Investment project",
             "description": "Investment project (Col 26 in CRS++ Reporting format)"
         },
         "4": {
+            "code": null,
             "name": "Associated financing",
             "description": "Associated financing (Col 27 in CRS++ Reporting format)"
         }

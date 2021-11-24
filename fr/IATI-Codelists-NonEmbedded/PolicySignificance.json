@@ -1,12 +1,32 @@
 {
     "metadata": {
-        "name": "Degr\u00e9 d'implication politique"
+        "name": "Degr\u00e9 d'implication politique",
+        "url": null
     },
     "codelist-items": {
-        "0": {},
-        "1": {},
-        "2": {},
-        "3": {},
-        "4": {}
+        "0": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "1": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "2": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "3": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "4": {
+            "code": null,
+            "name": null
+        }
     }
 }

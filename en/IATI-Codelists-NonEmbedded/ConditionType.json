@@ -5,14 +5,17 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Policy",
             "description": "The condition attached requires a particular policy to be implemented by the recipient"
         },
         "2": {
+            "code": null,
             "name": "Performance",
             "description": "The condition attached requires certain outputs or outcomes to be achieved by the recipient"
         },
         "3": {
+            "code": null,
             "name": "Fiduciary",
             "description": "The condition attached requires use of certain public financial management or public accountability measures by the recipient"
         }

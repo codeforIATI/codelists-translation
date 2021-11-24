@@ -4,56 +4,72 @@
     },
     "codelist-items": {
         "10": {
+            "code": null,
             "name": "Government"
         },
         "11": {
+            "code": null,
             "name": "Local Government",
             "description": "Any local (sub national) government organisation in either donor or recipient country."
         },
         "15": {
+            "code": null,
             "name": "Other Public Sector"
         },
         "21": {
+            "code": null,
             "name": "International NGO"
         },
         "22": {
+            "code": null,
             "name": "National NGO"
         },
         "23": {
+            "code": null,
             "name": "Regional NGO"
         },
         "24": {
+            "code": null,
             "name": "Partner Country based NGO",
             "description": "Local and National NGO / CSO based in aid/assistance recipient country"
         },
         "30": {
+            "code": null,
             "name": "Public Private Partnership"
         },
         "40": {
+            "code": null,
             "name": "Multilateral"
         },
         "60": {
+            "code": null,
             "name": "Foundation"
         },
         "70": {
+            "code": null,
             "name": "Private Sector"
         },
         "71": {
+            "code": null,
             "name": "Private Sector in Provider Country",
             "description": "Is in provider / donor country."
         },
         "72": {
+            "code": null,
             "name": "Private Sector in Aid Recipient Country",
             "description": "Is in aid recipient country."
         },
         "73": {
+            "code": null,
             "name": "Private Sector in Third Country",
             "description": "Is not in either a donor or aid recipient country."
         },
         "80": {
+            "code": null,
             "name": "Academic, Training and Research"
         },
         "90": {
+            "code": null,
             "name": "Other"
         }
     }

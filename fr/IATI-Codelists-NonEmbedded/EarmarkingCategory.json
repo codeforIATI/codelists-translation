@@ -1,12 +1,29 @@
 {
     "metadata": {
         "name": "Cat\u00e9gorie de pr\u00e9affectation",
-        "description": "Cette liste de code a \u00e9t\u00e9 cr\u00e9\u00e9e par l'IITA d'apr\u00e8s la liste de code des modalit\u00e9s de pr\u00e9affectation du \"Grand Bargain\"."
+        "description": "Cette liste de code a \u00e9t\u00e9 cr\u00e9\u00e9e par l'IITA d'apr\u00e8s la liste de code des modalit\u00e9s de pr\u00e9affectation du \"Grand Bargain\".",
+        "url": null
     },
     "codelist-items": {
-        "1": {},
-        "2": {},
-        "3": {},
-        "4": {}
+        "1": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "2": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "3": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "4": {
+            "code": null,
+            "name": null,
+            "description": null
+        }
     }
 }

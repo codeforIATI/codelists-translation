@@ -4,13 +4,19 @@
     },
     "codelist-items": {
         "1": {
-            "name": "Donateur"
+            "code": null,
+            "name": "Donateur",
+            "description": null
         },
         "2": {
-            "name": "R\u00e9cipiendaire"
+            "code": null,
+            "name": "R\u00e9cipiendaire",
+            "description": null
         },
         "3": {
-            "name": "Agr\u00e9gateur"
+            "code": null,
+            "name": "Agr\u00e9gateur",
+            "description": null
         }
     }
 }

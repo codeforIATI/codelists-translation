@@ -1,137 +1,197 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "url": null
+    },
     "codelist-items": {
         "111": {
-            "name": "Educa\u00e7\u00e3o, n\u00edvel n\u00e3o especificado"
+            "code": null,
+            "name": "Educa\u00e7\u00e3o, n\u00edvel n\u00e3o especificado",
+            "description": null
         },
         "112": {
+            "code": null,
             "name": "Ensino b\u00e1sico"
         },
         "113": {
+            "code": null,
             "name": "Ensino secund\u00e1rio"
         },
         "114": {
+            "code": null,
             "name": "Ensino p\u00f3s-secund\u00e1rio"
         },
         "121": {
+            "code": null,
             "name": "Sa\u00fade, geral"
         },
         "122": {
+            "code": null,
             "name": "Sa\u00fade b\u00e1sica"
         },
         "123": {
+            "code": null,
             "name": "Doen\u00e7as n\u00e3o transmiss\u00edveis (DNT)"
         },
         "130": {
+            "code": null,
             "name": "Pol\u00edticas/programas populacionais e sa\u00fade reprodutiva"
         },
         "140": {
+            "code": null,
             "name": "Abastecimento de \u00e1gua e saneamento"
         },
         "151": {
-            "name": "Governo e sociedade civil, geral"
+            "code": null,
+            "name": "Governo e sociedade civil, geral",
+            "description": null
         },
         "152": {
-            "name": "Conflitos, paz e seguran\u00e7a"
+            "code": null,
+            "name": "Conflitos, paz e seguran\u00e7a",
+            "description": null
         },
         "160": {
+            "code": null,
             "name": "Outros servi\u00e7os e infraestruturas sociais"
         },
         "210": {
-            "name": "Transportes e armazenamento"
+            "code": null,
+            "name": "Transportes e armazenamento",
+            "description": null
         },
         "220": {
+            "code": null,
             "name": "Comunica\u00e7\u00f5es"
         },
         "230": {
-            "name": "GERA\u00c7\u00c3O E FORNECIMENTO DE ENERGIA"
+            "code": null,
+            "name": "GERA\u00c7\u00c3O E FORNECIMENTO DE ENERGIA",
+            "description": null
         },
         "231": {
+            "code": null,
             "name": "Pol\u00edtica energ\u00e9tica"
         },
         "232": {
+            "code": null,
             "name": "Gera\u00e7\u00e3o de energia, fontes renov\u00e1veis"
         },
         "233": {
+            "code": null,
             "name": "Gera\u00e7\u00e3o de energia, fontes n\u00e3o renov\u00e1veis"
         },
         "234": {
+            "code": null,
             "name": "Centrais de energia h\u00edbridas"
         },
         "235": {
+            "code": null,
             "name": "Centrais de energia nuclear"
         },
         "236": {
+            "code": null,
             "name": "Distribui\u00e7\u00e3o de energia"
         },
         "240": {
+            "code": null,
             "name": "Servi\u00e7os banc\u00e1rios e financeiros"
         },
         "250": {
+            "code": null,
             "name": "Neg\u00f3cios e outros servi\u00e7os"
         },
         "311": {
+            "code": null,
             "name": "Agricultura"
         },
         "312": {
+            "code": null,
             "name": "Silvicultura"
         },
         "313": {
+            "code": null,
             "name": "Pesca"
         },
         "321": {
+            "code": null,
             "name": "Ind\u00fastria"
         },
         "322": {
+            "code": null,
             "name": "Recursos minerais e minera\u00e7\u00e3o"
         },
         "323": {
+            "code": null,
             "name": "Constru\u00e7\u00e3o"
         },
         "331": {
+            "code": null,
             "name": "Pol\u00edticas comerciais e regulamentos"
         },
         "332": {
+            "code": null,
             "name": "Turismo"
         },
         "410": {
-            "name": "Prote\u00e7\u00e3o geral do ambiente"
+            "code": null,
+            "name": "Prote\u00e7\u00e3o geral do ambiente",
+            "description": null
         },
         "430": {
+            "code": null,
             "name": "Outros, multissetoriais"
         },
         "510": {
-            "name": "Apoio or\u00e7amental geral"
+            "code": null,
+            "name": "Apoio or\u00e7amental geral",
+            "description": null
         },
         "520": {
+            "code": null,
             "name": "Ajuda alimentar ao desenvolvimento"
         },
         "530": {
-            "name": "Outra ajuda por meio de mercadorias"
+            "code": null,
+            "name": "Outra ajuda por meio de mercadorias",
+            "description": null
         },
         "600": {
+            "code": null,
             "name": "A\u00e7\u00e3o relacionada com a d\u00edvida"
         },
         "720": {
-            "name": "Resposta de emerg\u00eancia"
+            "code": null,
+            "name": "Resposta de emerg\u00eancia",
+            "description": null
         },
         "730": {
-            "name": "Ajuda \u00e0 reconstru\u00e7\u00e3o e reabilita\u00e7\u00e3o"
+            "code": null,
+            "name": "Ajuda \u00e0 reconstru\u00e7\u00e3o e reabilita\u00e7\u00e3o",
+            "description": null
         },
         "740": {
-            "name": "Preven\u00e7\u00e3o e prepara\u00e7\u00e3o contra cat\u00e1strofes"
+            "code": null,
+            "name": "Preven\u00e7\u00e3o e prepara\u00e7\u00e3o contra cat\u00e1strofes",
+            "description": null
         },
         "910": {
+            "code": null,
             "name": "Custos administrativos dos doadores"
         },
         "920": {
-            "name": "APOIO A ORGANIZA\u00c7\u00d5ES N\u00c3O GOVERNAMENTAIS (ONG)"
+            "code": null,
+            "name": "APOIO A ORGANIZA\u00c7\u00d5ES N\u00c3O GOVERNAMENTAIS (ONG)",
+            "description": null
         },
         "930": {
+            "code": null,
             "name": "Refugiados em pa\u00edses doadores"
         },
         "998": {
-            "name": "N\u00e3o atribu\u00eddo/n\u00e3o especificado"
+            "code": null,
+            "name": "N\u00e3o atribu\u00eddo/n\u00e3o especificado",
+            "description": null
         }
     }
 }

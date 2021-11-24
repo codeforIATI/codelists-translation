@@ -1,46 +1,57 @@
 {
     "metadata": {
         "name": "Type d'apport",
-        "description": "Distinction du CAD/SNPC entre l'APD (aide publique au d\u00e9veloppement) et les autres types d'apport"
+        "description": "Distinction du CAD/SNPC entre l'APD (aide publique au d\u00e9veloppement) et les autres types d'apport",
+        "url": null
     },
     "codelist-items": {
         "10": {
+            "code": null,
             "name": "APD",
             "description": "Aide Publique au D\u00e9veloppement"
         },
         "20": {
+            "code": null,
             "name": "AASP",
             "description": "Autres Apports du Secteur Public"
         },
         "21": {
+            "code": null,
             "name": "AASP hors cr\u00e9dits-export",
             "description": "Autres Apports du Secteur Public, \u00e0 l'exclusion des cr\u00e9dits \u00e0 l'exportation"
         },
         "22": {
+            "code": null,
             "name": "AASP dont cr\u00e9dits export",
             "description": "Autres Apports du Secteur Public, comprenant les cr\u00e9dits \u00e0 l'exportation soutenus par le secteur public et les exportations priv\u00e9es b\u00e9n\u00e9ficiant de garantie ou d'assurance publiques"
         },
         "30": {
+            "code": null,
             "name": "Financement du d\u00e9veloppement priv\u00e9",
             "description": "Financement par les organisations de la soci\u00e9t\u00e9 civile (ONG, fondations philantropiques, etc.)"
         },
         "35": {
+            "code": null,
             "name": "Apports priv\u00e9s aux conditions du march\u00e9",
             "description": "Apports priv\u00e9s aux conditions du march\u00e9"
         },
         "36": {
+            "code": null,
             "name": "IDE",
             "description": "Investissements directs \u00e0 l'\u00e9tranger"
         },
         "37": {
+            "code": null,
             "name": "Autres apports priv\u00e9s aux conditions du march\u00e9",
             "description": "Apports priv\u00e9s de long-terme (i.e. dont la maturit\u00e9 est  sup\u00e9rieure \u00e0 un an), transactions en capital faites par des r\u00e9sidents de pays du CAD"
         },
         "40": {
+            "code": null,
             "name": "non apports",
             "description": "ex : RNB, APD%RNB, Population etc"
         },
         "50": {
+            "code": null,
             "name": "Autres apports",
             "description": "ex : \u00e9l\u00e9ment non APD des op\u00e9rations de maintien de la paix"
         }

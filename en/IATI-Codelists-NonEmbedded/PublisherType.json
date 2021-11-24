@@ -4,14 +4,17 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Aid Provider",
             "description": "A government, organisation, agency or institution that provides aid funds."
         },
         "2": {
+            "code": null,
             "name": "Aid Recipient",
             "description": "A government, organisation, agency or institution that recieves aid funds."
         },
         "3": {
+            "code": null,
             "name": "Aggregator",
             "description": "An organisation that collects and reproduces information from other providers or recipients"
         }

@@ -1,9 +1,28 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null
+    },
     "codelist-items": {
-        "Accountable": {},
-        "Extending": {},
-        "Funding": {},
-        "Implementing": {}
+        "Accountable": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "Extending": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "Funding": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "Implementing": {
+            "code": null,
+            "name": null,
+            "description": null
+        }
     }
 }

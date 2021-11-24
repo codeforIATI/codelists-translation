@@ -5,12 +5,15 @@
     },
     "codelist-items": {
         "GEO": {
+            "code": null,
             "name": "Geonames.org"
         },
         "NGA": {
+            "code": null,
             "name": "National Geospatial-Intelligence Agency"
         },
         "OSM": {
+            "code": null,
             "name": "Open Street Map"
         }
     }

@@ -5,26 +5,32 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Pipeline/identification",
             "description": "The activity is being scoped or planned "
         },
         "2": {
+            "code": null,
             "name": "Implementation",
             "description": "The activity is currently being implemented"
         },
         "3": {
+            "code": null,
             "name": "Finalisation",
             "description": "Physical activity is complete or the final disbursement has been made, but the activity remains open pending financial sign off or M&E"
         },
         "4": {
+            "code": null,
             "name": "Closed",
             "description": "Physical activity is complete or the final disbursement has been made."
         },
         "5": {
+            "code": null,
             "name": "Cancelled",
             "description": "The activity has been cancelled"
         },
         "6": {
+            "code": null,
             "name": "Suspended",
             "description": "The activity has been temporarily suspended"
         }

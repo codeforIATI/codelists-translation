@@ -5,10 +5,12 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Exact",
             "description": "The designated geographic location is exact"
         },
         "2": {
+            "code": null,
             "name": "Approximate",
             "description": "The designated geographic location is approximate"
         }

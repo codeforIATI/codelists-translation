@@ -5,24 +5,36 @@
     },
     "codelist-items": {
         "A1": {
-            "name": "Global Admininistrative Unit Layers"
+            "code": null,
+            "name": "Global Admininistrative Unit Layers",
+            "url": null
         },
         "A2": {
+            "code": null,
             "name": "UN Second Administrative Level Boundary Project",
-            "description": "Note: the unsalb.org website is no longer accessible, and public access to the boundaries resources has been removed http://www.ungiwg.org/content/united-nations-international-and-administrative-boundaries-resources"
+            "description": "Note: the unsalb.org website is no longer accessible, and public access to the boundaries resources has been removed http://www.ungiwg.org/content/united-nations-international-and-administrative-boundaries-resources",
+            "url": null
         },
         "A3": {
-            "name": "Global Administrative Areas"
+            "code": null,
+            "name": "Global Administrative Areas",
+            "url": null
         },
         "A4": {
-            "name": "ISO Country (3166-1 alpha-2)"
+            "code": null,
+            "name": "ISO Country (3166-1 alpha-2)",
+            "url": null
         },
         "G1": {
-            "name": "Geonames"
+            "code": null,
+            "name": "Geonames",
+            "url": null
         },
         "G2": {
+            "code": null,
             "name": "OpenStreetMap",
-            "description": "Note: the code should be formed by prefixing the relevant OpenStreetMap ID with node/ way/ or relation/ as appropriate, e.g. node/1234567"
+            "description": "Note: the code should be formed by prefixing the relevant OpenStreetMap ID with node/ way/ or relation/ as appropriate, e.g. node/1234567",
+            "url": null
         }
     }
 }

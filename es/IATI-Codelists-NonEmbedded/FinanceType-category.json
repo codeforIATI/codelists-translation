@@ -1,18 +1,68 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null,
+        "url": null
+    },
     "codelist-items": {
-        "0": {},
-        "100": {},
-        "1000": {},
-        "200": {},
-        "300": {},
-        "400": {},
-        "420": {},
-        "430": {},
-        "500": {},
-        "600": {},
-        "700": {},
-        "800": {},
-        "900": {}
+        "0": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "100": {
+            "code": null,
+            "name": null
+        },
+        "1000": {
+            "code": null,
+            "name": null
+        },
+        "200": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "300": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "400": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "420": {
+            "code": null,
+            "name": null
+        },
+        "430": {
+            "code": null,
+            "name": null
+        },
+        "500": {
+            "code": null,
+            "name": null
+        },
+        "600": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "700": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "800": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "900": {
+            "code": null,
+            "name": null
+        }
     }
 }

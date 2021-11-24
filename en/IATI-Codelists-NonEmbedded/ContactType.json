@@ -4,18 +4,22 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "General Enquiries",
             "description": "General Enquiries"
         },
         "2": {
+            "code": null,
             "name": "Project Management",
             "description": "Project Management"
         },
         "3": {
+            "code": null,
             "name": "Financial Management",
             "description": "Financial Management"
         },
         "4": {
+            "code": null,
             "name": "Communications",
             "description": "Communications"
         }

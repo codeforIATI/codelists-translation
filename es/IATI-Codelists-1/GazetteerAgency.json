@@ -1,8 +1,20 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null
+    },
     "codelist-items": {
-        "GEO": {},
-        "NGA": {},
-        "OSM": {}
+        "GEO": {
+            "code": null,
+            "name": null
+        },
+        "NGA": {
+            "code": null,
+            "name": null
+        },
+        "OSM": {
+            "code": null,
+            "name": null
+        }
     }
 }

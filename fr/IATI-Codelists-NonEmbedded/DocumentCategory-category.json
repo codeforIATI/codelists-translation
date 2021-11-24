@@ -4,7 +4,15 @@
         "description": "Cette liste de code vise \u00e0 regrouper les \u00e9l\u00e9ments de la liste Cat\u00e9gorie de document en cat\u00e9gories. Elle n'est pas utilis\u00e9e comme liste de codes en elle-m\u00eame."
     },
     "codelist-items": {
-        "A": {},
-        "B": {}
+        "A": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "B": {
+            "code": null,
+            "name": null,
+            "description": null
+        }
     }
 }

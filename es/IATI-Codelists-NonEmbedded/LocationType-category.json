@@ -1,14 +1,45 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null,
+        "url": null
+    },
     "codelist-items": {
-        "A": {},
-        "H": {},
-        "L": {},
-        "P": {},
-        "R": {},
-        "S": {},
-        "T": {},
-        "U": {},
-        "V": {}
+        "A": {
+            "code": null,
+            "name": null
+        },
+        "H": {
+            "code": null,
+            "name": null
+        },
+        "L": {
+            "code": null,
+            "name": null
+        },
+        "P": {
+            "code": null,
+            "name": null
+        },
+        "R": {
+            "code": null,
+            "name": null
+        },
+        "S": {
+            "code": null,
+            "name": null
+        },
+        "T": {
+            "code": null,
+            "name": null
+        },
+        "U": {
+            "code": null,
+            "name": null
+        },
+        "V": {
+            "code": null,
+            "name": null
+        }
     }
 }

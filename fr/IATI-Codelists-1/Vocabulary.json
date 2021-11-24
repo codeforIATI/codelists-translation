@@ -1,34 +1,51 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null
+    },
     "codelist-items": {
         "ADT": {
+            "code": null,
             "name": "AidData"
         },
         "COFOG": {
-            "name": "COFOG (UN)"
+            "code": null,
+            "name": "COFOG (UN)",
+            "url": null
         },
         "DAC": {
-            "name": "OCDE Comit\u00e9 d'aide au d\u00e9veloppement"
+            "code": null,
+            "name": "OCDE Comit\u00e9 d'aide au d\u00e9veloppement",
+            "url": null
         },
         "DAC-3": {
-            "name": "OCDE Comit\u00e9 d'aide au d\u00e9veloppement 3 digit codes"
+            "code": null,
+            "name": "OCDE Comit\u00e9 d'aide au d\u00e9veloppement 3 digit codes",
+            "url": null
         },
         "ISO": {
+            "code": null,
             "name": "Organisation internationale de normalisation"
         },
         "NACE": {
-            "name": "Nomenclature statistique des activit\u00e9s \u00e9conomiques dans la Communaut\u00e9 europ\u00e9enne"
+            "code": null,
+            "name": "Nomenclature statistique des activit\u00e9s \u00e9conomiques dans la Communaut\u00e9 europ\u00e9enne",
+            "url": null
         },
         "NTEE": {
-            "name": "National Taxonomy for Exempt Entities (USA)"
+            "code": null,
+            "name": "National Taxonomy for Exempt Entities (USA)",
+            "url": null
         },
         "RO": {
+            "code": null,
             "name": "Organisation d\u00e9clarante (i.e. maintained by the organisation referred to in the <reporting-org> element."
         },
         "RO2": {
+            "code": null,
             "name": "Organisation d\u00e9clarante (2) - dans le cas o\u00f9 les organisations d\u00e9clarantes ont plus d'un vocabulaire qu'ils souhaitent faire r\u00e9f\u00e9rence"
         },
         "WB": {
+            "code": null,
             "name": "Banque mondiale"
         }
     }

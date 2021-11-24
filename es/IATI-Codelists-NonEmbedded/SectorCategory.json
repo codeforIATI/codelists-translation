@@ -1,137 +1,197 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "url": null
+    },
     "codelist-items": {
         "111": {
-            "name": "Educaci\u00f3n, nivel no especificado"
+            "code": null,
+            "name": "Educaci\u00f3n, nivel no especificado",
+            "description": null
         },
         "112": {
+            "code": null,
             "name": "Educaci\u00f3n b\u00e1sica"
         },
         "113": {
+            "code": null,
             "name": "Educaci\u00f3n secundaria"
         },
         "114": {
+            "code": null,
             "name": "Educaci\u00f3n post-secundaria"
         },
         "121": {
+            "code": null,
             "name": "Salud, general"
         },
         "122": {
+            "code": null,
             "name": "Salud b\u00e1sica"
         },
         "123": {
+            "code": null,
             "name": "Enfermedades no transmisibles"
         },
         "130": {
+            "code": null,
             "name": "Programas/pol\u00edticas sobre poblaci\u00f3n y salud reproductiva"
         },
         "140": {
+            "code": null,
             "name": "Abastecimiento de agua y saneamiento"
         },
         "151": {
-            "name": "Gobierno y sociedad civil, general"
+            "code": null,
+            "name": "Gobierno y sociedad civil, general",
+            "description": null
         },
         "152": {
-            "name": "Prevenci\u00f3n y resoluci\u00f3n de conflictos, paz y seguridad"
+            "code": null,
+            "name": "Prevenci\u00f3n y resoluci\u00f3n de conflictos, paz y seguridad",
+            "description": null
         },
         "160": {
+            "code": null,
             "name": "Otros servicios e infraestructuras sociales"
         },
         "210": {
-            "name": "Transporte y almacenamiento"
+            "code": null,
+            "name": "Transporte y almacenamiento",
+            "description": null
         },
         "220": {
+            "code": null,
             "name": "Comunicaciones"
         },
         "230": {
-            "name": "Generaci\u00f3n y suministro de energ\u00eda"
+            "code": null,
+            "name": "Generaci\u00f3n y suministro de energ\u00eda",
+            "description": null
         },
         "231": {
+            "code": null,
             "name": "Pol\u00edtica energ\u00e9tica"
         },
         "232": {
+            "code": null,
             "name": "Generaci\u00f3n de energ\u00eda, fuentes renovables"
         },
         "233": {
+            "code": null,
             "name": "Generaci\u00f3n de energ\u00eda, fuentes no renovables"
         },
         "234": {
+            "code": null,
             "name": "Centrales de energ\u00eda h\u00edbrida"
         },
         "235": {
+            "code": null,
             "name": "Centrales de energ\u00eda nuclear"
         },
         "236": {
+            "code": null,
             "name": "Distribuci\u00f3n de la energ\u00eda"
         },
         "240": {
+            "code": null,
             "name": "Servicios bancarios y financieros"
         },
         "250": {
+            "code": null,
             "name": "Empresas y otros servicios"
         },
         "311": {
+            "code": null,
             "name": "Agricultura"
         },
         "312": {
+            "code": null,
             "name": "Silvicultura"
         },
         "313": {
+            "code": null,
             "name": "Pesca"
         },
         "321": {
+            "code": null,
             "name": "Industria"
         },
         "322": {
+            "code": null,
             "name": "Industrias extractivas"
         },
         "323": {
+            "code": null,
             "name": "Construcci\u00f3n"
         },
         "331": {
+            "code": null,
             "name": "Pol\u00edtica y regulaci\u00f3n comercial"
         },
         "332": {
+            "code": null,
             "name": "Turismo"
         },
         "410": {
-            "name": "Protecci\u00f3n general medio ambiente"
+            "code": null,
+            "name": "Protecci\u00f3n general medio ambiente",
+            "description": null
         },
         "430": {
+            "code": null,
             "name": "Otras acciones multisectoriales"
         },
         "510": {
-            "name": "Apoyo presupuestario general"
+            "code": null,
+            "name": "Apoyo presupuestario general",
+            "description": null
         },
         "520": {
+            "code": null,
             "name": "Ayuda alimentaria para el desarrollo"
         },
         "530": {
-            "name": "Otras ayudas en forma de suministro de bienes"
+            "code": null,
+            "name": "Otras ayudas en forma de suministro de bienes",
+            "description": null
         },
         "600": {
+            "code": null,
             "name": "Actividades relacionadas con la deuda"
         },
         "720": {
-            "name": "Ayuda de emergencia"
+            "code": null,
+            "name": "Ayuda de emergencia",
+            "description": null
         },
         "730": {
-            "name": "Ayuda a la reconstrucci\u00f3n y a la rehabilitaci\u00f3n"
+            "code": null,
+            "name": "Ayuda a la reconstrucci\u00f3n y a la rehabilitaci\u00f3n",
+            "description": null
         },
         "740": {
-            "name": "Prevenci\u00f3n de desastres"
+            "code": null,
+            "name": "Prevenci\u00f3n de desastres",
+            "description": null
         },
         "910": {
+            "code": null,
             "name": "Costes administrativos donantes"
         },
         "920": {
-            "name": "APOYO A ORGANIZACIONES NO GUBERNAMENTALES (ONG)"
+            "code": null,
+            "name": "APOYO A ORGANIZACIONES NO GUBERNAMENTALES (ONG)",
+            "description": null
         },
         "930": {
+            "code": null,
             "name": "Ayuda a refugiados en el pa\u00eds donante"
         },
         "998": {
-            "name": "Sin especificaci\u00f3n / no clasificados"
+            "code": null,
+            "name": "Sin especificaci\u00f3n / no clasificados",
+            "description": null
         }
     }
 }

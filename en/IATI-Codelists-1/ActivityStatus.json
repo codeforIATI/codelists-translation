@@ -5,21 +5,27 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Pipeline/identification"
         },
         "2": {
+            "code": null,
             "name": "Implementation"
         },
         "3": {
+            "code": null,
             "name": "Finalisation"
         },
         "4": {
+            "code": null,
             "name": "Closed"
         },
         "5": {
+            "code": null,
             "name": "Cancelled"
         },
         "6": {
+            "code": null,
             "name": "Suspended"
         }
     }

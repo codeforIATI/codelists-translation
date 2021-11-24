@@ -5,18 +5,22 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Administrative Region",
             "description": "The designated geographic location is an administrative region (state, county, province, district, municipality etc.)"
         },
         "2": {
+            "code": null,
             "name": "Populated Place",
             "description": "The designated geographic location is a populated place (town, village, farm etc.)"
         },
         "3": {
+            "code": null,
             "name": "Structure",
             "description": "The designated geopgraphic location is a structure (such as a school or a clinic)"
         },
         "4": {
+            "code": null,
             "name": "Other Topographical Feature",
             "description": "The designated geographic location is a topographical feature, such as a mountain, a river, a forest"
         }

@@ -1,312 +1,1233 @@
 {
     "metadata": {
         "name": "Devise",
-        "description": "ISO 4217 La devise utilis\u00e9e pour tous les budgets et transactions"
+        "description": "ISO 4217 La devise utilis\u00e9e pour tous les budgets et transactions",
+        "url": null
     },
     "codelist-items": {
-        "ADP": {},
-        "AED": {},
-        "AFA": {},
-        "AFN": {},
-        "ALK": {},
-        "ALL": {},
-        "AMD": {},
-        "ANG": {},
-        "AOA": {},
-        "AOK": {},
-        "AON": {},
-        "AOR": {},
-        "ARA": {},
-        "ARP": {},
-        "ARS": {},
-        "ARY": {},
-        "ATS": {},
-        "AUD": {},
-        "AWG": {},
-        "AYM": {},
-        "AZM": {},
-        "AZN": {},
-        "BAD": {},
-        "BAM": {},
-        "BBD": {},
-        "BDT": {},
-        "BEC": {},
-        "BEF": {},
-        "BEL": {},
-        "BGJ": {},
-        "BGK": {},
-        "BGL": {},
-        "BGN": {},
-        "BHD": {},
-        "BIF": {},
-        "BMD": {},
-        "BND": {},
-        "BOB": {},
-        "BOP": {},
-        "BOV": {},
-        "BRB": {},
-        "BRC": {},
-        "BRE": {},
-        "BRL": {},
-        "BRN": {},
-        "BRR": {},
-        "BSD": {},
-        "BTN": {},
-        "BUK": {},
-        "BWP": {},
-        "BYB": {},
-        "BYN": {},
-        "BYR": {},
-        "BZD": {},
-        "CAD": {},
-        "CDF": {},
-        "CHC": {},
-        "CHE": {},
-        "CHF": {},
-        "CHW": {},
-        "CLF": {},
-        "CLP": {},
-        "CNY": {},
-        "COP": {},
-        "COU": {},
-        "CRC": {},
-        "CSD": {},
-        "CSJ": {},
-        "CSK": {},
-        "CUC": {},
-        "CUP": {},
-        "CVE": {},
-        "CYP": {},
-        "CZK": {},
-        "DDM": {},
-        "DEM": {},
-        "DJF": {},
-        "DKK": {},
-        "DOP": {},
-        "DZD": {},
-        "ECS": {},
-        "ECV": {},
-        "EEK": {},
-        "EGP": {},
-        "ERN": {},
-        "ESA": {},
-        "ESB": {},
-        "ESP": {},
-        "ETB": {},
-        "EUR": {},
-        "FIM": {},
-        "FJD": {},
-        "FKP": {},
-        "FRF": {},
-        "GBP": {},
-        "GEK": {},
-        "GEL": {},
-        "GHC": {},
-        "GHP": {},
-        "GHS": {},
-        "GIP": {},
-        "GMD": {},
-        "GNE": {},
-        "GNF": {},
-        "GNS": {},
-        "GQE": {},
-        "GRD": {},
-        "GTQ": {},
-        "GWE": {},
-        "GWP": {},
-        "GYD": {},
-        "HKD": {},
-        "HNL": {},
-        "HRD": {},
-        "HRK": {},
-        "HTG": {},
-        "HUF": {},
-        "IDR": {},
-        "IEP": {},
-        "ILP": {},
-        "ILR": {},
-        "ILS": {},
-        "INR": {},
-        "IQD": {},
-        "IRR": {},
-        "ISJ": {},
-        "ISK": {},
-        "ITL": {},
-        "JMD": {},
-        "JOD": {},
-        "JPY": {},
-        "KES": {},
-        "KGS": {},
-        "KHR": {},
-        "KMF": {},
-        "KPW": {},
-        "KRW": {},
-        "KWD": {},
-        "KYD": {},
-        "KZT": {},
-        "LAJ": {},
-        "LAK": {},
-        "LBP": {},
-        "LKR": {},
-        "LRD": {},
-        "LSL": {},
-        "LSM": {},
-        "LTL": {},
-        "LTT": {},
-        "LUC": {},
-        "LUF": {},
-        "LUL": {},
-        "LVL": {},
-        "LVR": {},
-        "LYD": {},
-        "MAD": {},
-        "MDL": {},
-        "MGA": {},
-        "MGF": {},
-        "MKD": {},
-        "MLF": {},
-        "MMK": {},
-        "MNT": {},
-        "MOP": {},
-        "MRO": {},
-        "MRU": {},
-        "MTL": {},
-        "MTP": {},
-        "MUR": {},
-        "MVQ": {},
-        "MVR": {},
-        "MWK": {},
-        "MXN": {},
-        "MXP": {},
-        "MXV": {},
-        "MYR": {},
-        "MZE": {},
-        "MZM": {},
-        "MZN": {},
-        "NAD": {},
-        "NGN": {},
-        "NIC": {},
-        "NIO": {},
-        "NLG": {},
-        "NOK": {},
-        "NPR": {},
-        "NZD": {},
-        "OMR": {},
-        "PAB": {},
-        "PEH": {},
-        "PEI": {},
-        "PEN": {},
-        "PES": {},
-        "PGK": {},
-        "PHP": {},
-        "PKR": {},
-        "PLN": {},
-        "PLZ": {},
-        "PTE": {},
-        "PYG": {},
-        "QAR": {},
-        "RHD": {},
-        "ROK": {},
-        "ROL": {},
-        "RON": {},
-        "RSD": {},
-        "RUB": {},
-        "RUR": {},
-        "RWF": {},
-        "SAR": {},
-        "SBD": {},
-        "SCR": {},
-        "SDD": {},
-        "SDG": {},
-        "SDP": {},
-        "SEK": {},
-        "SGD": {},
-        "SHP": {},
-        "SIT": {},
-        "SKK": {},
-        "SLL": {},
-        "SOS": {},
-        "SRD": {},
-        "SRG": {},
-        "SSP": {},
-        "STD": {},
-        "STN": {},
-        "SUR": {},
-        "SVC": {},
-        "SYP": {},
-        "SZL": {},
-        "THB": {},
-        "TJR": {},
-        "TJS": {},
-        "TMM": {},
-        "TMT": {},
-        "TND": {},
-        "TOP": {},
-        "TPE": {},
-        "TRL": {},
-        "TRY": {},
-        "TTD": {},
-        "TWD": {},
-        "TZS": {},
-        "UAH": {},
-        "UAK": {},
-        "UGS": {},
-        "UGW": {},
-        "UGX": {},
-        "USD": {},
-        "USN": {},
-        "USS": {},
-        "UYI": {},
-        "UYN": {},
-        "UYP": {},
-        "UYU": {},
-        "UYW": {},
-        "UZS": {},
-        "VEB": {},
-        "VED": {},
-        "VEF": {},
-        "VES": {},
-        "VNC": {},
-        "VND": {},
-        "VUV": {},
-        "WST": {},
-        "XAF": {},
-        "XAG": {},
-        "XAU": {},
-        "XBA": {},
-        "XBB": {},
-        "XBC": {},
-        "XBD": {},
-        "XBT": {},
-        "XCD": {},
-        "XDR": {},
-        "XEU": {},
-        "XFO": {},
-        "XFU": {},
-        "XOF": {},
-        "XPD": {},
-        "XPF": {},
-        "XPT": {},
-        "XRE": {},
-        "XSU": {},
-        "XTS": {},
-        "XUA": {},
-        "XXX": {},
-        "YDD": {},
-        "YER": {},
-        "YUD": {},
-        "YUM": {},
-        "YUN": {},
-        "ZAL": {},
-        "ZAR": {},
-        "ZMK": {},
-        "ZMW": {},
-        "ZRN": {},
-        "ZRZ": {},
-        "ZWC": {},
-        "ZWD": {},
-        "ZWL": {},
-        "ZWN": {},
-        "ZWR": {}
+        "ADP": {
+            "code": null,
+            "name": null
+        },
+        "AED": {
+            "code": null,
+            "name": null
+        },
+        "AFA": {
+            "code": null,
+            "name": null
+        },
+        "AFN": {
+            "code": null,
+            "name": null
+        },
+        "ALK": {
+            "code": null,
+            "name": null
+        },
+        "ALL": {
+            "code": null,
+            "name": null
+        },
+        "AMD": {
+            "code": null,
+            "name": null
+        },
+        "ANG": {
+            "code": null,
+            "name": null
+        },
+        "AOA": {
+            "code": null,
+            "name": null
+        },
+        "AOK": {
+            "code": null,
+            "name": null
+        },
+        "AON": {
+            "code": null,
+            "name": null
+        },
+        "AOR": {
+            "code": null,
+            "name": null
+        },
+        "ARA": {
+            "code": null,
+            "name": null
+        },
+        "ARP": {
+            "code": null,
+            "name": null
+        },
+        "ARS": {
+            "code": null,
+            "name": null
+        },
+        "ARY": {
+            "code": null,
+            "name": null
+        },
+        "ATS": {
+            "code": null,
+            "name": null
+        },
+        "AUD": {
+            "code": null,
+            "name": null
+        },
+        "AWG": {
+            "code": null,
+            "name": null
+        },
+        "AYM": {
+            "code": null,
+            "name": null
+        },
+        "AZM": {
+            "code": null,
+            "name": null
+        },
+        "AZN": {
+            "code": null,
+            "name": null
+        },
+        "BAD": {
+            "code": null,
+            "name": null
+        },
+        "BAM": {
+            "code": null,
+            "name": null
+        },
+        "BBD": {
+            "code": null,
+            "name": null
+        },
+        "BDT": {
+            "code": null,
+            "name": null
+        },
+        "BEC": {
+            "code": null,
+            "name": null
+        },
+        "BEF": {
+            "code": null,
+            "name": null
+        },
+        "BEL": {
+            "code": null,
+            "name": null
+        },
+        "BGJ": {
+            "code": null,
+            "name": null
+        },
+        "BGK": {
+            "code": null,
+            "name": null
+        },
+        "BGL": {
+            "code": null,
+            "name": null
+        },
+        "BGN": {
+            "code": null,
+            "name": null
+        },
+        "BHD": {
+            "code": null,
+            "name": null
+        },
+        "BIF": {
+            "code": null,
+            "name": null
+        },
+        "BMD": {
+            "code": null,
+            "name": null
+        },
+        "BND": {
+            "code": null,
+            "name": null
+        },
+        "BOB": {
+            "code": null,
+            "name": null
+        },
+        "BOP": {
+            "code": null,
+            "name": null
+        },
+        "BOV": {
+            "code": null,
+            "name": null
+        },
+        "BRB": {
+            "code": null,
+            "name": null
+        },
+        "BRC": {
+            "code": null,
+            "name": null
+        },
+        "BRE": {
+            "code": null,
+            "name": null
+        },
+        "BRL": {
+            "code": null,
+            "name": null
+        },
+        "BRN": {
+            "code": null,
+            "name": null
+        },
+        "BRR": {
+            "code": null,
+            "name": null
+        },
+        "BSD": {
+            "code": null,
+            "name": null
+        },
+        "BTN": {
+            "code": null,
+            "name": null
+        },
+        "BUK": {
+            "code": null,
+            "name": null
+        },
+        "BWP": {
+            "code": null,
+            "name": null
+        },
+        "BYB": {
+            "code": null,
+            "name": null
+        },
+        "BYN": {
+            "code": null,
+            "name": null
+        },
+        "BYR": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "BZD": {
+            "code": null,
+            "name": null
+        },
+        "CAD": {
+            "code": null,
+            "name": null
+        },
+        "CDF": {
+            "code": null,
+            "name": null
+        },
+        "CHC": {
+            "code": null,
+            "name": null
+        },
+        "CHE": {
+            "code": null,
+            "name": null
+        },
+        "CHF": {
+            "code": null,
+            "name": null
+        },
+        "CHW": {
+            "code": null,
+            "name": null
+        },
+        "CLF": {
+            "code": null,
+            "name": null
+        },
+        "CLP": {
+            "code": null,
+            "name": null
+        },
+        "CNY": {
+            "code": null,
+            "name": null
+        },
+        "COP": {
+            "code": null,
+            "name": null
+        },
+        "COU": {
+            "code": null,
+            "name": null
+        },
+        "CRC": {
+            "code": null,
+            "name": null
+        },
+        "CSD": {
+            "code": null,
+            "name": null
+        },
+        "CSJ": {
+            "code": null,
+            "name": null
+        },
+        "CSK": {
+            "code": null,
+            "name": null
+        },
+        "CUC": {
+            "code": null,
+            "name": null
+        },
+        "CUP": {
+            "code": null,
+            "name": null
+        },
+        "CVE": {
+            "code": null,
+            "name": null
+        },
+        "CYP": {
+            "code": null,
+            "name": null
+        },
+        "CZK": {
+            "code": null,
+            "name": null
+        },
+        "DDM": {
+            "code": null,
+            "name": null
+        },
+        "DEM": {
+            "code": null,
+            "name": null
+        },
+        "DJF": {
+            "code": null,
+            "name": null
+        },
+        "DKK": {
+            "code": null,
+            "name": null
+        },
+        "DOP": {
+            "code": null,
+            "name": null
+        },
+        "DZD": {
+            "code": null,
+            "name": null
+        },
+        "ECS": {
+            "code": null,
+            "name": null
+        },
+        "ECV": {
+            "code": null,
+            "name": null
+        },
+        "EEK": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "EGP": {
+            "code": null,
+            "name": null
+        },
+        "ERN": {
+            "code": null,
+            "name": null
+        },
+        "ESA": {
+            "code": null,
+            "name": null
+        },
+        "ESB": {
+            "code": null,
+            "name": null
+        },
+        "ESP": {
+            "code": null,
+            "name": null
+        },
+        "ETB": {
+            "code": null,
+            "name": null
+        },
+        "EUR": {
+            "code": null,
+            "name": null
+        },
+        "FIM": {
+            "code": null,
+            "name": null
+        },
+        "FJD": {
+            "code": null,
+            "name": null
+        },
+        "FKP": {
+            "code": null,
+            "name": null
+        },
+        "FRF": {
+            "code": null,
+            "name": null
+        },
+        "GBP": {
+            "code": null,
+            "name": null
+        },
+        "GEK": {
+            "code": null,
+            "name": null
+        },
+        "GEL": {
+            "code": null,
+            "name": null
+        },
+        "GHC": {
+            "code": null,
+            "name": null
+        },
+        "GHP": {
+            "code": null,
+            "name": null
+        },
+        "GHS": {
+            "code": null,
+            "name": null
+        },
+        "GIP": {
+            "code": null,
+            "name": null
+        },
+        "GMD": {
+            "code": null,
+            "name": null
+        },
+        "GNE": {
+            "code": null,
+            "name": null
+        },
+        "GNF": {
+            "code": null,
+            "name": null
+        },
+        "GNS": {
+            "code": null,
+            "name": null
+        },
+        "GQE": {
+            "code": null,
+            "name": null
+        },
+        "GRD": {
+            "code": null,
+            "name": null
+        },
+        "GTQ": {
+            "code": null,
+            "name": null
+        },
+        "GWE": {
+            "code": null,
+            "name": null
+        },
+        "GWP": {
+            "code": null,
+            "name": null
+        },
+        "GYD": {
+            "code": null,
+            "name": null
+        },
+        "HKD": {
+            "code": null,
+            "name": null
+        },
+        "HNL": {
+            "code": null,
+            "name": null
+        },
+        "HRD": {
+            "code": null,
+            "name": null
+        },
+        "HRK": {
+            "code": null,
+            "name": null
+        },
+        "HTG": {
+            "code": null,
+            "name": null
+        },
+        "HUF": {
+            "code": null,
+            "name": null
+        },
+        "IDR": {
+            "code": null,
+            "name": null
+        },
+        "IEP": {
+            "code": null,
+            "name": null
+        },
+        "ILP": {
+            "code": null,
+            "name": null
+        },
+        "ILR": {
+            "code": null,
+            "name": null
+        },
+        "ILS": {
+            "code": null,
+            "name": null
+        },
+        "INR": {
+            "code": null,
+            "name": null
+        },
+        "IQD": {
+            "code": null,
+            "name": null
+        },
+        "IRR": {
+            "code": null,
+            "name": null
+        },
+        "ISJ": {
+            "code": null,
+            "name": null
+        },
+        "ISK": {
+            "code": null,
+            "name": null
+        },
+        "ITL": {
+            "code": null,
+            "name": null
+        },
+        "JMD": {
+            "code": null,
+            "name": null
+        },
+        "JOD": {
+            "code": null,
+            "name": null
+        },
+        "JPY": {
+            "code": null,
+            "name": null
+        },
+        "KES": {
+            "code": null,
+            "name": null
+        },
+        "KGS": {
+            "code": null,
+            "name": null
+        },
+        "KHR": {
+            "code": null,
+            "name": null
+        },
+        "KMF": {
+            "code": null,
+            "name": null
+        },
+        "KPW": {
+            "code": null,
+            "name": null
+        },
+        "KRW": {
+            "code": null,
+            "name": null
+        },
+        "KWD": {
+            "code": null,
+            "name": null
+        },
+        "KYD": {
+            "code": null,
+            "name": null
+        },
+        "KZT": {
+            "code": null,
+            "name": null
+        },
+        "LAJ": {
+            "code": null,
+            "name": null
+        },
+        "LAK": {
+            "code": null,
+            "name": null
+        },
+        "LBP": {
+            "code": null,
+            "name": null
+        },
+        "LKR": {
+            "code": null,
+            "name": null
+        },
+        "LRD": {
+            "code": null,
+            "name": null
+        },
+        "LSL": {
+            "code": null,
+            "name": null
+        },
+        "LSM": {
+            "code": null,
+            "name": null
+        },
+        "LTL": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "LTT": {
+            "code": null,
+            "name": null
+        },
+        "LUC": {
+            "code": null,
+            "name": null
+        },
+        "LUF": {
+            "code": null,
+            "name": null
+        },
+        "LUL": {
+            "code": null,
+            "name": null
+        },
+        "LVL": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "LVR": {
+            "code": null,
+            "name": null
+        },
+        "LYD": {
+            "code": null,
+            "name": null
+        },
+        "MAD": {
+            "code": null,
+            "name": null
+        },
+        "MDL": {
+            "code": null,
+            "name": null
+        },
+        "MGA": {
+            "code": null,
+            "name": null
+        },
+        "MGF": {
+            "code": null,
+            "name": null
+        },
+        "MKD": {
+            "code": null,
+            "name": null
+        },
+        "MLF": {
+            "code": null,
+            "name": null
+        },
+        "MMK": {
+            "code": null,
+            "name": null
+        },
+        "MNT": {
+            "code": null,
+            "name": null
+        },
+        "MOP": {
+            "code": null,
+            "name": null
+        },
+        "MRO": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "MRU": {
+            "code": null,
+            "name": null
+        },
+        "MTL": {
+            "code": null,
+            "name": null
+        },
+        "MTP": {
+            "code": null,
+            "name": null
+        },
+        "MUR": {
+            "code": null,
+            "name": null
+        },
+        "MVQ": {
+            "code": null,
+            "name": null
+        },
+        "MVR": {
+            "code": null,
+            "name": null
+        },
+        "MWK": {
+            "code": null,
+            "name": null
+        },
+        "MXN": {
+            "code": null,
+            "name": null
+        },
+        "MXP": {
+            "code": null,
+            "name": null
+        },
+        "MXV": {
+            "code": null,
+            "name": null
+        },
+        "MYR": {
+            "code": null,
+            "name": null
+        },
+        "MZE": {
+            "code": null,
+            "name": null
+        },
+        "MZM": {
+            "code": null,
+            "name": null
+        },
+        "MZN": {
+            "code": null,
+            "name": null
+        },
+        "NAD": {
+            "code": null,
+            "name": null
+        },
+        "NGN": {
+            "code": null,
+            "name": null
+        },
+        "NIC": {
+            "code": null,
+            "name": null
+        },
+        "NIO": {
+            "code": null,
+            "name": null
+        },
+        "NLG": {
+            "code": null,
+            "name": null
+        },
+        "NOK": {
+            "code": null,
+            "name": null
+        },
+        "NPR": {
+            "code": null,
+            "name": null
+        },
+        "NZD": {
+            "code": null,
+            "name": null
+        },
+        "OMR": {
+            "code": null,
+            "name": null
+        },
+        "PAB": {
+            "code": null,
+            "name": null
+        },
+        "PEH": {
+            "code": null,
+            "name": null
+        },
+        "PEI": {
+            "code": null,
+            "name": null
+        },
+        "PEN": {
+            "code": null,
+            "name": null
+        },
+        "PES": {
+            "code": null,
+            "name": null
+        },
+        "PGK": {
+            "code": null,
+            "name": null
+        },
+        "PHP": {
+            "code": null,
+            "name": null
+        },
+        "PKR": {
+            "code": null,
+            "name": null
+        },
+        "PLN": {
+            "code": null,
+            "name": null
+        },
+        "PLZ": {
+            "code": null,
+            "name": null
+        },
+        "PTE": {
+            "code": null,
+            "name": null
+        },
+        "PYG": {
+            "code": null,
+            "name": null
+        },
+        "QAR": {
+            "code": null,
+            "name": null
+        },
+        "RHD": {
+            "code": null,
+            "name": null
+        },
+        "ROK": {
+            "code": null,
+            "name": null
+        },
+        "ROL": {
+            "code": null,
+            "name": null
+        },
+        "RON": {
+            "code": null,
+            "name": null
+        },
+        "RSD": {
+            "code": null,
+            "name": null
+        },
+        "RUB": {
+            "code": null,
+            "name": null
+        },
+        "RUR": {
+            "code": null,
+            "name": null
+        },
+        "RWF": {
+            "code": null,
+            "name": null
+        },
+        "SAR": {
+            "code": null,
+            "name": null
+        },
+        "SBD": {
+            "code": null,
+            "name": null
+        },
+        "SCR": {
+            "code": null,
+            "name": null
+        },
+        "SDD": {
+            "code": null,
+            "name": null
+        },
+        "SDG": {
+            "code": null,
+            "name": null
+        },
+        "SDP": {
+            "code": null,
+            "name": null
+        },
+        "SEK": {
+            "code": null,
+            "name": null
+        },
+        "SGD": {
+            "code": null,
+            "name": null
+        },
+        "SHP": {
+            "code": null,
+            "name": null
+        },
+        "SIT": {
+            "code": null,
+            "name": null
+        },
+        "SKK": {
+            "code": null,
+            "name": null
+        },
+        "SLL": {
+            "code": null,
+            "name": null
+        },
+        "SOS": {
+            "code": null,
+            "name": null
+        },
+        "SRD": {
+            "code": null,
+            "name": null
+        },
+        "SRG": {
+            "code": null,
+            "name": null
+        },
+        "SSP": {
+            "code": null,
+            "name": null
+        },
+        "STD": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "STN": {
+            "code": null,
+            "name": null
+        },
+        "SUR": {
+            "code": null,
+            "name": null
+        },
+        "SVC": {
+            "code": null,
+            "name": null
+        },
+        "SYP": {
+            "code": null,
+            "name": null
+        },
+        "SZL": {
+            "code": null,
+            "name": null
+        },
+        "THB": {
+            "code": null,
+            "name": null
+        },
+        "TJR": {
+            "code": null,
+            "name": null
+        },
+        "TJS": {
+            "code": null,
+            "name": null
+        },
+        "TMM": {
+            "code": null,
+            "name": null
+        },
+        "TMT": {
+            "code": null,
+            "name": null
+        },
+        "TND": {
+            "code": null,
+            "name": null
+        },
+        "TOP": {
+            "code": null,
+            "name": null
+        },
+        "TPE": {
+            "code": null,
+            "name": null
+        },
+        "TRL": {
+            "code": null,
+            "name": null
+        },
+        "TRY": {
+            "code": null,
+            "name": null
+        },
+        "TTD": {
+            "code": null,
+            "name": null
+        },
+        "TWD": {
+            "code": null,
+            "name": null
+        },
+        "TZS": {
+            "code": null,
+            "name": null
+        },
+        "UAH": {
+            "code": null,
+            "name": null
+        },
+        "UAK": {
+            "code": null,
+            "name": null
+        },
+        "UGS": {
+            "code": null,
+            "name": null
+        },
+        "UGW": {
+            "code": null,
+            "name": null
+        },
+        "UGX": {
+            "code": null,
+            "name": null
+        },
+        "USD": {
+            "code": null,
+            "name": null
+        },
+        "USN": {
+            "code": null,
+            "name": null
+        },
+        "USS": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "UYI": {
+            "code": null,
+            "name": null
+        },
+        "UYN": {
+            "code": null,
+            "name": null
+        },
+        "UYP": {
+            "code": null,
+            "name": null
+        },
+        "UYU": {
+            "code": null,
+            "name": null
+        },
+        "UYW": {
+            "code": null,
+            "name": null
+        },
+        "UZS": {
+            "code": null,
+            "name": null
+        },
+        "VEB": {
+            "code": null,
+            "name": null
+        },
+        "VED": {
+            "code": null,
+            "name": null
+        },
+        "VEF": {
+            "code": null,
+            "name": null
+        },
+        "VES": {
+            "code": null,
+            "name": null
+        },
+        "VNC": {
+            "code": null,
+            "name": null
+        },
+        "VND": {
+            "code": null,
+            "name": null
+        },
+        "VUV": {
+            "code": null,
+            "name": null
+        },
+        "WST": {
+            "code": null,
+            "name": null
+        },
+        "XAF": {
+            "code": null,
+            "name": null
+        },
+        "XAG": {
+            "code": null,
+            "name": null
+        },
+        "XAU": {
+            "code": null,
+            "name": null
+        },
+        "XBA": {
+            "code": null,
+            "name": null
+        },
+        "XBB": {
+            "code": null,
+            "name": null
+        },
+        "XBC": {
+            "code": null,
+            "name": null
+        },
+        "XBD": {
+            "code": null,
+            "name": null
+        },
+        "XBT": {
+            "code": null,
+            "name": null
+        },
+        "XCD": {
+            "code": null,
+            "name": null
+        },
+        "XDR": {
+            "code": null,
+            "name": null
+        },
+        "XEU": {
+            "code": null,
+            "name": null
+        },
+        "XFO": {
+            "code": null,
+            "name": null
+        },
+        "XFU": {
+            "code": null,
+            "name": null
+        },
+        "XOF": {
+            "code": null,
+            "name": null
+        },
+        "XPD": {
+            "code": null,
+            "name": null
+        },
+        "XPF": {
+            "code": null,
+            "name": null
+        },
+        "XPT": {
+            "code": null,
+            "name": null
+        },
+        "XRE": {
+            "code": null,
+            "name": null
+        },
+        "XSU": {
+            "code": null,
+            "name": null
+        },
+        "XTS": {
+            "code": null,
+            "name": null
+        },
+        "XUA": {
+            "code": null,
+            "name": null
+        },
+        "XXX": {
+            "code": null,
+            "name": null
+        },
+        "YDD": {
+            "code": null,
+            "name": null
+        },
+        "YER": {
+            "code": null,
+            "name": null
+        },
+        "YUD": {
+            "code": null,
+            "name": null
+        },
+        "YUM": {
+            "code": null,
+            "name": null
+        },
+        "YUN": {
+            "code": null,
+            "name": null
+        },
+        "ZAL": {
+            "code": null,
+            "name": null
+        },
+        "ZAR": {
+            "code": null,
+            "name": null
+        },
+        "ZMK": {
+            "code": null,
+            "name": null,
+            "description": null
+        },
+        "ZMW": {
+            "code": null,
+            "name": null
+        },
+        "ZRN": {
+            "code": null,
+            "name": null
+        },
+        "ZRZ": {
+            "code": null,
+            "name": null
+        },
+        "ZWC": {
+            "code": null,
+            "name": null
+        },
+        "ZWD": {
+            "code": null,
+            "name": null
+        },
+        "ZWL": {
+            "code": null,
+            "name": null
+        },
+        "ZWN": {
+            "code": null,
+            "name": null
+        },
+        "ZWR": {
+            "code": null,
+            "name": null
+        }
     }
 }

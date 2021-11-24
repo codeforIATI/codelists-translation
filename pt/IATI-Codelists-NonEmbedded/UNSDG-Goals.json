@@ -1,22 +1,77 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null,
+        "url": null
+    },
     "codelist-items": {
-        "1": {},
-        "2": {},
-        "3": {},
-        "4": {},
-        "5": {},
-        "6": {},
-        "7": {},
-        "8": {},
-        "9": {},
-        "10": {},
-        "11": {},
-        "12": {},
-        "13": {},
-        "14": {},
-        "15": {},
-        "16": {},
-        "17": {}
+        "1": {
+            "code": null,
+            "name": null
+        },
+        "2": {
+            "code": null,
+            "name": null
+        },
+        "3": {
+            "code": null,
+            "name": null
+        },
+        "4": {
+            "code": null,
+            "name": null
+        },
+        "5": {
+            "code": null,
+            "name": null
+        },
+        "6": {
+            "code": null,
+            "name": null
+        },
+        "7": {
+            "code": null,
+            "name": null
+        },
+        "8": {
+            "code": null,
+            "name": null
+        },
+        "9": {
+            "code": null,
+            "name": null
+        },
+        "10": {
+            "code": null,
+            "name": null
+        },
+        "11": {
+            "code": null,
+            "name": null
+        },
+        "12": {
+            "code": null,
+            "name": null
+        },
+        "13": {
+            "code": null,
+            "name": null
+        },
+        "14": {
+            "code": null,
+            "name": null
+        },
+        "15": {
+            "code": null,
+            "name": null
+        },
+        "16": {
+            "code": null,
+            "name": null
+        },
+        "17": {
+            "code": null,
+            "name": null
+        }
     }
 }

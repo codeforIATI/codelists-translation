@@ -5,18 +5,22 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "General",
             "description": "Unstructured, long description of the activity "
         },
         "2": {
+            "code": null,
             "name": "Objectives",
             "description": "Specific objectives for the activity, e.g. taken from logical framework"
         },
         "3": {
+            "code": null,
             "name": "Target Groups",
             "description": "Details of groups that are intended to benefit from the activity"
         },
         "4": {
+            "code": null,
             "name": "Other",
             "description": "For miscellaneous use. A further classification or breakdown may be included in the narrative"
         }

@@ -5,18 +5,22 @@
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Equal Principal Payments (EPP)",
             "description": "As required and defined by CRS++ reporting format Column 44"
         },
         "2": {
+            "code": null,
             "name": "Annuity",
             "description": "As required and defined by CRS++ reporting format Column 44"
         },
         "3": {
+            "code": null,
             "name": "Lump sum",
             "description": "As required and defined by CRS++ reporting format Column 44"
         },
         "5": {
+            "code": null,
             "name": "Other",
             "description": "As required and defined by CRS++ reporting format Column 44"
         }

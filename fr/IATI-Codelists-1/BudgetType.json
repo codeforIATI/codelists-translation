@@ -1,8 +1,15 @@
 {
-    "metadata": {},
+    "metadata": {
+        "name": null,
+        "description": null
+    },
     "codelist-items": {
-        "1": {},
+        "1": {
+            "code": null,
+            "name": null
+        },
         "2": {
+            "code": null,
             "name": "R\u00e9vis\u00e9"
         }
     }

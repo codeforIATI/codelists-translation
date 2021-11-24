@@ -1,58 +1,76 @@
 {
     "metadata": {
         "name": "UN Sustainable Development Goals (SDG)",
-        "description": "A value from the top-level list of UN sustainable development goals (SDGs) (e.g. \u20181\u2019)"
+        "description": "A value from the top-level list of UN sustainable development goals (SDGs) (e.g. \u20181\u2019)",
+        "url": null
     },
     "codelist-items": {
         "1": {
+            "code": null,
             "name": "Goal 1. End poverty in all its forms everywhere"
         },
         "2": {
+            "code": null,
             "name": "Goal 2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture"
         },
         "3": {
+            "code": null,
             "name": "Goal 3. Ensure healthy lives and promote well-being for all at all ages"
         },
         "4": {
+            "code": null,
             "name": "Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all"
         },
         "5": {
+            "code": null,
             "name": "Goal 5. Achieve gender equality and empower all women and girls"
         },
         "6": {
+            "code": null,
             "name": "Goal 6. Ensure availability and sustainable management of water and sanitation for all"
         },
         "7": {
+            "code": null,
             "name": "Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all"
         },
         "8": {
+            "code": null,
             "name": "Goal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all"
         },
         "9": {
+            "code": null,
             "name": "Goal 9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation"
         },
         "10": {
+            "code": null,
             "name": "Goal 10. Reduce inequality within and among countries"
         },
         "11": {
+            "code": null,
             "name": "Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable"
         },
         "12": {
+            "code": null,
             "name": "Goal 12. Ensure sustainable consumption and production patterns"
         },
         "13": {
+            "code": null,
             "name": "Goal 13. Take urgent action to combat climate change and its impacts"
         },
         "14": {
+            "code": null,
             "name": "Goal 14. Conserve and sustainably use the oceans, seas and marine resources for sustainable development"
         },
         "15": {
+            "code": null,
             "name": "Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat\u00a0desertification, and halt and reverse land degradation and halt biodiversity loss"
         },
         "16": {
+            "code": null,
             "name": "Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and\u00a0build effective, accountable and inclusive institutions at all levels"
         },
         "17": {
+            "code": null,
             "name": "Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable\u00a0Development"
         }
     }

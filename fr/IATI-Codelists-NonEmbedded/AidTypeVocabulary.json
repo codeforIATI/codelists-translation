@@ -5,10 +5,28 @@
     },
     "codelist-items": {
         "1": {
-            "name": "CAD OCDE"
+            "code": null,
+            "name": "CAD OCDE",
+            "description": null,
+            "url": null
         },
-        "2": {},
-        "3": {},
-        "4": {}
+        "2": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "3": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        },
+        "4": {
+            "code": null,
+            "name": null,
+            "description": null,
+            "url": null
+        }
     }
 }
