@@ -5,77 +5,62 @@
     },
     "codelist-items": {
         "4": {
-            "code": null,
             "name": "Emergency Shelter and NFI",
             "url": null
         },
         "1": {
-            "code": null,
             "name": "Camp Coordination / Management",
             "url": null
         },
         "5406": {
-            "code": null,
             "name": "Mine Action",
             "url": null
         },
         "6": {
-            "code": null,
             "name": "Food Security",
             "url": null
         },
         "11": {
-            "code": null,
             "name": "Water Sanitation Hygiene",
             "url": null
         },
         "8": {
-            "code": null,
             "name": "Logistics",
             "url": null
         },
         "5403": {
-            "code": null,
             "name": "Child Protection",
             "url": null
         },
         "10": {
-            "code": null,
             "name": "Protection",
             "url": null
         },
         "3": {
-            "code": null,
             "name": "Education",
             "url": null
         },
         "9": {
-            "code": null,
             "name": "Nutrition",
             "url": null
         },
         "7": {
-            "code": null,
             "name": "Health",
             "url": null
         },
         "2": {
-            "code": null,
             "name": "Early Recovery",
             "url": null
         },
         "5": {
-            "code": null,
             "name": "Emergency Telecommunications",
             "url": null
         },
         "5404": {
-            "code": null,
             "name": "Gender Based Violence",
             "url": null
         },
         "5405": {
-            "code": null,
             "name": "Housing, Land and Property",
             "url": null
         }

@@ -5,22 +5,18 @@
     },
     "codelist-items": {
         "Accountable": {
-            "code": null,
             "name": "Responsabilit\u00e9",
             "description": null
         },
         "Extending": {
-            "code": null,
             "name": "Octroi",
             "description": null
         },
         "Funding": {
-            "code": null,
             "name": "Financement",
             "description": null
         },
         "Implementing": {
-            "code": null,
             "name": "Mise en \u0153uvre",
             "description": null
         }

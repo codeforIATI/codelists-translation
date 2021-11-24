@@ -6,39 +6,30 @@
     },
     "codelist-items": {
         "A": {
-            "code": null,
             "name": "Administrative Region"
         },
         "H": {
-            "code": null,
             "name": "Hydrographic"
         },
         "L": {
-            "code": null,
             "name": "Area"
         },
         "P": {
-            "code": null,
             "name": "Populated Place"
         },
         "R": {
-            "code": null,
             "name": "Streets/Highways/Roads"
         },
         "S": {
-            "code": null,
             "name": "Spot Features"
         },
         "T": {
-            "code": null,
             "name": "Hypsographic"
         },
         "U": {
-            "code": null,
             "name": "Undersea"
         },
         "V": {
-            "code": null,
             "name": "Vegetation"
         }
     }

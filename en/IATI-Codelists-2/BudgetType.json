@@ -4,12 +4,10 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "Original",
             "description": "The original budget allocated to the activity"
         },
         "2": {
-            "code": null,
             "name": "Revised",
             "description": "The updated budget for an activity"
         }

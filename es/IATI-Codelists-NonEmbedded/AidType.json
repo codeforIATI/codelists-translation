@@ -5,127 +5,106 @@
     },
     "codelist-items": {
         "A01": {
-            "code": null,
             "name": "Apoyo presupuestario general",
             "description": null,
             "category": null
         },
         "A02": {
-            "code": null,
             "name": "Apoyo presupuestario sectorial",
             "description": null,
             "category": null
         },
         "B01": {
-            "code": null,
             "name": "Apoyo b\u00e1sico a ONG, otros organismos privados, alianzas p\u00fablico-privadas e institutos de investigaci\u00f3n",
             "description": null,
             "category": null
         },
         "B02": {
-            "code": null,
             "name": "Contribuciones b\u00e1sicas a instituciones multilaterales",
             "description": null,
             "category": null
         },
         "B03": {
-            "code": null,
             "name": "Contribuciones a programas para fines concretos y fondos administrados por asociados en la ejecuci\u00f3n",
             "description": null,
             "category": null
         },
         "B031": {
-            "code": null,
             "name": "Contribuciones a mecanismos de financiaci\u00f3n de donantes m\u00faltiples y entidades m\u00faltiples",
             "description": null,
             "category": null
         },
         "B032": {
-            "code": null,
             "name": "Contribuciones a mecanismos de financiaci\u00f3n de donantes m\u00faltiples y una entidad \u00fanica",
             "description": null,
             "category": null
         },
         "B033": {
-            "code": null,
             "name": "Contribuciones a mecanismos de financiaci\u00f3n de un donante \u00fanico y contribuciones para fines espec\u00edficos para ventanillas de financiaci\u00f3n o ubicaciones geogr\u00e1ficas espec\u00edficas",
             "description": null,
             "category": null
         },
         "B04": {
-            "code": null,
             "name": "Fondos colectivos o financiaci\u00f3n mancomunada",
             "description": null,
             "category": null
         },
         "C01": {
-            "code": null,
             "name": "Intervenciones basadas en proyectos",
             "description": null,
             "category": null
         },
         "D01": {
-            "code": null,
             "name": "Personal del pa\u00eds donante",
             "description": null,
             "category": null
         },
         "D02": {
-            "code": null,
             "name": "Asistencia t\u00e9cnica de otro tipo",
             "description": null,
             "category": null
         },
         "E01": {
-            "code": null,
             "name": "Becas o capacitaci\u00f3n en el pa\u00eds donante",
             "description": null,
             "category": null
         },
         "E02": {
-            "code": null,
             "name": "Costos estudiantiles estimados",
             "description": null,
             "category": null
         },
         "F01": {
-            "code": null,
             "name": "Alivio de la deuda",
             "description": null,
             "category": null
         },
         "G01": {
-            "code": null,
             "name": "Costos administrativos no incluidos en otras secciones",
             "description": null,
             "category": null
         },
         "H01": {
-            "code": null,
             "name": "Concienciaci\u00f3n en materia de desarrollo",
             "description": null,
             "category": null
         },
         "H02": {
-            "code": null,
             "name": "Refugiados/solicitantes de asilo en pa\u00edses donantes",
             "description": null,
             "category": null
         },
         "H03": {
-            "code": null,
             "name": "Solicitantes de asilo finalmente aceptados",
             "description": null,
             "category": null
         },
         "H04": {
-            "code": null,
             "name": "Solicitantes de asilo finalmente rechazados",
             "description": null,
             "category": null
         },
         "H05": {
-            "code": null,
             "name": "Refugiados reconocidos",
             "description": null,
             "category": null

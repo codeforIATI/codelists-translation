@@ -5,7 +5,6 @@
     },
     "codelist-items": {
         "FAFG21": {
-            "code": null,
             "name": "Afghanistan Flash Appeal 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -13,7 +12,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HAFG21": {
-            "code": null,
             "name": "Afghanistan Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -21,7 +19,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RBGD21": {
-            "code": null,
             "name": "Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -29,7 +26,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HBFA21": {
-            "code": null,
             "name": "Burkina Faso Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -37,7 +33,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HBDI21": {
-            "code": null,
             "name": "Burundi Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -45,7 +40,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RRWATZAUGA21": {
-            "code": null,
             "name": "Burundi Regional Refugee Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -53,7 +47,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCMR21": {
-            "code": null,
             "name": "Cameroon Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -61,7 +54,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCAF21": {
-            "code": null,
             "name": "Central African Republic Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -69,7 +61,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HTCD21": {
-            "code": null,
             "name": "Chad Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -77,7 +68,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCOL21": {
-            "code": null,
             "name": "Colombia Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -85,7 +75,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCOD21": {
-            "code": null,
             "name": "Democratic Republic of Congo Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -93,7 +82,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RDRCRRP21": {
-            "code": null,
             "name": "Democratic Republic of Congo Regional Refugee Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -101,7 +89,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSLV2122": {
-            "code": null,
             "name": "El Salvador Plan de Respuesta Humanitario 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -109,7 +96,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FPSE21": {
-            "code": null,
             "name": "Escalation of Hostilities in the oPt  Flash Appeal 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -117,7 +103,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HETH21": {
-            "code": null,
             "name": "Ethiopia Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -125,7 +110,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HGTM2122": {
-            "code": null,
             "name": "Guatemala Plan de Respuesta Humanitario 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -133,7 +117,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FHTI2122": {
-            "code": null,
             "name": "Haiti Flash Appeal 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -141,7 +124,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HHTI21": {
-            "code": null,
             "name": "Haiti Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -149,7 +131,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FHND2021": {
-            "code": null,
             "name": "Honduras Flash Appeal 2020-2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -157,7 +138,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HHND2122": {
-            "code": null,
             "name": "Honduras Plan de Respuesta Humanitario 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -165,7 +145,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HIRQ21": {
-            "code": null,
             "name": "Iraq Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -173,7 +152,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FKEN21": {
-            "code": null,
             "name": "Kenya Drought Flash Appeal 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -181,7 +159,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OLBN2122": {
-            "code": null,
             "name": "Lebanon Emergency Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -189,7 +166,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HLBY21": {
-            "code": null,
             "name": "Libya Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -197,7 +173,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FMDG2122": {
-            "code": null,
             "name": "Madagascar&#039;s Grand Sud Flash Appeal 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -205,7 +180,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FMDG21": {
-            "code": null,
             "name": "Madagascar&#039;s Grand Sud Flash Appeal 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -213,7 +187,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMLI21": {
-            "code": null,
             "name": "Mali Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -221,7 +194,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMOZ21": {
-            "code": null,
             "name": "Mozambique Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -229,7 +201,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMMR21": {
-            "code": null,
             "name": "Myanmar Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -237,7 +208,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OMMR21": {
-            "code": null,
             "name": "Myanmar Interim Emergency Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -245,7 +215,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "ONPL21": {
-            "code": null,
             "name": "Nepal Covid-19 Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -253,7 +222,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNER21": {
-            "code": null,
             "name": "Niger Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -261,7 +229,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNGA21": {
-            "code": null,
             "name": "Nigeria Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -269,7 +236,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OETH21": {
-            "code": null,
             "name": "Northern Ethiopia Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -277,7 +243,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HPSE21": {
-            "code": null,
             "name": "occupied Palestinian territory 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -285,7 +250,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HPAK21": {
-            "code": null,
             "name": "Pakistan Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -293,7 +257,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RREG21": {
-            "code": null,
             "name": "Refugee and Migrant Response Plan for Venezuela 2021 (RMRP)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -301,7 +264,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RDJIETHSOMYEM21": {
-            "code": null,
             "name": "Regional Migrant Humanitarian Response Plan for the Horn of Africa and Yemen 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -309,7 +271,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSOM21": {
-            "code": null,
             "name": "Somalia Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -317,7 +278,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSSD21": {
-            "code": null,
             "name": "South Sudan Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -325,7 +285,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RETHKENUGA21": {
-            "code": null,
             "name": "South Sudan Regional Refugee Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -333,7 +292,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSDN21": {
-            "code": null,
             "name": "Sudan Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -341,7 +299,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSYR21": {
-            "code": null,
             "name": "Syria Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -349,7 +306,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RSYR21": {
-            "code": null,
             "name": "Syria Refugee Response and Resilience Plan (3RP) 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -357,7 +313,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HUKR21": {
-            "code": null,
             "name": "Ukraine Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -365,7 +320,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HVEN21": {
-            "code": null,
             "name": "Venezuela Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -373,7 +327,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HYEM21": {
-            "code": null,
             "name": "Yemen Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -381,7 +334,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HZWE21": {
-            "code": null,
             "name": "Zimbabwe Humanitarian Response Plan 2021",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -389,7 +341,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HAFG20": {
-            "code": null,
             "name": "Afghanistan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -397,7 +348,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OBGD20": {
-            "code": null,
             "name": "Bangladesh Intersectoral COVID-19 Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -405,7 +355,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RBGD20": {
-            "code": null,
             "name": "Bangladesh: 2020 Joint Response Plan for Rohingya Humanitarian Crisis (January-December)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -413,7 +362,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OBEN20": {
-            "code": null,
             "name": "Benin Intersectoral COVID Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -421,7 +369,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HBFA20": {
-            "code": null,
             "name": "Burkina Faso 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -429,7 +376,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HBDI20": {
-            "code": null,
             "name": "Burundi 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -437,7 +383,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RRWATZAUGA20": {
-            "code": null,
             "name": "Burundi Regional Refugee Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -445,7 +390,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OMOZ20a": {
-            "code": null,
             "name": "Cabo Delgado Province Mozambique Rapid Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -453,7 +397,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCMR20": {
-            "code": null,
             "name": "Cameroon 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -461,7 +404,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCAF2021": {
-            "code": null,
             "name": "Central African Republic 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -469,7 +411,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HTCD20": {
-            "code": null,
             "name": "Chad 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -477,7 +418,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCOL20": {
-            "code": null,
             "name": "Colombia 2020 OLD",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -485,7 +425,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OCOL20": {
-            "code": null,
             "name": "Colombia Intersectoral COVID-19 Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -493,7 +432,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCOVD20": {
-            "code": null,
             "name": "COVID-19 Global Humanitarian Response Plan",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -501,7 +439,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RDRCRRP20": {
-            "code": null,
             "name": "Democratic Republic of Congo Regional Refugee Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -509,7 +446,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCOD20": {
-            "code": null,
             "name": "Democratic Republic of the Congo 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -517,7 +453,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FDJI1920": {
-            "code": null,
             "name": "Djibouti Flash Appeal 2019 - 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -525,7 +460,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "ODJI20": {
-            "code": null,
             "name": "Djibouti Intersectoral COVID-19 Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -533,7 +467,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OPRK20a": {
-            "code": null,
             "name": "DPR Korea Intersectoral COVID Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -541,7 +474,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OPRK20b": {
-            "code": null,
             "name": "DPR Korea Needs and Priorities 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -549,7 +481,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OECU20": {
-            "code": null,
             "name": "Ecuador Intersectoral COVID-19 Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -557,7 +488,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HETH20": {
-            "code": null,
             "name": "Ethiopia 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -565,7 +495,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OGLBL20": {
-            "code": null,
             "name": "Famine Prevention COVID-19 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -573,7 +502,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "O20": {
-            "code": null,
             "name": "Global Operational Support COVID-19",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -581,7 +509,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HHTI20": {
-            "code": null,
             "name": "Haiti 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -589,7 +516,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OIRN20": {
-            "code": null,
             "name": "Iran Intersectoral COVID Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -597,7 +523,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HIRQ20": {
-            "code": null,
             "name": "Iraq 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -605,7 +530,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OJOR20": {
-            "code": null,
             "name": "Jordan Intersectoral COVID-19 Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -613,7 +537,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OKEN20": {
-            "code": null,
             "name": "Kenya Intersectoral COVID-19 Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -621,7 +544,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FLBN20": {
-            "code": null,
             "name": "Lebanon Flash Appeal 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -629,7 +551,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OLBN20": {
-            "code": null,
             "name": "Lebanon Intersectoral COVID Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -637,7 +558,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FLSO1920": {
-            "code": null,
             "name": "Lesotho Flash Appeal 2019-2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -645,7 +565,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OLBR20": {
-            "code": null,
             "name": "Liberia Intersectoral COVID Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -653,7 +572,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HLBY20": {
-            "code": null,
             "name": "Libya 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -661,7 +579,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMLI20": {
-            "code": null,
             "name": "Mali 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -669,7 +586,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OMOZ20b": {
-            "code": null,
             "name": "Mozambique COVID-19 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -677,7 +593,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMMR20": {
-            "code": null,
             "name": "Myanmar 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -685,7 +600,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNER20": {
-            "code": null,
             "name": "Niger 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -693,7 +607,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNGA20": {
-            "code": null,
             "name": "Nigeria 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -701,7 +614,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HPSE20": {
-            "code": null,
             "name": "occupied Palestinian territory 2020 (part of 2018-2020 HRP)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -709,7 +621,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OPAK20": {
-            "code": null,
             "name": "Pakistan Intersectoral COVID Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -717,7 +628,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OPHL20": {
-            "code": null,
             "name": "Philippines Intersectoral COVID Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -725,7 +635,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RREG20": {
-            "code": null,
             "name": "Refugee and Migrant Response Plan 2020 for Refugees and Migrants from Venezuela (RMRP",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -733,7 +642,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RDJIETHSOMYEM20": {
-            "code": null,
             "name": "Regional Migrant Response Plan for the Horn of Africa and Yemen 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -741,7 +649,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OCOG20": {
-            "code": null,
             "name": "Republic of Congo Intersectoral COVID-19 Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -749,7 +656,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OSLE20": {
-            "code": null,
             "name": "Sierra Leone Intersectoral COVID Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -757,7 +663,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSOM20": {
-            "code": null,
             "name": "Somalia 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -765,7 +670,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSSD20": {
-            "code": null,
             "name": "South Sudan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -773,7 +677,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RETHKENUGA20": {
-            "code": null,
             "name": "South Sudan Regional Refugee Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -781,7 +684,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSDN20": {
-            "code": null,
             "name": "Sudan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -789,7 +691,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSYR20": {
-            "code": null,
             "name": "Syria Humanitarian Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -797,7 +698,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RSYR20": {
-            "code": null,
             "name": "Syria Refugee Response and Resilience Plan (3RP) 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -805,7 +705,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OTZA20": {
-            "code": null,
             "name": "Tanzania Intersectoral COVID-19 Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -813,7 +712,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OTGO20": {
-            "code": null,
             "name": "Togo Intersectoral COVID Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -821,7 +719,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OUGA20": {
-            "code": null,
             "name": "Uganda Intersectoral COVID-19 Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -829,7 +726,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HUKR20": {
-            "code": null,
             "name": "Ukraine 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -837,7 +733,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OGLBL20a": {
-            "code": null,
             "name": "Unallocated supplementary NGO envelope COVID-19 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -845,7 +740,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HVEN20": {
-            "code": null,
             "name": "Venezuela 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -853,7 +747,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HYEM20": {
-            "code": null,
             "name": "Yemen 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -861,7 +754,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OZMB1920": {
-            "code": null,
             "name": "Zambia 2019 - 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -869,7 +761,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OZMB20": {
-            "code": null,
             "name": "Zambia Intersectoral COVID-19 Response Plan 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -877,7 +768,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HZWE20": {
-            "code": null,
             "name": "Zimbabwe 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -885,7 +775,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HAFG19": {
-            "code": null,
             "name": "Afghanistan 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -893,7 +782,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OBGD19": {
-            "code": null,
             "name": "Bangladesh: 2019 Joint Response Plan for Rohingya Humanitarian Crisis (January-December)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -901,7 +789,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OBFA19": {
-            "code": null,
             "name": "Burkina Faso 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -909,7 +796,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HBDI19": {
-            "code": null,
             "name": "Burundi 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -917,7 +803,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCMR19": {
-            "code": null,
             "name": "Cameroon 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -925,7 +810,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCAF19": {
-            "code": null,
             "name": "Central African Republic 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -933,7 +817,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HTCD19": {
-            "code": null,
             "name": "Chad 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -941,7 +824,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCOD19": {
-            "code": null,
             "name": "Democratic Republic of the Congo 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -949,7 +831,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OPRK19": {
-            "code": null,
             "name": "DPR Korea Needs and Priorities 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -957,7 +838,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HETH19": {
-            "code": null,
             "name": "Ethiopia 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -965,7 +845,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HHTI19": {
-            "code": null,
             "name": "Haiti 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -973,7 +852,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HIRQ19": {
-            "code": null,
             "name": "Iraq 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -981,7 +859,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OIRN19": {
-            "code": null,
             "name": "Islamic Republic of Iran: Floods Response Plan (April 2019)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -989,7 +866,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HLBY19": {
-            "code": null,
             "name": "Libya 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -997,7 +873,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FMDG19": {
-            "code": null,
             "name": "Madagascar Flash Appeal 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1005,7 +880,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMLI19": {
-            "code": null,
             "name": "Mali 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1013,7 +887,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMOZ19": {
-            "code": null,
             "name": "Mozambique Humanitarian Response Plan 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1021,7 +894,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMMR19": {
-            "code": null,
             "name": "Myanmar 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1029,7 +901,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNER19": {
-            "code": null,
             "name": "Niger 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1037,7 +908,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNGA19": {
-            "code": null,
             "name": "Nigeria 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1045,7 +915,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HPSE19": {
-            "code": null,
             "name": "occupied Palestinian territory 2019  (part of 2018-2020 HRP)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1053,7 +922,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OPAK19": {
-            "code": null,
             "name": "Pakistan 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1061,7 +929,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OSAMR19": {
-            "code": null,
             "name": "Regional Refugee and Migrant Response Plan (for Refugees and Migrants from Venezuela)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1069,7 +936,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSOM19": {
-            "code": null,
             "name": "Somalia 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1077,7 +943,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSSD19": {
-            "code": null,
             "name": "South Sudan 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1085,7 +950,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSDN19": {
-            "code": null,
             "name": "Sudan 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1093,7 +957,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSYR19": {
-            "code": null,
             "name": "Syria Humanitarian Response Plan 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1101,7 +964,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RSYR19": {
-            "code": null,
             "name": "Syria Refugee Response and Resilience Plan (3RP) 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1109,7 +971,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HUKR19": {
-            "code": null,
             "name": "Ukraine Humanitarian Response Plan (HRP) 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1117,7 +978,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HVEN19": {
-            "code": null,
             "name": "Venezuela 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1125,7 +985,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HYEM19": {
-            "code": null,
             "name": "Yemen 2019",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1133,7 +992,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FZWE1820": {
-            "code": null,
             "name": "Zimbabwe Flash Appeal 2019 / 2020",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1141,7 +999,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HAFG18": {
-            "code": null,
             "name": "Afghanistan 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1149,7 +1006,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OBGD18": {
-            "code": null,
             "name": "Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1157,7 +1013,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OBFA18": {
-            "code": null,
             "name": "Burkina Faso 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1165,7 +1020,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HBDI18": {
-            "code": null,
             "name": "Burundi 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1173,7 +1027,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCMR18": {
-            "code": null,
             "name": "Cameroon 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1181,7 +1034,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCAF18": {
-            "code": null,
             "name": "Central African Republic 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1189,7 +1041,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HTCD18": {
-            "code": null,
             "name": "Chad 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1197,7 +1048,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCOD18": {
-            "code": null,
             "name": "Democratic Republic of the Congo 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1205,7 +1055,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OPRK18": {
-            "code": null,
             "name": "DPR Korea Needs and Priorities 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1213,7 +1062,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HETH18": {
-            "code": null,
             "name": "Ethiopia Humanitarian and Disaster Resilience Plan 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1221,7 +1069,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HHTI18": {
-            "code": null,
             "name": "Haiti 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1229,7 +1076,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OIDN18": {
-            "code": null,
             "name": "Indonesia: Central Sulawesi Earthquake Response Plan 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1237,7 +1083,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HIRQ18": {
-            "code": null,
             "name": "Iraq 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1245,7 +1090,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HLBY18": {
-            "code": null,
             "name": "Libya 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1253,7 +1097,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMLI18": {
-            "code": null,
             "name": "Mali 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1261,7 +1104,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OMRT18": {
-            "code": null,
             "name": "Mauritania 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1269,7 +1111,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMMR18": {
-            "code": null,
             "name": "Myanmar 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1277,7 +1118,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNER18": {
-            "code": null,
             "name": "Niger 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1285,7 +1125,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNGA18": {
-            "code": null,
             "name": "Nigeria 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1293,7 +1132,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HPSE18": {
-            "code": null,
             "name": "occupied Palestinian territory 2018  (part of 2018-2020 HRP)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1301,7 +1139,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OPAK18": {
-            "code": null,
             "name": "Pakistan Transition Plan: Humanitarian Component 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1309,7 +1146,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OPHL18": {
-            "code": null,
             "name": "Philippines: Marawi Conflict 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1317,7 +1153,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSSD18": {
-            "code": null,
             "name": "Republic of South Sudan 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1325,7 +1160,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OSEN18": {
-            "code": null,
             "name": "Senegal 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1333,7 +1167,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSOM18": {
-            "code": null,
             "name": "Somalia 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1341,7 +1174,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSDN18": {
-            "code": null,
             "name": "Sudan 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1349,7 +1181,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSYR17a": {
-            "code": null,
             "name": "Syria Humanitarian Response Plan 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1357,7 +1188,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "R18": {
-            "code": null,
             "name": "Syria regional refugee and resilience plan (3RP) 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1365,7 +1195,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HUKR18": {
-            "code": null,
             "name": "Ukraine Humanitarian Response Plan 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1373,7 +1202,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HYEM18": {
-            "code": null,
             "name": "Yemen 2018",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1381,7 +1209,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OEUR17": {
-            "code": null,
             "name": "2017 Europe Situation - Regional Refugee and Migrant Response",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1389,7 +1216,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HAFG17": {
-            "code": null,
             "name": "Afghanistan 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1397,7 +1223,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OBGD17": {
-            "code": null,
             "name": "Bangladesh: Rohingya Refugee Crisis 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1405,7 +1230,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HBFA17": {
-            "code": null,
             "name": "Burkina Faso 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1413,7 +1237,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HBDI17": {
-            "code": null,
             "name": "Burundi 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1421,7 +1244,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCMR17": {
-            "code": null,
             "name": "Cameroon 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1429,7 +1251,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCAF17": {
-            "code": null,
             "name": "Central African Republic 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1437,7 +1258,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HTCD17": {
-            "code": null,
             "name": "Chad 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1445,7 +1265,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OCUB17": {
-            "code": null,
             "name": "Cuba Plan of Action 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1453,7 +1272,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCOD17": {
-            "code": null,
             "name": "Democratic Republic of the Congo 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1461,7 +1279,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HDJI17": {
-            "code": null,
             "name": "Djibouti 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1469,7 +1286,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FDMA17": {
-            "code": null,
             "name": "Dominica Flash Appeal 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1477,7 +1293,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OPRK17": {
-            "code": null,
             "name": "DPR Korea Needs and Priorities 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1485,7 +1300,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HETH17": {
-            "code": null,
             "name": "Ethiopia 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1493,7 +1307,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HHTI17": {
-            "code": null,
             "name": "Haiti 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1501,7 +1314,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "O17": {
-            "code": null,
             "name": "Hurricane Irma: Regional Response Plan for the Caribbean Region (Sep to Dec 2017)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1509,7 +1321,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HIRQ17": {
-            "code": null,
             "name": "Iraq 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1517,7 +1328,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FKEN17": {
-            "code": null,
             "name": "Kenya Flash Appeal 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1525,7 +1335,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HLBY17": {
-            "code": null,
             "name": "Libya 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1533,7 +1342,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FMDG17": {
-            "code": null,
             "name": "Madagascar Flash Appeal 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1541,7 +1349,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMLI17": {
-            "code": null,
             "name": "Mali 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1549,7 +1356,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMRT17": {
-            "code": null,
             "name": "Mauritania 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1557,7 +1363,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FMOZ17": {
-            "code": null,
             "name": "Mozambique Cyclone Dineo Flash Appeal 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1565,7 +1370,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMMR17": {
-            "code": null,
             "name": "Myanmar 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1573,7 +1377,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNER17": {
-            "code": null,
             "name": "Niger 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1581,7 +1384,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNGA17": {
-            "code": null,
             "name": "Nigeria 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1589,7 +1391,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HPSE17": {
-            "code": null,
             "name": "occupied Palestinian territory 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1597,7 +1398,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HPAK17": {
-            "code": null,
             "name": "Pakistan Humanitarian Strategic Plan 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1605,7 +1405,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FPER17": {
-            "code": null,
             "name": "Peru Flash Appeal 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1613,7 +1412,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCOG17": {
-            "code": null,
             "name": "Republic of Congo 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1621,7 +1419,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSSD17": {
-            "code": null,
             "name": "Republic of South Sudan 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1629,7 +1426,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSEN17": {
-            "code": null,
             "name": "Senegal 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1637,7 +1433,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSOM17": {
-            "code": null,
             "name": "Somalia 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1645,7 +1440,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSDN17": {
-            "code": null,
             "name": "Sudan 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1653,7 +1447,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSYR17": {
-            "code": null,
             "name": "Syria Humanitarian Response Plan 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1661,7 +1454,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RSYR17": {
-            "code": null,
             "name": "Syria regional refugee and resilience plan (3RP) 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1669,7 +1461,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HUKR17": {
-            "code": null,
             "name": "Ukraine Humanitarian Response Plan 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1677,7 +1468,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HYEM17": {
-            "code": null,
             "name": "Yemen Humanitarian Response Plan 2017",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1685,7 +1475,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OEUR16": {
-            "code": null,
             "name": "2016 Europe Situation -Regional Refugee and Migrant Response",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1693,7 +1482,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HAFG16": {
-            "code": null,
             "name": "Afghanistan 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1701,7 +1489,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FAFG16": {
-            "code": null,
             "name": "Afghanistan Flash Appeal: One million people on the move (September - December 2016)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1709,7 +1496,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HBFA16": {
-            "code": null,
             "name": "Burkina Faso 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1717,7 +1503,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HBDI16": {
-            "code": null,
             "name": "Burundi 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1725,7 +1510,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCMR16": {
-            "code": null,
             "name": "Cameroon 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1733,7 +1517,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCAF16": {
-            "code": null,
             "name": "Central African Republic 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1741,7 +1524,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HTCD16": {
-            "code": null,
             "name": "Chad 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1749,7 +1531,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCOD16": {
-            "code": null,
             "name": "Democratic Republic of the Congo 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1757,7 +1538,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HDJI16": {
-            "code": null,
             "name": "Djibouti 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1765,7 +1545,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OPRK16": {
-            "code": null,
             "name": "DPR Korea Needs and Priorities 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1773,7 +1552,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FECU16": {
-            "code": null,
             "name": "Ecuador Earthquake Flash Appeal 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1781,7 +1559,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FFJI16": {
-            "code": null,
             "name": "Fiji Tropical Cyclone Flash Appeal 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1789,7 +1566,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HGMB16": {
-            "code": null,
             "name": "Gambia 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1797,7 +1573,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HGTM16": {
-            "code": null,
             "name": "Guatemala 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1805,7 +1580,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HHTI16": {
-            "code": null,
             "name": "Haiti 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1813,7 +1587,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FHTI16": {
-            "code": null,
             "name": "Haiti Flash Appeal: Hurricane Matthew 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1821,7 +1594,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HHND16": {
-            "code": null,
             "name": "Honduras 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1829,7 +1601,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HIRQ16": {
-            "code": null,
             "name": "Iraq 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1837,7 +1608,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FLBY16": {
-            "code": null,
             "name": "Libya - Sirte Flash Appeal 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1845,7 +1615,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HLBY1516": {
-            "code": null,
             "name": "Libya 2015-2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1853,7 +1622,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMLI16": {
-            "code": null,
             "name": "Mali 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1861,7 +1629,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMRT16": {
-            "code": null,
             "name": "Mauritania 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1869,7 +1636,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FIRQ16": {
-            "code": null,
             "name": "Mosul Flash Appeal 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1877,7 +1643,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMMR16": {
-            "code": null,
             "name": "Myanmar 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1885,7 +1650,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNER16": {
-            "code": null,
             "name": "Niger 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1893,7 +1657,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNGA16": {
-            "code": null,
             "name": "Nigeria 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1901,7 +1664,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HPSE16": {
-            "code": null,
             "name": "occupied Palestinian territory 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1909,7 +1671,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSSD16": {
-            "code": null,
             "name": "Republic of South Sudan 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1917,7 +1678,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HXSHL16": {
-            "code": null,
             "name": "Sahel 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1925,7 +1685,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSEN16": {
-            "code": null,
             "name": "Senegal 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1933,7 +1692,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSOM16": {
-            "code": null,
             "name": "Somalia 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1941,7 +1699,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSDN16": {
-            "code": null,
             "name": "Sudan 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1949,7 +1706,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSYR16": {
-            "code": null,
             "name": "Syria Humanitarian Response Plan 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1957,7 +1713,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RXSYRREG16": {
-            "code": null,
             "name": "Syria regional refugee and resilience plan (3RP) 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1965,7 +1720,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HUKR1615": {
-            "code": null,
             "name": "Ukraine 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1973,7 +1727,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HYEM16": {
-            "code": null,
             "name": "Yemen Humanitarian Response Plan 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1981,7 +1734,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HZWE1617": {
-            "code": null,
             "name": "Zimbabwe Humanitarian Response Plan 2016",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1989,7 +1741,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HAFG15": {
-            "code": null,
             "name": "Afghanistan 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -1997,7 +1748,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HBFA15": {
-            "code": null,
             "name": "Burkina Faso 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2005,7 +1755,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCMR15": {
-            "code": null,
             "name": "Cameroon 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2013,7 +1762,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCAF15": {
-            "code": null,
             "name": "Central African Republic 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2021,7 +1769,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HTCD15": {
-            "code": null,
             "name": "Chad 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2029,7 +1776,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCOD15": {
-            "code": null,
             "name": "Democratic Republic of the Congo 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2037,7 +1783,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HDJI15": {
-            "code": null,
             "name": "Djibouti 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2045,7 +1790,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OPRK15": {
-            "code": null,
             "name": "DPR Korea Needs and Priorities 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2053,7 +1797,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HGMB15": {
-            "code": null,
             "name": "Gambia 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2061,7 +1804,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FGTM1415": {
-            "code": null,
             "name": "Guatemala 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2069,7 +1811,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FHTI15": {
-            "code": null,
             "name": "Haiti 2015 Urgent Request for Humanitarian Funding",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2077,7 +1818,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FHND1415": {
-            "code": null,
             "name": "Honduras 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2085,7 +1825,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FVUT15": {
-            "code": null,
             "name": "Humanitarian Action Plan/ERP for Vanuatu",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2093,7 +1832,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HIRQ15": {
-            "code": null,
             "name": "Iraq 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2101,7 +1839,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HLBY1415": {
-            "code": null,
             "name": "Libya Humanitarian Appeal October 2014- May 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2109,7 +1846,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMLI15": {
-            "code": null,
             "name": "Mali 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2117,7 +1853,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMRT15": {
-            "code": null,
             "name": "Mauritania 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2125,7 +1860,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMMR15": {
-            "code": null,
             "name": "Myanmar 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2133,7 +1867,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FNPL15": {
-            "code": null,
             "name": "Nepal Earthquake Flash Appeal 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2141,7 +1874,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNER15": {
-            "code": null,
             "name": "Niger 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2149,7 +1881,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNGA15": {
-            "code": null,
             "name": "Nigeria 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2157,7 +1888,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HPSE15": {
-            "code": null,
             "name": "occupied Palestinian territory 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2165,7 +1895,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSSD15": {
-            "code": null,
             "name": "Republic of South Sudan 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2173,7 +1902,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HXSHL15": {
-            "code": null,
             "name": "Sahel Regional 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2181,7 +1909,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSEN15": {
-            "code": null,
             "name": "Senegal 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2189,7 +1916,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSOM15": {
-            "code": null,
             "name": "Somalia 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2197,7 +1923,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RXSSDREG15": {
-            "code": null,
             "name": "South Sudan regional refugee response plan 2015 (Ethiopia, Kenya, Uganda components)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2205,7 +1930,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSDN15": {
-            "code": null,
             "name": "Sudan 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2213,7 +1937,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RXSYRREG15": {
-            "code": null,
             "name": "Syria regional refugee and resilience plan (3RP) 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2221,7 +1944,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSYR15": {
-            "code": null,
             "name": "Syria Response Plan 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2229,7 +1951,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HUKR15": {
-            "code": null,
             "name": "Ukraine 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2237,7 +1958,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HYEM15": {
-            "code": null,
             "name": "Yemen 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2245,7 +1965,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HAFG14": {
-            "code": null,
             "name": "Afghanistan 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2253,7 +1972,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HBFA1314": {
-            "code": null,
             "name": "Burkina Faso 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2261,7 +1979,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCMR14": {
-            "code": null,
             "name": "Cameroon 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2269,7 +1986,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCAF14": {
-            "code": null,
             "name": "Central African Republic 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2277,7 +1993,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HTCD14": {
-            "code": null,
             "name": "Chad 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2285,7 +2000,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCOD1415": {
-            "code": null,
             "name": "Democratic Republic of the Congo 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2293,7 +2007,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HDJI14": {
-            "code": null,
             "name": "Djibouti 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2301,7 +2014,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OXEBOLA1415": {
-            "code": null,
             "name": "Ebola Virus Outbreak - Overview of Needs and Requirements (inter-agency plan for Guinea, Liberia, Sierra Leone, Region) - October 2014 - June 2015",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2309,7 +2021,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HGMB14": {
-            "code": null,
             "name": "Gambia 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2317,7 +2028,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HHTI14": {
-            "code": null,
             "name": "Haiti Humanitarian Action Plan 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2325,7 +2035,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HIRQ14": {
-            "code": null,
             "name": "Iraq 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2333,7 +2042,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMLI14": {
-            "code": null,
             "name": "Mali 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2341,7 +2049,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMRT14": {
-            "code": null,
             "name": "Mauritania 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2349,7 +2056,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HMMR14": {
-            "code": null,
             "name": "Myanmar 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2357,7 +2063,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNER14": {
-            "code": null,
             "name": "Niger Plan de R\u00e9ponse Strat\u00e9gique 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2365,7 +2070,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HNGA14": {
-            "code": null,
             "name": "Nigeria 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2373,7 +2077,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HPSE14": {
-            "code": null,
             "name": "occupied Palestinian territory 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2381,7 +2084,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FPHL1314": {
-            "code": null,
             "name": "Philippines - Bohol Earthquake Action Plan (October 2013 - April 2014)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2389,7 +2091,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HPHL1314": {
-            "code": null,
             "name": "Philippines - Typhoon Haiyan Strategic Response Plan (November 2013 - October 2014)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2397,7 +2098,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HPHL1314a": {
-            "code": null,
             "name": "Philippines- Zamboanga crisis (October 2013-August 2014)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2405,7 +2105,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HCOG14": {
-            "code": null,
             "name": "Republic of Congo 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2413,7 +2112,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSSD14": {
-            "code": null,
             "name": "Republic of South Sudan - Crisis Response Plan 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2421,7 +2119,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HXSHL14": {
-            "code": null,
             "name": "Sahel Regional 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2429,7 +2126,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSEN14": {
-            "code": null,
             "name": "Senegal 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2437,7 +2133,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSOM14": {
-            "code": null,
             "name": "Somalia 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2445,7 +2140,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RXSSDREG14": {
-            "code": null,
             "name": "South Sudan Regional Refugee Response Plan (Ethiopia, Kenya, Sudan and Uganda) 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2453,7 +2147,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSDN14": {
-            "code": null,
             "name": "Sudan Humanitarian Work Plan 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2461,7 +2154,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HSYR1314": {
-            "code": null,
             "name": "Syria Humanitarian Assistance Response Plan (SHARP) 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2469,7 +2161,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RXSYRREG14": {
-            "code": null,
             "name": "Syria Regional Refugee Response Plan (RRP) 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2477,7 +2168,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "FUKR14": {
-            "code": null,
             "name": "Ukraine PRP 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2485,7 +2175,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "HYEM14": {
-            "code": null,
             "name": "Yemen 2014",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2493,7 +2182,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CAFG13": {
-            "code": null,
             "name": "Afghanistan 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2501,7 +2189,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CBFA13": {
-            "code": null,
             "name": "Burkina Faso 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2509,7 +2196,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CCAF13": {
-            "code": null,
             "name": "Central African Republic 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2517,7 +2203,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CTCD13": {
-            "code": null,
             "name": "Chad 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2525,7 +2210,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OCUB1213": {
-            "code": null,
             "name": "Cuba Plan of Action 2012 - 2013 (November 2012 - December 2013)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2533,7 +2217,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CCOD1314": {
-            "code": null,
             "name": "Democratic Republic of the Congo 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2541,7 +2224,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CDJI13": {
-            "code": null,
             "name": "Djibouti 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2549,7 +2231,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CHTI13": {
-            "code": null,
             "name": "Haiti Humanitarian Action Plan 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2557,7 +2238,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CKEN13": {
-            "code": null,
             "name": "Kenya Emergency Humanitarian Response Plan 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2565,7 +2245,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CMLI13": {
-            "code": null,
             "name": "Mali 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2573,7 +2252,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CMRT13": {
-            "code": null,
             "name": "Mauritania 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2581,7 +2259,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OMMR13": {
-            "code": null,
             "name": "Myanmar - Kachin Response Plan 2013 (March - December 2013)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2589,7 +2266,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OMMR1213": {
-            "code": null,
             "name": "Myanmar - Rakhine Response Plan 2012-2013 (July 2012 - December 2013)",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2597,7 +2273,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CNER13": {
-            "code": null,
             "name": "Niger 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2605,7 +2280,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CPSE13": {
-            "code": null,
             "name": "occupied Palestinian territory 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2613,7 +2287,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CPHL1314": {
-            "code": null,
             "name": "Philippines Mindanao Action Plan 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2621,7 +2294,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CSSD13": {
-            "code": null,
             "name": "Republic of South Sudan 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2629,7 +2301,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CSOM13": {
-            "code": null,
             "name": "Somalia 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2637,7 +2308,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CSDN13": {
-            "code": null,
             "name": "Sudan 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2645,7 +2315,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CSYR13": {
-            "code": null,
             "name": "Syria Humanitarian Assistance Response Plan (SHARP) 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2653,7 +2322,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "RXSYRREG13": {
-            "code": null,
             "name": "Syria Regional Refugee Response Plan (RRP) 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2661,7 +2329,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "CYEM13": {
-            "code": null,
             "name": "Yemen Humanitarian Response Plan 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,
@@ -2669,7 +2336,6 @@
             "{https://codeforiati.org/}plan-end-date": null
         },
         "OZWE13": {
-            "code": null,
             "name": "Zimbabwe 2013",
             "{https://codeforiati.org/}plan-type": null,
             "{https://codeforiati.org/}plan-year": null,

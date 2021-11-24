@@ -5,15 +5,12 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "Commercial Restrictions"
         },
         "2": {
-            "code": null,
             "name": "Legal Restrictions"
         },
         "3": {
-            "code": null,
             "name": "Rapid Onset Emergency"
         }
     }

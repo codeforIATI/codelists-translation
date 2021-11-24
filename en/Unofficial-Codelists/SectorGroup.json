@@ -6,7 +6,6 @@
     },
     "codelist-items": {
         "11110": {
-            "code": null,
             "name": "Education policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Education, Level Unspecified",
@@ -14,7 +13,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11120": {
-            "code": null,
             "name": "Education facilities and training",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Education, Level Unspecified",
@@ -22,7 +20,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11130": {
-            "code": null,
             "name": "Teacher training",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Education, Level Unspecified",
@@ -30,7 +27,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11182": {
-            "code": null,
             "name": "Educational research",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Education, Level Unspecified",
@@ -38,7 +34,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11220": {
-            "code": null,
             "name": "Primary education",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Education",
@@ -46,7 +41,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11230": {
-            "code": null,
             "name": "Basic life skills for adults",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Education",
@@ -54,7 +48,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11231": {
-            "code": null,
             "name": "Basic life skills for youth",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Education",
@@ -62,7 +55,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11232": {
-            "code": null,
             "name": "Primary education equivalent for adults",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Education",
@@ -70,7 +62,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11240": {
-            "code": null,
             "name": "Early childhood education",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Education",
@@ -78,7 +69,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11250": {
-            "code": null,
             "name": "School feeding",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Education",
@@ -86,7 +76,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11260": {
-            "code": null,
             "name": "Lower secondary education",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Education",
@@ -94,7 +83,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11320": {
-            "code": null,
             "name": "Upper Secondary Education (modified and includes data from 11322)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Secondary Education",
@@ -102,7 +90,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11330": {
-            "code": null,
             "name": "Vocational training",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Secondary Education",
@@ -110,7 +97,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11420": {
-            "code": null,
             "name": "Higher education",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Post-Secondary Education",
@@ -118,7 +104,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "11430": {
-            "code": null,
             "name": "Advanced technical and managerial training",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Post-Secondary Education",
@@ -126,7 +111,6 @@
             "{https://codeforiati.org/}group-name": "Education"
         },
         "12110": {
-            "code": null,
             "name": "Health policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Health, General",
@@ -134,7 +118,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12181": {
-            "code": null,
             "name": "Medical education/training",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Health, General",
@@ -142,7 +125,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12182": {
-            "code": null,
             "name": "Medical research",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Health, General",
@@ -150,7 +132,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12191": {
-            "code": null,
             "name": "Medical services",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Health, General",
@@ -158,7 +139,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12220": {
-            "code": null,
             "name": "Basic health care",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Health",
@@ -166,7 +146,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12230": {
-            "code": null,
             "name": "Basic health infrastructure",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Health",
@@ -174,7 +153,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12240": {
-            "code": null,
             "name": "Basic nutrition",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Health",
@@ -182,7 +160,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12250": {
-            "code": null,
             "name": "Infectious disease control",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Health",
@@ -190,7 +167,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12261": {
-            "code": null,
             "name": "Health education",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Health",
@@ -198,7 +174,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12262": {
-            "code": null,
             "name": "Malaria control",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Health",
@@ -206,7 +181,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12263": {
-            "code": null,
             "name": "Tuberculosis control",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Health",
@@ -214,7 +188,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12264": {
-            "code": null,
             "name": "COVID-19 control",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Health",
@@ -222,7 +195,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12281": {
-            "code": null,
             "name": "Health personnel development",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Basic Health",
@@ -230,7 +202,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12310": {
-            "code": null,
             "name": "NCDs control, general",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Non-communicable diseases (NCDs)",
@@ -238,7 +209,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12320": {
-            "code": null,
             "name": "Tobacco use control",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Non-communicable diseases (NCDs)",
@@ -246,7 +216,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12330": {
-            "code": null,
             "name": "Control of harmful use of alcohol and drugs",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Non-communicable diseases (NCDs)",
@@ -254,7 +223,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12340": {
-            "code": null,
             "name": "Promotion of mental health and well-being",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Non-communicable diseases (NCDs)",
@@ -262,7 +230,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12350": {
-            "code": null,
             "name": "Other prevention and treatment of NCDs",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Non-communicable diseases (NCDs)",
@@ -270,7 +237,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "12382": {
-            "code": null,
             "name": "Research for prevention and control of NCDs",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Non-communicable diseases (NCDs)",
@@ -278,7 +244,6 @@
             "{https://codeforiati.org/}group-name": "Health"
         },
         "13010": {
-            "code": null,
             "name": "Population policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Population Policies/Programmes & Reproductive Health",
@@ -286,7 +251,6 @@
             "{https://codeforiati.org/}group-name": "Population Policies/Programmes & Reproductive Health"
         },
         "13020": {
-            "code": null,
             "name": "Reproductive health care",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Population Policies/Programmes & Reproductive Health",
@@ -294,7 +258,6 @@
             "{https://codeforiati.org/}group-name": "Population Policies/Programmes & Reproductive Health"
         },
         "13030": {
-            "code": null,
             "name": "Family planning",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Population Policies/Programmes & Reproductive Health",
@@ -302,7 +265,6 @@
             "{https://codeforiati.org/}group-name": "Population Policies/Programmes & Reproductive Health"
         },
         "13040": {
-            "code": null,
             "name": "STD control including HIV/AIDS",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Population Policies/Programmes & Reproductive Health",
@@ -310,7 +272,6 @@
             "{https://codeforiati.org/}group-name": "Population Policies/Programmes & Reproductive Health"
         },
         "13081": {
-            "code": null,
             "name": "Personnel development for population and reproductive health",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Population Policies/Programmes & Reproductive Health",
@@ -318,7 +279,6 @@
             "{https://codeforiati.org/}group-name": "Population Policies/Programmes & Reproductive Health"
         },
         "14010": {
-            "code": null,
             "name": "Water sector policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Water Supply & Sanitation",
@@ -326,7 +286,6 @@
             "{https://codeforiati.org/}group-name": "Water Supply & Sanitation"
         },
         "14015": {
-            "code": null,
             "name": "Water resources conservation (including data collection)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Water Supply & Sanitation",
@@ -334,7 +293,6 @@
             "{https://codeforiati.org/}group-name": "Water Supply & Sanitation"
         },
         "14020": {
-            "code": null,
             "name": "Water supply and sanitation - large systems",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Water Supply & Sanitation",
@@ -342,7 +300,6 @@
             "{https://codeforiati.org/}group-name": "Water Supply & Sanitation"
         },
         "14021": {
-            "code": null,
             "name": "Water supply - large systems",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Water Supply & Sanitation",
@@ -350,7 +307,6 @@
             "{https://codeforiati.org/}group-name": "Water Supply & Sanitation"
         },
         "14022": {
-            "code": null,
             "name": "Sanitation - large systems",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Water Supply & Sanitation",
@@ -358,7 +314,6 @@
             "{https://codeforiati.org/}group-name": "Water Supply & Sanitation"
         },
         "14030": {
-            "code": null,
             "name": "Basic drinking water supply and basic sanitation",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Water Supply & Sanitation",
@@ -366,7 +321,6 @@
             "{https://codeforiati.org/}group-name": "Water Supply & Sanitation"
         },
         "14031": {
-            "code": null,
             "name": "Basic drinking water supply",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Water Supply & Sanitation",
@@ -374,7 +328,6 @@
             "{https://codeforiati.org/}group-name": "Water Supply & Sanitation"
         },
         "14032": {
-            "code": null,
             "name": "Basic sanitation",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Water Supply & Sanitation",
@@ -382,7 +335,6 @@
             "{https://codeforiati.org/}group-name": "Water Supply & Sanitation"
         },
         "14040": {
-            "code": null,
             "name": "River basins development",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Water Supply & Sanitation",
@@ -390,7 +342,6 @@
             "{https://codeforiati.org/}group-name": "Water Supply & Sanitation"
         },
         "14050": {
-            "code": null,
             "name": "Waste management/disposal",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Water Supply & Sanitation",
@@ -398,7 +349,6 @@
             "{https://codeforiati.org/}group-name": "Water Supply & Sanitation"
         },
         "14081": {
-            "code": null,
             "name": "Education and training in water supply and sanitation",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Water Supply & Sanitation",
@@ -406,7 +356,6 @@
             "{https://codeforiati.org/}group-name": "Water Supply & Sanitation"
         },
         "15110": {
-            "code": null,
             "name": "Public sector policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -414,7 +363,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15111": {
-            "code": null,
             "name": "Public finance management (PFM)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -422,7 +370,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15112": {
-            "code": null,
             "name": "Decentralisation and support to subnational government",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -430,7 +377,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15113": {
-            "code": null,
             "name": "Anti-corruption organisations and institutions",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -438,7 +384,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15114": {
-            "code": null,
             "name": "Domestic revenue mobilisation",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -446,7 +391,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15125": {
-            "code": null,
             "name": "Public Procurement",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -454,7 +398,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15130": {
-            "code": null,
             "name": "Legal and judicial development",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -462,7 +405,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15142": {
-            "code": null,
             "name": "Macroeconomic policy",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -470,7 +412,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15150": {
-            "code": null,
             "name": "Democratic participation and civil society",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -478,7 +419,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15151": {
-            "code": null,
             "name": "Elections",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -486,7 +426,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15152": {
-            "code": null,
             "name": "Legislatures and political parties",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -494,7 +433,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15153": {
-            "code": null,
             "name": "Media and free flow of information",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -502,7 +440,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15160": {
-            "code": null,
             "name": "Human rights",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -510,7 +447,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15170": {
-            "code": null,
             "name": "Women's rights organisations and movements, and government institutions",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -518,7 +454,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15180": {
-            "code": null,
             "name": "Ending violence against women and girls",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -526,7 +461,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15190": {
-            "code": null,
             "name": "Facilitation of orderly, safe, regular and responsible migration and mobility",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Government & Civil Society-general",
@@ -534,7 +468,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15210": {
-            "code": null,
             "name": "Security system management and reform",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Conflict, Peace & Security",
@@ -542,7 +475,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15220": {
-            "code": null,
             "name": "Civilian peace-building, conflict prevention and resolution",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Conflict, Peace & Security",
@@ -550,7 +482,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15230": {
-            "code": null,
             "name": "Participation in international peacekeeping operations",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Conflict, Peace & Security",
@@ -558,7 +489,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15240": {
-            "code": null,
             "name": "Reintegration and SALW control",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Conflict, Peace & Security",
@@ -566,7 +496,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15250": {
-            "code": null,
             "name": "Removal of land mines and explosive remnants of war",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Conflict, Peace & Security",
@@ -574,7 +503,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "15261": {
-            "code": null,
             "name": "Child soldiers (prevention and demobilisation)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Conflict, Peace & Security",
@@ -582,7 +510,6 @@
             "{https://codeforiati.org/}group-name": "Government & Civil Society"
         },
         "16010": {
-            "code": null,
             "name": "Social Protection",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Social Infrastructure & Services",
@@ -590,7 +517,6 @@
             "{https://codeforiati.org/}group-name": "Other Social Infrastructure & Services"
         },
         "16020": {
-            "code": null,
             "name": "Employment creation",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Social Infrastructure & Services",
@@ -598,7 +524,6 @@
             "{https://codeforiati.org/}group-name": "Other Social Infrastructure & Services"
         },
         "16030": {
-            "code": null,
             "name": "Housing policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Social Infrastructure & Services",
@@ -606,7 +531,6 @@
             "{https://codeforiati.org/}group-name": "Other Social Infrastructure & Services"
         },
         "16040": {
-            "code": null,
             "name": "Low-cost housing",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Social Infrastructure & Services",
@@ -614,7 +538,6 @@
             "{https://codeforiati.org/}group-name": "Other Social Infrastructure & Services"
         },
         "16050": {
-            "code": null,
             "name": "Multisector aid for basic social services",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Social Infrastructure & Services",
@@ -622,7 +545,6 @@
             "{https://codeforiati.org/}group-name": "Other Social Infrastructure & Services"
         },
         "16061": {
-            "code": null,
             "name": "Culture and recreation",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Social Infrastructure & Services",
@@ -630,7 +552,6 @@
             "{https://codeforiati.org/}group-name": "Other Social Infrastructure & Services"
         },
         "16062": {
-            "code": null,
             "name": "Statistical capacity building",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Social Infrastructure & Services",
@@ -638,7 +559,6 @@
             "{https://codeforiati.org/}group-name": "Other Social Infrastructure & Services"
         },
         "16063": {
-            "code": null,
             "name": "Narcotics control",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Social Infrastructure & Services",
@@ -646,7 +566,6 @@
             "{https://codeforiati.org/}group-name": "Other Social Infrastructure & Services"
         },
         "16064": {
-            "code": null,
             "name": "Social mitigation of HIV/AIDS",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Social Infrastructure & Services",
@@ -654,7 +573,6 @@
             "{https://codeforiati.org/}group-name": "Other Social Infrastructure & Services"
         },
         "16070": {
-            "code": null,
             "name": "Labour rights",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Social Infrastructure & Services",
@@ -662,7 +580,6 @@
             "{https://codeforiati.org/}group-name": "Other Social Infrastructure & Services"
         },
         "16080": {
-            "code": null,
             "name": "Social dialogue",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Social Infrastructure & Services",
@@ -670,7 +587,6 @@
             "{https://codeforiati.org/}group-name": "Other Social Infrastructure & Services"
         },
         "21010": {
-            "code": null,
             "name": "Transport policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Transport & Storage",
@@ -678,7 +594,6 @@
             "{https://codeforiati.org/}group-name": "Transport & Storage"
         },
         "21020": {
-            "code": null,
             "name": "Road transport",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Transport & Storage",
@@ -686,7 +601,6 @@
             "{https://codeforiati.org/}group-name": "Transport & Storage"
         },
         "21030": {
-            "code": null,
             "name": "Rail transport",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Transport & Storage",
@@ -694,7 +608,6 @@
             "{https://codeforiati.org/}group-name": "Transport & Storage"
         },
         "21040": {
-            "code": null,
             "name": "Water transport",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Transport & Storage",
@@ -702,7 +615,6 @@
             "{https://codeforiati.org/}group-name": "Transport & Storage"
         },
         "21050": {
-            "code": null,
             "name": "Air transport",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Transport & Storage",
@@ -710,7 +622,6 @@
             "{https://codeforiati.org/}group-name": "Transport & Storage"
         },
         "21061": {
-            "code": null,
             "name": "Storage",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Transport & Storage",
@@ -718,7 +629,6 @@
             "{https://codeforiati.org/}group-name": "Transport & Storage"
         },
         "21081": {
-            "code": null,
             "name": "Education and training in transport and storage",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Transport & Storage",
@@ -726,7 +636,6 @@
             "{https://codeforiati.org/}group-name": "Transport & Storage"
         },
         "22010": {
-            "code": null,
             "name": "Communications policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Communications",
@@ -734,7 +643,6 @@
             "{https://codeforiati.org/}group-name": "Communications"
         },
         "22020": {
-            "code": null,
             "name": "Telecommunications",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Communications",
@@ -742,7 +650,6 @@
             "{https://codeforiati.org/}group-name": "Communications"
         },
         "22030": {
-            "code": null,
             "name": "Radio/television/print media",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Communications",
@@ -750,7 +657,6 @@
             "{https://codeforiati.org/}group-name": "Communications"
         },
         "22040": {
-            "code": null,
             "name": "Information and communication technology (ICT)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Communications",
@@ -758,7 +664,6 @@
             "{https://codeforiati.org/}group-name": "Communications"
         },
         "23110": {
-            "code": null,
             "name": "Energy policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy Policy",
@@ -766,7 +671,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23181": {
-            "code": null,
             "name": "Energy education/training",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy Policy",
@@ -774,7 +678,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23182": {
-            "code": null,
             "name": "Energy research",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy Policy",
@@ -782,7 +685,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23183": {
-            "code": null,
             "name": "Energy conservation and demand-side efficiency",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy Policy",
@@ -790,7 +692,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23210": {
-            "code": null,
             "name": "Energy generation, renewable sources - multiple technologies",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, renewable sources",
@@ -798,7 +699,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23220": {
-            "code": null,
             "name": "Hydro-electric power plants",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, renewable sources",
@@ -806,7 +706,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23230": {
-            "code": null,
             "name": "Solar energy for centralised grids",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, renewable sources",
@@ -814,7 +713,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23231": {
-            "code": null,
             "name": "Solar energy for isolated grids and standalone systems",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, renewable sources",
@@ -822,7 +720,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23232": {
-            "code": null,
             "name": "Solar energy - thermal applications",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, renewable sources",
@@ -830,7 +727,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23240": {
-            "code": null,
             "name": "Wind energy",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, renewable sources",
@@ -838,7 +734,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23250": {
-            "code": null,
             "name": "Marine energy",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, renewable sources",
@@ -846,7 +741,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23260": {
-            "code": null,
             "name": "Geothermal energy",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, renewable sources",
@@ -854,7 +748,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23270": {
-            "code": null,
             "name": "Biofuel-fired power plants",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, renewable sources",
@@ -862,7 +755,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23310": {
-            "code": null,
             "name": "Energy generation, non-renewable sources, unspecified",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, non-renewable sources",
@@ -870,7 +762,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23320": {
-            "code": null,
             "name": "Coal-fired electric power plants",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, non-renewable sources",
@@ -878,7 +769,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23330": {
-            "code": null,
             "name": "Oil-fired electric power plants",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, non-renewable sources",
@@ -886,7 +776,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23340": {
-            "code": null,
             "name": "Natural gas-fired electric power plants",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, non-renewable sources",
@@ -894,7 +783,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23350": {
-            "code": null,
             "name": "Fossil fuel electric power plants with carbon capture and storage (CCS)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, non-renewable sources",
@@ -902,7 +790,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23360": {
-            "code": null,
             "name": "Non-renewable waste-fired electric power plants",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy generation, non-renewable sources",
@@ -910,7 +797,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23410": {
-            "code": null,
             "name": "Hybrid energy electric power plants",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Hybrid energy plants",
@@ -918,7 +804,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23510": {
-            "code": null,
             "name": "Nuclear energy electric power plants and nuclear safety",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Nuclear energy plants",
@@ -926,7 +811,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23610": {
-            "code": null,
             "name": "Heat plants",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy distribution",
@@ -934,7 +818,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23620": {
-            "code": null,
             "name": "District heating and cooling",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy distribution",
@@ -942,7 +825,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23630": {
-            "code": null,
             "name": "Electric power transmission and distribution (centralised grids)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy distribution",
@@ -950,7 +832,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23631": {
-            "code": null,
             "name": "Electric power transmission and distribution (isolated mini-grids)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy distribution",
@@ -958,7 +839,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23640": {
-            "code": null,
             "name": "Retail gas distribution",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy distribution",
@@ -966,7 +846,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23641": {
-            "code": null,
             "name": "Retail distribution of liquid or solid fossil fuels",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy distribution",
@@ -974,7 +853,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "23642": {
-            "code": null,
             "name": "Electric mobility infrastructures",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Energy distribution",
@@ -982,7 +860,6 @@
             "{https://codeforiati.org/}group-name": "Energy"
         },
         "24010": {
-            "code": null,
             "name": "Financial policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Banking & Financial Services",
@@ -990,7 +867,6 @@
             "{https://codeforiati.org/}group-name": "Banking & Financial Services"
         },
         "24020": {
-            "code": null,
             "name": "Monetary institutions",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Banking & Financial Services",
@@ -998,7 +874,6 @@
             "{https://codeforiati.org/}group-name": "Banking & Financial Services"
         },
         "24030": {
-            "code": null,
             "name": "Formal sector financial intermediaries",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Banking & Financial Services",
@@ -1006,7 +881,6 @@
             "{https://codeforiati.org/}group-name": "Banking & Financial Services"
         },
         "24040": {
-            "code": null,
             "name": "Informal/semi-formal financial intermediaries",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Banking & Financial Services",
@@ -1014,7 +888,6 @@
             "{https://codeforiati.org/}group-name": "Banking & Financial Services"
         },
         "24050": {
-            "code": null,
             "name": "Remittance facilitation, promotion and optimisation",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Banking & Financial Services",
@@ -1022,7 +895,6 @@
             "{https://codeforiati.org/}group-name": "Banking & Financial Services"
         },
         "24081": {
-            "code": null,
             "name": "Education/training in banking and financial services",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Banking & Financial Services",
@@ -1030,7 +902,6 @@
             "{https://codeforiati.org/}group-name": "Banking & Financial Services"
         },
         "25010": {
-            "code": null,
             "name": "Business policy and administration",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Business & Other Services",
@@ -1038,7 +909,6 @@
             "{https://codeforiati.org/}group-name": "Business & Other Services"
         },
         "25020": {
-            "code": null,
             "name": "Privatisation",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Business & Other Services",
@@ -1046,7 +916,6 @@
             "{https://codeforiati.org/}group-name": "Business & Other Services"
         },
         "25030": {
-            "code": null,
             "name": "Business development services",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Business & Other Services",
@@ -1054,7 +923,6 @@
             "{https://codeforiati.org/}group-name": "Business & Other Services"
         },
         "25040": {
-            "code": null,
             "name": "Responsible business conduct",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Business & Other Services",
@@ -1062,7 +930,6 @@
             "{https://codeforiati.org/}group-name": "Business & Other Services"
         },
         "31110": {
-            "code": null,
             "name": "Agricultural policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1070,7 +937,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31120": {
-            "code": null,
             "name": "Agricultural development",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1078,7 +944,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31130": {
-            "code": null,
             "name": "Agricultural land resources",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1086,7 +951,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31140": {
-            "code": null,
             "name": "Agricultural water resources",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1094,7 +958,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31150": {
-            "code": null,
             "name": "Agricultural inputs",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1102,7 +965,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31161": {
-            "code": null,
             "name": "Food crop production",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1110,7 +972,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31162": {
-            "code": null,
             "name": "Industrial crops/export crops",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1118,7 +979,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31163": {
-            "code": null,
             "name": "Livestock",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1126,7 +986,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31164": {
-            "code": null,
             "name": "Agrarian reform",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1134,7 +993,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31165": {
-            "code": null,
             "name": "Agricultural alternative development",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1142,7 +1000,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31166": {
-            "code": null,
             "name": "Agricultural extension",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1150,7 +1007,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31181": {
-            "code": null,
             "name": "Agricultural education/training",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1158,7 +1014,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31182": {
-            "code": null,
             "name": "Agricultural research",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1166,7 +1021,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31191": {
-            "code": null,
             "name": "Agricultural services",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1174,7 +1028,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31192": {
-            "code": null,
             "name": "Plant and post-harvest protection and pest control",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1182,7 +1035,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31193": {
-            "code": null,
             "name": "Agricultural financial services",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1190,7 +1042,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31194": {
-            "code": null,
             "name": "Agricultural co-operatives",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1198,7 +1049,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31195": {
-            "code": null,
             "name": "Livestock/veterinary services",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Agriculture",
@@ -1206,7 +1056,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31210": {
-            "code": null,
             "name": "Forestry policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Forestry",
@@ -1214,7 +1063,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31220": {
-            "code": null,
             "name": "Forestry development",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Forestry",
@@ -1222,7 +1070,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31261": {
-            "code": null,
             "name": "Fuelwood/charcoal",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Forestry",
@@ -1230,7 +1077,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31281": {
-            "code": null,
             "name": "Forestry education/training",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Forestry",
@@ -1238,7 +1084,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31282": {
-            "code": null,
             "name": "Forestry research",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Forestry",
@@ -1246,7 +1091,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31291": {
-            "code": null,
             "name": "Forestry services",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Forestry",
@@ -1254,7 +1098,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31310": {
-            "code": null,
             "name": "Fishing policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Fishing",
@@ -1262,7 +1105,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31320": {
-            "code": null,
             "name": "Fishery development",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Fishing",
@@ -1270,7 +1112,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31381": {
-            "code": null,
             "name": "Fishery education/training",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Fishing",
@@ -1278,7 +1119,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31382": {
-            "code": null,
             "name": "Fishery research",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Fishing",
@@ -1286,7 +1126,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "31391": {
-            "code": null,
             "name": "Fishery services",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Fishing",
@@ -1294,7 +1133,6 @@
             "{https://codeforiati.org/}group-name": "Agriculture, Forestry, Fishing"
         },
         "32110": {
-            "code": null,
             "name": "Industrial policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1302,7 +1140,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32120": {
-            "code": null,
             "name": "Industrial development",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1310,7 +1147,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32130": {
-            "code": null,
             "name": "Small and medium-sized enterprises (SME) development",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1318,7 +1154,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32140": {
-            "code": null,
             "name": "Cottage industries and handicraft",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1326,7 +1161,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32161": {
-            "code": null,
             "name": "Agro-industries",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1334,7 +1168,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32162": {
-            "code": null,
             "name": "Forest industries",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1342,7 +1175,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32163": {
-            "code": null,
             "name": "Textiles, leather and substitutes",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1350,7 +1182,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32164": {
-            "code": null,
             "name": "Chemicals",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1358,7 +1189,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32165": {
-            "code": null,
             "name": "Fertilizer plants",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1366,7 +1196,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32166": {
-            "code": null,
             "name": "Cement/lime/plaster",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1374,7 +1203,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32167": {
-            "code": null,
             "name": "Energy manufacturing (fossil fuels)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1382,7 +1210,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32168": {
-            "code": null,
             "name": "Pharmaceutical production",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1390,7 +1217,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32169": {
-            "code": null,
             "name": "Basic metal industries",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1398,7 +1224,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32170": {
-            "code": null,
             "name": "Non-ferrous metal industries",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1406,7 +1231,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32171": {
-            "code": null,
             "name": "Engineering",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1414,7 +1238,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32172": {
-            "code": null,
             "name": "Transport equipment industry",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1422,7 +1245,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32173": {
-            "code": null,
             "name": "Modern biofuels manufacturing",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1430,7 +1252,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32174": {
-            "code": null,
             "name": "Clean cooking appliances manufacturing",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1438,7 +1259,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32182": {
-            "code": null,
             "name": "Technological research and development",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Industry",
@@ -1446,7 +1266,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32210": {
-            "code": null,
             "name": "Mineral/mining policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Mineral Resources & Mining",
@@ -1454,7 +1273,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32220": {
-            "code": null,
             "name": "Mineral prospection and exploration",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Mineral Resources & Mining",
@@ -1462,7 +1280,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32261": {
-            "code": null,
             "name": "Coal",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Mineral Resources & Mining",
@@ -1470,7 +1287,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32262": {
-            "code": null,
             "name": "Oil and gas (upstream)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Mineral Resources & Mining",
@@ -1478,7 +1294,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32263": {
-            "code": null,
             "name": "Ferrous metals",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Mineral Resources & Mining",
@@ -1486,7 +1301,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32264": {
-            "code": null,
             "name": "Nonferrous metals",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Mineral Resources & Mining",
@@ -1494,7 +1308,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32265": {
-            "code": null,
             "name": "Precious metals/materials",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Mineral Resources & Mining",
@@ -1502,7 +1315,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32266": {
-            "code": null,
             "name": "Industrial minerals",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Mineral Resources & Mining",
@@ -1510,7 +1322,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32267": {
-            "code": null,
             "name": "Fertilizer minerals",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Mineral Resources & Mining",
@@ -1518,7 +1329,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32268": {
-            "code": null,
             "name": "Offshore minerals",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Mineral Resources & Mining",
@@ -1526,7 +1336,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "32310": {
-            "code": null,
             "name": "Construction policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Construction",
@@ -1534,7 +1343,6 @@
             "{https://codeforiati.org/}group-name": "Industry, Mining, Construction"
         },
         "33110": {
-            "code": null,
             "name": "Trade policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Trade Policies & Regulations",
@@ -1542,7 +1350,6 @@
             "{https://codeforiati.org/}group-name": "Trade Policies & Regulations"
         },
         "33120": {
-            "code": null,
             "name": "Trade facilitation",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Trade Policies & Regulations",
@@ -1550,7 +1357,6 @@
             "{https://codeforiati.org/}group-name": "Trade Policies & Regulations"
         },
         "33130": {
-            "code": null,
             "name": "Regional trade agreements (RTAs)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Trade Policies & Regulations",
@@ -1558,7 +1364,6 @@
             "{https://codeforiati.org/}group-name": "Trade Policies & Regulations"
         },
         "33140": {
-            "code": null,
             "name": "Multilateral trade negotiations",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Trade Policies & Regulations",
@@ -1566,7 +1371,6 @@
             "{https://codeforiati.org/}group-name": "Trade Policies & Regulations"
         },
         "33150": {
-            "code": null,
             "name": "Trade-related adjustment",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Trade Policies & Regulations",
@@ -1574,7 +1378,6 @@
             "{https://codeforiati.org/}group-name": "Trade Policies & Regulations"
         },
         "33181": {
-            "code": null,
             "name": "Trade education/training",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Trade Policies & Regulations",
@@ -1582,7 +1385,6 @@
             "{https://codeforiati.org/}group-name": "Trade Policies & Regulations"
         },
         "33210": {
-            "code": null,
             "name": "Tourism policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Tourism",
@@ -1590,7 +1392,6 @@
             "{https://codeforiati.org/}group-name": "Tourism"
         },
         "41010": {
-            "code": null,
             "name": "Environmental policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "General Environment Protection",
@@ -1598,7 +1399,6 @@
             "{https://codeforiati.org/}group-name": "General Environment Protection"
         },
         "41020": {
-            "code": null,
             "name": "Biosphere protection",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "General Environment Protection",
@@ -1606,7 +1406,6 @@
             "{https://codeforiati.org/}group-name": "General Environment Protection"
         },
         "41030": {
-            "code": null,
             "name": "Biodiversity",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "General Environment Protection",
@@ -1614,7 +1413,6 @@
             "{https://codeforiati.org/}group-name": "General Environment Protection"
         },
         "41040": {
-            "code": null,
             "name": "Site preservation",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "General Environment Protection",
@@ -1622,7 +1420,6 @@
             "{https://codeforiati.org/}group-name": "General Environment Protection"
         },
         "41081": {
-            "code": null,
             "name": "Environmental education/training",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "General Environment Protection",
@@ -1630,7 +1427,6 @@
             "{https://codeforiati.org/}group-name": "General Environment Protection"
         },
         "41082": {
-            "code": null,
             "name": "Environmental research",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "General Environment Protection",
@@ -1638,7 +1434,6 @@
             "{https://codeforiati.org/}group-name": "General Environment Protection"
         },
         "43010": {
-            "code": null,
             "name": "Multisector aid",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Multisector",
@@ -1646,7 +1441,6 @@
             "{https://codeforiati.org/}group-name": "Other Multisector"
         },
         "43030": {
-            "code": null,
             "name": "Urban development and management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Multisector",
@@ -1654,7 +1448,6 @@
             "{https://codeforiati.org/}group-name": "Other Multisector"
         },
         "43040": {
-            "code": null,
             "name": "Rural development",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Multisector",
@@ -1662,7 +1455,6 @@
             "{https://codeforiati.org/}group-name": "Other Multisector"
         },
         "43050": {
-            "code": null,
             "name": "Non-agricultural alternative development",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Multisector",
@@ -1670,7 +1462,6 @@
             "{https://codeforiati.org/}group-name": "Other Multisector"
         },
         "43060": {
-            "code": null,
             "name": "Disaster Risk Reduction",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Multisector",
@@ -1678,7 +1469,6 @@
             "{https://codeforiati.org/}group-name": "Other Multisector"
         },
         "43071": {
-            "code": null,
             "name": "Food security policy and administrative management",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Multisector",
@@ -1686,7 +1476,6 @@
             "{https://codeforiati.org/}group-name": "Other Multisector"
         },
         "43072": {
-            "code": null,
             "name": "Household food security programmes",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Multisector",
@@ -1694,7 +1483,6 @@
             "{https://codeforiati.org/}group-name": "Other Multisector"
         },
         "43073": {
-            "code": null,
             "name": "Food safety and quality",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Multisector",
@@ -1702,7 +1490,6 @@
             "{https://codeforiati.org/}group-name": "Other Multisector"
         },
         "43081": {
-            "code": null,
             "name": "Multisector education/training",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Multisector",
@@ -1710,7 +1497,6 @@
             "{https://codeforiati.org/}group-name": "Other Multisector"
         },
         "43082": {
-            "code": null,
             "name": "Research/scientific institutions",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Multisector",
@@ -1718,7 +1504,6 @@
             "{https://codeforiati.org/}group-name": "Other Multisector"
         },
         "51010": {
-            "code": null,
             "name": "General budget support-related aid",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "General Budget Support",
@@ -1726,7 +1511,6 @@
             "{https://codeforiati.org/}group-name": "General Budget Support"
         },
         "52010": {
-            "code": null,
             "name": "Food assistance",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Development Food Assistance",
@@ -1734,7 +1518,6 @@
             "{https://codeforiati.org/}group-name": "Development Food Assistance"
         },
         "53030": {
-            "code": null,
             "name": "Import support (capital goods)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Commodity Assistance",
@@ -1742,7 +1525,6 @@
             "{https://codeforiati.org/}group-name": "Other Commodity Assistance"
         },
         "53040": {
-            "code": null,
             "name": "Import support (commodities)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Other Commodity Assistance",
@@ -1750,7 +1532,6 @@
             "{https://codeforiati.org/}group-name": "Other Commodity Assistance"
         },
         "60010": {
-            "code": null,
             "name": "Action relating to debt",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Action Relating to Debt",
@@ -1758,7 +1539,6 @@
             "{https://codeforiati.org/}group-name": "Action Relating to Debt"
         },
         "60020": {
-            "code": null,
             "name": "Debt forgiveness",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Action Relating to Debt",
@@ -1766,7 +1546,6 @@
             "{https://codeforiati.org/}group-name": "Action Relating to Debt"
         },
         "60030": {
-            "code": null,
             "name": "Relief of multilateral debt",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Action Relating to Debt",
@@ -1774,7 +1553,6 @@
             "{https://codeforiati.org/}group-name": "Action Relating to Debt"
         },
         "60040": {
-            "code": null,
             "name": "Rescheduling and refinancing",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Action Relating to Debt",
@@ -1782,7 +1560,6 @@
             "{https://codeforiati.org/}group-name": "Action Relating to Debt"
         },
         "60061": {
-            "code": null,
             "name": "Debt for development swap",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Action Relating to Debt",
@@ -1790,7 +1567,6 @@
             "{https://codeforiati.org/}group-name": "Action Relating to Debt"
         },
         "60062": {
-            "code": null,
             "name": "Other debt swap",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Action Relating to Debt",
@@ -1798,7 +1574,6 @@
             "{https://codeforiati.org/}group-name": "Action Relating to Debt"
         },
         "60063": {
-            "code": null,
             "name": "Debt buy-back",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Action Relating to Debt",
@@ -1806,7 +1581,6 @@
             "{https://codeforiati.org/}group-name": "Action Relating to Debt"
         },
         "72010": {
-            "code": null,
             "name": "Material relief assistance and services",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Emergency Response",
@@ -1814,7 +1588,6 @@
             "{https://codeforiati.org/}group-name": "Emergency Response"
         },
         "72040": {
-            "code": null,
             "name": "Emergency food assistance",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Emergency Response",
@@ -1822,7 +1595,6 @@
             "{https://codeforiati.org/}group-name": "Emergency Response"
         },
         "72050": {
-            "code": null,
             "name": "Relief co-ordination and support services",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Emergency Response",
@@ -1830,7 +1602,6 @@
             "{https://codeforiati.org/}group-name": "Emergency Response"
         },
         "73010": {
-            "code": null,
             "name": "Immediate post-emergency reconstruction and rehabilitation",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Reconstruction Relief & Rehabilitation",
@@ -1838,7 +1609,6 @@
             "{https://codeforiati.org/}group-name": "Reconstruction Relief & Rehabilitation"
         },
         "74020": {
-            "code": null,
             "name": "Multi-hazard response preparedness",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Disaster Prevention & Preparedness",
@@ -1846,7 +1616,6 @@
             "{https://codeforiati.org/}group-name": "Disaster Prevention & Preparedness"
         },
         "91010": {
-            "code": null,
             "name": "Administrative costs (non-sector allocable)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Administrative Costs of Donors",
@@ -1854,7 +1623,6 @@
             "{https://codeforiati.org/}group-name": "Administrative Costs of Donors"
         },
         "93010": {
-            "code": null,
             "name": "Refugees/asylum seekers  in donor countries (non-sector allocable)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Refugees in Donor Countries",
@@ -1862,7 +1630,6 @@
             "{https://codeforiati.org/}group-name": "Refugees in Donor Countries"
         },
         "99810": {
-            "code": null,
             "name": "Sectors not specified",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Unallocated / Unspecified",
@@ -1870,7 +1637,6 @@
             "{https://codeforiati.org/}group-name": "Unallocated / Unspecified"
         },
         "99820": {
-            "code": null,
             "name": "Promotion of development awareness (non-sector allocable)",
             "{https://codeforiati.org/}category-code": null,
             "{https://codeforiati.org/}category-name": "Unallocated / Unspecified",

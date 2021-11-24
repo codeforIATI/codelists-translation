@@ -4,19 +4,16 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": null,
             "description": null,
             "url": null
         },
         "2": {
-            "code": null,
             "name": null,
             "description": null,
             "url": null
         },
         "99": {
-            "code": null,
             "name": null,
             "description": null
         }

@@ -5,12 +5,10 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "Indicative",
             "description": "A non-binding estimate for the described budget."
         },
         "2": {
-            "code": null,
             "name": "Committed",
             "description": "A binding agreement for the described budget."
         }

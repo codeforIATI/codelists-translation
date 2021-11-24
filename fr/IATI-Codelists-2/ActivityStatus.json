@@ -5,32 +5,26 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "Planification",
             "description": "On planifie l'activit\u00e9 ou on en \u00e9tablit la port\u00e9e"
         },
         "2": {
-            "code": null,
             "name": "Actif",
             "description": "L'activit\u00e9 est en cours de mise en \u0153uvre"
         },
         "3": {
-            "code": null,
             "name": "Finalisation",
             "description": "L'activit\u00e9 concr\u00e8te est termin\u00e9e ou le d\u00e9bours final a \u00e9t\u00e9 effectu\u00e9, mais l'activit\u00e9 reste ouverte en attendant une signature de l'autorit\u00e9 financi\u00e8re ou une \u00e9valuation (C et E)."
         },
         "4": {
-            "code": null,
             "name": "Ferm\u00e9",
             "description": "L'activit\u00e9 concr\u00e8te est termin\u00e9e ou le dernier d\u00e9bours a \u00e9t\u00e9 effectu\u00e9."
         },
         "5": {
-            "code": null,
             "name": "Annul\u00e9",
             "description": "L'activit\u00e9 a \u00e9t\u00e9 annul\u00e9e"
         },
         "6": {
-            "code": null,
             "name": "Suspendu",
             "description": "L'activit\u00e9 a \u00e9t\u00e9 suspendue temporairement"
         }

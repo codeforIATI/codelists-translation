@@ -5,19 +5,15 @@
     },
     "codelist-items": {
         "start-actual": {
-            "code": null,
             "name": "d\u00e9but-r\u00e9el"
         },
         "end-actual": {
-            "code": null,
             "name": "fin-r\u00e9elle"
         },
         "start-planned": {
-            "code": null,
             "name": "d\u00e9but-pr\u00e9vu"
         },
         "end-planned": {
-            "code": null,
             "name": "fin-pr\u00e9vue"
         }
     }

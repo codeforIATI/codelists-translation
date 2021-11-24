@@ -6,22 +6,18 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "Unearmarked",
             "description": "Any or all of the Earmarking Modality codes A,B or C."
         },
         "2": {
-            "code": null,
             "name": "Softly Earmarked",
             "description": "Any or all of the Earmarking Modality codes D,E or F."
         },
         "3": {
-            "code": null,
             "name": "Earmarked",
             "description": "Any or all of the Earmarking Modality codes G or H."
         },
         "4": {
-            "code": null,
             "name": "Tightly Earmarked",
             "description": "Any or all of the Earmarking Modality codes I,J or K."
         }

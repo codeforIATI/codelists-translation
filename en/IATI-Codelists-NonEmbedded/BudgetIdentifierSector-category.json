@@ -5,31 +5,24 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "General Public Service"
         },
         "2": {
-            "code": null,
             "name": "Justice, Law, Order and Security"
         },
         "3": {
-            "code": null,
             "name": "Economic Affairs"
         },
         "4": {
-            "code": null,
             "name": "Water, Natural Resource Management and Environment"
         },
         "5": {
-            "code": null,
             "name": "Social Affairs"
         },
         "6": {
-            "code": null,
             "name": "Development Partner Affairs"
         },
         "7": {
-            "code": null,
             "name": "General Budget Support and Aid support external to General Government Sector"
         }
     }

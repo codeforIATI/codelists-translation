@@ -6,52 +6,42 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "WHO Registry",
             "url": null
         },
         "2": {
-            "code": null,
             "name": "Sphere Handbook",
             "url": null
         },
         "3": {
-            "code": null,
             "name": "US Foreign Assistance Framework",
             "url": null
         },
         "4": {
-            "code": null,
             "name": "World Bank World Development Indicators",
             "url": null
         },
         "5": {
-            "code": null,
             "name": "UN Millennium Development Goals Indicators",
             "url": null
         },
         "6": {
-            "code": null,
             "name": "UNOCHA Humanitarian Response Indicators",
             "url": null
         },
         "7": {
-            "code": null,
             "name": "HIV/AIDS Indicator Registry",
             "url": null
         },
         "8": {
-            "code": null,
             "name": "Harmonized Indicators for Private Sector (HIPSO)",
             "url": null
         },
         "9": {
-            "code": null,
             "name": "UN Sustainable Development Goals (SDG) Indicators",
             "url": null
         },
         "99": {
-            "code": null,
             "name": "Reporting Organisation"
         }
     }

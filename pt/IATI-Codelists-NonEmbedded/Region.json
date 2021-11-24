@@ -5,107 +5,81 @@
     },
     "codelist-items": {
         "88": {
-            "code": null,
             "name": "Estados da ex-Iugosl\u00e1via n\u00e3o especificados"
         },
         "89": {
-            "code": null,
             "name": "Europa, regional"
         },
         "189": {
-            "code": null,
             "name": "Norte do Saara, regional"
         },
         "289": {
-            "code": null,
             "name": "Sul do Saara, regional"
         },
         "298": {
-            "code": null,
             "name": "\u00c1frica, regional"
         },
         "380": {
-            "code": null,
             "name": "\u00cdndias Ocidentais, regional"
         },
         "389": {
-            "code": null,
             "name": "Caribe e Am\u00e9rica Central, regional"
         },
         "489": {
-            "code": null,
             "name": "Am\u00e9rica do Sul, regional"
         },
         "498": {
-            "code": null,
             "name": "Am\u00e9rica, regional"
         },
         "589": {
-            "code": null,
             "name": "Oriente M\u00e9dio, regional"
         },
         "619": {
-            "code": null,
             "name": "\u00c1sia Central, regional"
         },
         "679": {
-            "code": null,
             "name": "\u00c1sia Meridional, regional"
         },
         "689": {
-            "code": null,
             "name": "\u00c1sia Meridional e Central, regional"
         },
         "789": {
-            "code": null,
             "name": "Extremo Oriente, regional"
         },
         "798": {
-            "code": null,
             "name": "\u00c1sia, regional"
         },
         "889": {
-            "code": null,
             "name": "Oceania, regional"
         },
         "998": {
-            "code": null,
             "name": "Pa\u00edses em desenvolvimento, n\u00e3o especificados"
         },
         "1027": {
-            "code": null,
             "name": "\u00c1frica Oriental, regional"
         },
         "1028": {
-            "code": null,
             "name": "\u00c1frica Central, regional"
         },
         "1029": {
-            "code": null,
             "name": "\u00c1frica Austral, regional"
         },
         "1030": {
-            "code": null,
             "name": "\u00c1frica Ocidental, regional"
         },
         "1031": {
-            "code": null,
             "name": "Caribe, regional"
         },
         "1032": {
-            "code": null,
             "name": "Am\u00e9rica Central, regional"
         },
         "1033": {
-            "code": null,
             "name": "Melan\u00e9sia, regional"
         },
         "1034": {
-            "code": null,
             "name": "Micron\u00e9sia, regional"
         },
         "1035": {
-            "code": null,
             "name": "Polin\u00e9sia, regional"
         }
     }

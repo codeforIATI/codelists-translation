@@ -5,27 +5,22 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "Unit",
             "description": "The indicator is measured in units."
         },
         "2": {
-            "code": null,
             "name": "Percentage",
             "description": "The indicator is measured in percentages"
         },
         "3": {
-            "code": null,
             "name": "Nominal",
             "description": "The indicator is measured as a quantitative nominal scale."
         },
         "4": {
-            "code": null,
             "name": "Ordinal",
             "description": "The indicator is measured as a quantitative ordinal scale."
         },
         "5": {
-            "code": null,
             "name": "Qualitative",
             "description": "The indicator is qualitative."
         }

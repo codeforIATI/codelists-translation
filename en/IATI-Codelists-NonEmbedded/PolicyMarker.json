@@ -6,51 +6,39 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "Gender Equality"
         },
         "2": {
-            "code": null,
             "name": "Aid to Environment"
         },
         "3": {
-            "code": null,
             "name": "Participatory Development/Good Governance"
         },
         "4": {
-            "code": null,
             "name": "Trade Development"
         },
         "5": {
-            "code": null,
             "name": "Aid Targeting the Objectives of the Convention on Biological Diversity"
         },
         "6": {
-            "code": null,
             "name": "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation"
         },
         "7": {
-            "code": null,
             "name": "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation"
         },
         "8": {
-            "code": null,
             "name": "Aid Targeting the Objectives of the Convention to Combat Desertification"
         },
         "9": {
-            "code": null,
             "name": "Reproductive, Maternal, Newborn and Child Health (RMNCH)"
         },
         "10": {
-            "code": null,
             "name": "Disaster Risk Reduction(DRR)"
         },
         "11": {
-            "code": null,
             "name": "Disability"
         },
         "12": {
-            "code": null,
             "name": "Nutrition"
         }
     }

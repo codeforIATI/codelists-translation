@@ -5,12 +5,10 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "Exact ",
             "description": "La d\u00e9signation du lieu indiqu\u00e9 est exacte."
         },
         "2": {
-            "code": null,
             "name": "Approximatif",
             "description": "La d\u00e9signation du lieu indiqu\u00e9 est approximative."
         }

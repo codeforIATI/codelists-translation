@@ -6,4093 +6,3411 @@
     },
     "codelist-items": {
         "AIRQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CMPQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNLQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MFGQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FRMQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MSSNQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OILQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPLQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PRNQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RRQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RSTNQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RSTPQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STMQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WLLQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ADMD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ADMF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "AGRC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "AGRF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RESA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SCHA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "AIRB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "AIRF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "AIRP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "AMTH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STMA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ANCH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RDA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ANS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WALLA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BLDA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "AQC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNLA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ARCH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LAND": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "AREA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ISLF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RNGA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ASPH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ASTR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ASYL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ATHF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ATOL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CTRA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BDLD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BSTN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ESTB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BAN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BNK": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BAR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BRKS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BTL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BAY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BAYS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BCH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RDGB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BCHS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BCN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BNCH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BGHT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BLHL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BLOW": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BTYD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BOG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PSTB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BLDR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BRKW": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MFGB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BDG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ZNB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BLDG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BUR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BUSH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CTRB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BUTE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CARN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CLDA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CMP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNLB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TNLC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STMC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MFGC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNYN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CAPE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPLC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RTE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CSNO": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CSTL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TNKD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CSWY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CAVE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CMTY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CHN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNCR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CRQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CRQS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CLG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CFT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CLF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HSPC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "COLF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CST": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STNC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GRVC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SCHC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CMN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "COMC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CTRCM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CONE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNFL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CRSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CVNT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNCU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MFGCU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RFC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CRRL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CRDR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ESTC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HSEC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CTHSE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "COVE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LKC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LKSC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CRTR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CUET": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CULT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CRNT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CSTM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PSTC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CUTF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DARY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DAM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DEPU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DLTA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PCLD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DPR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DSRT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPLW": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNDT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DIKE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DIP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HSPD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STMD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DTCH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DTCHM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DVD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DCK": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DCKB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DCKY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BSND": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNLD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DTCHD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DCKD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SBED": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DUNE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RGNE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SCRP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "EST": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ESTY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STNE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FCL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CTRF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MFG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FAN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FRM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPLF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FRMS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FRMT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FYT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FLD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FIRE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ADM1": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FISH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PNDSF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FSR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FJD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FJDS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FORD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RESF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STNF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FRST": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "INLTQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MLSGQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FRSTF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FNDY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ADM4": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ZNF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PCLF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DPOF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GAP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GDN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GOSP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GASF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GATE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GYSR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GHAT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GLCR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNAU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RECG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GRGE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GRSLD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GRVE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GVL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GRAZ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GHSE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GULF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HLT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HMCK": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "AIRG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "VALG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HBR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HDLD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STMH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HTH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "AIRH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HERM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HLL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HLLS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ADMDH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ADM1H": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ADM4H": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PCLH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPLH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RRH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RSTNH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RGNH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ADM2H": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HSTS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ADM3H": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "UFHU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HMSD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HSP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SPNT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HTL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HSE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DEVH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RESH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HUT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HUTS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PSH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CAPG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DPRG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DOMG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RDGG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PCLI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "INDS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "INLT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STNI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TRGD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "INTF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LKI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LKSI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LKOI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PNDI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PNDSI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "POOLI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RSVI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LKNI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LKSNI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PNDNI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STMI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WTLDI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RDIN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNFE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FLDI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNLI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DTCHI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SYSI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ISL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ISLS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STLMT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ISTH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "JTY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "KRST": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CMPLA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LGN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LGNS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LK": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LBED": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CHNL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RGNL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LKS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ISLT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LNDF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LDNG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LAVA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNPB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LTER": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LEPC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HSPL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LEV": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LTHSE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MFGLM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GOVL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LCTY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LOCK": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CMPL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STMSB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MVA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ISLM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MGV": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MAR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CHNM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SCHN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MKT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MRSH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MDW": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "NKM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CTRM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MESA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STNM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MILB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "INSM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SCHM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ML": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CMPMN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MSSN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MOLE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MSTY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNMT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MOOR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MRN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MSQE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MND": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MTS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FLTM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MFGM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MUS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "NRWS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TNLN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RESN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "NVB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNLN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CHNN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNNI": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "NOV": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PSN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "NTK": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "NTKS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "NSY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OAS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OBPT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OBS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OCN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BLDO": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CMPO": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ESTO": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OILP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OILJ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TRMO": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PMPO": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OILR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OILW": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OILF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GRVO": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MLO": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OCH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MLM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OVF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LKO": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PGDA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PAL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GRVP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RESP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PAN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PANS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PRSH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PRK": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PRKGT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PRKHQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GARG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PKLT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PASS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PSTP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PK": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PKS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PEAT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PEN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BSNP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MFGPH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PIER": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GRVPN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNPL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PLN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PLAT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PTS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PLDR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PCL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PND": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PNDS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "POOL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPLL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPLS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PRT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PTGE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PO": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PRN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PRMN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PROM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PYR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PYRS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNQR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "QUAY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "QCKS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RECR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OBSR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STNR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RJCT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RSD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RSGNL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RSTN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RSTP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TNLRR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RYD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RNCH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RPDS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RVN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RCH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PRNJ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CMPRF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RGN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CTRR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPLR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RLG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ITTR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RESV": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RES": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RSV": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RSRT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RHSE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RLGR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RDGE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RDB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RDCUT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RDJCT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TNLRD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RDST": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RK": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HMDA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RKFL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RKS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RKRY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ESTR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RUIN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BDGQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DAMQ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SBKH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SDL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SALT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MFGN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LKN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LKSN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MRSHN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PNDN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PNDSN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SNTR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SAND": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ERG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STNS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MLSW": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SCH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ADMS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STNB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SCRB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SEA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SCNU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SCSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SMU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SMSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "AIRS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPLA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPLA4": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPLA2": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPLA3": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ADM2": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BNKX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNLX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ESTX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HBRX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PCLIX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STMIX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ISLX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LGNX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LKX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PENX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PLNX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PLATX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PPLX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RFX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STMX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "VALX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WADX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FLLSX": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PCLS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SWT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SHPF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SHOL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SHOPC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SHOR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SHRN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SILL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SINK": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ESTSL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SLID": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SLP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SLCE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SNOW": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SPA": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CTRS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SPLY": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SPIT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SPNG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SPUR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SQR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STBL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STDM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STPS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STKR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "REG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RET": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SHSE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STRT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BNKR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STMB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STMGS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STMM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STMS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ST": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "DAMSB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SUBW": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SUBS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MLSG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ESTSG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MFGSG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SPNS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SWMP": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SYG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TMTU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TMSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TAL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "OILT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ESTT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SCHT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TMPL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "AIRT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TRR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TERR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ADM3": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CRKT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FLTT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNSN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TOLL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TMB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TOWR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RDCR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TRL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TRANT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TREE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TRIG": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TRB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TUND": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TNL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TNLS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNLSB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LKSB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "APNU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ARCU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ARRU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BNKU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BKSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BSNU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BNCU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "BDLU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNYU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CNSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "CDAU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ESCU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FANU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FLTU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FRKU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FRSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FRZU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FURU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GAPU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "GLYU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HLLU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HLSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "HOLU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "KNLU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "KNSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LDGU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "LEVU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MDVU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MESU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MOTU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MNDU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MTU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MTSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PKU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PKSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PNLU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PLNU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PLTU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PLFU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PRVU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RMPU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RNGU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RAVU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RFU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RFSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RDGU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RDSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RISU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SDLU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SHFU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "EDGU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SHVU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SHLU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SHSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SILU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SLPU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "SPRU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TERU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TNGU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TRNU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "TRGU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "VALU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "VLSU": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "USGE": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "UPLD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "VAL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "VALS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "VETF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "VIN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "VINS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "VLC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WAD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WADB": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WADJ": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WADM": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WADS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WALL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MLWTR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "PMPW": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RSVT": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WTRC": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "FLLS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WTRH": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WTRW": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WEIR": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WLL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WLLS": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WTLD": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "STNW": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WHRF": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WHRL": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "RESW": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "MLWND": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "WRCK": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ZN": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null
         },
         "ZOO": {
-            "code": null,
             "name": null,
             "description": null,
             "category": null

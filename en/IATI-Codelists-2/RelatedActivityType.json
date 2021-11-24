@@ -4,27 +4,22 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "Parent",
             "description": "An activity that contains sub-activities (sub-components) which are reported separately to IATI"
         },
         "2": {
-            "code": null,
             "name": "Child",
             "description": "A sub-activity (or sub-component) that sits within a larger activity (parent) which is also reported to IATI"
         },
         "3": {
-            "code": null,
             "name": "Sibling",
             "description": "A sub-activity (or sub-component) that is related to another sub-activity with the same parent "
         },
         "4": {
-            "code": null,
             "name": "Co-funded",
             "description": "An activity that receives funding from more than one organisation"
         },
         "5": {
-            "code": null,
             "name": "Third Party",
             "description": "A report by another organisation on the same activity you are reporting (excluding activities reported as part of a financial transaction - e.g. provider-activity-id or a co-funded activity, using code 4)"
         }

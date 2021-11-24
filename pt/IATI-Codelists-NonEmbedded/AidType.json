@@ -5,127 +5,106 @@
     },
     "codelist-items": {
         "A01": {
-            "code": null,
             "name": "Apoio or\u00e7amental geral",
             "description": null,
             "category": null
         },
         "A02": {
-            "code": null,
             "name": "Apoio or\u00e7amental setorial",
             "description": null,
             "category": null
         },
         "B01": {
-            "code": null,
             "name": "Apoio essencial a ONG, outras entidades privadas, PPP e institui\u00e7\u00f5es de investiga\u00e7\u00e3o",
             "description": null,
             "category": null
         },
         "B02": {
-            "code": null,
             "name": "Contribui\u00e7\u00f5es essenciais para institui\u00e7\u00f5es multilaterais",
             "description": null,
             "category": null
         },
         "B03": {
-            "code": null,
             "name": "Contribui\u00e7\u00f5es para programas e fundos de finalidade espec\u00edfica geridos por parceiros de implementa\u00e7\u00e3o",
             "description": null,
             "category": null
         },
         "B031": {
-            "code": null,
             "name": "Contribui\u00e7\u00f5es para mecanismos de financiamento multidoador/multientidade",
             "description": null,
             "category": null
         },
         "B032": {
-            "code": null,
             "name": "Contribui\u00e7\u00f5es para mecanismos de financiamento multidoador/entidade \u00fanica",
             "description": null,
             "category": null
         },
         "B033": {
-            "code": null,
             "name": "Contribui\u00e7\u00f5es para mecanismos de financiamento com doador \u00fanico e contribui\u00e7\u00f5es destinadas a uma janela de financiamento ou localiza\u00e7\u00e3o geogr\u00e1fica espec\u00edfica",
             "description": null,
             "category": null
         },
         "B04": {
-            "code": null,
             "name": "Fundos comuns/financiamento agrupado",
             "description": null,
             "category": null
         },
         "C01": {
-            "code": null,
             "name": "Interven\u00e7\u00f5es de tipo projeto",
             "description": null,
             "category": null
         },
         "D01": {
-            "code": null,
             "name": "Pessoal do pa\u00eds doador",
             "description": null,
             "category": null
         },
         "D02": {
-            "code": null,
             "name": "Outra assist\u00eancia t\u00e9cnica",
             "description": null,
             "category": null
         },
         "E01": {
-            "code": null,
             "name": "Bolsas de estudo/forma\u00e7\u00e3o no pa\u00eds doador",
             "description": null,
             "category": null
         },
         "E02": {
-            "code": null,
             "name": "Custos estudantis estimados",
             "description": null,
             "category": null
         },
         "F01": {
-            "code": null,
             "name": "Al\u00edvio de d\u00edvida",
             "description": null,
             "category": null
         },
         "G01": {
-            "code": null,
             "name": "Custos administrativos n\u00e3o inclu\u00eddos noutros lugares",
             "description": null,
             "category": null
         },
         "H01": {
-            "code": null,
             "name": "Conscientiza\u00e7\u00e3o sobre desenvolvimento",
             "description": null,
             "category": null
         },
         "H02": {
-            "code": null,
             "name": "Refugiados/requerentes de asilo em pa\u00edses doadores",
             "description": null,
             "category": null
         },
         "H03": {
-            "code": null,
             "name": "Requerentes de asilo aceitos em \u00faltima inst\u00e2ncia",
             "description": null,
             "category": null
         },
         "H04": {
-            "code": null,
             "name": "Requerentes de asilo rejeitados em \u00faltima inst\u00e2ncia",
             "description": null,
             "category": null
         },
         "H05": {
-            "code": null,
             "name": "Refugiados reconhecidos",
             "description": null,
             "category": null

@@ -4,72 +4,56 @@
     },
     "codelist-items": {
         "10": {
-            "code": null,
             "name": "Gouvernement"
         },
         "11": {
-            "code": null,
             "name": "Gouvernement local",
             "description": "Toute organisation gouvernementale locale (infranationale) dans le pays donateur ou b\u00e9n\u00e9ficiaire."
         },
         "15": {
-            "code": null,
             "name": "Autre secteur public"
         },
         "21": {
-            "code": null,
             "name": "ONG internationale"
         },
         "22": {
-            "code": null,
             "name": "ONG nationale"
         },
         "23": {
-            "code": null,
             "name": "ONG regionale"
         },
         "24": {
-            "code": null,
             "name": "ONG dans le pays b\u00e9n\u00e9ficiaire",
             "description": "ONG ou OSC locale ou nationale bas\u00e9e dans le pays b\u00e9n\u00e9ficiaire de l\u2019aide"
         },
         "30": {
-            "code": null,
             "name": "Partenariat public-priv\u00e9"
         },
         "40": {
-            "code": null,
             "name": "Multilat\u00e9ral"
         },
         "60": {
-            "code": null,
             "name": "Fondation"
         },
         "70": {
-            "code": null,
             "name": "Secteur priv\u00e9"
         },
         "71": {
-            "code": null,
             "name": "Secteur priv\u00e9 situ\u00e9 dans un pays fournisseur/donateur",
             "description": "Situ\u00e9 dans un pays fournisseur/donateur."
         },
         "72": {
-            "code": null,
             "name": "Secteur priv\u00e9 situ\u00e9 dans un pays b\u00e9n\u00e9ficiaire de l\u2019aide.",
             "description": "Situ\u00e9 dans un pays b\u00e9n\u00e9ficiaire de l\u2019aide."
         },
         "73": {
-            "code": null,
             "name": "Secteur priv\u00e9 situ\u00e9 dans un pays tiers",
             "description": "Situ\u00e9 ni dans un pays donateur, ni dans un pays b\u00e9n\u00e9ficiaire."
         },
         "80": {
-            "code": null,
             "name": "Universitaire, formation et recherche"
         },
         "90": {
-            "code": null,
             "name": "Autre"
         }
     }

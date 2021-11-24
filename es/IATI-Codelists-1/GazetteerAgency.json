@@ -5,15 +5,12 @@
     },
     "codelist-items": {
         "GEO": {
-            "code": null,
             "name": null
         },
         "NGA": {
-            "code": null,
             "name": null
         },
         "OSM": {
-            "code": null,
             "name": null
         }
     }

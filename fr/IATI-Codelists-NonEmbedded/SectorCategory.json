@@ -5,191 +5,147 @@
     },
     "codelist-items": {
         "111": {
-            "code": null,
             "name": "Education, Niveau non sp\u00e9cifi\u00e9",
             "description": "Les codes de cette cat\u00e9gorie doivent \u00eatre utilis\u00e9s seulement si le niveau d'\u00e9ducation n'est pas sp\u00e9cifi\u00e9 ou connu (par exemple la formation d'enseignants d'\u00e9coles primaires devrait \u00eatre cod\u00e9e sous 11220)."
         },
         "112": {
-            "code": null,
             "name": "Education de Base"
         },
         "113": {
-            "code": null,
             "name": "Education Secondaire"
         },
         "114": {
-            "code": null,
             "name": "Education Post Secondaire"
         },
         "121": {
-            "code": null,
             "name": "Sant\u00e9, G\u00e9n\u00e9ral"
         },
         "122": {
-            "code": null,
             "name": "Sant\u00e9 de Base"
         },
         "123": {
-            "code": null,
             "name": "Maladies non-transmissibles (MNT)"
         },
         "130": {
-            "code": null,
             "name": "Politique en Mati\u00e8re de Population/Sant\u00e9&Fertilit\u00e9"
         },
         "140": {
-            "code": null,
             "name": "Distribution d'Eau et Assainissement"
         },
         "151": {
-            "code": null,
             "name": "Gouvernement & Soci\u00e9t\u00e9 Civile-g\u00e9n\u00e9ral",
             "description": "N.B. Utiliser le code 51010 pour le soutien budg\u00e9taire g\u00e9n\u00e9ral."
         },
         "152": {
-            "code": null,
             "name": "Conflits, Paix et S\u00e9curit\u00e9",
             "description": "N.B.  Des notes suppl\u00e9mentaires sur l'\u00e9ligibilit\u00e9 au titre de l'APD (et les exclusions) des activit\u00e9s li\u00e9es aux conflits, la paix et la s\u00e9curit\u00e9 sont donn\u00e9es dans les paragraphes 76-81 des Directives."
         },
         "160": {
-            "code": null,
             "name": "Infrastructure et Services Sociaux Divers"
         },
         "210": {
-            "code": null,
             "name": "Transports et Entreposage",
             "description": "Nota bene : La fabrication de mat\u00e9riel de transport devrait \u00eatre incluse dans le code 32172."
         },
         "220": {
-            "code": null,
             "name": "Communications"
         },
         "230": {
-            "code": null,
             "name": "PRODUCTION ET DISTRIBUTION D\u2019ENERGIE",
             "description": null
         },
         "231": {
-            "code": null,
             "name": "Politique de l'\u00e9nergie"
         },
         "232": {
-            "code": null,
             "name": "Production d'\u00e9lectricit\u00e9, sources renouvelables"
         },
         "233": {
-            "code": null,
             "name": "Production d'\u00e9lectricit\u00e9, sources non renouvelables"
         },
         "234": {
-            "code": null,
             "name": "Centrales hybrides"
         },
         "235": {
-            "code": null,
             "name": "Centrales nucl\u00e9aires"
         },
         "236": {
-            "code": null,
             "name": "Distribution de l'\u00e9nergie"
         },
         "240": {
-            "code": null,
             "name": "Banques et Services Financiers"
         },
         "250": {
-            "code": null,
             "name": "Entreprises et Autres Services"
         },
         "311": {
-            "code": null,
             "name": "Agriculture"
         },
         "312": {
-            "code": null,
             "name": "Sylviculture"
         },
         "313": {
-            "code": null,
             "name": "P\u00eache"
         },
         "321": {
-            "code": null,
             "name": "Industries Manufacturi\u00e8res"
         },
         "322": {
-            "code": null,
             "name": "Industries Extractives"
         },
         "323": {
-            "code": null,
             "name": "Construction"
         },
         "331": {
-            "code": null,
             "name": "Politique Commerciale et R\u00e9glementations"
         },
         "332": {
-            "code": null,
             "name": "Tourisme"
         },
         "410": {
-            "code": null,
             "name": "Protection de l'Environnement G\u00e9n\u00e9ral",
             "description": "Secteur non sp\u00e9cifi\u00e9."
         },
         "430": {
-            "code": null,
             "name": "Autres Multisecteurs"
         },
         "510": {
-            "code": null,
             "name": "Soutien Budg\u00e9taire",
             "description": "Les soutiens budg\u00e9taires sous la forme d'approches sectorielles devraient \u00eatre inclus dans les secteurs respectifs."
         },
         "520": {
-            "code": null,
             "name": "Aide Alimentaire D\u00e9velopmentale"
         },
         "530": {
-            "code": null,
             "name": "Aide sous forme de Produits, Autre",
             "description": "Aide sous forme de produits non alimentaires (quand le secteur b\u00e9n\u00e9ficiaire ne peut \u00eatre pr\u00e9cis\u00e9)."
         },
         "600": {
-            "code": null,
             "name": "Actions se Rapportant a la Dette"
         },
         "720": {
-            "code": null,
             "name": "Intervention d'Urgence",
             "description": "Une situation d'urgence a pour origine une crise provoqu\u00e9e par des actions humaines ou par une catastrophe naturelle."
         },
         "730": {
-            "code": null,
             "name": "Reconstruction & R\u00e9habilitation",
             "description": "Activit\u00e9s men\u00e9es pendant et apr\u00e8s une situation d'urgence. Les activit\u00e9s \u00e0 plus long terme destin\u00e9es \u00e0 am\u00e9liorer le niveau d'infrastructure ou de services sociaux doivent \u00eatre rapport\u00e9es sous les codes correspondants des secteurs \u00e9conomiques et sociaux pertinents. Voir \u00e9galement les orientations sur la distinction entre l'aide humanitaire et l'aide ventilable par secteur."
         },
         "740": {
-            "code": null,
             "name": "Pr\u00e9vention catastrophes/Pr\u00e9paration \u00e0 leur survenue",
             "description": "Voir code 43060 pour la r\u00e9duction des risques de catastrophes."
         },
         "910": {
-            "code": null,
             "name": "Frais Administratifs des Donneurs"
         },
         "920": {
-            "code": null,
             "name": "CONCOURS FOURNIS AUX ORGANISATIONS NON-GOUVERNEMENTALES (ONG)",
             "description": "Contributions aux ONG nationales et internationales pour utilisation \u00e0 la discr\u00e9tion de ces derni\u00e8res."
         },
         "930": {
-            "code": null,
             "name": "Refugi\u00e9s dans les Pays Donneurs"
         },
         "998": {
-            "code": null,
             "name": "Non Affect\u00e9 / Non Specifi\u00e9",
             "description": null
         }

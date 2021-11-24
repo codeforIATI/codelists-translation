@@ -4,72 +4,56 @@
     },
     "codelist-items": {
         "10": {
-            "code": null,
             "name": "Gobierno"
         },
         "11": {
-            "code": null,
             "name": "Gobierno local",
             "description": null
         },
         "15": {
-            "code": null,
             "name": "Otras entidades del sector p\u00fablico"
         },
         "21": {
-            "code": null,
             "name": "ONG internacional"
         },
         "22": {
-            "code": null,
             "name": "ONG nacional"
         },
         "23": {
-            "code": null,
             "name": "ONG regional"
         },
         "24": {
-            "code": null,
             "name": "ONG con sede en el pa\u00eds asociado",
             "description": null
         },
         "30": {
-            "code": null,
             "name": "Alianza p\u00fablico-privada"
         },
         "40": {
-            "code": null,
             "name": "Multilateral"
         },
         "60": {
-            "code": null,
             "name": "Fundaci\u00f3n"
         },
         "70": {
-            "code": null,
             "name": "Sector privado"
         },
         "71": {
-            "code": null,
             "name": "Sector privado en el pa\u00eds proveedor",
             "description": null
         },
         "72": {
-            "code": null,
             "name": "Sector privado en el pa\u00eds beneficiario de la ayuda",
             "description": null
         },
         "73": {
-            "code": null,
             "name": "Sector privado en un pa\u00eds tercero",
             "description": null
         },
         "80": {
-            "code": null,
             "name": "Instituci\u00f3n acad\u00e9mica, de capacitaci\u00f3n e investigaci\u00f3n"
         },
         "90": {
-            "code": null,
             "name": "Otros"
         }
     }

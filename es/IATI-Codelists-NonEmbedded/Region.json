@@ -5,107 +5,81 @@
     },
     "codelist-items": {
         "88": {
-            "code": null,
             "name": "Estados sin especificar de la ex-Yugoslavia"
         },
         "89": {
-            "code": null,
             "name": "Europa, regional"
         },
         "189": {
-            "code": null,
             "name": "Norte del S\u00e1hara, regional"
         },
         "289": {
-            "code": null,
             "name": "Sur del S\u00e1hara, regional"
         },
         "298": {
-            "code": null,
             "name": "\u00c1frica, regional"
         },
         "380": {
-            "code": null,
             "name": "Indias Occidentales, regional"
         },
         "389": {
-            "code": null,
             "name": "El Caribe y Am\u00e9rica Central, regional"
         },
         "489": {
-            "code": null,
             "name": "Am\u00e9rica del Sur, regional"
         },
         "498": {
-            "code": null,
             "name": "Am\u00e9rica, regional"
         },
         "589": {
-            "code": null,
             "name": "Oriente Medio, regional"
         },
         "619": {
-            "code": null,
             "name": "Asia Central, regional"
         },
         "679": {
-            "code": null,
             "name": "Asia Meridional, regional"
         },
         "689": {
-            "code": null,
             "name": "Asia Meridional y Central, regional"
         },
         "789": {
-            "code": null,
             "name": "El Lejano Oriente y Asia, regional"
         },
         "798": {
-            "code": null,
             "name": "Asia, regional"
         },
         "889": {
-            "code": null,
             "name": "Ocean\u00eda, regional"
         },
         "998": {
-            "code": null,
             "name": "Pa\u00edses en desarrollo, sin especificar"
         },
         "1027": {
-            "code": null,
             "name": "\u00c1frica Oriental, regional"
         },
         "1028": {
-            "code": null,
             "name": "Oriente Medio y \u00c1frica, regional"
         },
         "1029": {
-            "code": null,
             "name": "\u00c1frica Meridional, regional"
         },
         "1030": {
-            "code": null,
             "name": "\u00c1frica Occidental, regional"
         },
         "1031": {
-            "code": null,
             "name": "El Caribe, regional"
         },
         "1032": {
-            "code": null,
             "name": "Am\u00e9rica Central, regional"
         },
         "1033": {
-            "code": null,
             "name": "Melanesia, regional"
         },
         "1034": {
-            "code": null,
             "name": "Micronesia, regional"
         },
         "1035": {
-            "code": null,
             "name": "Polinesia, regional"
         }
     }

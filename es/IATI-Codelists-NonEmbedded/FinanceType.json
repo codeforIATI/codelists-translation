@@ -6,356 +6,288 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "INB: ingreso nacional bruto",
             "category": null
         },
         "110": {
-            "code": null,
             "name": "Donaci\u00f3n est\u00e1ndar",
             "description": null,
             "category": null
         },
         "1100": {
-            "code": null,
             "name": "Garant\u00edas o seguros",
             "category": null
         },
         "111": {
-            "code": null,
             "name": "Subsidios a inversores privados nacionales",
             "category": null
         },
         "2": {
-            "code": null,
             "name": "Asistencia oficial para el desarrollo en porcentaje del INB",
             "category": null
         },
         "210": {
-            "code": null,
             "name": "Subvenci\u00f3n de los intereses",
             "description": null,
             "category": null
         },
         "211": {
-            "code": null,
             "name": "Subvenci\u00f3n de los intereses a exportadores privados nacionales",
             "category": null
         },
         "3": {
-            "code": null,
             "name": "Flujos totales en porcentaje del INB",
             "category": null
         },
         "310": {
-            "code": null,
             "name": "Suscripci\u00f3n de capital en r\u00e9gimen de dep\u00f3sito",
             "description": null,
             "category": null
         },
         "311": {
-            "code": null,
             "name": "Suscripci\u00f3n de capital en r\u00e9gimen de conversi\u00f3n en efectivo",
             "description": null,
             "category": null
         },
         "4": {
-            "code": null,
             "name": "Poblaci\u00f3n",
             "category": null
         },
         "410": {
-            "code": null,
             "name": "Asistencia mediante pr\u00e9stamo sin reorganizaci\u00f3n de la deuda",
             "category": null
         },
         "411": {
-            "code": null,
             "name": "Pr\u00e9stamo relativo a la inversi\u00f3n a pa\u00edses en desarrollo",
             "category": null
         },
         "412": {
-            "code": null,
             "name": "Pr\u00e9stamo en una operaci\u00f3n conjunta con el beneficiario",
             "category": null
         },
         "413": {
-            "code": null,
             "name": "Pr\u00e9stamo a inversionista privado nacional",
             "category": null
         },
         "414": {
-            "code": null,
             "name": "Pr\u00e9stamo a exportador privado nacional",
             "category": null
         },
         "421": {
-            "code": null,
             "name": "Pr\u00e9stamo est\u00e1ndar",
             "description": null,
             "category": null
         },
         "422": {
-            "code": null,
             "name": "Donaci\u00f3n reembolsable",
             "description": null,
             "category": null
         },
         "423": {
-            "code": null,
             "name": "Bonos",
             "description": null,
             "category": null
         },
         "424": {
-            "code": null,
             "name": "Bonos de titulizaci\u00f3n de activos",
             "description": null,
             "category": null
         },
         "425": {
-            "code": null,
             "name": "Otros t\u00edtulos de deuda",
             "category": null
         },
         "431": {
-            "code": null,
             "name": "Pr\u00e9stamos subordinados",
             "description": null,
             "category": null
         },
         "432": {
-            "code": null,
             "name": "Capital preferente",
             "description": null,
             "category": null
         },
         "433": {
-            "code": null,
             "name": "Otros instrumentos h\u00edbridos",
             "description": null,
             "category": null
         },
         "451": {
-            "code": null,
             "name": "Cr\u00e9ditos a la exportaci\u00f3n con garant\u00eda no bancaria",
             "category": null
         },
         "452": {
-            "code": null,
             "name": "Porciones sin garant\u00eda no bancaria de los cr\u00e9ditos a la exportaci\u00f3n con garant\u00eda",
             "category": null
         },
         "453": {
-            "code": null,
             "name": "Cr\u00e9ditos bancarios a la exportaci\u00f3n",
             "category": null
         },
         "510": {
-            "code": null,
             "name": "Capital com\u00fan",
             "description": null,
             "category": null
         },
         "511": {
-            "code": null,
             "name": "Adquisici\u00f3n de capital que no es parte de una operaci\u00f3n conjunta en pa\u00edses en desarrollo",
             "category": null
         },
         "512": {
-            "code": null,
             "name": "Otras adquisiciones de capital",
             "category": null
         },
         "520": {
-            "code": null,
             "name": "Acciones en veh\u00edculos de inversi\u00f3n colectiva",
             "description": null,
             "category": null
         },
         "530": {
-            "code": null,
             "name": "Utilidades reinvertidas",
             "description": null,
             "category": null
         },
         "610": {
-            "code": null,
             "name": "Condonaci\u00f3n de la deuda:  T\u00edtulos de asistencia oficial para el desarrollo (C)",
             "category": null
         },
         "611": {
-            "code": null,
             "name": "Condonaci\u00f3n de la deuda: T\u00edtulos de asistencia oficial para el desarrollo (I)",
             "category": null
         },
         "612": {
-            "code": null,
             "name": "Condonaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (C)",
             "category": null
         },
         "613": {
-            "code": null,
             "name": "Condonaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (I)",
             "category": null
         },
         "614": {
-            "code": null,
             "name": "Condonaci\u00f3n de la deuda:  T\u00edtulos privados (C)",
             "category": null
         },
         "615": {
-            "code": null,
             "name": "Condonaci\u00f3n de la deuda:  T\u00edtulos privados (I)",
             "category": null
         },
         "616": {
-            "code": null,
             "name": "Condonaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (ratio del servicio de la deuda)",
             "category": null
         },
         "617": {
-            "code": null,
             "name": "Condonaci\u00f3n de la deuda:  T\u00edtulos privados (ratio del servicio de la deuda)",
             "category": null
         },
         "618": {
-            "code": null,
             "name": "Condonaci\u00f3n de la deuda: Otros",
             "category": null
         },
         "620": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulos de asistencia oficial para el desarrollo (C)",
             "category": null
         },
         "621": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulos de asistencia oficial para el desarrollo (I)",
             "category": null
         },
         "622": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (C)",
             "category": null
         },
         "623": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (I)",
             "category": null
         },
         "624": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda:  T\u00edtulos privados (C)",
             "category": null
         },
         "625": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda:  T\u00edtulos privados (I)",
             "category": null
         },
         "626": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (ratio del servicio de la deuda)",
             "category": null
         },
         "627": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda:  T\u00edtulos privados (ratio del servicio de la deuda)",
             "category": null
         },
         "630": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulo de otras corrientes oficiales (ratio del servicio de la deuda: capital principal del pr\u00e9stamo original)",
             "category": null
         },
         "631": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulos de otras corrientes oficiales (ratio del servicio de la deuda: inter\u00e9s del pr\u00e9stamo original)",
             "category": null
         },
         "632": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda: T\u00edtulo privado (ratio del servicio de la deuda: capital principal del pr\u00e9stamo original)",
             "category": null
         },
         "633": {
-            "code": null,
             "name": "Condonaci\u00f3n o conversi\u00f3n de la deuda: derechos de cr\u00e9dito a la exportaci\u00f3n (C)",
             "category": null
         },
         "634": {
-            "code": null,
             "name": "Condonaci\u00f3n o conversi\u00f3n de la deuda: derechos de cr\u00e9dito a la exportaci\u00f3n (I)",
             "category": null
         },
         "635": {
-            "code": null,
             "name": "Condonaci\u00f3n de la deuda: derechos de cr\u00e9dito a la exportaci\u00f3n (ratio del servicio de la deuda)",
             "category": null
         },
         "636": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda: derechos de cr\u00e9dito a la exportaci\u00f3n (C)",
             "category": null
         },
         "637": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda: derechos de cr\u00e9dito a la exportaci\u00f3n (I)",
             "category": null
         },
         "638": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda: derechos de cr\u00e9dito a la exportaci\u00f3n (ratio del servicio de la deuda)",
             "category": null
         },
         "639": {
-            "code": null,
             "name": "Reprogramaci\u00f3n de la deuda: t\u00edtulos de cr\u00e9dito a la exportaci\u00f3n (ratio del servicio de la deuda: capital principal del pr\u00e9stamo original)",
             "category": null
         },
         "710": {
-            "code": null,
             "name": "Inversi\u00f3n extranjera directa, nueva salida de capitales (incluidas las utilidades reinvertidas si no se dispone de identificaci\u00f3n independiente)",
             "category": null
         },
         "711": {
-            "code": null,
             "name": "Otras inversiones extranjeras directas, incluidas las utilidades reinvertidas",
             "category": null
         },
         "712": {
-            "code": null,
             "name": "Inversi\u00f3n extranjera directa, utilidades reinvertidas",
             "category": null
         },
         "810": {
-            "code": null,
             "name": "Bonos bancarios",
             "category": null
         },
         "811": {
-            "code": null,
             "name": "Bonos no bancarios",
             "category": null
         },
         "910": {
-            "code": null,
             "name": "Otras garant\u00edas o cr\u00e9ditos bancarios",
             "category": null
         },
         "911": {
-            "code": null,
             "name": "Otras garant\u00edas o cr\u00e9ditos no bancarios",
             "category": null
         },
         "912": {
-            "code": null,
             "name": "Adquisici\u00f3n de t\u00edtulos de organismos emisores",
             "category": null
         },
         "913": {
-            "code": null,
             "name": "T\u00edtulos y otros instrumentos emitidos originalmente por organismos multilaterales",
             "category": null
         }

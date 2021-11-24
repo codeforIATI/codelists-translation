@@ -4,12 +4,10 @@
     },
     "codelist-items": {
         "0": {
-            "code": null,
             "name": "Not verified",
             "description": "The data published for the activity has not been verified"
         },
         "1": {
-            "code": null,
             "name": "Verified",
             "description": "The data published for the activity has been verified. "
         }

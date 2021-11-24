@@ -6,7 +6,6 @@
     },
     "codelist-items": {
         "012": {
-            "code": null,
             "name": "Algeria",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -24,7 +23,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "818": {
-            "code": null,
             "name": "Egypt",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -42,7 +40,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "434": {
-            "code": null,
             "name": "Libya",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -60,7 +57,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "504": {
-            "code": null,
             "name": "Morocco",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -78,7 +74,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "729": {
-            "code": null,
             "name": "Sudan",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -96,7 +91,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "788": {
-            "code": null,
             "name": "Tunisia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -114,7 +108,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "732": {
-            "code": null,
             "name": "Western Sahara",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -132,7 +125,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "086": {
-            "code": null,
             "name": "British Indian Ocean Territory",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -150,7 +142,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "108": {
-            "code": null,
             "name": "Burundi",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -168,7 +159,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "174": {
-            "code": null,
             "name": "Comoros",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -186,7 +176,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "262": {
-            "code": null,
             "name": "Djibouti",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -204,7 +193,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "232": {
-            "code": null,
             "name": "Eritrea",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -222,7 +210,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "231": {
-            "code": null,
             "name": "Ethiopia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -240,7 +227,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "260": {
-            "code": null,
             "name": "French Southern Territories",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -258,7 +244,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "404": {
-            "code": null,
             "name": "Kenya",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -276,7 +261,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "450": {
-            "code": null,
             "name": "Madagascar",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -294,7 +278,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "454": {
-            "code": null,
             "name": "Malawi",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -312,7 +295,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "480": {
-            "code": null,
             "name": "Mauritius",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -330,7 +312,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "175": {
-            "code": null,
             "name": "Mayotte",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -348,7 +329,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "508": {
-            "code": null,
             "name": "Mozambique",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -366,7 +346,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "638": {
-            "code": null,
             "name": "R\u00e9union",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -384,7 +363,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "646": {
-            "code": null,
             "name": "Rwanda",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -402,7 +380,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "690": {
-            "code": null,
             "name": "Seychelles",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -420,7 +397,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "706": {
-            "code": null,
             "name": "Somalia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -438,7 +414,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "728": {
-            "code": null,
             "name": "South Sudan",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -456,7 +431,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "800": {
-            "code": null,
             "name": "Uganda",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -474,7 +448,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "834": {
-            "code": null,
             "name": "United Republic of Tanzania",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -492,7 +465,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "894": {
-            "code": null,
             "name": "Zambia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -510,7 +482,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "716": {
-            "code": null,
             "name": "Zimbabwe",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -528,7 +499,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "024": {
-            "code": null,
             "name": "Angola",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -546,7 +516,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "120": {
-            "code": null,
             "name": "Cameroon",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -564,7 +533,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "140": {
-            "code": null,
             "name": "Central African Republic",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -582,7 +550,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "148": {
-            "code": null,
             "name": "Chad",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -600,7 +567,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "178": {
-            "code": null,
             "name": "Congo",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -618,7 +584,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "180": {
-            "code": null,
             "name": "Democratic Republic of the Congo",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -636,7 +601,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "226": {
-            "code": null,
             "name": "Equatorial Guinea",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -654,7 +618,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "266": {
-            "code": null,
             "name": "Gabon",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -672,7 +635,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "678": {
-            "code": null,
             "name": "Sao Tome and Principe",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -690,7 +652,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "072": {
-            "code": null,
             "name": "Botswana",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -708,7 +669,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "748": {
-            "code": null,
             "name": "Eswatini",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -726,7 +686,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "426": {
-            "code": null,
             "name": "Lesotho",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -744,7 +703,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "516": {
-            "code": null,
             "name": "Namibia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -762,7 +720,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "710": {
-            "code": null,
             "name": "South Africa",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -780,7 +737,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "204": {
-            "code": null,
             "name": "Benin",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -798,7 +754,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "854": {
-            "code": null,
             "name": "Burkina Faso",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -816,7 +771,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "132": {
-            "code": null,
             "name": "Cabo Verde",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -834,7 +788,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "384": {
-            "code": null,
             "name": "C\u00f4te d\u2019Ivoire",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -852,7 +805,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "270": {
-            "code": null,
             "name": "Gambia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -870,7 +822,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "288": {
-            "code": null,
             "name": "Ghana",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -888,7 +839,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "324": {
-            "code": null,
             "name": "Guinea",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -906,7 +856,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "624": {
-            "code": null,
             "name": "Guinea-Bissau",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -924,7 +873,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "430": {
-            "code": null,
             "name": "Liberia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -942,7 +890,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "466": {
-            "code": null,
             "name": "Mali",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -960,7 +907,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "478": {
-            "code": null,
             "name": "Mauritania",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -978,7 +924,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "562": {
-            "code": null,
             "name": "Niger",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -996,7 +941,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "566": {
-            "code": null,
             "name": "Nigeria",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1014,7 +958,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "654": {
-            "code": null,
             "name": "Saint Helena",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1032,7 +975,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "686": {
-            "code": null,
             "name": "Senegal",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1050,7 +992,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "694": {
-            "code": null,
             "name": "Sierra Leone",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1068,7 +1009,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "768": {
-            "code": null,
             "name": "Togo",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1086,7 +1026,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "660": {
-            "code": null,
             "name": "Anguilla",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1104,7 +1043,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "028": {
-            "code": null,
             "name": "Antigua and Barbuda",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1122,7 +1060,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "533": {
-            "code": null,
             "name": "Aruba",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1140,7 +1077,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "044": {
-            "code": null,
             "name": "Bahamas",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1158,7 +1094,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "052": {
-            "code": null,
             "name": "Barbados",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1176,7 +1111,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "535": {
-            "code": null,
             "name": "Bonaire, Sint Eustatius and Saba",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1194,7 +1128,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "092": {
-            "code": null,
             "name": "British Virgin Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1212,7 +1145,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "136": {
-            "code": null,
             "name": "Cayman Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1230,7 +1162,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "192": {
-            "code": null,
             "name": "Cuba",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1248,7 +1179,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "531": {
-            "code": null,
             "name": "Cura\u00e7ao",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1266,7 +1196,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "212": {
-            "code": null,
             "name": "Dominica",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1284,7 +1213,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "214": {
-            "code": null,
             "name": "Dominican Republic",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1302,7 +1230,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "308": {
-            "code": null,
             "name": "Grenada",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1320,7 +1247,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "312": {
-            "code": null,
             "name": "Guadeloupe",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1338,7 +1264,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "332": {
-            "code": null,
             "name": "Haiti",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1356,7 +1281,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "388": {
-            "code": null,
             "name": "Jamaica",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1374,7 +1298,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "474": {
-            "code": null,
             "name": "Martinique",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1392,7 +1315,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "500": {
-            "code": null,
             "name": "Montserrat",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1410,7 +1332,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "630": {
-            "code": null,
             "name": "Puerto Rico",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1428,7 +1349,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "652": {
-            "code": null,
             "name": "Saint Barth\u00e9lemy",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1446,7 +1366,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "659": {
-            "code": null,
             "name": "Saint Kitts and Nevis",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1464,7 +1383,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "662": {
-            "code": null,
             "name": "Saint Lucia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1482,7 +1400,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "663": {
-            "code": null,
             "name": "Saint Martin (French Part)",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1500,7 +1417,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "670": {
-            "code": null,
             "name": "Saint Vincent and the Grenadines",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1518,7 +1434,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "534": {
-            "code": null,
             "name": "Sint Maarten (Dutch part)",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1536,7 +1451,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "780": {
-            "code": null,
             "name": "Trinidad and Tobago",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1554,7 +1468,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "796": {
-            "code": null,
             "name": "Turks and Caicos Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1572,7 +1485,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "850": {
-            "code": null,
             "name": "United States Virgin Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1590,7 +1502,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "084": {
-            "code": null,
             "name": "Belize",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1608,7 +1519,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "188": {
-            "code": null,
             "name": "Costa Rica",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1626,7 +1536,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "222": {
-            "code": null,
             "name": "El Salvador",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1644,7 +1553,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "320": {
-            "code": null,
             "name": "Guatemala",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1662,7 +1570,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "340": {
-            "code": null,
             "name": "Honduras",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1680,7 +1587,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "484": {
-            "code": null,
             "name": "Mexico",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1698,7 +1604,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "558": {
-            "code": null,
             "name": "Nicaragua",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1716,7 +1621,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "591": {
-            "code": null,
             "name": "Panama",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1734,7 +1638,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "032": {
-            "code": null,
             "name": "Argentina",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1752,7 +1655,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "068": {
-            "code": null,
             "name": "Bolivia (Plurinational State of)",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1770,7 +1672,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "074": {
-            "code": null,
             "name": "Bouvet Island",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1788,7 +1689,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "076": {
-            "code": null,
             "name": "Brazil",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1806,7 +1706,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "152": {
-            "code": null,
             "name": "Chile",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1824,7 +1723,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "170": {
-            "code": null,
             "name": "Colombia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1842,7 +1740,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "218": {
-            "code": null,
             "name": "Ecuador",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1860,7 +1757,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "238": {
-            "code": null,
             "name": "Falkland Islands (Malvinas)",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1878,7 +1774,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "254": {
-            "code": null,
             "name": "French Guiana",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1896,7 +1791,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "328": {
-            "code": null,
             "name": "Guyana",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1914,7 +1808,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "600": {
-            "code": null,
             "name": "Paraguay",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1932,7 +1825,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "604": {
-            "code": null,
             "name": "Peru",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1950,7 +1842,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "239": {
-            "code": null,
             "name": "South Georgia and the South Sandwich Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1968,7 +1859,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "740": {
-            "code": null,
             "name": "Suriname",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -1986,7 +1876,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "858": {
-            "code": null,
             "name": "Uruguay",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2004,7 +1893,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "862": {
-            "code": null,
             "name": "Venezuela (Bolivarian Republic of)",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2022,7 +1910,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "060": {
-            "code": null,
             "name": "Bermuda",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2040,7 +1927,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "124": {
-            "code": null,
             "name": "Canada",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2058,7 +1944,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "304": {
-            "code": null,
             "name": "Greenland",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2076,7 +1961,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "666": {
-            "code": null,
             "name": "Saint Pierre and Miquelon",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2094,7 +1978,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "840": {
-            "code": null,
             "name": "United States of America",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2112,7 +1995,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "010": {
-            "code": null,
             "name": "Antarctica",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2130,7 +2012,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "398": {
-            "code": null,
             "name": "Kazakhstan",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2148,7 +2029,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "417": {
-            "code": null,
             "name": "Kyrgyzstan",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2166,7 +2046,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "762": {
-            "code": null,
             "name": "Tajikistan",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2184,7 +2063,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "795": {
-            "code": null,
             "name": "Turkmenistan",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2202,7 +2080,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "860": {
-            "code": null,
             "name": "Uzbekistan",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2220,7 +2097,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "156": {
-            "code": null,
             "name": "China",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2238,7 +2114,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "344": {
-            "code": null,
             "name": "China, Hong Kong Special Administrative Region",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2256,7 +2131,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "446": {
-            "code": null,
             "name": "China, Macao Special Administrative Region",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2274,7 +2148,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "408": {
-            "code": null,
             "name": "Democratic People's Republic of Korea",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2292,7 +2165,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "392": {
-            "code": null,
             "name": "Japan",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2310,7 +2182,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "496": {
-            "code": null,
             "name": "Mongolia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2328,7 +2199,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "410": {
-            "code": null,
             "name": "Republic of Korea",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2346,7 +2216,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "096": {
-            "code": null,
             "name": "Brunei Darussalam",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2364,7 +2233,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "116": {
-            "code": null,
             "name": "Cambodia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2382,7 +2250,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "360": {
-            "code": null,
             "name": "Indonesia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2400,7 +2267,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "418": {
-            "code": null,
             "name": "Lao People's Democratic Republic",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2418,7 +2284,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "458": {
-            "code": null,
             "name": "Malaysia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2436,7 +2301,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "104": {
-            "code": null,
             "name": "Myanmar",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2454,7 +2318,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "608": {
-            "code": null,
             "name": "Philippines",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2472,7 +2335,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "702": {
-            "code": null,
             "name": "Singapore",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2490,7 +2352,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "764": {
-            "code": null,
             "name": "Thailand",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2508,7 +2369,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "626": {
-            "code": null,
             "name": "Timor-Leste",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2526,7 +2386,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "704": {
-            "code": null,
             "name": "Viet Nam",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2544,7 +2403,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "004": {
-            "code": null,
             "name": "Afghanistan",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2562,7 +2420,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "050": {
-            "code": null,
             "name": "Bangladesh",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2580,7 +2437,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "064": {
-            "code": null,
             "name": "Bhutan",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2598,7 +2454,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "356": {
-            "code": null,
             "name": "India",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2616,7 +2471,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "364": {
-            "code": null,
             "name": "Iran (Islamic Republic of)",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2634,7 +2488,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "462": {
-            "code": null,
             "name": "Maldives",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2652,7 +2505,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "524": {
-            "code": null,
             "name": "Nepal",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2670,7 +2522,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "586": {
-            "code": null,
             "name": "Pakistan",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2688,7 +2539,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "144": {
-            "code": null,
             "name": "Sri Lanka",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2706,7 +2556,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "051": {
-            "code": null,
             "name": "Armenia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2724,7 +2573,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "031": {
-            "code": null,
             "name": "Azerbaijan",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2742,7 +2590,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "048": {
-            "code": null,
             "name": "Bahrain",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2760,7 +2607,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "196": {
-            "code": null,
             "name": "Cyprus",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2778,7 +2624,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "268": {
-            "code": null,
             "name": "Georgia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2796,7 +2641,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "368": {
-            "code": null,
             "name": "Iraq",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2814,7 +2658,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "376": {
-            "code": null,
             "name": "Israel",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2832,7 +2675,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "400": {
-            "code": null,
             "name": "Jordan",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2850,7 +2692,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "414": {
-            "code": null,
             "name": "Kuwait",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2868,7 +2709,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "422": {
-            "code": null,
             "name": "Lebanon",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2886,7 +2726,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "512": {
-            "code": null,
             "name": "Oman",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2904,7 +2743,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "634": {
-            "code": null,
             "name": "Qatar",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2922,7 +2760,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "682": {
-            "code": null,
             "name": "Saudi Arabia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2940,7 +2777,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "275": {
-            "code": null,
             "name": "State of Palestine",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2958,7 +2794,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "760": {
-            "code": null,
             "name": "Syrian Arab Republic",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2976,7 +2811,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "792": {
-            "code": null,
             "name": "Turkey",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -2994,7 +2828,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "784": {
-            "code": null,
             "name": "United Arab Emirates",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3012,7 +2845,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "887": {
-            "code": null,
             "name": "Yemen",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3030,7 +2862,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "112": {
-            "code": null,
             "name": "Belarus",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3048,7 +2879,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "100": {
-            "code": null,
             "name": "Bulgaria",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3066,7 +2896,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "203": {
-            "code": null,
             "name": "Czechia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3084,7 +2913,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "348": {
-            "code": null,
             "name": "Hungary",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3102,7 +2930,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "616": {
-            "code": null,
             "name": "Poland",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3120,7 +2947,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "498": {
-            "code": null,
             "name": "Republic of Moldova",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3138,7 +2964,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "642": {
-            "code": null,
             "name": "Romania",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3156,7 +2981,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "643": {
-            "code": null,
             "name": "Russian Federation",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3174,7 +2998,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "703": {
-            "code": null,
             "name": "Slovakia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3192,7 +3015,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "804": {
-            "code": null,
             "name": "Ukraine",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3210,7 +3032,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "248": {
-            "code": null,
             "name": "\u00c5land Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3228,7 +3049,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "831": {
-            "code": null,
             "name": "Guernsey",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3246,7 +3066,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "832": {
-            "code": null,
             "name": "Jersey",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3264,7 +3083,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "680": {
-            "code": null,
             "name": "Sark",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3282,7 +3100,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "208": {
-            "code": null,
             "name": "Denmark",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3300,7 +3117,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "233": {
-            "code": null,
             "name": "Estonia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3318,7 +3134,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "234": {
-            "code": null,
             "name": "Faroe Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3336,7 +3151,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "246": {
-            "code": null,
             "name": "Finland",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3354,7 +3168,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "352": {
-            "code": null,
             "name": "Iceland",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3372,7 +3185,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "372": {
-            "code": null,
             "name": "Ireland",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3390,7 +3202,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "833": {
-            "code": null,
             "name": "Isle of Man",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3408,7 +3219,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "428": {
-            "code": null,
             "name": "Latvia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3426,7 +3236,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "440": {
-            "code": null,
             "name": "Lithuania",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3444,7 +3253,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "578": {
-            "code": null,
             "name": "Norway",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3462,7 +3270,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "744": {
-            "code": null,
             "name": "Svalbard and Jan Mayen Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3480,7 +3287,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "752": {
-            "code": null,
             "name": "Sweden",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3498,7 +3304,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "826": {
-            "code": null,
             "name": "United Kingdom of Great Britain and Northern Ireland",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3516,7 +3321,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "008": {
-            "code": null,
             "name": "Albania",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3534,7 +3338,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "020": {
-            "code": null,
             "name": "Andorra",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3552,7 +3355,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "070": {
-            "code": null,
             "name": "Bosnia and Herzegovina",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3570,7 +3372,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "191": {
-            "code": null,
             "name": "Croatia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3588,7 +3389,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "292": {
-            "code": null,
             "name": "Gibraltar",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3606,7 +3406,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "300": {
-            "code": null,
             "name": "Greece",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3624,7 +3423,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "336": {
-            "code": null,
             "name": "Holy See",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3642,7 +3440,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "380": {
-            "code": null,
             "name": "Italy",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3660,7 +3457,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "470": {
-            "code": null,
             "name": "Malta",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3678,7 +3474,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "499": {
-            "code": null,
             "name": "Montenegro",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3696,7 +3491,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "807": {
-            "code": null,
             "name": "North Macedonia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3714,7 +3508,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "620": {
-            "code": null,
             "name": "Portugal",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3732,7 +3525,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "674": {
-            "code": null,
             "name": "San Marino",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3750,7 +3542,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "688": {
-            "code": null,
             "name": "Serbia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3768,7 +3559,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "705": {
-            "code": null,
             "name": "Slovenia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3786,7 +3576,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "724": {
-            "code": null,
             "name": "Spain",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3804,7 +3593,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "040": {
-            "code": null,
             "name": "Austria",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3822,7 +3610,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "056": {
-            "code": null,
             "name": "Belgium",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3840,7 +3627,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "250": {
-            "code": null,
             "name": "France",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3858,7 +3644,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "276": {
-            "code": null,
             "name": "Germany",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3876,7 +3661,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "438": {
-            "code": null,
             "name": "Liechtenstein",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3894,7 +3678,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "442": {
-            "code": null,
             "name": "Luxembourg",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3912,7 +3695,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "492": {
-            "code": null,
             "name": "Monaco",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3930,7 +3712,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "528": {
-            "code": null,
             "name": "Netherlands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3948,7 +3729,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "756": {
-            "code": null,
             "name": "Switzerland",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3966,7 +3746,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "036": {
-            "code": null,
             "name": "Australia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -3984,7 +3763,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "162": {
-            "code": null,
             "name": "Christmas Island",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4002,7 +3780,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "166": {
-            "code": null,
             "name": "Cocos (Keeling) Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4020,7 +3797,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "334": {
-            "code": null,
             "name": "Heard Island and McDonald Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4038,7 +3814,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "554": {
-            "code": null,
             "name": "New Zealand",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4056,7 +3831,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "574": {
-            "code": null,
             "name": "Norfolk Island",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4074,7 +3848,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "242": {
-            "code": null,
             "name": "Fiji",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4092,7 +3865,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "540": {
-            "code": null,
             "name": "New Caledonia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4110,7 +3882,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "598": {
-            "code": null,
             "name": "Papua New Guinea",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4128,7 +3899,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "090": {
-            "code": null,
             "name": "Solomon Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4146,7 +3916,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "548": {
-            "code": null,
             "name": "Vanuatu",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4164,7 +3933,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "316": {
-            "code": null,
             "name": "Guam",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4182,7 +3950,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "296": {
-            "code": null,
             "name": "Kiribati",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4200,7 +3967,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "584": {
-            "code": null,
             "name": "Marshall Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4218,7 +3984,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "583": {
-            "code": null,
             "name": "Micronesia (Federated States of)",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4236,7 +4001,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "520": {
-            "code": null,
             "name": "Nauru",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4254,7 +4018,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "580": {
-            "code": null,
             "name": "Northern Mariana Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4272,7 +4035,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "585": {
-            "code": null,
             "name": "Palau",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4290,7 +4052,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "581": {
-            "code": null,
             "name": "United States Minor Outlying Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4308,7 +4069,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "016": {
-            "code": null,
             "name": "American Samoa",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4326,7 +4086,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "184": {
-            "code": null,
             "name": "Cook Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4344,7 +4103,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "258": {
-            "code": null,
             "name": "French Polynesia",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4362,7 +4120,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "570": {
-            "code": null,
             "name": "Niue",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4380,7 +4137,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "612": {
-            "code": null,
             "name": "Pitcairn",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4398,7 +4154,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "882": {
-            "code": null,
             "name": "Samoa",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4416,7 +4171,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "772": {
-            "code": null,
             "name": "Tokelau",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4434,7 +4188,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "776": {
-            "code": null,
             "name": "Tonga",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4452,7 +4205,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "798": {
-            "code": null,
             "name": "Tuvalu",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,
@@ -4470,7 +4222,6 @@
             "{https://codeforiati.org/}developed-developing": null
         },
         "876": {
-            "code": null,
             "name": "Wallis and Futuna Islands",
             "{https://codeforiati.org/}iso-alpha-2-code": null,
             "{https://codeforiati.org/}iso-alpha-3-code": null,

@@ -5,12 +5,10 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "Activity",
             "description": "The location specifies where the activity is carried out"
         },
         "2": {
-            "code": null,
             "name": "Intended Beneficiaries",
             "description": "The location specifies where the intended beneficiaries of the activity live"
         }

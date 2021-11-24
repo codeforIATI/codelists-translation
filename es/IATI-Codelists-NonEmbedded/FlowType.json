@@ -6,52 +6,42 @@
     },
     "codelist-items": {
         "10": {
-            "code": null,
             "name": "Asistencia oficial para el desarrollo",
             "description": null
         },
         "20": {
-            "code": null,
             "name": "Otras corrientes oficiales",
             "description": null
         },
         "21": {
-            "code": null,
             "name": "Otras corrientes oficiales de cr\u00e9ditos no destinados a la exportaci\u00f3n",
             "description": null
         },
         "22": {
-            "code": null,
             "name": "Cr\u00e9ditos a la exportaci\u00f3n con respaldo oficial",
             "description": null
         },
         "30": {
-            "code": null,
             "name": "Financiaci\u00f3n privada para el desarrollo",
             "description": null
         },
         "35": {
-            "code": null,
             "name": "Mercado privado",
             "description": null
         },
         "36": {
-            "code": null,
             "name": "Inversi\u00f3n extranjera directa privada",
             "description": null
         },
         "37": {
-            "code": null,
             "name": "Otros flujos privados con arreglo a las condiciones de mercado",
             "description": null
         },
         "40": {
-            "code": null,
             "name": "No flujo",
             "description": null
         },
         "50": {
-            "code": null,
             "name": "Otros flujos",
             "description": null
         }

@@ -6,52 +6,42 @@
     },
     "codelist-items": {
         "10": {
-            "code": null,
             "name": "ODA",
             "description": "Official Development Assistance"
         },
         "20": {
-            "code": null,
             "name": "OOF",
             "description": "Other Official Flows"
         },
         "21": {
-            "code": null,
             "name": "Non-export credit OOF",
             "description": "Other Official Flows, excl. export credits"
         },
         "22": {
-            "code": null,
             "name": "Officially supported export credits",
             "description": "Officially supported export credits. Covers both official direct export credits and private export credits under official guarantee or insurance"
         },
         "30": {
-            "code": null,
             "name": "Private Development Finance",
             "description": "Financing by civil society organisations (NGOs, philantropic foundations, etc.)"
         },
         "35": {
-            "code": null,
             "name": "Private Market",
             "description": "Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries"
         },
         "36": {
-            "code": null,
             "name": "Private Foreign Direct Investment",
             "description": "Private Foreign Direct Investment"
         },
         "37": {
-            "code": null,
             "name": "Other Private flows at market terms",
             "description": "Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries"
         },
         "40": {
-            "code": null,
             "name": "Non flow",
             "description": "e.g. GNI, ODA%GNI, Population etc"
         },
         "50": {
-            "code": null,
             "name": "Other flows",
             "description": "e.g. non-ODA component of peacebuilding operations"
         }

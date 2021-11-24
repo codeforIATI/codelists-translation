@@ -5,62 +5,50 @@
     },
     "codelist-items": {
         "A": {
-            "code": null,
             "name": "Fully flexible core contribution",
             "category": null
         },
         "B": {
-            "code": null,
             "name": "Fully flexible core contribution to the CERF",
             "category": null
         },
         "C": {
-            "code": null,
             "name": "Core contribution",
             "category": null
         },
         "D": {
-            "code": null,
             "name": "Core contribution with limitations",
             "category": null
         },
         "E": {
-            "code": null,
             "name": "Directed to a geographical region or a strategic objective",
             "category": null
         },
         "F": {
-            "code": null,
             "name": "Directed to a Country-Based Pooled Fund",
             "category": null
         },
         "G": {
-            "code": null,
             "name": "Directed to an aid organisation's country operations",
             "category": null
         },
         "H": {
-            "code": null,
             "name": "Directed to a sub-objective/target",
             "category": null
         },
         "I": {
-            "code": null,
             "name": "Directed to a specific project",
             "category": null
         },
         "J": {
-            "code": null,
             "name": "Directed geographically and thematically, tied financially",
             "category": null
         },
         "K": {
-            "code": null,
             "name": "Directed geographically and thematically, in kind",
             "category": null
         },
         "L": {
-            "code": null,
             "name": "Donor-initiated projects/directed contributions",
             "category": null
         }

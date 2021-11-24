@@ -4,67 +4,54 @@
     },
     "codelist-items": {
         "1": {
-            "code": null,
             "name": "Entrada de fundos",
             "description": null
         },
         "2": {
-            "code": null,
             "name": "Compromisso de sa\u00edda",
             "description": null
         },
         "3": {
-            "code": null,
             "name": "Desembolso",
             "description": null
         },
         "4": {
-            "code": null,
             "name": "Despesa",
             "description": null
         },
         "5": {
-            "code": null,
             "name": "Pagamento de juros",
             "description": null
         },
         "6": {
-            "code": null,
             "name": "Liquida\u00e7\u00e3o de empr\u00e9stimo",
             "description": null
         },
         "7": {
-            "code": null,
             "name": "Reembolso",
             "description": null
         },
         "8": {
-            "code": null,
             "name": "Compra de capital",
             "description": null
         },
         "9": {
-            "code": null,
             "name": "Venda de capital",
             "description": null
         },
         "10": {
-            "code": null,
             "name": "Garantia de cr\u00e9dito",
             "description": null
         },
         "11": {
-            "code": null,
             "name": "Compromisso de entrada",
             "description": null
         },
         "12": {
-            "code": null,
             "name": "Promessa de sa\u00edda",
             "description": null
         },
         "13": {
-            "code": null,
             "name": "Promessa de entrada",
             "description": null
         }

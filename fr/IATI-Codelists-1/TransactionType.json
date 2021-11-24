@@ -4,52 +4,42 @@
     },
     "codelist-items": {
         "C": {
-            "code": null,
             "name": null,
             "description": null
         },
         "D": {
-            "code": null,
             "name": null,
             "description": null
         },
         "E": {
-            "code": null,
             "name": null,
             "description": null
         },
         "IF": {
-            "code": null,
             "name": null,
             "description": null
         },
         "IR": {
-            "code": null,
             "name": null,
             "description": null
         },
         "LR": {
-            "code": null,
             "name": null,
             "description": null
         },
         "R": {
-            "code": null,
             "name": null,
             "description": null
         },
         "QP": {
-            "code": null,
             "name": null,
             "description": null
         },
         "QS": {
-            "code": null,
             "name": null,
             "description": null
         },
         "CG": {
-            "code": null,
             "name": null,
             "description": null
         }

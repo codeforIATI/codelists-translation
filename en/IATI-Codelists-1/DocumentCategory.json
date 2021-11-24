@@ -4,157 +4,131 @@
     },
     "codelist-items": {
         "A01": {
-            "code": null,
             "name": "Pre- and post-project impact appraisal",
             "description": null,
             "category": null
         },
         "A02": {
-            "code": null,
             "name": "Objectives / Purpose of activity",
             "description": null,
             "category": null
         },
         "A03": {
-            "code": null,
             "name": "Intended ultimate beneficiaries",
             "description": null,
             "category": null
         },
         "A04": {
-            "code": null,
             "name": "Conditions",
             "description": null,
             "category": null
         },
         "A05": {
-            "code": null,
             "name": "Budget",
             "description": null,
             "category": null
         },
         "A06": {
-            "code": null,
             "name": "Summary information about contract",
             "description": null,
             "category": null
         },
         "A07": {
-            "code": null,
             "name": "Review of project performance and evaluation",
             "description": null,
             "category": null
         },
         "A08": {
-            "code": null,
             "name": "Results, outcomes and outputs",
             "description": null,
             "category": null
         },
         "A09": {
-            "code": null,
             "name": "Memorandum of understanding (If agreed by all parties)",
             "description": null,
             "category": null
         },
         "A10": {
-            "code": null,
             "name": "Tender",
             "description": null,
             "category": null
         },
         "A11": {
-            "code": null,
             "name": "Contract",
             "description": null,
             "category": null
         },
         "B01": {
-            "code": null,
             "name": "Annual report",
             "description": null,
             "category": null
         },
         "B02": {
-            "code": null,
             "name": "Institutional Strategy paper",
             "description": null,
             "category": null
         },
         "B03": {
-            "code": null,
             "name": "Country strategy paper",
             "description": null,
             "category": null
         },
         "B04": {
-            "code": null,
             "name": "Aid Allocation Policy",
             "description": null,
             "category": null
         },
         "B05": {
-            "code": null,
             "name": "Procurement Policy and Procedure",
             "description": null,
             "category": null
         },
         "B06": {
-            "code": null,
             "name": "Institutional Audit Report",
             "description": null,
             "category": null
         },
         "B07": {
-            "code": null,
             "name": "Country Audit Report",
             "description": null,
             "category": null
         },
         "B08": {
-            "code": null,
             "name": "Exclusions Policy",
             "description": null,
             "category": null
         },
         "B09": {
-            "code": null,
             "name": "Institutional Evaluation Report",
             "description": null,
             "category": null
         },
         "B10": {
-            "code": null,
             "name": "Country Evaluation Report",
             "description": null,
             "category": null
         },
         "B11": {
-            "code": null,
             "name": "Sector strategy",
             "description": null,
             "category": null
         },
         "B12": {
-            "code": null,
             "name": "Thematic strategy",
             "description": null,
             "category": null
         },
         "B13": {
-            "code": null,
             "name": "Country-level Memorandum of Understanding",
             "description": null,
             "category": null
         },
         "B14": {
-            "code": null,
             "name": "Evaluations policy",
             "description": null,
             "category": null
         },
         "B15": {
-            "code": null,
             "name": "General Terms and Conditions",
             "description": null,
             "category": null
