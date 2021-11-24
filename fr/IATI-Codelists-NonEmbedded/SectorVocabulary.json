@@ -44,12 +44,12 @@
             "description": "Le secteur d\u00e9clar\u00e9 correspond \u00e0 un code de groupe sectoriel du Comit\u00e9 permanent interorganisations"
         },
         "11": {
-            "name": null,
-            "description": null
+            "name": "North American Industry Classification System (NAICS)",
+            "description": "The sector reported corresponds to the NAICS codelist"
         },
         "12": {
-            "name": null,
-            "description": null
+            "name": "UN System Function",
+            "description": "The sector reported corresponds to the UN System Function codelist"
         },
         "99": {
             "name": "Organisation d\u00e9clarante",
