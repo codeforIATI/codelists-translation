@@ -499,7 +499,7 @@
             "name": "Send a Cow Uganda"
         },
         "XM-DAC-21-1": {
-            "name": "Ireland - Department of Foreign Affairs and Trade"
+            "name": "Ireland - Department of Foreign Affairs"
         },
         "GB-9": {
             "name": "UK - Department for Work and Pensions"
@@ -1473,6 +1473,9 @@
         "NL-KVK-41150939": {
             "name": "Solidaridad Europe"
         },
+        "UG-RSB-29587": {
+            "name": "The Uganda Association of Women Lawyers ( FIDA Uganda)"
+        },
         "US-EIN-31-1812979": {
             "name": "CREA"
         },
@@ -1539,6 +1542,9 @@
         "BE-BCE_KBO-0410057701": {
             "name": "Institute of Tropical Medicine"
         },
+        "ZW-ROD-2172": {
+            "name": "GALZ"
+        },
         "BE-BCE_KBO-0264814354": {
             "name": "Belgian development agency (Enabel)"
         },
@@ -1583,6 +1589,9 @@
         },
         "US-EIN-52-1764268": {
             "name": "BSR"
+        },
+        "GB-COH-07964746": {
+            "name": "Satellite Applications Catapult Ltd"
         },
         "NL-KVK-40530156": {
             "name": "COC Nederland"
@@ -1630,7 +1639,7 @@
             "name": "Amref Health Africa in Uganda"
         },
         "GB-CHC-228248": {
-            "name": "Overseas Development Institute"
+            "name": "ODI"
         },
         "NL-KVK-53521129": {
             "name": "IDH, the Sustainable Trade Initiative"
@@ -1797,11 +1806,17 @@
         "CH-FDJP-66006990023": {
             "name": "ACT Alliance"
         },
+        "NL-KVK-30258482": {
+            "name": "Kerk in Actie"
+        },
         "XM-DAC-47064": {
             "name": "International Network for Bamboo and Rattan (INBAR)"
         },
         "NL-KVK-27251823": {
             "name": "Support Trust for Africa Development (STAD)"
+        },
+        "XM-DAC-5-52": {
+            "name": "Germany GIZ Non BMZ"
         },
         "XM-DAC-236": {
             "name": "Minist\u00e8re de l'Economie et des Finances du B\u00e9nin"
@@ -1839,6 +1854,9 @@
         "CZ-ICO-25755277": {
             "name": "People in Need"
         },
+        "ZA-NPO-060766": {
+            "name": "Coalition of African Lesbians (CAL)"
+        },
         "BE-BCE_KBO-0427736148": {
             "name": "Trias"
         },
@@ -1874,6 +1892,9 @@
         },
         "NL-KVK-41152832": {
             "name": "Stichting Nederlands Instituut voor Internationale Betrekkingen 'Clingendael'"
+        },
+        "IN-MCA-U74900MH2015PTC310042": {
+            "name": "Intellecap Advisory Services Private Limited"
         },
         "NL-KVK-41160229": {
             "name": "PUM Netherlands"
@@ -3342,6 +3363,9 @@
         "ID-KHH-AHU17AH0107": {
             "name": "Institute for Policy Research and Advocacy (ELSAM)"
         },
+        "GB-COH-00070527": {
+            "name": "London School of Economics and Political Science"
+        },
         "GB-GOV-52": {
             "name": "Conflict, Stability and Security Fund"
         },
@@ -3689,6 +3713,9 @@
         },
         "GB-CHC-1122330": {
             "name": "CDP Worldwide"
+        },
+        "GB-COH-RC000541": {
+            "name": "SOAS University of London"
         },
         "NL-KVK-41169658": {
             "name": "Stichting Fern"
@@ -4038,6 +4065,9 @@
         "US-EIN-30-0805768": {
             "name": "The Freedom Fund (US)"
         },
+        "ZA-NPO-053-456": {
+            "name": "The Centre for Economic Governance and Accountability in Africa  (CEGAA)"
+        },
         "KE-NCB-OP-218-051-9994-1329": {
             "name": "Centre for Rights Education and Awareness"
         },
@@ -4046,6 +4076,9 @@
         },
         "ZA-CIT-9415005603": {
             "name": "Stellenbosch University"
+        },
+        "NG-CAC-37051": {
+            "name": "Down syndrome Foundation Nigeria"
         },
         "GB-CHC-1173320": {
             "name": "South West International Development Network"
@@ -4092,6 +4125,9 @@
         "SS-RRC-465": {
             "name": "Assistance Mission for Africa"
         },
+        "ID-KHH-AHU-0013363.AH.01.04": {
+            "name": "Yayasan PEKKA"
+        },
         "NG-CAC-IT-NO96562": {
             "name": "Olamma Cares Foundation"
         },
@@ -4100,6 +4136,9 @@
         },
         "DE-CR-RA000220-HRB7745": {
             "name": "Forschungsinstitut zur Zukunft der Arbeit GmbH (IZA)"
+        },
+        "CA_ON-ONT-1783682": {
+            "name": "Gender at Work"
         },
         "NL-KVK-74799525": {
             "name": "Legal Action Worldwide"
@@ -4115,6 +4154,9 @@
         },
         "XI-GRID-grid.11142.37": {
             "name": "University Putra Malaysia"
+        },
+        "EG-MOSS-3959350": {
+            "name": "Ibrahimia Media Center"
         },
         "BD-ROC-C-107131": {
             "name": "Light Castle Partners"
@@ -4146,14 +4188,35 @@
         "MZ-NUIT-700089584": {
             "name": "Centro de Aprendizagem e Capacita\u00e7\u00e3o da Sociedade Civil"
         },
+        "ZA-NPO-213-268": {
+            "name": "South African Network of People who Use Drugs"
+        },
+        "US-EIN-74-2244146": {
+            "name": "Rocky Mountain Institute"
+        },
         "GH-RGD-CG200980721": {
             "name": "Initiative Sankofa d'Afrique de l'Ouest"
+        },
+        "IN-MHA-094421114": {
+            "name": "IT for Change"
         },
         "XM-DAC-46012": {
             "name": "Inter-American Investment Corporation"
         },
+        "TZ-NNCB-INGOR2000123": {
+            "name": "Africa Philanthropy Network"
+        },
         "UG-NGO-3690": {
             "name": "Raising Voices"
+        },
+        "GH-DSW-7992": {
+            "name": "African Security Sector Network"
+        },
+        "GB-CHC-1102909": {
+            "name": "The Climate Change Organisation"
+        },
+        "NG-CAC-11660": {
+            "name": "Center for Research, Evaluation Resources and Development (CRERD)"
         },
         "GB-1-201879-115": {
             "name": "Wheeler Institute for Business and Development, London Business School"

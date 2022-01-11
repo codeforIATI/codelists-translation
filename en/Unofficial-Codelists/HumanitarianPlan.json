@@ -3,6 +3,120 @@
         "name": "Humanitarian Plan"
     },
     "codelist-items": {
+        "HAFG22": {
+            "name": "Afghanistan Humanitarian Response Plan 2022"
+        },
+        "RAFG22": {
+            "name": "Afghanistan Regional Refugee Response Plan 2022"
+        },
+        "RBGD22": {
+            "name": "Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2022"
+        },
+        "HBFA22": {
+            "name": "Burkina Faso Plan de R\u00e9ponse Humanitaire 2022"
+        },
+        "HBDI22": {
+            "name": "Burundi Plan de R\u00e9ponse Humanitaire 2022"
+        },
+        "HCMR22": {
+            "name": "Cameroon Humanitarian Response Plan 2022"
+        },
+        "HCOL22": {
+            "name": "Colombia Plan de Respuesta Humanitario 2022"
+        },
+        "RDRCRRP22": {
+            "name": "Democratic Republic of Congo Regional Refugee Response Plan 2022"
+        },
+        "HSLV22": {
+            "name": "El Salvador Plan de Respuesta Humanitario 2022"
+        },
+        "HETH22": {
+            "name": "Ethiopia Humanitarian Response Plan 2022"
+        },
+        "HGTM22": {
+            "name": "Guatemala Plan de Respuesta Humanitario 2022"
+        },
+        "HHTI22": {
+            "name": "Haiti Plan de R\u00e9ponse Humanitaire 2022"
+        },
+        "HHND22": {
+            "name": "Honduras Plan de Respuesta Humanitario 2022"
+        },
+        "HIRQ22": {
+            "name": "Iraq Humanitarian Response Plan 2022"
+        },
+        "OLBN22": {
+            "name": "Lebanon Emergency Response Plan 2022"
+        },
+        "HLBY22": {
+            "name": "Libya Humanitarian Response Plan 2022"
+        },
+        "FMDG22": {
+            "name": "Madagascar&#039;s Grand Sud Flash Appeal 2022"
+        },
+        "HMLI22": {
+            "name": "Mali Plan de R\u00e9ponse Humanitaire 2022"
+        },
+        "HMOZ22": {
+            "name": "Mozambique Humanitarian Response Plan 2022"
+        },
+        "HMMR22": {
+            "name": "Myanmar Humanitarian Response Plan 2022"
+        },
+        "HNER22": {
+            "name": "Niger Plan de R\u00e9ponse Humanitaire 2022"
+        },
+        "HNGA22": {
+            "name": "Nigeria Humanitarian Response Plan 2022"
+        },
+        "HPSE22": {
+            "name": "occupied Palestinian territory Humanitarian Response Plan 2022"
+        },
+        "OPHL2122": {
+            "name": "Philippines: Super Typhoon Rai (Odette) - Humanitarian Needs and Priorities"
+        },
+        "RREG22": {
+            "name": "Refugee and Migrant Response Plan for Venezuela 2022 (RMRP)"
+        },
+        "RDJIETHSOMYEM22": {
+            "name": "Regional Migrant Humanitarian Response Plan for the Horn of Africa and Yemen 2022"
+        },
+        "HCAF22": {
+            "name": "R\u00e9publique Centrafricaine Plan de R\u00e9ponse Humanitaire 2022"
+        },
+        "HCOD22": {
+            "name": "R\u00e9publique D\u00e9mocratique du Congo Plan de R\u00e9ponse Humanitaire 2022"
+        },
+        "HSOM22": {
+            "name": "Somalia Humanitarian Response Plan 2022"
+        },
+        "HSSD22": {
+            "name": "South Sudan Humanitarian Response Plan 2022"
+        },
+        "RSSDRRP22": {
+            "name": "South Sudan Regional Refugee Response Plan 2022"
+        },
+        "HSDN22": {
+            "name": "Sudan Humanitarian Response Plan 2022"
+        },
+        "HSYR22": {
+            "name": "Syria Humanitarian Response Plan 2022 - 2023"
+        },
+        "RSYR22": {
+            "name": "Syria Refugee Response and Resilience Plan (3RP) 2022"
+        },
+        "HTCD22": {
+            "name": "Tchad Plan de R\u00e9ponse Humanitaire 2022"
+        },
+        "HUKR22": {
+            "name": "Ukraine Humanitarian Response Plan 2022"
+        },
+        "HVEN22": {
+            "name": "Venezuela Plan de Respuesta Humanitario 2022"
+        },
+        "HYEM22": {
+            "name": "Yemen Humanitarian Response Plan 2022"
+        },
         "FAFG21": {
             "name": "Afghanistan Flash Appeal 2021"
         },
@@ -13,31 +127,34 @@
             "name": "Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2021"
         },
         "HBFA21": {
-            "name": "Burkina Faso Humanitarian Response Plan 2021"
+            "name": "Burkina Faso Plan de R\u00e9ponse Humanitaire 2021"
         },
         "HBDI21": {
-            "name": "Burundi Humanitarian Response Plan 2021"
+            "name": "Burundi Plan de R\u00e9ponse Humanitaire 2021"
         },
         "RRWATZAUGA21": {
             "name": "Burundi Regional Refugee Response Plan 2021"
         },
         "HCMR21": {
-            "name": "Cameroon Humanitarian Response Plan 2021"
+            "name": "Cameroon Humanitarian Response Plan  2021"
         },
         "HCAF21": {
-            "name": "Central African Republic Humanitarian Response Plan 2021"
+            "name": "R\u00e9publique Centrafricaine Plan de R\u00e9ponse Humanitaire 2021"
         },
         "HTCD21": {
-            "name": "Chad Humanitarian Response Plan 2021"
+            "name": "Tchad Plan de R\u00e9ponse Humanitaire 2021"
         },
         "HCOL21": {
-            "name": "Colombia Humanitarian Response Plan 2021"
+            "name": "Colombia Plan de Respuesta Humanitario 2021"
         },
         "HCOD21": {
-            "name": "Democratic Republic of Congo Humanitarian Response Plan 2021"
+            "name": "R\u00e9publique D\u00e9mocratique du Congo Plan de R\u00e9ponse Humanitaire 2021"
         },
         "RDRCRRP21": {
             "name": "Democratic Republic of Congo Regional Refugee Response Plan 2021"
+        },
+        "HSLV21": {
+            "name": "El Salvador Plan de Respuesta Humanitario 2021"
         },
         "HSLV2122": {
             "name": "El Salvador Plan de Respuesta Humanitario 2021"
@@ -48,6 +165,9 @@
         "HETH21": {
             "name": "Ethiopia Humanitarian Response Plan 2021"
         },
+        "HGTM21": {
+            "name": "Guatemala Plan de Respuesta Humanitario 2021"
+        },
         "HGTM2122": {
             "name": "Guatemala Plan de Respuesta Humanitario 2021"
         },
@@ -55,10 +175,13 @@
             "name": "Haiti Flash Appeal 2021"
         },
         "HHTI21": {
-            "name": "Haiti Humanitarian Response Plan 2021"
+            "name": "Haiti Plan de R\u00e9ponse Humanitaire 2021"
         },
         "FHND2021": {
             "name": "Honduras Flash Appeal 2020-2021"
+        },
+        "HHND21": {
+            "name": "Honduras Plan de Respuesta Humanitario 2021"
         },
         "HHND2122": {
             "name": "Honduras Plan de Respuesta Humanitario 2021"
@@ -82,7 +205,7 @@
             "name": "Madagascar&#039;s Grand Sud Flash Appeal 2021"
         },
         "HMLI21": {
-            "name": "Mali Humanitarian Response Plan 2021"
+            "name": "Mali Plan de R\u00e9ponse Humanitaire 2021"
         },
         "HMOZ21": {
             "name": "Mozambique Humanitarian Response Plan 2021"
@@ -97,7 +220,7 @@
             "name": "Nepal Covid-19 Response Plan 2021"
         },
         "HNER21": {
-            "name": "Niger Humanitarian Response Plan 2021"
+            "name": "Niger Plan de R\u00e9ponse Humanitaire 2021"
         },
         "HNGA21": {
             "name": "Nigeria Humanitarian Response Plan 2021"
@@ -139,7 +262,7 @@
             "name": "Ukraine Humanitarian Response Plan 2021"
         },
         "HVEN21": {
-            "name": "Venezuela Humanitarian Response Plan 2021"
+            "name": "Venezuela Plan de Respuesta Humanitario 2021"
         },
         "HYEM21": {
             "name": "Yemen Humanitarian Response Plan 2021"

@@ -116,6 +116,10 @@
             "name": null,
             "description": null
         },
+        "XI-IATI-NAGAAD": {
+            "name": null,
+            "description": null
+        },
         "XI-IATI-NSO": {
             "name": null,
             "description": null
@@ -125,6 +129,10 @@
             "description": null
         },
         "XI-IATI-SGJ": {
+            "name": null,
+            "description": null
+        },
+        "XI-IATI-SORDI": {
             "name": null,
             "description": null
         },

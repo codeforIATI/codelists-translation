@@ -8,6 +8,98 @@
             "{https://codeforiati.org/}event": "Epidemic",
             "{https://codeforiati.org/}country": "(Non-Localized)"
         },
+        "FL-2022-000002-IRN": {
+            "{https://codeforiati.org/}event": "Flood",
+            "{https://codeforiati.org/}country": "Iran, Islamic Republic"
+        },
+        "EQ-2022-000001-CHN": {
+            "{https://codeforiati.org/}event": "Earthquake",
+            "{https://codeforiati.org/}country": "China, People's Republic"
+        },
+        "LS-2021-000212-MMR": {
+            "{https://codeforiati.org/}event": "Land Slide",
+            "{https://codeforiati.org/}country": "Myanmar"
+        },
+        "EQ-2021-000211-IDN": {
+            "{https://codeforiati.org/}event": "Earthquake",
+            "{https://codeforiati.org/}country": "Indonesia"
+        },
+        "OT-2021-000210-ZAF": {
+            "{https://codeforiati.org/}event": "Other",
+            "{https://codeforiati.org/}country": "South Africa"
+        },
+        "FL-2021-000209-MYS": {
+            "{https://codeforiati.org/}event": "Flood",
+            "{https://codeforiati.org/}country": "Malaysia"
+        },
+        "FL-2021-000208-IRQ": {
+            "{https://codeforiati.org/}event": "Flood",
+            "{https://codeforiati.org/}country": "Iraq"
+        },
+        "OT-2021-000206-ARM": {
+            "{https://codeforiati.org/}event": "Other",
+            "{https://codeforiati.org/}country": "Armenia"
+        },
+        "CE-2021-000205-CMR": {
+            "{https://codeforiati.org/}event": "Complex Emergency",
+            "{https://codeforiati.org/}country": "Cameroon"
+        },
+        "FL-2021-000204-BRA": {
+            "{https://codeforiati.org/}event": "Flood",
+            "{https://codeforiati.org/}country": "Brazil"
+        },
+        "AC-2021-000203-HTI": {
+            "{https://codeforiati.org/}event": "Tech. Disaster",
+            "{https://codeforiati.org/}country": "Haiti"
+        },
+        "TC-2021-000202-PHL": {
+            "{https://codeforiati.org/}event": "Tropical Cyclone",
+            "{https://codeforiati.org/}country": "Philippines"
+        },
+        "CE-2021-000201-TCD": {
+            "{https://codeforiati.org/}event": "Complex Emergency",
+            "{https://codeforiati.org/}country": "Chad"
+        },
+        "EQ-2021-000200-IDN": {
+            "{https://codeforiati.org/}event": "Earthquake",
+            "{https://codeforiati.org/}country": "Indonesia"
+        },
+        "TO-2021-000199-USA": {
+            "{https://codeforiati.org/}event": "Tornadoes",
+            "{https://codeforiati.org/}country": "United States"
+        },
+        "FF-2021-000198-COG": {
+            "{https://codeforiati.org/}event": "Flash Flood",
+            "{https://codeforiati.org/}country": "Congo, Republic"
+        },
+        "SS-2021-000196-MWI": {
+            "{https://codeforiati.org/}event": "Storm Surge",
+            "{https://codeforiati.org/}country": "Malawi"
+        },
+        "VO-2021-000194-IDN": {
+            "{https://codeforiati.org/}event": "Volcano",
+            "{https://codeforiati.org/}country": "Indonesia"
+        },
+        "CE-2021-000193-BFA": {
+            "{https://codeforiati.org/}event": "Complex Emergency",
+            "{https://codeforiati.org/}country": "Burkina Faso"
+        },
+        "EQ-2021-000192-PER": {
+            "{https://codeforiati.org/}event": "Earthquake",
+            "{https://codeforiati.org/}country": "Peru"
+        },
+        "VO-2021-000191-JPN": {
+            "{https://codeforiati.org/}event": "Volcano",
+            "{https://codeforiati.org/}country": "Japan"
+        },
+        "VO-2021-000191-PHL": {
+            "{https://codeforiati.org/}event": "Volcano",
+            "{https://codeforiati.org/}country": "Philippines"
+        },
+        "FL-2021-000190-EGY": {
+            "{https://codeforiati.org/}event": "Flood",
+            "{https://codeforiati.org/}country": "Egypt"
+        },
         "FF-2021-000189-BIH": {
             "{https://codeforiati.org/}event": "Flash Flood",
             "{https://codeforiati.org/}country": "Bosnia-Herzegovina"
@@ -756,6 +848,50 @@
             "{https://codeforiati.org/}event": "Flood",
             "{https://codeforiati.org/}country": "Malaysia"
         },
+        "TO-2020-000255-USA": {
+            "{https://codeforiati.org/}event": "Tornadoes",
+            "{https://codeforiati.org/}country": "United States"
+        },
+        "ST-2020-000254-USA": {
+            "{https://codeforiati.org/}event": "SEVERE LOCAL STORM",
+            "{https://codeforiati.org/}country": "United States"
+        },
+        "TO-2020-000253-USA": {
+            "{https://codeforiati.org/}event": "Tornadoes",
+            "{https://codeforiati.org/}country": "United States"
+        },
+        "ST-2020-000252-USA": {
+            "{https://codeforiati.org/}event": "SEVERE LOCAL STORM",
+            "{https://codeforiati.org/}country": "United States"
+        },
+        "ST-2020-000251-USA": {
+            "{https://codeforiati.org/}event": "SEVERE LOCAL STORM",
+            "{https://codeforiati.org/}country": "United States"
+        },
+        "TO-2020-000250-USA": {
+            "{https://codeforiati.org/}event": "Tornadoes",
+            "{https://codeforiati.org/}country": "United States"
+        },
+        "ST-2020-000249-USA": {
+            "{https://codeforiati.org/}event": "SEVERE LOCAL STORM",
+            "{https://codeforiati.org/}country": "United States"
+        },
+        "TC-2020-000248-USA": {
+            "{https://codeforiati.org/}event": "Tropical Cyclone",
+            "{https://codeforiati.org/}country": "United States"
+        },
+        "TC-2020-000247-USA": {
+            "{https://codeforiati.org/}event": "Tropical Cyclone",
+            "{https://codeforiati.org/}country": "United States"
+        },
+        "TC-2020-000246-USA": {
+            "{https://codeforiati.org/}event": "Tropical Cyclone",
+            "{https://codeforiati.org/}country": "United States"
+        },
+        "HT-2020-000245-USA": {
+            "{https://codeforiati.org/}event": "Heat Wave",
+            "{https://codeforiati.org/}country": "United States"
+        },
         "VO-2020-000244-VCT": {
             "{https://codeforiati.org/}event": "Volcano",
             "{https://codeforiati.org/}country": "Saint Vincent & The Grenadines"
@@ -855,6 +991,10 @@
         "TC-2020-000220-HND": {
             "{https://codeforiati.org/}event": "Tropical Cyclone",
             "{https://codeforiati.org/}country": "Honduras"
+        },
+        "TC-2020-000220-USA": {
+            "{https://codeforiati.org/}event": "Tropical Cyclone",
+            "{https://codeforiati.org/}country": "United States"
         },
         "LS-2020-000219-SLV": {
             "{https://codeforiati.org/}event": "Land Slide",
@@ -1047,6 +1187,10 @@
         "TC-2020-000173-DOM": {
             "{https://codeforiati.org/}event": "Tropical Cyclone",
             "{https://codeforiati.org/}country": "Dominican Republic"
+        },
+        "TC-2020-000173-USA": {
+            "{https://codeforiati.org/}event": "Tropical Cyclone",
+            "{https://codeforiati.org/}country": "United States"
         },
         "FL-2020-000172-MMR": {
             "{https://codeforiati.org/}event": "Flood",

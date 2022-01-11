@@ -3,6 +3,120 @@
         "name": "Plan Humanitaire"
     },
     "codelist-items": {
+        "HAFG22": {
+            "name": null
+        },
+        "RAFG22": {
+            "name": null
+        },
+        "RBGD22": {
+            "name": null
+        },
+        "HBFA22": {
+            "name": null
+        },
+        "HBDI22": {
+            "name": null
+        },
+        "HCMR22": {
+            "name": null
+        },
+        "HCOL22": {
+            "name": null
+        },
+        "RDRCRRP22": {
+            "name": null
+        },
+        "HSLV22": {
+            "name": null
+        },
+        "HETH22": {
+            "name": null
+        },
+        "HGTM22": {
+            "name": null
+        },
+        "HHTI22": {
+            "name": null
+        },
+        "HHND22": {
+            "name": null
+        },
+        "HIRQ22": {
+            "name": null
+        },
+        "OLBN22": {
+            "name": null
+        },
+        "HLBY22": {
+            "name": null
+        },
+        "FMDG22": {
+            "name": null
+        },
+        "HMLI22": {
+            "name": null
+        },
+        "HMOZ22": {
+            "name": null
+        },
+        "HMMR22": {
+            "name": null
+        },
+        "HNER22": {
+            "name": null
+        },
+        "HNGA22": {
+            "name": null
+        },
+        "HPSE22": {
+            "name": null
+        },
+        "OPHL2122": {
+            "name": null
+        },
+        "RREG22": {
+            "name": null
+        },
+        "RDJIETHSOMYEM22": {
+            "name": null
+        },
+        "HCAF22": {
+            "name": null
+        },
+        "HCOD22": {
+            "name": null
+        },
+        "HSOM22": {
+            "name": null
+        },
+        "HSSD22": {
+            "name": null
+        },
+        "RSSDRRP22": {
+            "name": null
+        },
+        "HSDN22": {
+            "name": null
+        },
+        "HSYR22": {
+            "name": null
+        },
+        "RSYR22": {
+            "name": null
+        },
+        "HTCD22": {
+            "name": null
+        },
+        "HUKR22": {
+            "name": null
+        },
+        "HVEN22": {
+            "name": null
+        },
+        "HYEM22": {
+            "name": null
+        },
         "FAFG21": {
             "name": null
         },
@@ -39,6 +153,9 @@
         "RDRCRRP21": {
             "name": null
         },
+        "HSLV21": {
+            "name": null
+        },
         "HSLV2122": {
             "name": null
         },
@@ -46,6 +163,9 @@
             "name": null
         },
         "HETH21": {
+            "name": null
+        },
+        "HGTM21": {
             "name": null
         },
         "HGTM2122": {
@@ -58,6 +178,9 @@
             "name": null
         },
         "FHND2021": {
+            "name": null
+        },
+        "HHND21": {
             "name": null
         },
         "HHND2122": {
